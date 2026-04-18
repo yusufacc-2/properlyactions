@@ -2,30 +2,23 @@ name: Fetch Landlord News
 
 on:
   schedule:
-    - cron: '0 7 * * *'   # Runs every day at 7am UTC
-  workflow_dispatch:        # Lets you also trigger it manually
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      - name: Install dependencies
-        run: pip install feedparser
-
-      - name: Run news fetcher
-        run: python fetch_news.py
-
-      - name: Commit and push news.json
-        run: |
+      - run: pip install feedparser
+      - run: python fetch_news.py
+      - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add news.json
