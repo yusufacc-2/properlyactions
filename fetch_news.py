@@ -4,41 +4,14 @@ import re
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 
-# Only keep articles from last 3 months
-CUTOFF_DATE = datetime.now(timezone.utc) - timedelta(days=90)
+CUTOFF_DATE = datetime.now(timezone.utc) - timedelta(days=30)
 
-# Best sources — GOV.UK first (most authoritative)
 FEEDS = [
-    {
-        "source": "GOV.UK — Housing & Legislation",
-        "category": "Official",
-        "url": "https://www.gov.uk/search/news-and-communications.atom?keywords=landlord+tenant+rental&organisations%5B%5D=department-for-levelling-up-housing-and-communities"
-    },
-    {
-        "source": "GOV.UK — Private Renting",
-        "category": "Official",
-        "url": "https://www.gov.uk/search/news-and-communications.atom?keywords=private+renting+eviction+section+21"
-    },
-    {
-        "source": "GOV.UK — Housing Benefits & Tax",
-        "category": "Official",
-        "url": "https://www.gov.uk/search/news-and-communications.atom?keywords=housing+benefit+stamp+duty+rental+income"
-    },
-    {
-        "source": "Landlord Today",
-        "category": "Industry",
-        "url": "https://www.landlordtoday.co.uk/feed"
-    },
-    {
-        "source": "Property Investor Today",
-        "category": "Industry",
-        "url": "https://www.propertyinvestortoday.co.uk/feed"
-    },
-    {
-        "source": "The Negotiator",
-        "category": "Industry",
-        "url": "https://thenegotiator.co.uk/feed/"
-    },
+    {"source": "Landlord Today", "url": "https://www.landlordtoday.co.uk/feed"},
+    {"source": "Property Investor Today", "url": "https://www.propertyinvestortoday.co.uk/feed"},
+    {"source": "The Negotiator", "url": "https://thenegotiator.co.uk/feed/"},
+    {"source": "Estate Agent Today", "url": "https://www.estateagenttoday.co.uk/feed"},
+    {"source": "Property Wire", "url": "https://www.propertywire.com/feed/"},
 ]
 
 def clean_html(text):
@@ -83,37 +56,29 @@ for feed_info in FEEDS:
         count = 0
         for entry in feed.entries:
             pub_date = parse_date(entry)
-
-            # Make timezone-aware if needed
             if pub_date.tzinfo is None:
                 pub_date = pub_date.replace(tzinfo=timezone.utc)
-
-            # Skip articles older than 3 months
             if pub_date < CUTOFF_DATE:
                 continue
-
             url = entry.get("link", "")
             if url in seen_urls:
                 continue
             seen_urls.add(url)
-
             articles.append({
                 "id": entry.get("id", url),
                 "title": clean_html(entry.get("title", "No title")),
                 "summary": clean_html(entry.get("summary", entry.get("description", ""))),
                 "url": url,
                 "source": feed_info["source"],
-                "category": feed_info["category"],
+                "category": "Industry",
                 "published": pub_date.isoformat(),
                 "image": extract_image(entry)
             })
             count += 1
-
-        print(f"OK [{feed_info['category']}] {count} articles (last 3 months) from {feed_info['source']}")
+        print(f"OK: {count} articles from {feed_info['source']}")
     except Exception as e:
         print(f"FAILED {feed_info['source']}: {e}")
 
-# Sort newest first
 articles.sort(key=lambda x: x.get("published", ""), reverse=True)
 
 output = {
@@ -125,4 +90,4 @@ output = {
 with open("news.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
 
-print(f"\nDONE: {len(articles)} articles (last 3 months) written to news.json")
+print(f"\nDONE: {len(articles)} articles written to news.json")
