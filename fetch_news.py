@@ -4,8 +4,20 @@ import re
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 
-CUTOFF_DATE = datetime.now(timezone.utc) - timedelta(days=30)
+CUTOFF_DATE = datetime.now(timezone.utc) - timedelta(days=60)
 
+# UK keywords — article must contain at least one to pass
+UK_KEYWORDS = [
+    "uk", "united kingdom", "england", "scotland", "wales",
+    "british", "britain", "london", "landlord", "tenant",
+    "renter", "renters", "lettings", "leasehold", "freehold",
+    "stamp duty", "rightmove", "zoopla", "section 21", "section 8",
+    "rental", "buy-to-let", "buy to let", "hmrc", "council tax",
+    "planning permission", "housing benefit", "universal credit",
+    "renters reform", "deposit", "assured shorthold"
+]
+
+# All UK-based property news sources
 FEEDS = [
     {"source": "Landlord Today", "url": "https://www.landlordtoday.co.uk/feed"},
     {"source": "Property Investor Today", "url": "https://www.propertyinvestortoday.co.uk/feed"},
@@ -47,6 +59,10 @@ def extract_image(entry):
             return media.get('url')
     return None
 
+def is_uk_relevant(title, summary):
+    combined = (title + " " + summary).lower()
+    return any(kw in combined for kw in UK_KEYWORDS)
+
 articles = []
 seen_urls = set()
 
@@ -54,6 +70,7 @@ for feed_info in FEEDS:
     try:
         feed = feedparser.parse(feed_info["url"])
         count = 0
+        skipped = 0
         for entry in feed.entries:
             pub_date = parse_date(entry)
             if pub_date.tzinfo is None:
@@ -63,11 +80,17 @@ for feed_info in FEEDS:
             url = entry.get("link", "")
             if url in seen_urls:
                 continue
+            title = clean_html(entry.get("title", ""))
+            summary = clean_html(entry.get("summary", entry.get("description", "")))
+            # UK relevance filter
+            if not is_uk_relevant(title, summary):
+                skipped += 1
+                continue
             seen_urls.add(url)
             articles.append({
                 "id": entry.get("id", url),
-                "title": clean_html(entry.get("title", "No title")),
-                "summary": clean_html(entry.get("summary", entry.get("description", ""))),
+                "title": title,
+                "summary": summary,
                 "url": url,
                 "source": feed_info["source"],
                 "category": "Industry",
@@ -75,7 +98,7 @@ for feed_info in FEEDS:
                 "image": extract_image(entry)
             })
             count += 1
-        print(f"OK: {count} articles from {feed_info['source']}")
+        print(f"OK: {count} UK articles from {feed_info['source']} ({skipped} non-UK skipped)")
     except Exception as e:
         print(f"FAILED {feed_info['source']}: {e}")
 
@@ -90,4 +113,4 @@ output = {
 with open("news.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=2, ensure_ascii=False)
 
-print(f"\nDONE: {len(articles)} articles written to news.json")
+print(f"\nDONE: {len(articles)} UK-only articles (last 60 days) written to news.json")
