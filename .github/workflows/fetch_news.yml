@@ -1,24 +1,37 @@
 name: Fetch Landlord News
+
 on:
   schedule:
-    - cron: '0 */3 * * *'
-  workflow_dispatch:
-permissions:
-  contents: write
+    - cron: '0 */3 * * *'  # Every 3 hours
+  workflow_dispatch:      # Manual trigger
+
 jobs:
-  run:
+  fetch-news:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install feedparser openai requests
-      - run: python fetch_news.py
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser beautifulsoup4 requests openai
+
+      - name: Run Scraper
         env:
           PROPERLYAPIKEY: ${{ secrets.PROPERLYAPIKEY }}
-      - run: |
-          git config user.name "bot"
-          git config user.email "bot@news.com"
+        run: python fetch_news.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add news.json
-          git diff --staged --quiet || (git commit -m "Image Hunter Update" && git push)
+          git commit -m "chore: update landlord news feed" || echo "No changes to commit"
+          git push
