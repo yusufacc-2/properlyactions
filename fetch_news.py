@@ -1,116 +1,112 @@
 import json
 import feedparser
 import re
+import os
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
+import google.generativeai as genai
 
+# Configuration
 CUTOFF_DATE = datetime.now(timezone.utc) - timedelta(days=60)
 
-# UK keywords — article must contain at least one to pass
+# YOUR API KEY IS NOW HARDCODED HERE
+GEMINI_API_KEY = "AIzaSyAcRmpb_-Rj5aj8bVF_n1kLTJCa4CrGUaI"
+
+# Initialize Gemini
+try:
+    genai.configure(api_key=GEMINI_API_KEY)
+    model = genai.GenerativeModel('gemini-1.5-flash')
+    print("✅ Gemini AI Initialized Successfully")
+except Exception as e:
+    print(f"❌ Failed to init Gemini: {e}")
+    model = None
+
 UK_KEYWORDS = [
     "uk", "united kingdom", "england", "scotland", "wales",
     "british", "britain", "london", "landlord", "tenant",
-    "renter", "renters", "lettings", "leasehold", "freehold",
-    "stamp duty", "rightmove", "zoopla", "section 21", "section 8",
-    "rental", "buy-to-let", "buy to let", "hmrc", "council tax",
-    "planning permission", "housing benefit", "universal credit",
-    "renters reform", "deposit", "assured shorthold"
+    "renter", "lettings", "leasehold", "stamp duty", "rightmove", 
+    "zoopla", "section 21", "section 8", "buy-to-let", "hmrc", 
+    "council tax", "renters reform", "assured shorthold"
 ]
 
-# All UK-based property news sources
 FEEDS = [
     {"source": "Landlord Today", "url": "https://www.landlordtoday.co.uk/feed"},
-    {"source": "Property Investor Today", "url": "https://www.propertyinvestortoday.co.uk/feed"},
     {"source": "The Negotiator", "url": "https://thenegotiator.co.uk/feed/"},
+    {"source": "Property Investor Today", "url": "https://www.propertyinvestortoday.co.uk/feed"},
     {"source": "Estate Agent Today", "url": "https://www.estateagenttoday.co.uk/feed"},
-    {"source": "Property Wire", "url": "https://www.propertywire.com/feed/"},
 ]
 
 def clean_html(text):
-    if not text:
-        return ""
+    if not text: return ""
     clean = re.sub(r'<[^>]+>', '', text)
-    clean = re.sub(r'&amp;', '&', clean)
-    clean = re.sub(r'&nbsp;', ' ', clean)
-    clean = re.sub(r'\s+', ' ', clean).strip()
-    return clean[:500]
+    clean = re.sub(r'&amp;', '&', clean).strip()
+    return clean[:1000]
 
-def parse_date(entry):
-    for field in ['published', 'updated']:
-        raw = entry.get(field)
-        if raw:
-            try:
-                return parsedate_to_datetime(raw)
-            except:
-                try:
-                    return datetime.fromisoformat(raw.replace('Z', '+00:00'))
-                except:
-                    pass
-    return datetime.now(timezone.utc)
+def get_ai_summary(title, summary):
+    if not model: return None
+    try:
+        # Instruction for the "Baby Words" summary
+        prompt = f"""
+        Summarize this UK landlord news for a 10-year old.
+        Keep it to 2-3 very short bullet points.
+        Start with a '🚨 ACTION' or '✅ CALM' emoji based on if the landlord needs to do anything.
+        
+        Title: {title}
+        Content: {summary}
+        """
+        response = model.generate_content(prompt)
+        return response.text.strip()
+    except:
+        return None
 
-def extract_image(entry):
-    if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
-        return entry.media_thumbnail[0].get('url')
-    for enc in entry.get('enclosures', []):
-        if 'image' in enc.get('type', ''):
-            return enc.get('url')
-    for media in entry.get('media_content', []):
-        if 'image' in media.get('type', ''):
-            return media.get('url')
-    return None
-
-def is_uk_relevant(title, summary):
-    combined = (title + " " + summary).lower()
-    return any(kw in combined for kw in UK_KEYWORDS)
+# Load old data to keep existing summaries
+existing_data = {}
+if os.path.exists("news.json"):
+    try:
+        with open("news.json", "r") as f:
+            old = json.load(f)
+            for a in old.get("articles", []):
+                if a.get("ai_summary"):
+                    existing_data[a["url"]] = a["ai_summary"]
+    except: pass
 
 articles = []
 seen_urls = set()
 
-for feed_info in FEEDS:
-    try:
-        feed = feedparser.parse(feed_info["url"])
-        count = 0
-        skipped = 0
-        for entry in feed.entries:
-            pub_date = parse_date(entry)
-            if pub_date.tzinfo is None:
-                pub_date = pub_date.replace(tzinfo=timezone.utc)
-            if pub_date < CUTOFF_DATE:
-                continue
-            url = entry.get("link", "")
-            if url in seen_urls:
-                continue
-            title = clean_html(entry.get("title", ""))
-            summary = clean_html(entry.get("summary", entry.get("description", "")))
-            # UK relevance filter
-            if not is_uk_relevant(title, summary):
-                skipped += 1
-                continue
-            seen_urls.add(url)
-            articles.append({
-                "id": entry.get("id", url),
-                "title": title,
-                "summary": summary,
-                "url": url,
-                "source": feed_info["source"],
-                "category": "Industry",
-                "published": pub_date.isoformat(),
-                "image": extract_image(entry)
-            })
-            count += 1
-        print(f"OK: {count} UK articles from {feed_info['source']} ({skipped} non-UK skipped)")
-    except Exception as e:
-        print(f"FAILED {feed_info['source']}: {e}")
+for f_info in FEEDS:
+    feed = feedparser.parse(f_info["url"])
+    for entry in feed.entries:
+        url = entry.get("link", "")
+        if url in seen_urls: continue
+        seen_urls.add(url)
+        
+        pub_date = parsedate_to_datetime(entry.get('published', datetime.now(timezone.utc).isoformat()))
+        if pub_date.tzinfo is None: pub_date = pub_date.replace(tzinfo=timezone.utc)
+        if pub_date < CUTOFF_DATE: continue
+        
+        title = clean_html(entry.get("title", ""))
+        desc = clean_html(entry.get("summary", entry.get("description", "")))
+        
+        if not any(kw in (title + desc).lower() for kw in UK_KEYWORDS): continue
+        
+        # Get AI summary if missing
+        ai_sum = existing_data.get(url)
+        if not ai_sum and model:
+            print(f"🤖 AI Summarizing: {title[:40]}...")
+            ai_sum = get_ai_summary(title, desc)
+            
+        articles.append({
+            "id": entry.get("id", url),
+            "title": title,
+            "summary": desc,
+            "ai_summary": ai_sum,
+            "url": url,
+            "source": f_info["source"],
+            "published": pub_date.isoformat()
+        })
 
-articles.sort(key=lambda x: x.get("published", ""), reverse=True)
+articles.sort(key=lambda x: x["published"], reverse=True)
+with open("news.json", "w") as f:
+    json.dump({"last_updated": datetime.now(timezone.utc).isoformat(), "articles": articles}, f, indent=2)
 
-output = {
-    "last_updated": datetime.now(timezone.utc).isoformat(),
-    "article_count": len(articles),
-    "articles": articles
-}
-
-with open("news.json", "w", encoding="utf-8") as f:
-    json.dump(output, f, indent=2, ensure_ascii=False)
-
-print(f"\nDONE: {len(articles)} UK-only articles (last 60 days) written to news.json")
+print(f"✅ DONE: {len(articles)} articles saved to news.json")
