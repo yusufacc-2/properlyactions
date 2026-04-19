@@ -6,22 +6,19 @@ on:
 permissions:
   contents: write
 jobs:
-  update_news:
+  run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Install dependencies
-        run: pip install feedparser google-generativeai
-      - name: Run Scraper
-        run: python fetch_news.py
+      - run: pip install feedparser google-generativeai
+      - run: python fetch_news.py
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}  # <--- This passes the hidden secret to the script
-      - name: Push to Repo
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@news.com"
           git add news.json
-          git diff --staged --quiet || (git commit -m "Secure AI News Update" && git push)
+          git diff --staged --quiet || (git commit -m "AI Update" && git push)
