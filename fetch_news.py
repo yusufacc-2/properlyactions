@@ -58,12 +58,16 @@ def fetch_and_summarize():
             text = (entry.title + " " + entry.get('summary', '')).lower()
             if not any(kw in text for kw in KEYWORDS): continue
             
+            # Identify Source
+            source = "Landlord Today" if "landlordtoday" in feed_url else "The Negotiator"
+            
             # It's a valid landlord article!
             article = {
                 "id": url,
                 "title": entry.title,
                 "summary": entry.get('summary', ''),
                 "url": url,
+                "source": source,
                 "published": entry.get('published', datetime.now().isoformat()),
                 "image": None,
                 "ai_summary": None
