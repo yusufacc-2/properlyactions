@@ -9,16 +9,19 @@ import google.generativeai as genai
 # Configuration
 CUTOFF_DATE = datetime.now(timezone.utc) - timedelta(days=60)
 
-# YOUR API KEY IS NOW HARDCODED HERE
-GEMINI_API_KEY = "AIzaSyAcRmpb_-Rj5aj8bVF_n1kLTJCa4CrGUaI"
+# SECURE: This looks for the key in your hidden GitHub Secrets
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
-# Initialize Gemini
-try:
-    genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel('gemini-1.5-flash')
-    print("✅ Gemini AI Initialized Successfully")
-except Exception as e:
-    print(f"❌ Failed to init Gemini: {e}")
+if GEMINI_API_KEY:
+    try:
+        genai.configure(api_key=GEMINI_API_KEY)
+        model = genai.GenerativeModel('gemini-1.5-flash')
+        print("✅ Gemini AI Initialized from Secrets")
+    except Exception as e:
+        print(f"❌ Failed to init Gemini: {e}")
+        model = None
+else:
+    print("⚠️ GEMINI_API_KEY not found in Secrets. Summaries will be skipped.")
     model = None
 
 UK_KEYWORDS = [
@@ -45,21 +48,12 @@ def clean_html(text):
 def get_ai_summary(title, summary):
     if not model: return None
     try:
-        # Instruction for the "Baby Words" summary
-        prompt = f"""
-        Summarize this UK landlord news for a 10-year old.
-        Keep it to 2-3 very short bullet points.
-        Start with a '🚨 ACTION' or '✅ CALM' emoji based on if the landlord needs to do anything.
-        
-        Title: {title}
-        Content: {summary}
-        """
+        prompt = f"Summarize this UK landlord news for a 10-year old in 2-3 bullets. Title: {title} Content: {summary}"
         response = model.generate_content(prompt)
         return response.text.strip()
     except:
         return None
 
-# Load old data to keep existing summaries
 existing_data = {}
 if os.path.exists("news.json"):
     try:
@@ -89,10 +83,8 @@ for f_info in FEEDS:
         
         if not any(kw in (title + desc).lower() for kw in UK_KEYWORDS): continue
         
-        # Get AI summary if missing
         ai_sum = existing_data.get(url)
         if not ai_sum and model:
-            print(f"🤖 AI Summarizing: {title[:40]}...")
             ai_sum = get_ai_summary(title, desc)
             
         articles.append({
@@ -108,5 +100,3 @@ for f_info in FEEDS:
 articles.sort(key=lambda x: x["published"], reverse=True)
 with open("news.json", "w") as f:
     json.dump({"last_updated": datetime.now(timezone.utc).isoformat(), "articles": articles}, f, indent=2)
-
-print(f"✅ DONE: {len(articles)} articles saved to news.json")
