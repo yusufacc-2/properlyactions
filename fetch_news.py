@@ -1,36 +1,16 @@
-import json
-import feedparser
-import re
-import os
+import json, feedparser, re, os, time, google.generativeai as genai
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
-import google.generativeai as genai
 
-# Configuration
 CUTOFF_DATE = datetime.now(timezone.utc) - timedelta(days=60)
-
-# SECURE: This looks for the key in your hidden GitHub Secrets
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+GEMINI_API_KEY = "AIzaSyAcRmpb_-Rj5aj8bVF_n1kLTJCa4CrGUaI"
 
 if GEMINI_API_KEY:
     try:
         genai.configure(api_key=GEMINI_API_KEY)
         model = genai.GenerativeModel('gemini-1.5-flash')
-        print("✅ Gemini AI Initialized from Secrets")
-    except Exception as e:
-        print(f"❌ Failed to init Gemini: {e}")
-        model = None
-else:
-    print("⚠️ GEMINI_API_KEY not found in Secrets. Summaries will be skipped.")
-    model = None
-
-UK_KEYWORDS = [
-    "uk", "united kingdom", "england", "scotland", "wales",
-    "british", "britain", "london", "landlord", "tenant",
-    "renter", "lettings", "leasehold", "stamp duty", "rightmove", 
-    "zoopla", "section 21", "section 8", "buy-to-let", "hmrc", 
-    "council tax", "renters reform", "assured shorthold"
-]
+    except: model = None
+else: model = None
 
 FEEDS = [
     {"source": "Landlord Today", "url": "https://www.landlordtoday.co.uk/feed"},
@@ -39,64 +19,45 @@ FEEDS = [
     {"source": "Estate Agent Today", "url": "https://www.estateagenttoday.co.uk/feed"},
 ]
 
-def clean_html(text):
-    if not text: return ""
-    clean = re.sub(r'<[^>]+>', '', text)
-    clean = re.sub(r'&amp;', '&', clean).strip()
-    return clean[:1000]
+def clean(t): return re.sub(r'<[^>]+>', '', t)[:800].strip() if t else ""
 
-def get_ai_summary(title, summary):
+def get_sum(t, s):
     if not model: return None
-    try:
-        prompt = f"Summarize this UK landlord news for a 10-year old in 2-3 bullets. Title: {title} Content: {summary}"
-        response = model.generate_content(prompt)
-        return response.text.strip()
-    except:
-        return None
+    try: 
+        res = model.generate_content(f"Explain this UK landlord news for a 10yo. 2 bullets. Title: {t} Content: {s}")
+        return res.text.strip()
+    except: return None
 
-existing_data = {}
+existing = {}
 if os.path.exists("news.json"):
     try:
         with open("news.json", "r") as f:
             old = json.load(f)
             for a in old.get("articles", []):
-                if a.get("ai_summary"):
-                    existing_data[a["url"]] = a["ai_summary"]
+                if a.get("ai_summary"): existing[a["url"]] = a["ai_summary"]
     except: pass
 
 articles = []
-seen_urls = set()
-
-for f_info in FEEDS:
-    feed = feedparser.parse(f_info["url"])
-    for entry in feed.entries:
-        url = entry.get("link", "")
-        if url in seen_urls: continue
-        seen_urls.add(url)
-        
-        pub_date = parsedate_to_datetime(entry.get('published', datetime.now(timezone.utc).isoformat()))
-        if pub_date.tzinfo is None: pub_date = pub_date.replace(tzinfo=timezone.utc)
-        if pub_date < CUTOFF_DATE: continue
-        
-        title = clean_html(entry.get("title", ""))
-        desc = clean_html(entry.get("summary", entry.get("description", "")))
-        
-        if not any(kw in (title + desc).lower() for kw in UK_KEYWORDS): continue
-        
-        ai_sum = existing_data.get(url)
-        if not ai_sum and model:
-            ai_sum = get_ai_summary(title, desc)
-            
-        articles.append({
-            "id": entry.get("id", url),
-            "title": title,
-            "summary": desc,
-            "ai_summary": ai_sum,
-            "url": url,
-            "source": f_info["source"],
-            "published": pub_date.isoformat()
-        })
+seen = set()
+for f in FEEDS:
+    d = feedparser.parse(f["url"])
+    for e in d.entries:
+        u = e.get("link", "")
+        if u in seen: continue
+        seen.add(u)
+        pub = parsedate_to_datetime(e.get('published', datetime.now(timezone.utc).isoformat()))
+        if pub.tzinfo is None: pub = pub.replace(tzinfo=timezone.utc)
+        if pub < CUTOFF_DATE: continue
+        t, ds = clean(e.get("title", "")), clean(e.get("summary", e.get("description", "")))
+        if not any(k in (t + ds).lower() for k in ["uk", "property", "landlord", "rent"]): continue
+        ais = existing.get(u)
+        if not ais and model:
+            print(f"🤖 Summarizing: {t[:30]}...")
+            ais = get_sum(t, ds)
+            time.sleep(2)
+        articles.append({"id": e.get("id", u), "title": t, "summary": ds, "ai_summary": ais, "url": u, "source": f["source"], "published": pub.isoformat()})
 
 articles.sort(key=lambda x: x["published"], reverse=True)
 with open("news.json", "w") as f:
-    json.dump({"last_updated": datetime.now(timezone.utc).isoformat(), "articles": articles}, f, indent=2)
+    json.dump({"last_updated": datetime.now(timezone.utc).isoformat(), "article_count": len(articles), "articles": articles}, f, indent=2)
+print("✅ DONE")
