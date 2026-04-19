@@ -1,17 +1,26 @@
-import json, feedparser, re, os, time, google.generativeai as genai
+import json, feedparser, re, os, time
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
+from openai import OpenAI
 
-CUTOFF_DATE = datetime.now(timezone.utc) - timedelta(days=60)
-GEMINI_API_KEY = "AIzaSyAcRmpb_-Rj5aj8bVF_n1kLTJCa4CrGUaI"
+# Setup OpenAI with your PROPERLYAPIKEY secret
+client = OpenAI(api_key=os.environ.get("PROPERLYAPIKEY"))
 
-if GEMINI_API_KEY:
-    try:
-        genai.configure(api_key=GEMINI_API_KEY)
-        model = genai.GenerativeModel('gemini-1.5-flash')
-    except: model = None
-else: model = None
+def get_sum(t, s):
+    try: 
+        response = client.chat.completions.create(
+            model="gpt-4o-mini", # <--- THE CHEAPEST MODEL WORLDWIDE
+            messages=[
+                {"role": "system", "content": "Summarize this UK landlord news for a 10-year old. 2 simple bullets."},
+                {"role": "user", "content": f"Title: {t}\n\nContent: {s}"}
+            ],
+            max_tokens=100 # Saves you even more money by keeping it short
+        )
+        return response.choices[0].message.content.strip()
+    except: return None
 
+# ... (Rest of the scraping logic remains the same)
+UK_KEYWORDS = ["uk", "property", "landlord", "rent", "housing"]
 FEEDS = [
     {"source": "Landlord Today", "url": "https://www.landlordtoday.co.uk/feed"},
     {"source": "The Negotiator", "url": "https://thenegotiator.co.uk/feed/"},
@@ -20,13 +29,6 @@ FEEDS = [
 ]
 
 def clean(t): return re.sub(r'<[^>]+>', '', t)[:800].strip() if t else ""
-
-def get_sum(t, s):
-    if not model: return None
-    try: 
-        res = model.generate_content(f"Explain this UK landlord news for a 10yo. 2 bullets. Title: {t} Content: {s}")
-        return res.text.strip()
-    except: return None
 
 existing = {}
 if os.path.exists("news.json"):
@@ -39,23 +41,22 @@ if os.path.exists("news.json"):
 
 articles = []
 seen = set()
-for f in FEEDS:
-    d = feedparser.parse(f["url"])
+for f_info in FEEDS:
+    d = feedparser.parse(f_info["url"])
     for e in d.entries:
         u = e.get("link", "")
         if u in seen: continue
         seen.add(u)
         pub = parsedate_to_datetime(e.get('published', datetime.now(timezone.utc).isoformat()))
         if pub.tzinfo is None: pub = pub.replace(tzinfo=timezone.utc)
-        if pub < CUTOFF_DATE: continue
+        if pub < (datetime.now(timezone.utc) - timedelta(days=60)): continue
         t, ds = clean(e.get("title", "")), clean(e.get("summary", e.get("description", "")))
-        if not any(k in (t + ds).lower() for k in ["uk", "property", "landlord", "rent"]): continue
+        if not any(k in (t + ds).lower() for k in UK_KEYWORDS): continue
         ais = existing.get(u)
-        if not ais and model:
-            print(f"🤖 Summarizing: {t[:30]}...")
+        if not ais:
+            print(f"🤖 Cheapest AI Summarizing: {t[:40]}...")
             ais = get_sum(t, ds)
-            time.sleep(2)
-        articles.append({"id": e.get("id", u), "title": t, "summary": ds, "ai_summary": ais, "url": u, "source": f["source"], "published": pub.isoformat()})
+        articles.append({"id": e.get("id", u), "title": t, "summary": ds, "ai_summary": ais, "url": u, "source": f_info["source"], "published": pub.isoformat()})
 
 articles.sort(key=lambda x: x["published"], reverse=True)
 with open("news.json", "w") as f:
