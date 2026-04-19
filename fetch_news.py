@@ -1,99 +1,116 @@
-import json, feedparser, re, os, time, requests
-from datetime import datetime, timezone, timedelta
-from email.utils import parsedate_to_datetime
-from openai import OpenAI
+import feedparser
+import json
+import os
+import requests
+from bs4 import BeautifulSoup
+from datetime import datetime, timedelta
+import time
 
-# Setup OpenAI
-client = OpenAI(api_key=os.environ.get("PROPERLYAPIKEY"))
-
-def get_sum(t, s):
-    try: 
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[
-                {"role": "system", "content": "Summarize this UK landlord news for a 10-year old. 2 simple bullets."},
-                {"role": "user", "content": f"Title: {t}\n\nContent: {s}"}
-            ],
-            max_tokens=100
-        )
-        return response.choices[0].message.content.strip()
-    except: return None
-
-# 📸 NEW: Image Hunter Function
-def hunt_image(url):
-    try:
-        # Visit the website briefly to find the 'og:image' meta tag
-        r = requests.get(url, timeout=5, headers={'User-Agent': 'Mozilla/5.0'})
-        # Use regex to find the og:image content (fastest way)
-        match = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', r.text)
-        if not match:
-            match = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', r.text)
-        return match.group(1) if match else None
-    except:
-        return None
-
-UK_KEYWORDS = ["uk", "property", "landlord", "rent", "housing", "scotland", "england"]
+# RSS Feeds
 FEEDS = [
-    {"source": "Landlord Today", "url": "https://www.landlordtoday.co.uk/feed"},
-    {"source": "The Negotiator", "url": "https://thenegotiator.co.uk/feed/"},
-    {"source": "Property Investor Today", "url": "https://www.propertyinvestortoday.co.uk/feed"},
-    {"source": "Estate Agent Today", "url": "https://www.estateagenttoday.co.uk/feed"},
+    "https://www.landlordtoday.co.uk/rss",
+    "https://thenegotiator.co.uk/feed/"
 ]
 
-def clean(t): return re.sub(r'<[^>]+>', '', t)[:800].strip() if t else ""
+KEYWORDS = ["landlord", "rent", "property", "tenancy", "letting", "housing", "tax", "regulation", "uk"]
 
-# Load old data to save AI summaries
-existing_sums = {}
-existing_imgs = {}
-if os.path.exists("news.json"):
+def get_preview_image(url):
+    """The Image Hunter: Extracts og:image from the article URL."""
     try:
-        with open("news.json", "r") as f:
-            old = json.load(f)
-            for a in old.get("articles", []):
-                if a.get("ai_summary"): existing_sums[a["url"]] = a["ai_summary"]
-                if a.get("image"): existing_imgs[a["url"]] = a["image"]
-    except: pass
+        response = requests.get(url, timeout=10, headers={'User-Agent': 'Mozilla/5.0'})
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.text, 'html.parser')
+            # Look for OpenGraph image
+            og_image = soup.find("meta", property="og:image")
+            if og_image:
+                return og_image["content"]
+            # Fallback to Twitter image
+            tw_image = soup.find("meta", name="twitter:image")
+            if tw_image:
+                return tw_image["content"]
+    except Exception as e:
+        print(f"Error hunting image for {url}: {e}")
+    return None
 
-articles = []
-seen = set()
-for f_info in FEEDS:
-    d = feedparser.parse(f_info["url"])
-    for e in d.entries:
-        u = e.get("link", "")
-        if u in seen: continue
-        seen.add(u)
-        
-        pub = parsedate_to_datetime(e.get('published', datetime.now(timezone.utc).isoformat()))
-        if pub.tzinfo is None: pub = pub.replace(tzinfo=timezone.utc)
-        if pub < (datetime.now(timezone.utc) - timedelta(days=60)): continue
-        
-        t, ds = clean(e.get("title", "")), clean(e.get("summary", e.get("description", "")))
-        if not any(k in (t + ds).lower() for k in UK_KEYWORDS): continue
-        
-        # 1. Get/Keep AI Summary (Persistent)
-        ais = existing_sums.get(u)
-        if not ais:
-            print(f"🤖 AI Summary for: {t[:40]}...")
-            ais = get_sum(t, ds)
-        
-        # 2. Get/Hunt Proper Image
-        img = existing_imgs.get(u)
-        if not img:
-            print(f"📸 Hunting Image for: {t[:40]}...")
-            img = hunt_image(u)
+def fetch_and_summarize():
+    all_articles = []
+    seen_urls = set()
+    
+    # 30-day cutoff
+    cutoff = datetime.now() - timedelta(days=30)
+    
+    print(f"Fetching news from {len(FEEDS)} sources...")
+    
+    for feed_url in FEEDS:
+        feed = feedparser.parse(feed_url)
+        for entry in feed.entries:
+            # Basic validation
+            url = entry.link
+            if url in seen_urls: continue
             
-        articles.append({
-            "id": e.get("id", u),
-            "title": t,
-            "summary": ds,
-            "ai_summary": ais,
-            "image": img,
-            "url": u,
-            "source": f_info["source"],
-            "published": pub.isoformat()
-        })
+            # Date check
+            published_parsed = entry.get('published_parsed')
+            if published_parsed:
+                dt = datetime.fromtimestamp(time.mktime(published_parsed))
+                if dt < cutoff: continue
+            
+            # Keyword filter (Check title and summary)
+            text = (entry.title + " " + entry.get('summary', '')).lower()
+            if not any(kw in text for kw in KEYWORDS): continue
+            
+            # It's a valid landlord article!
+            article = {
+                "id": url,
+                "title": entry.title,
+                "summary": entry.get('summary', ''),
+                "url": url,
+                "published": entry.get('published', datetime.now().isoformat()),
+                "image": None,
+                "ai_summary": None
+            }
+            
+            all_articles.append(article)
+            seen_urls.add(url)
 
-articles.sort(key=lambda x: x["published"], reverse=True)
-with open("news.json", "w") as f:
-    json.dump({"last_updated": datetime.now(timezone.utc).isoformat(), "article_count": len(articles), "articles": articles}, f, indent=2)
-print("✅ DONE")
+    print(f"Found {len(all_articles)} relevant articles. Hunting images...")
+    
+    # Summarization with OpenAI (If available)
+    api_key = os.environ.get("PROPERLYAPIKEY")
+    
+    # Image Hunting & AI Summarization
+    for i, article in enumerate(all_articles[:15]): # Limit to top 15 for speed/cost
+        # 1. Hunt Image
+        img = get_preview_image(article["url"])
+        if img:
+            article["image"] = img
+            
+        # 2. AI Summarize
+        if api_key:
+            try:
+                from openai import OpenAI
+                client = OpenAI(api_key=api_key)
+                
+                prompt = f"Provide a brief, professional 2-bullet summary for this UK landlord news article:\nTitle: {article['title']}\nContent: {article['summary']}"
+                
+                response = client.chat.completions.create(
+                    model="gpt-4o-mini",
+                    messages=[{"role": "user", "content": prompt}]
+                )
+                article["ai_summary"] = response.choices[0].message.content
+            except Exception as e:
+                print(f"AI Error for {article['title']}: {e}")
+
+    # Output to news.json
+    output = {
+        "last_updated": datetime.now().isoformat(),
+        "article_count": len(all_articles),
+        "articles": all_articles
+    }
+    
+    with open("news.json", "w") as f:
+        json.dump(output, f, indent=2)
+    
+    print(f"Successfully saved {len(all_articles)} articles to news.json")
+
+if __name__ == "__main__":
+    fetch_and_summarize()
