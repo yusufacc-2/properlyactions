@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-05-01T01:31:35.405910",
+  "last_updated": "2026-05-01T05:58:59.251377",
   "article_count": 28,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/renters-rights-act-must-pass-three-tests/",
+      "title": "Renters Rights Act must pass three tests",
+      "summary": "That\u2019s the view of the National Residential Landlords Association",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/renters-rights-act-must-pass-three-tests/",
+      "source": "Landlord Today",
+      "published": "Fri, 01 May 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/mfb-financing-for-landlords-feb-26-article-header.png",
+      "ai_summary": "- The National Residential Landlords Association emphasizes that the proposed Renters Rights Act must meet three critical criteria to ensure its effectiveness.\n- Key stakeholders are urging thorough evaluation of the legislation to balance tenant protections with landlord rights."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/activists-in-last-ditch-plea-for-rachel-reeves-rent-freeze/",
+      "title": "Activists in last-ditch rent freeze plea",
+      "summary": "Activist groups want more extreme versions of the Chancellor\u2019s proposal.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/activists-in-last-ditch-plea-for-rachel-reeves-rent-freeze/",
+      "source": "Landlord Today",
+      "published": "Fri, 01 May 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2239146247-1.jpg",
+      "ai_summary": "- Activist groups urge the government to implement a more aggressive rent freeze following the Chancellor's initial proposal.  \n- The push for heightened action signals growing frustration over rising rental costs amid the ongoing housing crisis in the UK."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlord-bombarded-tenant-with-calls-threatened-25-rent-rise/",
+      "title": "Landlord bombarded tenant and threatened 25% rent rise",
+      "summary": "The tirade was an attempt to force the tenant out of the property",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlord-bombarded-tenant-with-calls-threatened-25-rent-rise/",
+      "source": "Landlord Today",
+      "published": "Fri, 01 May 2026 00:03:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/ImagesSmartphone-400x310-1.jpg",
+      "ai_summary": "- A landlord aggressively pressured a tenant with threats of a 25% rent increase to evict them from the property.\n- The intimidation tactics were aimed at forcing the tenant to vacate the premises."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/legal-fear-for-landlords-deterred-by-renters-rights-act/",
+      "title": "Legal fear for landlords deterred by Renters Rights Act",
+      "summary": "The Act could significantly\u00a0impact\u00a0the appetite of larger international landlords",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/legal-fear-for-landlords-deterred-by-renters-rights-act/",
+      "source": "Landlord Today",
+      "published": "Fri, 01 May 2026 00:02:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_746423194.jpg",
+      "ai_summary": "- The Renters Rights Act raises legal concerns for landlords, potentially discouraging investment from larger international players.\n- Growing apprehension over compliance may alter the UK rental market landscape and reduce available housing options."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-warned-that-pricing-is-key-to-finding-tenants/",
+      "title": "Landlords warned that pricing is key to finding tenants",
+      "summary": "The data comes from Foxtons",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-warned-that-pricing-is-key-to-finding-tenants/",
+      "source": "Landlord Today",
+      "published": "Fri, 01 May 2026 00:00:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/London400x310.png",
+      "ai_summary": "- Foxtons reports that competitive pricing is crucial for landlords to attract tenants in the current market.\n- Landlords are urged to reassess their rental rates to avoid prolonged vacancy periods."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/landlord-property-accounts-for-one-in-five-quick-sales/",
       "title": "Landlord property accounts for one in five quick sales",
@@ -10,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Thu, 30 Apr 2026 00:10:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2708508187-scaled.jpg",
-      "ai_summary": "- One in five quick property sales in the UK is attributed to landlords exiting the market in response to the impending Renters' Rights Act.  \n- Landlords are increasingly utilizing quick sale platforms, like House Buyer Bureau, to swiftly offload their properties."
+      "ai_summary": "- One in five quick property sales in the UK is attributed to landlords exiting the market ahead of the Renters\u2019 Rights Act.  \n- Landlords are increasingly leveraging quick sale platforms like House Buyer Bureau to expedite the offloading of their properties.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/landlord-relief-as-rent-freeze-idea-dismissed/",
@@ -20,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Thu, 30 Apr 2026 00:09:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2540723483.jpg",
-      "ai_summary": "- Landlords breathe a sigh of relief as plans for a one-year rental freeze are officially dismissed by Chancellor Rachel Reeves.  \n- The move indicates a continued commitment to maintaining rental market stability amid cost-of-living challenges."
+      "ai_summary": "- Landlords breathe a sigh of relief as plans for a one-year rent freeze, proposed by Chancellor Rachel Reeves, are dismissed.  \n- The decision boosts landlord confidence amidst ongoing concerns about the cost-of-living crisis."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/rra-and-the-rise-of-the-unlettable-tenant/",
@@ -30,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Thu, 30 Apr 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1990982222.jpg",
-      "ai_summary": "- Landlords are tightening risk controls, raising concerns over a surge in \"unlettable\" tenants.  \n- Legalforlandlords warns that prospective tenants may face increased challenges in securing rentals."
+      "ai_summary": "- Landlords are implementing stricter risk controls, leading to a rise in tenants being classified as \"unlettable,\" warns Legalforlandlords.  \n- This shift may leave many prospective tenants facing increased challenges in securing rental properties."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/long-term-v-short-term-lets-not-an-easy-decision/",
@@ -40,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Thu, 30 Apr 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1766700203.jpg",
-      "ai_summary": "- Landlords looking to switch to short-term lets to sidestep the new Renters' Rights Act face a tight timeline and potential challenges.  \n- Experts advise considering alternative investments, as the shift may not be as straightforward as it seems.  "
+      "ai_summary": "- Landlords are urged to think twice before transitioning to short-term lets as a strategy to circumvent the complexities of the new Renters\u2019 Rights Act.  \n- Experts recommend prioritizing investments in alternative avenues, as time is running out for making effective changes in their letting strategies."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/rra-leaves-no-margin-for-error-says-lawyer/",
@@ -50,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Thu, 30 Apr 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1110385343.jpg",
-      "ai_summary": "- The Renters' Rights Act 2025 fundamentally transforms private renting in England, establishing stricter rules for landlords.  \n- Expert legal insight emphasizes that the act eliminates the traditional leeway landlords previously enjoyed in property management."
+      "ai_summary": "- The Renters' Rights Act 2025 is a significant overhaul of private renting in England, fundamentally changing existing norms.  \n- According to a seasoned property lawyer, the new law eliminates any margin for error previously available to landlords, demanding stricter compliance."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/possession-claims-could-be-like-snakes-and-ladders-lawyer-warns/",
@@ -60,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Wed, 29 Apr 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1799880904.jpg",
-      "ai_summary": "- Lawyer Mike Carter warns that the upcoming Renters' Rights Act will complicate possession claims, likening the process to a game of \"snakes and ladders\" with unexpected delays.  \n- The legislation is set to create significant hurdles for landlords in navigating eviction procedures."
+      "ai_summary": "- The Renters' Rights Act is expected to complicate possession claims, creating significant delays in the process.  \n- Lawyer Mike Carter likens the experience to \"snakes and ladders,\" highlighting the unpredictable challenges landlords may face."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/rent-freeze-could-force-landlords-out-of-business/",
@@ -70,7 +120,7 @@
       "source": "Landlord Today",
       "published": "Wed, 29 Apr 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1789490981.jpg",
-      "ai_summary": "- Experts warn that a proposed year-long rent freeze could drive landlords out of business, threatening the stability of the Private Rental Sector (PRS).  \n- The combination of the rent freeze and the Renters' Rights Bill is seen as unworkable, raising concerns over the effectiveness of rent controls."
+      "ai_summary": "- Experts warn that a proposed year-long rent freeze combined with the Renters\u2019 Rights Bill could push landlords to the brink of financial collapse.  \n- Critics assert that rent controls are ineffective and could exacerbate the housing crisis, jeopardizing the stability of the private rental sector."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/most-profitable-holiday-let-hotspots-revealed/",
@@ -80,7 +130,7 @@
       "source": "Landlord Today",
       "published": "Wed, 29 Apr 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1115491955.jpg",
-      "ai_summary": "- A Lake District village tops the list for profitable holiday lets, raking in \u00a345,900 annually\u2014\u00a320,000 above the UK average.\n- Recent data highlights the hottest locations for holiday rental investments in 2026."
+      "ai_summary": "- A Lake District village leads the UK holiday let market, generating an impressive \u00a345,900 annually for owners, significantly surpassing the UK average by nearly \u00a320,000.  \n- New data highlights the top lucrative holiday let locations for 2026, showcasing the potential financial rewards in this booming sector."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/confidence-and-interest-in-buy-to-let-market-has-increased-ahead-of-rra-claims-mortgage-broker/",
@@ -90,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Wed, 29 Apr 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1640429362-1.jpg",
-      "ai_summary": "- Increased confidence in the buy-to-let market due to the new Renters\u2019 Rights Act, offering clarity for landlords and tenants alike.  \n- Despite this optimism, there is a notable rise in landlords exiting the market, raising concerns over future rental supply."
+      "ai_summary": "- Increased confidence in the buy-to-let market due to the upcoming Renters\u2019 Rights Act, enhancing transparency for landlords and tenants.  \n- Despite this boost in confidence, many landlords are still exiting the market, highlighting a contrasting trend."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/new-lettings-app-aims-to-improve-tenant-and-landlord-communication/",
@@ -100,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Wed, 29 Apr 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2434117281.jpg",
-      "ai_summary": "- A groundbreaking UK lettings app has launched, offering dedicated portals for letting agents, landlords, and tenants to enhance communication.  \n- The app uniquely tracks interactions between all three parties, aiming to simplify the rental process."
+      "ai_summary": "- A groundbreaking UK lettings app has launched, providing dedicated portals for letting agents, landlords, and tenants to streamline communication and enhance tracking between all parties.  \n- This innovative platform aims to revolutionize the rental experience by improving transparency and efficiency in landlord-tenant interactions."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/rent-freeze-would-backfire-nrlas-warning-to-government/",
@@ -110,7 +160,7 @@
       "source": "Landlord Today",
       "published": "Tue, 28 Apr 2026 07:00:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2711297643-scaled.jpg",
-      "ai_summary": "- The NRLA warns that a proposed one-year rent freeze could severely undermine landlord and investor confidence in the UK property market.\n- This warning comes in response to reports indicating that the Chancellor is contemplating rent control measures for private sector homes."
+      "ai_summary": "- The NRLA warns that a proposed one-year rent freeze could severely undermine landlord and investor confidence in the UK property market.  \n- The organization's leader labels the move as a potential 'disaster' for the private rental sector, highlighting significant risks for property owners."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/pressure-on-landlord-costs-increase-as-renters-rights-act-looms/",
@@ -120,7 +170,7 @@
       "source": "Landlord Today",
       "published": "Tue, 28 Apr 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2354542231.jpg",
-      "ai_summary": "- Landlords face escalating financial pressure as average borrowing rises to \u00a3714,000, with annual interest costs hitting approximately \u00a325,000.  \n- The upcoming Renters' Rights Act is adding to the strain on landlords, who must also consider tax, maintenance, and compliance expenses."
+      "ai_summary": "- Average landlord debt hits \u00a3714,000, with annual interest payments soaring to \u00a325,000, highlighting escalating financial pressures.\n- Upcoming Renters\u2019 Rights Act adds urgency to existing cost challenges, impacting landlord profitability."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/wave-of-last-minute-instructions-as-landlords-exit-ahead-of-rra/",
@@ -130,7 +180,7 @@
       "source": "Landlord Today",
       "published": "Tue, 28 Apr 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2149152253.jpg",
-      "ai_summary": "- Landlords are rushing to exit the property market ahead of the Renters\u2019 Rights Act implementation this Friday, prompting a surge in last-minute instructions to law firms.  \n- Kent and London\u2019s Thackray Williams reports a significant increase in landlords seeking to offload their properties before new regulations take effect."
+      "ai_summary": "- Landlords are flooding law firms with last-minute requests to exit the property market as the Renters' Rights Act takes effect this Friday.  \n- Thackray Williams, a law firm in Kent and London, reports a surge in instructions from landlords seeking to divest amid impending regulatory changes."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/chief-property-ombudsman-welcomes-rra-but-says-landlords-need-support/",
@@ -140,7 +190,7 @@
       "source": "Landlord Today",
       "published": "Tue, 28 Apr 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1234884016.jpg",
-      "ai_summary": "- Chief Property Ombudsman Lesley Horton applauds the forthcoming Renters' Right Act reforms but emphasizes the need for support for small-scale landlords in adapting to these changes.\n- The implementation of the Renters' Right Act is expected to bring significant changes to the rental market in the UK."
+      "ai_summary": "- Chief property ombudsman Lesley Horton endorses the upcoming reforms from the Renters\u2019 Right Act while highlighting the need for assistance for small-scale landlords.  \n- The focus on supporting landlords is crucial for a smooth transition as new rental regulations are set to be implemented this week."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/nervous-landlords-prompt-tenfold-rise-in-instructions-says-agent/",
@@ -150,57 +200,57 @@
       "source": "Landlord Today",
       "published": "Tue, 28 Apr 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2478761707.jpg",
-      "ai_summary": "- **Surge in Demand**: Xenia Lettings reports a tenfold increase in landlord instructions as private property owners seek guidance on the new Renters\u2019 Rights Act taking effect Friday.  \n- **Navigating Changes**: Landlords are increasingly turning to experts to adapt to significant updates in rental regulations."
+      "ai_summary": "- Xenia Lettings in the North-east reports a tenfold increase in property instructions as landlords seek guidance on the upcoming Renters\u2019 Rights Act changes.\n- With significant reforms set to take effect this Friday, nervous landlords are actively seeking expert assistance to adapt to new regulations."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/accidental-landlords-warned-over-renters-rights-act/",
-      "title": "Accidental landlords warned over Renters Rights Act",
-      "summary": "\u201cAccidental landlords\u201d could find themselves breaking the law from 1 May, a Warwickshire law firm is warning.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/04/accidental-landlords-warned-over-renters-rights-act/",
-      "source": "Landlord Today",
-      "published": "Tue, 28 Apr 2026 00:01:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1403735732.jpg",
-      "ai_summary": "- Starting May 1, \"accidental landlords\" may face legal issues as new regulations under the Renters Rights Act come into force.  \n- A Warwickshire law firm is alerting property owners to the potential risks of non-compliance with the evolving rental laws."
+      "id": "https://thenegotiator.co.uk/news/associations-bodies-news/sceptical-landlord-leaders-set-renters-rights-act-three-tests/?utm_source=rss&utm_medium=rss&utm_campaign=sceptical-landlord-leaders-set-renters-rights-act-three-tests",
+      "title": "Sceptical landlord leaders set Renters\u2019 Rights Act \u2018three tests\u2019",
+      "summary": "Ben Beadle, of the NRLA, says the \u201cjury is very firmly out\u201d on whether the Act will be successful.\nThe post Sceptical landlord leaders set Renters\u2019 Rights Act \u2018three tests\u2019 appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/associations-bodies-news/sceptical-landlord-leaders-set-renters-rights-act-three-tests/?utm_source=rss&utm_medium=rss&utm_campaign=sceptical-landlord-leaders-set-renters-rights-act-three-tests",
+      "source": "The Negotiator",
+      "published": "Fri, 01 May 2026 04:55:57 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/03/beadle-rip-landlords-nrla-1.jpg",
+      "ai_summary": "- Landlord leaders express skepticism about the Renters' Rights Act's potential success, indicating the need for careful evaluation.  \n- NRLA's Ben Beadle outlines \"three tests\" to measure the Act's effectiveness amid ongoing uncertainty."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/reeves-reported-to-be-considering-rent-controls/",
-      "title": "Reeves reported to be considering rent controls",
-      "summary": "Chancellor Rachel Reeves is reported to be thinking about imposing rent controls on Private Rented Sector landlords as part of a range of measures to limit the impact of the Iran War on household finances.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/04/reeves-reported-to-be-considering-rent-controls/",
-      "source": "Landlord Today",
-      "published": "Mon, 27 Apr 2026 19:36:25 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2239146247-1.jpg",
-      "ai_summary": "- Chancellor Rachel Reeves is reportedly contemplating implementing rent controls for Private Rented Sector landlords to mitigate the financial impact of the Iran War on households.  \n- This potential move is part of a broader strategy to alleviate economic pressures on households amid rising costs."
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/housing-secretary-accuses-greens-of-hypocrisy-on-housing/?utm_source=rss&utm_medium=rss&utm_campaign=housing-secretary-accuses-greens-of-hypocrisy-on-housing",
+      "title": "Housing Secretary accuses Greens of hypocrisy on housing",
+      "summary": "Labour\u2019s Steve Reed says the Green Party talks about the housing crisis while opposing the building of tens of thousands of new ones.\nThe post Housing Secretary accuses Greens of hypocrisy on housing appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/housing-secretary-accuses-greens-of-hypocrisy-on-housing/?utm_source=rss&utm_medium=rss&utm_campaign=housing-secretary-accuses-greens-of-hypocrisy-on-housing",
+      "source": "The Negotiator",
+      "published": "Fri, 01 May 2026 04:55:29 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/04/Steve-reed-2.jpg",
+      "ai_summary": "- Housing Secretary Steve Reed criticizes the Green Party for opposing the construction of thousands of new homes while publicly addressing the housing crisis.  \n- Reed's accusations highlight a perceived contradiction in the Greens' stance on housing development amidst ongoing concerns about the housing shortage."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/hmrc-increases-scrutiny-of-residential-property-valuations/",
-      "title": "HMRC increases scrutiny of residential valuations",
-      "summary": "HMRC is increasingly challenging residential property valuations in inheritance tax (IHT) returns, with the number of cases referred to the Valuation Office Agency (VOA) rising 23.5% in the last year, according to research from TWM Solicitors, a private wealth and family law firm.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/04/hmrc-increases-scrutiny-of-residential-property-valuations/",
-      "source": "Landlord Today",
-      "published": "Mon, 27 Apr 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2178241605.jpg",
-      "ai_summary": "- **Rising Challenges**: HMRC is intensifying its review of residential property valuations for inheritance tax, with referrals to the Valuation Office Agency up 23.5% in the past year.  \n- **Expert Insight**: TWM Solicitors highlights a significant increase in scrutiny, signaling a more aggressive stance from HMRC on property valuations."
+      "id": "https://thenegotiator.co.uk/news/former-knight-frank-partners-launch-new-agency/?utm_source=rss&utm_medium=rss&utm_campaign=former-knight-frank-partners-launch-new-agency",
+      "title": "Former Knight Frank partners launch new agency",
+      "summary": "Jonny Wish and Chris Priestley have launched a new independent agency based in Stratford-upon-Avon.\nThe post Former Knight Frank partners launch new agency appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/former-knight-frank-partners-launch-new-agency/?utm_source=rss&utm_medium=rss&utm_campaign=former-knight-frank-partners-launch-new-agency",
+      "source": "The Negotiator",
+      "published": "Fri, 01 May 2026 04:55:23 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/04/Priestley-Wish-Jonny-Wish-and-Chris-Priestly.png",
+      "ai_summary": "- Former Knight Frank partners Jonny Wish and Chris Priestley have established a new independent agency in Stratford-upon-Avon.  \n- The launch marks a significant move in the property market, showcasing their expertise and commitment to the local area."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/landlords-urged-to-carry-out-more-detailed-pre-purchase-checks-to-reduce-risk-after-rra/",
-      "title": "Landlords urged to carry out more detailed pre-purchase checks after RRA",
-      "summary": "Landlords investing in new rental properties should carry out more detailed pre\u2011purchase checks to better protect themselves once the Renters\u2019 Rights Act comes into force on 1 May.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/04/landlords-urged-to-carry-out-more-detailed-pre-purchase-checks-to-reduce-risk-after-rra/",
-      "source": "Landlord Today",
-      "published": "Mon, 27 Apr 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_693457645.jpg",
-      "ai_summary": "- Landlords are advised to enhance pre-purchase property checks to safeguard their interests ahead of the Renters' Rights Act implementation on May 1.  \n- The new regulations encourage thorough vetting to mitigate potential risks and legal challenges in the rental market."
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/reform-calls-for-regulation-of-landlords-and-agents-of-hmos/?utm_source=rss&utm_medium=rss&utm_campaign=reform-calls-for-regulation-of-landlords-and-agents-of-hmos",
+      "title": "Reform calls for regulation of landlords and HMO agents",
+      "summary": "HMOs are filled with \u2018wrong \u2019uns\u2019 but it\u2019s their management that is the real problem, says Reform MP Lee Anderson.\nThe post Reform calls for regulation of landlords and HMO agents appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/reform-calls-for-regulation-of-landlords-and-agents-of-hmos/?utm_source=rss&utm_medium=rss&utm_campaign=reform-calls-for-regulation-of-landlords-and-agents-of-hmos",
+      "source": "The Negotiator",
+      "published": "Fri, 01 May 2026 04:55:02 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/04/Lee-Anderson-Reform-MP-.jpg",
+      "ai_summary": "- Reform MP Lee Anderson emphasizes that poor management, not just problematic tenants, is the main issue in the regulation of HMOs (Houses in Multiple Occupation).  \n- Calls for tighter regulation of landlords and HMO agents are increasing to address these management concerns."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/04/most-landlords-to-be-stricter-choosing-tenants-survey/",
-      "title": "Most landlords to be stricter choosing tenants \u2013 survey",
-      "summary": "A quarter of landlords plan to exit the market as a result of the Renters\u2019 Rights Act, while 60% of those who remain intend to get stricter with tenant vetting, according to a survey of 900 landlords by LegalforLandlords.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/04/most-landlords-to-be-stricter-choosing-tenants-survey/",
-      "source": "Landlord Today",
-      "published": "Mon, 27 Apr 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_580616890-1.jpg",
-      "ai_summary": "- **Landlord Exodus:** A quarter of landlords are considering leaving the market due to the impact of the Renters\u2019 Rights Act.  \n- **Stricter Vetting:** 60% of remaining landlords are tightening their tenant selection process, based on a survey of 900 property owners."
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/property-deal-numbers-fall-by-more-than-40/?utm_source=rss&utm_medium=rss&utm_campaign=property-deal-numbers-fall-by-more-than-40",
+      "title": "Property deal numbers fall by more than 40%",
+      "summary": "The latest transaction figures from HMRC show a big drop from last year, but a small monthly rise.\nThe post Property deal numbers fall by more than 40% appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/property-deal-numbers-fall-by-more-than-40/?utm_source=rss&utm_medium=rss&utm_campaign=property-deal-numbers-fall-by-more-than-40",
+      "source": "The Negotiator",
+      "published": "Fri, 01 May 2026 04:55:01 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Colby-Short-2.jpg",
+      "ai_summary": "- HMRC reports a staggering 40%+ decline in property deals compared to last year.  \n- Despite the yearly drop, there has been a slight increase in transactions on a monthly basis."
     },
     {
       "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/wait-and-see-policy-as-bank-keeps-rate-on-hold-at-3-75/?utm_source=rss&utm_medium=rss&utm_campaign=wait-and-see-policy-as-bank-keeps-rate-on-hold-at-3-75",
@@ -210,7 +260,7 @@
       "source": "The Negotiator",
       "published": "Thu, 30 Apr 2026 11:00:21 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/04/Bank-Rate.jpg",
-      "ai_summary": "- The Bank of England maintains the interest rate at 3.75% amid ongoing inflation concerns and economic uncertainties, including the Gulf crisis.\n- Rate-setters are adopting a cautious wait-and-see approach before making future monetary policy decisions."
+      "ai_summary": "- The Bank of England maintains the interest rate at 3.75% amid ongoing inflation concerns and economic uncertainty.\n- Rate-setters adopt a cautious \"wait-and-see\" approach, factoring in the impacts of the Gulf crisis on the UK's economy."
     },
     {
       "id": "https://thenegotiator.co.uk/news/regulation-law-news/generation-rent-urges-wavering-government-to-press-ahead-with-rent-freeze/?utm_source=rss&utm_medium=rss&utm_campaign=generation-rent-urges-wavering-government-to-press-ahead-with-rent-freeze",
@@ -220,7 +270,7 @@
       "source": "The Negotiator",
       "published": "Thu, 30 Apr 2026 04:55:36 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/04/Ben-Twomey-Generation-Rent.jpg",
-      "ai_summary": "- Generation Rent calls on the UK Government to implement a rent freeze to alleviate pressure on tenants.\n- Advocate Ben Twomey emphasizes the necessity of this measure for renters to gain stability amidst rising costs."
+      "ai_summary": "- Generation Rent advocates for a rent freeze to alleviate financial pressure on renters, urging the Government to take decisive action.  \n- Ben Twomey emphasizes the necessity of supporting tenants as the cost of living continues to rise."
     },
     {
       "id": "https://thenegotiator.co.uk/news/associations-bodies-news/propertymark-trust-names-five-new-ambassadors/?utm_source=rss&utm_medium=rss&utm_campaign=propertymark-trust-names-five-new-ambassadors",
@@ -230,57 +280,7 @@
       "source": "The Negotiator",
       "published": "Thu, 30 Apr 2026 04:55:26 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/04/Propertymark-trust-ambassadors.png",
-      "ai_summary": "- Propertymark Trust has appointed five new ambassadors: Rachel Ollington, Michael Oomerjee, Jess Masterton, Ben Stokes, and Natalie O'Sullivan.  \n- This initiative aims to enhance advocacy and support within the property sector."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/rental-market/housing-minister-says-government-is-not-looking-at-rent-controls/?utm_source=rss&utm_medium=rss&utm_campaign=housing-minister-says-government-is-not-looking-at-rent-controls",
-      "title": "Housing Minister says Government is not looking at rent controls",
-      "summary": "\"We are not \u200blooking at rent controls,\" Housing Minister Steve Reed confirmed to Times Radio this week, contradicting earlier reports attributed to Rachel Reeves.\nThe post Housing Minister says Government is not looking at rent controls appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/rental-market/housing-minister-says-government-is-not-looking-at-rent-controls/?utm_source=rss&utm_medium=rss&utm_campaign=housing-minister-says-government-is-not-looking-at-rent-controls",
-      "source": "The Negotiator",
-      "published": "Thu, 30 Apr 2026 04:55:25 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/04/Rent-controls-Steve-Reed.jpg",
-      "ai_summary": "- Housing Minister Steve Reed confirms the government has no plans to implement rent controls.  \n- This statement contradicts previous reports cited by Rachel Reeves regarding potential rent regulation."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/bank-expected-to-hold-base-interest-rate-today/?utm_source=rss&utm_medium=rss&utm_campaign=bank-expected-to-hold-base-interest-rate-today",
-      "title": "Bank expected to hold Bank Rate today",
-      "summary": "Decision makers at the Bank of England are set to keep the rate at 3.75% with inflation above target.\nThe post Bank expected to hold Bank Rate today appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/bank-expected-to-hold-base-interest-rate-today/?utm_source=rss&utm_medium=rss&utm_campaign=bank-expected-to-hold-base-interest-rate-today",
-      "source": "The Negotiator",
-      "published": "Thu, 30 Apr 2026 04:55:17 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/03/mpc-committee-1.jpg",
-      "ai_summary": "- The Bank of England is anticipated to maintain the Bank Rate at 3.75% amid ongoing inflation concerns.  \n- Decision-makers prioritize stability as inflation remains above target levels."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/estate-agent-issues-jobs-warning-over-rates-bill/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agent-issues-jobs-warning-over-rates-bill",
-      "title": "Estate agent issues jobs warning due to rates bill",
-      "summary": "Mel Brown, of TOR Estates, in Somerset said her business rates bill has jumped 50% this year.\nThe post Estate agent issues jobs warning due to rates bill appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/estate-agent-issues-jobs-warning-over-rates-bill/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agent-issues-jobs-warning-over-rates-bill",
-      "source": "The Negotiator",
-      "published": "Thu, 30 Apr 2026 04:55:16 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/04/TOR-Estates.jpg",
-      "ai_summary": "- Somerset estate agent Mel Brown warns that a staggering 50% increase in her business rates bill could lead to job cuts.  \n- The rising costs are putting significant financial strain on the property sector, prompting concerns over job security within the industry."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/letting-agents-unaware-of-new-rent-in-advance-rules-as-may-deadline-looms/?utm_source=rss&utm_medium=rss&utm_campaign=letting-agents-unaware-of-new-rent-in-advance-rules-as-may-deadline-looms",
-      "title": "Agents unaware of new rent in advance rules as May deadline looms",
-      "summary": "The Letting Partnership\u2019s Chris Mason says 41% of agents don\u2019t know payments can\u2019t be taken before agreements are signed.\nThe post Agents unaware of new rent in advance rules as May deadline looms appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/letting-agents-unaware-of-new-rent-in-advance-rules-as-may-deadline-looms/?utm_source=rss&utm_medium=rss&utm_campaign=letting-agents-unaware-of-new-rent-in-advance-rules-as-may-deadline-looms",
-      "source": "The Negotiator",
-      "published": "Thu, 30 Apr 2026 04:55:16 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/04/Chris-Mason-The-letting-partnership.jpg",
-      "ai_summary": "- A significant 41% of agents are unaware that new regulations prohibit taking rent payments before tenancy agreements are signed.\n- With a May deadline approaching, the lack of awareness among agents could lead to compliance issues in the rental market."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/proptech/ai-driving-decline-in-estate-agency-numbers/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driving-decline-in-estate-agency-numbers",
-      "title": "AI driving decline in estate agency numbers",
-      "summary": "AI can look after mundane jobs, but the human element remains essential, insists Damien Jefferies, of Jefferies London.\nThe post AI driving decline in estate agency numbers appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/proptech/ai-driving-decline-in-estate-agency-numbers/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driving-decline-in-estate-agency-numbers",
-      "source": "The Negotiator",
-      "published": "Thu, 30 Apr 2026 04:55:00 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/04/Damien-Jefferies-Jefferies-London.jpg",
-      "ai_summary": "- The rise of AI is leading to a decrease in estate agency numbers as it takes over routine tasks, according to Damien Jefferies of Jefferies London.  \n- Despite AI's capabilities, Jefferies emphasizes that the human touch in real estate remains irreplaceable."
+      "ai_summary": "- Propertymark Trust has unveiled five new ambassadors: Rachel Ollington, Michael Oomerjee, Jess Masterton, Ben Stokes, and Natalie O'Sullivan.  \n- The announcement emphasizes a commitment to enhancing industry representation and advocacy within the property sector."
     }
   ]
 }
