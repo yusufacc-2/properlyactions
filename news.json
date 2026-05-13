@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-05-13T01:48:19.060076",
-  "article_count": 21,
+  "last_updated": "2026-05-13T06:15:19.340671",
+  "article_count": 20,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/greens-pledge-rogue-landlord-taskforce-but-leader-hasnt-paid-council-tax/",
+      "title": "Greens pledge landlord clampdown but leader hasn\u2019t paid council tax",
+      "summary": "The BBC and The Times have discovered the council tax revelation about Polanski",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/greens-pledge-rogue-landlord-taskforce-but-leader-hasnt-paid-council-tax/",
+      "source": "Landlord Today",
+      "published": "Wed, 13 May 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/GreenParty-logo400x310.png",
+      "ai_summary": "- The Green Party pledges to impose stricter regulations on landlords amid ongoing housing crisis discussions.  \n- Controversy erupts as reports reveal party leader Polanski has unpaid council tax, raising questions about accountability."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-make-tenants-pay-cost-of-living-increases-claim/",
+      "title": "Landlords make tenants pay cost of living increases \u2013 claim",
+      "summary": "The report is from the Institute for Public Policy Research",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-make-tenants-pay-cost-of-living-increases-claim/",
+      "source": "Landlord Today",
+      "published": "Wed, 13 May 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/WomanSavingMoney_400x310.png",
+      "ai_summary": "- A new report by the Institute for Public Policy Research reveals that landlords are transferring the burden of rising living costs onto tenants, impacting housing affordability.  \n- This trend raises concerns about the financial strain on renters as inflation and living expenses continue to soar."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-hefty-fine-for-ignoring-serious-health-hazards/",
+      "title": "Landlord\u2019s hefty fine for ignoring serious health hazards",
+      "summary": "The landlord did not resolve the hazards which were identified",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-hefty-fine-for-ignoring-serious-health-hazards/",
+      "source": "Landlord Today",
+      "published": "Wed, 13 May 2026 00:01:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HealthSafety400x310-3.png",
+      "ai_summary": "- A landlord faces a substantial fine for neglecting serious health hazards in a rental property.  \n- The failure to address identified safety issues raises significant concerns about tenant welfare."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/tips-for-holiday-let-landlords-to-maximise-income/",
+      "title": "Tips for holiday let landlords to maximise income",
+      "summary": "Holiday let landlords get tips on maximising income",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/tips-for-holiday-let-landlords-to-maximise-income/",
+      "source": "Landlord Today",
+      "published": "Wed, 13 May 2026 00:00:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/holidayhomes400x310.jpg",
+      "ai_summary": "- Landlords are provided with essential strategies to enhance their earnings from holiday lettings.  \n- Key advice includes optimizing property listings and improving guest experiences to attract more bookings."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/starmer-should-slap-rent-controls-on-private-landlords-call/",
       "title": "Starmer should slap rent controls on private landlords \u2013 call",
@@ -10,7 +50,7 @@
       "source": "Landlord Today",
       "published": "Tue, 12 May 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/KeirStarmer-400x310-1.jpg",
-      "ai_summary": "- Activist groups urge Starmer to implement rent controls to halt escalating rents in the UK housing market.  \n- Calls for government action reflect growing concern over affordability and the pressure on renters amid rising costs."
+      "ai_summary": "- Activist groups urge government intervention to curb skyrocketing rents in the private sector.  \n- Keir Starmer is called to implement rent controls to protect tenants from rising costs."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/many-tenants-remain-ignorant-about-renters-rights-act/",
@@ -20,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Tue, 12 May 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Most-tenantsdont.png",
-      "ai_summary": "- A significant number of tenants are unaware of their rights under the Renters Rights Act.  \n- This ignorance could lead to potential exploitation and issues in rental agreements."
+      "ai_summary": "- A significant number of tenants in the UK are unaware of their entitlements under the Renters Rights Act.\n- Lack of knowledge about these rights could leave tenants vulnerable to unfair practices by landlords."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/top-tory-warns-labour-off-rent-controls/",
@@ -30,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Tue, 12 May 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2239146247-1.jpg",
-      "ai_summary": "- A leading Conservative Party figure has cautioned the Labour Party against implementing rent controls.\n- The warning highlights ongoing debates about housing affordability and government intervention in the rental market."
+      "ai_summary": "- A leading Conservative party figure strongly advises Labour against implementing rent controls.\n- The warning highlights ongoing tensions in housing policy debates amid the UK's property market challenges."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/nrla-warns-winning-politicians-off-rent-controls/",
@@ -40,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Mon, 11 May 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2239146247-1.jpg",
-      "ai_summary": "- The National Residential Landlords Association (NRLA) is advising newly elected officials to steer clear of implementing rent controls.  \n- The NRLA emphasizes that rent controls could negatively impact the rental market and housing availability."
+      "ai_summary": "- The National Residential Landlords Association (NRLA) cautions newly elected politicians against implementing rent controls.\n- NRLA emphasizes that such policies could negatively impact the rental market and availability of housing."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/threat-of-renters-rights-act-depresses-rent-levels/",
@@ -50,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Mon, 11 May 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HousePriceDown-400x310-1.png",
-      "ai_summary": "- The impending Renters Rights Act is causing landlords to lower rent prices in anticipation of regulatory changes.  \n- Concerns over potential tenant protections are leading to a decrease in rental market confidence."
+      "ai_summary": "- The looming Renters Rights Act is contributing to a decrease in rental prices across the UK market.  \n- Landlords remain cautious, leading to a decline in rental demand as potential tenants anticipate potential regulatory changes."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/reform-uk-and-green-party-what-do-their-victories-mean-for-landlords/",
@@ -60,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Fri, 08 May 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/general-election400x310.png",
-      "ai_summary": "- Reform UK and the Green Party's electoral successes signal potential shifts in housing policy that could affect landlord regulations and tenant rights.\n- Landlords may face increased scrutiny and new legislative changes aimed at promoting sustainable and affordable housing options."
+      "ai_summary": "- The recent electoral successes of Reform UK and the Green Party signal a shift in political landscape, potentially leading to increased scrutiny and regulation on landlords.  \n- These parties advocate for reforms that may impact rental market dynamics, especially concerning sustainability and housing affordability."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/councils-tenancy-intervention-officer-will-work-with-landlords/",
@@ -70,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Fri, 08 May 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_278996666.jpg",
-      "ai_summary": "- New initiative introduces a 'Tenancy Intervention Officer' to collaborate with landlords and enhance property management.\n- Aimed at improving tenant experiences and addressing rental issues within the community."
+      "ai_summary": "- The council has introduced a new position, the 'Tenancy Intervention Officer,' aimed at collaborating with landlords to improve rental conditions.  \n- This initiative seeks to enhance tenant support and ensure compliance with housing regulations across the borough."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlord-confidence-recovering-as-private-rentals-evolve/",
@@ -80,137 +120,87 @@
       "source": "Landlord Today",
       "published": "Fri, 08 May 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/RentingImage-400x310-1.jpg",
-      "ai_summary": "- Landlord confidence is on the rise as the private rental market adapts to new challenges and demands.  \n- The evolution of private rentals is reshaping landlord strategies and boosting their optimism in the UK property sector."
+      "ai_summary": "- Landlord confidence in the UK is on the rise as the private rental market adapts to new challenges and opportunities.  \n- The evolution of private rentals highlights a transformative shift, indicating a more optimistic outlook for property investors."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/extraordinary-attack-on-parasite-landlord-cars-and-holidays/",
-      "title": "Extraordinary attack on \u201cparasite\u201d landlord cars and holidays",
-      "summary": "Extraordinary attack on \u201cparasite\u201d landlords\u2019 cars and holidays",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/extraordinary-attack-on-parasite-landlord-cars-and-holidays/",
-      "source": "Landlord Today",
-      "published": "Thu, 07 May 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/mfb-financing-for-landlords-feb-26-article-header.png",
-      "ai_summary": "- Landlords labeled as \"parasites\" face sharp criticism for their luxury cars and vacations amid growing concerns over housing affordability.  \n- The backlash highlights increasing frustration with landlord practices that some believe exacerbate the housing crisis in the UK.  "
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-soaring-tax-payments-bail-out-government-new-figures/",
-      "title": "Landlords\u2019 soaring tax payments bail out government \u2013 new figures",
-      "summary": "Landlords\u2019 soaring tax payments bail out government - new figures",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-soaring-tax-payments-bail-out-government-new-figures/",
-      "source": "Landlord Today",
-      "published": "Thu, 07 May 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/StampDuty2_400x310.png",
-      "ai_summary": "- Landlords are facing skyrocketing tax payments, contributing significantly to government revenue.\n- New figures highlight how these increased taxes are helping to financially support the government amid economic challenges."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/energy-efficiency-gives-landlords-a-marketing-advantage-claim/",
-      "title": "Energy efficiency gives landlords a marketing advantage \u2013 claim",
-      "summary": "Energy efficiency gives landlords a marketing advantage - claim",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/energy-efficiency-gives-landlords-a-marketing-advantage-claim/",
-      "source": "Landlord Today",
-      "published": "Thu, 07 May 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/EnergyEfficiency-1-400x310-1.jpg",
-      "ai_summary": "- Landlords are gaining a competitive edge by promoting energy-efficient properties.\n- Increased energy efficiency not only attracts tenants but also enhances market appeal."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/tax-perk-sparks-interest-in-multi-property-investment/",
-      "title": "Tax perk sparks interest in multi-property investment",
-      "summary": "Tax perk sparks interest in multi-property investment",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/tax-perk-sparks-interest-in-multi-property-investment/",
-      "source": "Landlord Today",
-      "published": "Thu, 07 May 2026 00:01:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/ScotlandFlag400x310.png",
-      "ai_summary": "- Recent tax incentives are driving increased interest in multi-property investments across the UK real estate market.\n- Investors are exploring opportunities to capitalize on these benefits, potentially boosting property acquisition and development activities."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/council-tax-on-second-homes-risks-back-firing-new-data/",
-      "title": "Council tax on second homes risks back-firing \u2013 new data",
-      "summary": "Council tax on second homes risks back-firing - new data",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/council-tax-on-second-homes-risks-back-firing-new-data/",
-      "source": "Landlord Today",
-      "published": "Thu, 07 May 2026 00:00:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HolidayHome-400x310-1.jpg",
-      "ai_summary": "- New data suggests that imposing council tax on second homes may unintentionally deter investment and worsen housing shortages.  \n- The potential consequences could lead to decreased economic activity in local areas reliant on tourism and secondary residences.  "
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/rental-market/government-under-pressure-to-set-double-lock-rent-cap/?utm_source=rss&utm_medium=rss&utm_campaign=government-under-pressure-to-set-double-lock-rent-cap",
-      "title": "Government under pressure to set \u2018double lock\u2019 rent cap",
-      "summary": "Dr Maya Singer Hobbs, of the IPPR, says millions of renters are being \"pushed to the brink\".\nThe post Government under pressure to set \u2018double lock\u2019 rent cap appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/rental-market/government-under-pressure-to-set-double-lock-rent-cap/?utm_source=rss&utm_medium=rss&utm_campaign=government-under-pressure-to-set-double-lock-rent-cap",
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/what-prime-minister-andy-burnham-could-mean-for-housing/?utm_source=rss&utm_medium=rss&utm_campaign=what-prime-minister-andy-burnham-could-mean-for-housing",
+      "title": "What \u2018Prime Minister\u2019 Andy Burnham could mean for housing",
+      "summary": "Manchester\u2019s Mayor is the favourite to replace Sir Keir Starmer as Prime Minister \u2013 and is calling for lower rents.\nThe post What \u2018Prime Minister\u2019 Andy Burnham could mean for housing appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/what-prime-minister-andy-burnham-could-mean-for-housing/?utm_source=rss&utm_medium=rss&utm_campaign=what-prime-minister-andy-burnham-could-mean-for-housing",
       "source": "The Negotiator",
-      "published": "Tue, 12 May 2026 04:55:48 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Rental-homes-4.jpg",
-      "ai_summary": "- Pressure mounts on the UK government to implement a 'double lock' rent cap as millions of renters face financial strain.  \n- IPPR's Dr. Maya Singer Hobbs warns that current rental increases are pushing households to their limits."
+      "published": "Wed, 13 May 2026 04:55:51 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Andy-Burnham.jpg",
+      "ai_summary": "- Manchester Mayor Andy Burnham is favored to succeed Sir Keir Starmer as Prime Minister, advocating for reduced rents to address housing issues.  \n- His potential leadership could significantly impact UK housing policies and affordability.  "
     },
     {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/housing-market-awaits-kings-speech-clarity/?utm_source=rss&utm_medium=rss&utm_campaign=housing-market-awaits-kings-speech-clarity",
-      "title": "Housing market awaits King\u2019s Speech clarity",
-      "summary": "The King\u2019s Speech tomorrow will set out the Government\u2019s legislative programme and is expected to include housing reforms.\nThe post Housing market awaits King\u2019s Speech clarity appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/housing-market-awaits-kings-speech-clarity/?utm_source=rss&utm_medium=rss&utm_campaign=housing-market-awaits-kings-speech-clarity",
+      "id": "https://thenegotiator.co.uk/news/chartwell-noble-strengthens-worcestershire-presence/?utm_source=rss&utm_medium=rss&utm_campaign=chartwell-noble-strengthens-worcestershire-presence",
+      "title": "Chartwell Noble strengthens Worcestershire presence",
+      "summary": "Nicholas Kendrick joins the team at Midlands and Cotswolds estate agency, Chartwell Noble, as its latest self-employed estate agent. \nThe post Chartwell Noble strengthens Worcestershire presence appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/chartwell-noble-strengthens-worcestershire-presence/?utm_source=rss&utm_medium=rss&utm_campaign=chartwell-noble-strengthens-worcestershire-presence",
       "source": "The Negotiator",
-      "published": "Tue, 12 May 2026 04:55:28 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Charles.jpg",
-      "ai_summary": "- The upcoming King\u2019s Speech is anticipated to outline key housing reforms, influencing the UK's property market.  \n- Stakeholders are eager for clarity on the Government\u2019s legislative agenda and its impact on housing."
+      "published": "Wed, 13 May 2026 04:55:40 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Nicholas-Kendrick-Chartwell-Noble.jpg",
+      "ai_summary": "- Chartwell Noble enhances its Worcestershire footprint by welcoming Nicholas Kendrick as a new self-employed estate agent.  \n- The Midlands and Cotswolds agency continues to expand its team to bolster local expertise and service."
     },
     {
-      "id": "https://thenegotiator.co.uk/columns/uk-property-transactions-looking-pretty-good/?utm_source=rss&utm_medium=rss&utm_campaign=uk-property-transactions-looking-pretty-good",
-      "title": "UK property transactions looking \u2018pretty good\u2019",
-      "summary": "According to the indices so far, the factors which underpin property transactions are looking pretty good, despite the current economic uncertainty.\u00a0\nThe post UK property transactions looking \u2018pretty good\u2019 appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/columns/uk-property-transactions-looking-pretty-good/?utm_source=rss&utm_medium=rss&utm_campaign=uk-property-transactions-looking-pretty-good",
+      "id": "https://thenegotiator.co.uk/news/proptech/leading-proptech-firm-sees-revenue-rocket-nearly-400/?utm_source=rss&utm_medium=rss&utm_campaign=leading-proptech-firm-sees-revenue-rocket-nearly-400",
+      "title": "Leading proptech firm sees revenue rocket nearly 400%",
+      "summary": "OneDome founder Babek Ismayil says his company will triple revenue this year after a \u00a3394% jump in the first quarter.\nThe post Leading proptech firm sees revenue rocket nearly 400% appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/proptech/leading-proptech-firm-sees-revenue-rocket-nearly-400/?utm_source=rss&utm_medium=rss&utm_campaign=leading-proptech-firm-sees-revenue-rocket-nearly-400",
       "source": "The Negotiator",
-      "published": "Tue, 12 May 2026 04:55:07 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/UK-Property-Transactions-update.jpg",
-      "ai_summary": "- UK property transaction indicators remain positive amid economic uncertainty.\n- Strong foundational factors are supporting continued activity in the property market."
+      "published": "Wed, 13 May 2026 04:55:39 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/02/Babek-Ismayil-CEO-OneDome.jpg",
+      "ai_summary": "- OneDome's founder, Babek Ismayil, announces a staggering 394% revenue surge in Q1, propelling the proptech firm to triple its earnings this year.  \n- The company is poised for significant growth, showcasing strong momentum in the competitive property technology market."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/stamp-duty-bungs-up-housing-market-shadow-chancellor-claims/?utm_source=rss&utm_medium=rss&utm_campaign=stamp-duty-bungs-up-housing-market-shadow-chancellor-claims",
-      "title": "Stamp Duty \u201cbungs up\u201d housing market, Shadow Chancellor claims",
-      "summary": "Mel Stride says the Tories would scrap Stamp Duty because it thwarts the plans of thousands of home movers.\nThe post Stamp Duty \u201cbungs up\u201d housing market, Shadow Chancellor claims appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/stamp-duty-bungs-up-housing-market-shadow-chancellor-claims/?utm_source=rss&utm_medium=rss&utm_campaign=stamp-duty-bungs-up-housing-market-shadow-chancellor-claims",
+      "id": "https://thenegotiator.co.uk/news/products-services-news/eight-out-of-10-homebuyers-prefer-human-sales-over-ai/?utm_source=rss&utm_medium=rss&utm_campaign=eight-out-of-10-homebuyers-prefer-human-sales-over-ai",
+      "title": "Eight out of 10 homebuyers prefer human sales over AI",
+      "summary": "Moneypenny's Jesper With-Fogstrup says it\u2019s no surprise that people want human reassurance at key moments of the homebuying process.\nThe post Eight out of 10 homebuyers prefer human sales over AI appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/products-services-news/eight-out-of-10-homebuyers-prefer-human-sales-over-ai/?utm_source=rss&utm_medium=rss&utm_campaign=eight-out-of-10-homebuyers-prefer-human-sales-over-ai",
       "source": "The Negotiator",
-      "published": "Tue, 12 May 2026 04:55:03 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/10/Mel-Stride.jpg",
-      "ai_summary": "- Shadow Chancellor Mel Stride blames Stamp Duty for hindering the housing market and frustrating home movers' plans.  \n- Stride advocates for the Conservatives to eliminate Stamp Duty to stimulate property transactions.  "
+      "published": "Wed, 13 May 2026 04:55:34 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Jesper-With-Fogstrup-Group-Chief-Executive-of-Moneypenny.jpg",
+      "ai_summary": "- **Human Touch Wins:** 80% of homebuyers favor human interactions over AI during the homebuying process, seeking reassurance.  \n- **Expert Insight:** Moneypenny\u2019s Jesper With-Fogstrup highlights the importance of personal connection in critical moments of purchasing a home."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/greens-promise-rogue-landlord-taskforce-after-big-election-win/?utm_source=rss&utm_medium=rss&utm_campaign=greens-promise-rogue-landlord-taskforce-after-big-election-win",
-      "title": "Greens promise \u2018rogue landlord taskforce\u2019 after big election win",
-      "summary": "The Green Party swept to victory in major London borough with the pledge to \"drive compliance across the PRS\".\nThe post Greens promise \u2018rogue landlord taskforce\u2019 after big election win appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/greens-promise-rogue-landlord-taskforce-after-big-election-win/?utm_source=rss&utm_medium=rss&utm_campaign=greens-promise-rogue-landlord-taskforce-after-big-election-win",
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/half-of-listed-homes-never-sell-zoopla-reports/?utm_source=rss&utm_medium=rss&utm_campaign=half-of-listed-homes-never-sell-zoopla-reports",
+      "title": "Half of listed homes never sell, Zoopla reveals",
+      "summary": "Sellers who price too high are significantly reducing their chances of finding a buyer, says portal boss Richard Donnell.\nThe post Half of listed homes never sell, Zoopla reveals appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/half-of-listed-homes-never-sell-zoopla-reports/?utm_source=rss&utm_medium=rss&utm_campaign=half-of-listed-homes-never-sell-zoopla-reports",
       "source": "The Negotiator",
-      "published": "Tue, 12 May 2026 04:55:03 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/lewisham-green.jpg",
-      "ai_summary": "- The Green Party secured a significant electoral victory in a major London borough, committing to tackle compliance issues in the private rental sector (PRS).\n- They plan to establish a 'rogue landlord taskforce' to address and combat unethical landlord practices."
+      "published": "Wed, 13 May 2026 04:55:32 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Richard-Donnell-zoopla.jpg",
+      "ai_summary": "- Zoopla reports that 50% of homes on the market remain unsold, primarily due to sellers setting prices too high.  \n- Richard Donnell, Zoopla's boss, emphasizes that overpriced listings dramatically diminish the likelihood of attracting buyers."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/fine-country-expands-to-the-isle-of-man/?utm_source=rss&utm_medium=rss&utm_campaign=fine-country-expands-to-the-isle-of-man",
-      "title": "Fine & Country expands to the Isle of Man",
-      "summary": "Newly appointed associate, Jamie Sutton, will spearhead the launch and development of Fine & Country on the Isle of Man.\nThe post Fine & Country expands to the Isle of Man appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/fine-country-expands-to-the-isle-of-man/?utm_source=rss&utm_medium=rss&utm_campaign=fine-country-expands-to-the-isle-of-man",
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/tenants-hit-cost-of-rent-day-in-may/?utm_source=rss&utm_medium=rss&utm_campaign=tenants-hit-cost-of-rent-day-in-may",
+      "title": "Tenants hit \u2018cost of rent day\u2019 in May",
+      "summary": "Generation Rent Chief Executive Ben Twomey is demanding ministers \u201cslam on the brakes\u201d as soaring rents swallow more of tenants\u2019 income.\nThe post Tenants hit \u2018cost of rent day\u2019 in May appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/tenants-hit-cost-of-rent-day-in-may/?utm_source=rss&utm_medium=rss&utm_campaign=tenants-hit-cost-of-rent-day-in-may",
       "source": "The Negotiator",
-      "published": "Tue, 12 May 2026 04:55:02 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Fine-Country-Jamie-Sutton-Isle-of-Man-.png",
-      "ai_summary": "- Fine & Country is set to launch its operations on the Isle of Man, led by newly appointed associate Jamie Sutton.  \n- The expansion aims to enhance Fine & Country's presence in the UK property market."
+      "published": "Wed, 13 May 2026 04:55:18 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Ben-Twomey.jpg",
+      "ai_summary": "- Rising rents are consuming an increasing portion of tenants' incomes, prompting calls for urgent government intervention from Generation Rent CEO Ben Twomey.  \n- May marks the significant 'cost of rent day,' highlighting the financial strain placed on renters across the UK."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/products-services-news/first-time-buyers-still-face-significant-financial-pressure/?utm_source=rss&utm_medium=rss&utm_campaign=first-time-buyers-still-face-significant-financial-pressure",
-      "title": "First-time buyers still face significant financial pressure",
-      "summary": "Affordability remains stretched, particularly for struggling first-time buyers, Mary-Lou Press, President of NAEA Propertymark has warned.\nThe post First-time buyers still face significant financial pressure appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/products-services-news/first-time-buyers-still-face-significant-financial-pressure/?utm_source=rss&utm_medium=rss&utm_campaign=first-time-buyers-still-face-significant-financial-pressure",
+      "id": "https://thenegotiator.co.uk/news/proptech/touchright-eyes-further-crm-deals-after-alto-integration-success/?utm_source=rss&utm_medium=rss&utm_campaign=touchright-eyes-further-crm-deals-after-alto-integration-success",
+      "title": "TouchRight eyes further CRM deals after Alto integration success",
+      "summary": "ToughRight's Miriam Roth tells The Neg how the property inspection firm has developed in the year since she took over.\nThe post TouchRight eyes further CRM deals after Alto integration success appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/proptech/touchright-eyes-further-crm-deals-after-alto-integration-success/?utm_source=rss&utm_medium=rss&utm_campaign=touchright-eyes-further-crm-deals-after-alto-integration-success",
       "source": "The Negotiator",
-      "published": "Tue, 12 May 2026 04:55:00 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Mary-First-home-2.jpg",
-      "ai_summary": "- First-time buyers in the UK continue to grapple with substantial financial pressures, highlighting ongoing affordability challenges, warns Mary-Lou Press, President of NAEA Propertymark.  \n- Persisting economic strains keep home ownership out of reach for many, underscoring the urgent need for solutions in the property market."
+      "published": "Wed, 13 May 2026 04:55:03 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Miriam-Roth-touchright-1.jpg",
+      "ai_summary": "- TouchRight, under Miriam Roth's leadership, sees strong growth following successful integration with Alto and is now targeting additional CRM partnerships.  \n- The company's recent developments signal a strategic move to expand its influence in the property inspection market."
     },
     {
-      "id": "https://thenegotiator.co.uk/columns/nigel-lewis/the-creaky-tribunal-system-wont-cope-with-a-rise-in-contested-rent-increases/?utm_source=rss&utm_medium=rss&utm_campaign=the-creaky-tribunal-system-wont-cope-with-a-rise-in-contested-rent-increases",
-      "title": "The creaky Tribunal system won\u2019t cope with a rise in contested rent increases",
-      "summary": "Those working within the industry are worried that Ministers haven't realised how unprepared Tribunals are for a deluge of tenants contesting rises.\nThe post The creaky Tribunal system won\u2019t cope with a rise in contested rent increases appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/columns/nigel-lewis/the-creaky-tribunal-system-wont-cope-with-a-rise-in-contested-rent-increases/?utm_source=rss&utm_medium=rss&utm_campaign=the-creaky-tribunal-system-wont-cope-with-a-rise-in-contested-rent-increases",
+      "id": "https://thenegotiator.co.uk/guest-blog/blog-why-the-property-industry-needs-mental-health-support/?utm_source=rss&utm_medium=rss&utm_campaign=blog-why-the-property-industry-needs-mental-health-support",
+      "title": "BLOG: Why the property industry needs mental health support",
+      "summary": "To coincide with Mental Health Awareness Week, David Mintz explores the psychological pressures of working in estate agency and why mental health support matters year-round.\nThe post BLOG: Why the property industry needs mental health support appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/guest-blog/blog-why-the-property-industry-needs-mental-health-support/?utm_source=rss&utm_medium=rss&utm_campaign=blog-why-the-property-industry-needs-mental-health-support",
       "source": "The Negotiator",
-      "published": "Tue, 12 May 2026 04:45:01 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Nigel-Lewis-and-property-tribunal.jpg",
-      "ai_summary": "- Industry insiders warn that the Tribunal system is ill-equipped to handle an influx of tenants challenging rent increases.  \n- Concerns grow that government officials are oblivious to the potential strain on an already creaky process.  "
+      "published": "Wed, 13 May 2026 04:00:03 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Estate-Agent-Guide-to-Better-Mental-Health-blog-David-Mintz.jpg",
+      "ai_summary": "- The property industry faces significant psychological pressures, highlighting an urgent need for ongoing mental health support, especially among estate agents.  \n- As Mental Health Awareness Week draws attention to these issues, David Mintz emphasizes that mental well-being is crucial year-round in the demanding real estate sector."
     }
   ]
 }
