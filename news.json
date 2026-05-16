@@ -1,7 +1,157 @@
 {
-  "last_updated": "2026-05-16T12:50:28.861243",
-  "article_count": 8,
+  "last_updated": "2026-05-16T15:45:23.493179",
+  "article_count": 23,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/prime-minister-burnham-may-lead-clampdown-on-private-landlords/",
+      "title": "Prime Minister Burnham may lead clampdown on private landlords",
+      "summary": "Prime Minister Burnham may lead a clampdown on private landlords",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/prime-minister-burnham-may-lead-clampdown-on-private-landlords/",
+      "source": "Landlord Today",
+      "published": "Fri, 15 May 2026 00:06:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Andy-Burnham-LAbour-400x310-1.png",
+      "ai_summary": "- Prime Minister Burnham is considering implementing restrictions on private landlords.  \n- The proposed measures aim to increase regulation and protect tenants in the housing market."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/arrears-rise-but-underlying-rental-market-stability-improves/",
+      "title": "Arrears rise but underlying rental market stability improves",
+      "summary": "The rate of arrears growth has slowed, suggesting a gradual stabilisation in the market.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/arrears-rise-but-underlying-rental-market-stability-improves/",
+      "source": "Landlord Today",
+      "published": "Fri, 15 May 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/tenant-arrears.png",
+      "ai_summary": "- Arrears growth is slowing, indicating a potential stabilization in the UK rental market.\n- The underlying rental market shows signs of improvement, despite rising arrears."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/put-the-brakes-on-rent-rises-says-left-wing-think-tank/",
+      "title": "Put the brakes on rent rises, says left wing think tank",
+      "summary": "Put the brakes on rent rises, says left wing think tank",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/put-the-brakes-on-rent-rises-says-left-wing-think-tank/",
+      "source": "Landlord Today",
+      "published": "Fri, 15 May 2026 00:03:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2239146247-1.jpg",
+      "ai_summary": "- A left-leaning think tank is advocating for measures to halt escalating rental prices in the UK.  \n- The call for intervention aims to protect renters from increasing housing costs amidst economic challenges.  "
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/large-scale-landlords-look-to-remortgage/",
+      "title": "Large-scale landlords look to remortgage",
+      "summary": "Large-scale landlords look to remortgage",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/large-scale-landlords-look-to-remortgage/",
+      "source": "Landlord Today",
+      "published": "Fri, 15 May 2026 00:00:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/MortgageStatement-400x310-1.png",
+      "ai_summary": "- Large-scale landlords are actively seeking remortgage options as market conditions shift.\n- This move aims to capitalize on refinancing opportunities amid changing interest rates and economic factors."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/new-government-data-shows-contented-private-rental-sector-tenants/",
+      "title": "New government data shows contented private rental sector tenants",
+      "summary": "The data has been published by the government today",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/new-government-data-shows-contented-private-rental-sector-tenants/",
+      "source": "Landlord Today",
+      "published": "Thu, 14 May 2026 11:11:59 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/MillennialTenants-Tablet-400x310-1.jpg",
+      "ai_summary": "- Government data reveals high levels of satisfaction among tenants in the private rental sector.\n- Recent findings indicate a positive shift in tenant experiences and perceptions of rental living in the UK."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/fixed-penalty-notices-served-on-rogue-landlord/",
+      "title": "Fixed penalty notices served on rogue landlord",
+      "summary": "Fixed penalty notices served on rogue landlord",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/fixed-penalty-notices-served-on-rogue-landlord/",
+      "source": "Landlord Today",
+      "published": "Thu, 14 May 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2078405314.jpg",
+      "ai_summary": "- Local authorities crack down on rogue landlords by issuing fixed penalty notices for non-compliance.  \n- Action taken aims to improve tenant safety and uphold housing standards across the community."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/government-tax-rises-will-increase-rents-nrla/",
+      "title": "Government tax rises will increase rents \u2013 NRLA",
+      "summary": "New research suggests the impact on rents will be severe.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/government-tax-rises-will-increase-rents-nrla/",
+      "source": "Landlord Today",
+      "published": "Thu, 14 May 2026 00:03:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/tax.jpg",
+      "ai_summary": "- New research indicates that government tax increases will significantly drive up rental prices in the UK.  \n- The National Residential Landlords Association (NRLA) warns of severe consequences for tenants as landlords face higher costs."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/bleak-outlook-for-housing-market-this-summer/",
+      "title": "Bleak outlook for housing market this summer",
+      "summary": "Property experts have forecast a bleak outlook for housing market this summer",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/bleak-outlook-for-housing-market-this-summer/",
+      "source": "Landlord Today",
+      "published": "Thu, 14 May 2026 00:02:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2131821733.jpg",
+      "ai_summary": "- Property experts predict a challenging summer ahead for the UK housing market.  \n- Expectations of declining activity signal tough conditions for buyers and sellers alike."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/new-landlord-forum-to-discuss-epc-changes/",
+      "title": "New landlord forum to discuss EPC changes",
+      "summary": "The event takes place at the end of June",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/new-landlord-forum-to-discuss-epc-changes/",
+      "source": "Landlord Today",
+      "published": "Thu, 14 May 2026 00:01:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Low_EPC-400x310-1.png",
+      "ai_summary": "- A new landlord forum will address upcoming changes to Energy Performance Certificates (EPCs) in the UK.  \n- The forum is set to take place at the end of June, providing crucial insights for landlords."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/greens-pledge-rogue-landlord-taskforce-but-leader-hasnt-paid-council-tax/",
+      "title": "Greens pledge landlord clampdown but leader hasn\u2019t paid council tax",
+      "summary": "The BBC and The Times have discovered the council tax revelation about Polanski",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/greens-pledge-rogue-landlord-taskforce-but-leader-hasnt-paid-council-tax/",
+      "source": "Landlord Today",
+      "published": "Wed, 13 May 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/GreenParty-logo400x310.png",
+      "ai_summary": "- The Green Party is promising to crack down on landlords, but their leader, Polanski, faces scrutiny for failing to pay council tax.  \n- Investigations by the BBC and The Times have uncovered this tax issue, raising questions about accountability within the party."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-make-tenants-pay-cost-of-living-increases-claim/",
+      "title": "Landlords make tenants pay cost of living increases \u2013 claim",
+      "summary": "The report is from the Institute for Public Policy Research",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-make-tenants-pay-cost-of-living-increases-claim/",
+      "source": "Landlord Today",
+      "published": "Wed, 13 May 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/WomanSavingMoney_400x310.png",
+      "ai_summary": "- A new report from the Institute for Public Policy Research reveals that landlords are passing on the burden of rising living costs to tenants.  \n- This trend highlights significant concerns regarding housing affordability amidst ongoing economic pressures."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-hefty-fine-for-ignoring-serious-health-hazards/",
+      "title": "Landlord\u2019s hefty fine for ignoring serious health hazards",
+      "summary": "The landlord did not resolve the hazards which were identified",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-hefty-fine-for-ignoring-serious-health-hazards/",
+      "source": "Landlord Today",
+      "published": "Wed, 13 May 2026 00:01:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HealthSafety400x310-3.png",
+      "ai_summary": "- A landlord has been heavily fined for failing to address serious health hazards in their property.  \n- The negligence in resolving the identified risks puts tenants' safety at significant risk."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/tips-for-holiday-let-landlords-to-maximise-income/",
+      "title": "Tips for holiday let landlords to maximise income",
+      "summary": "Holiday let landlords get tips on maximising income",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/tips-for-holiday-let-landlords-to-maximise-income/",
+      "source": "Landlord Today",
+      "published": "Wed, 13 May 2026 00:00:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/holidayhomes400x310.jpg",
+      "ai_summary": "- Holiday let landlords can boost their earnings by implementing strategic improvements and marketing tactics.  \n- Key recommendations include optimizing property listings, enhancing guest experiences, and leveraging pricing strategies."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/starmer-should-slap-rent-controls-on-private-landlords-call/",
+      "title": "Starmer should slap rent controls on private landlords \u2013 call",
+      "summary": "Two activist groups are demanding the government \u201cslam the brakes on soaring rents\u201d.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/starmer-should-slap-rent-controls-on-private-landlords-call/",
+      "source": "Landlord Today",
+      "published": "Tue, 12 May 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/KeirStarmer-400x310-1.jpg",
+      "ai_summary": "- Activist groups urge the UK government to implement rent controls on private landlords amid escalating rent prices.  \n- The call for action comes as pressure mounts to address the affordability crisis in the housing market."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/many-tenants-remain-ignorant-about-renters-rights-act/",
+      "title": "Many tenants remain ignorant about Renters Rights Act",
+      "summary": "Many tenants remain ignorant about Renters Rights Act",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/many-tenants-remain-ignorant-about-renters-rights-act/",
+      "source": "Landlord Today",
+      "published": "Tue, 12 May 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Most-tenantsdont.png",
+      "ai_summary": "- A significant number of tenants in the UK are unaware of their rights under the Renters Rights Act.\n- This lack of awareness could lead to potential exploitation and challenges in securing fair rental practices."
+    },
     {
       "id": "https://thenegotiator.co.uk/columns/kate-faulkner/scotland-and-n-ireland-lead-the-way-in-house-price-growth/?utm_source=rss&utm_medium=rss&utm_campaign=scotland-and-n-ireland-lead-the-way-in-house-price-growth",
       "title": "Scotland and N. Ireland lead the way in house price growth",
@@ -10,7 +160,7 @@
       "source": "The Negotiator",
       "published": "Fri, 15 May 2026 19:11:42 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/house-price-growth-scotland-and-N.-Ireland-Kate-Faulkner.jpg",
-      "ai_summary": "- Scotland and Northern Ireland are experiencing stronger house price growth compared to England and Wales.  \n- The property market activity in these regions is significantly outperforming their counterparts in England and Wales."
+      "ai_summary": "- Scotland and Northern Ireland are experiencing stronger house price growth compared to England and Wales, highlighting a regional disparity in the property market.  \n- This trend underscores the ongoing resilience and appeal of the housing markets in these regions, as analyzed by property expert Kate Faulkner."
     },
     {
       "id": "https://thenegotiator.co.uk/news/products-services-news/interview-corporate-accountability-comes-to-conveyancing/?utm_source=rss&utm_medium=rss&utm_campaign=interview-corporate-accountability-comes-to-conveyancing",
@@ -20,7 +170,7 @@
       "source": "The Negotiator",
       "published": "Fri, 15 May 2026 19:01:21 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Team-FML.jpg",
-      "ai_summary": "- Patricia Rees-Stott emphasizes the need for blue chip business practices to enhance accountability and reform the conveyancing process in the UK property market.  \n- The conversation highlights Fix My Legals' mission to drive systemic change within the conveyancing sector for improved efficiency and transparency."
+      "ai_summary": "- Patricia Rees-Stott of Fix My Legals advocates for integrating blue-chip business practices into conveyancing to enhance accountability and reform the industry.\n- The interview emphasizes the urgent need for corporate responsibility to address challenges in the conveyancing sector."
     },
     {
       "id": "https://thenegotiator.co.uk/news/regulation-law-news/upper-tribunal-overturns-landlords-hmo-penalty-in-rack-rent-ruling/?utm_source=rss&utm_medium=rss&utm_campaign=upper-tribunal-overturns-landlords-hmo-penalty-in-rack-rent-ruling",
@@ -30,7 +180,7 @@
       "source": "The Negotiator",
       "published": "Fri, 15 May 2026 04:55:58 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/waltham-forest-council.jpg",
-      "ai_summary": "- The Upper Tribunal has dismissed a penalty against a landlord, stating he was not legally in control of his property as he received less than two-thirds of its HMO income.  \n- This ruling sets a significant precedent regarding landlords' financial control over Houses in Multiple Occupation (HMOs)."
+      "ai_summary": "- The Upper Tribunal has reversed a penalty against a landlord, ruling they were not legally in control of the HMO because they received less than two-thirds of its income.  \n- The decision highlights the complexities of HMO regulations and the implications of 'rack rent' agreements in property management."
     },
     {
       "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/first-time-buyers-held-back-by-deposit-myth/?utm_source=rss&utm_medium=rss&utm_campaign=first-time-buyers-held-back-by-deposit-myth",
@@ -40,7 +190,7 @@
       "source": "The Negotiator",
       "published": "Fri, 15 May 2026 04:55:53 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Rachel-Geddes-Mortgage-Advice-Bureau.jpg",
-      "ai_summary": "- First-time buyers are being deterred from entering the housing market due to misconceptions about the size of deposits needed, according to MAB's Rachel Geddes.  \n- The \"deposit myth\" is preventing potential buyers from exploring available options and support."
+      "ai_summary": "- First-time buyers are rejecting opportunities in the housing market due to misconceptions about the required deposit sizes, according to MAB's Rachel Geddes.  \n- The 'deposit myth' is preventing potential homeowners from pursuing their dreams, highlighting the need for clearer information on financing options."
     },
     {
       "id": "https://thenegotiator.co.uk/news/proptech/blog-the-ai-your-crm-is-selling-you-isnt-ai-its-a-promise-with-a-price-tag/?utm_source=rss&utm_medium=rss&utm_campaign=blog-the-ai-your-crm-is-selling-you-isnt-ai-its-a-promise-with-a-price-tag",
@@ -50,7 +200,7 @@
       "source": "The Negotiator",
       "published": "Fri, 15 May 2026 04:55:49 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Riccardo-Iannucci-Dawson-Alto.jpg",
-      "ai_summary": "- Estate agents are seeing a surge in AI tool offerings from CRMs, but industry expert Riccardo Iannucci-Dawson warns that not all solutions are truly artificial intelligence.  \n- Many AI promises from CRMs may come with high costs but lack genuine innovation or effectiveness, raising questions about their true value to estate agents."
+      "ai_summary": "- Estate agents are inundated with new AI tools from CRMs, but the effectiveness of these solutions varies significantly.\n- Alto's Riccardo Iannucci-Dawson warns that what\u2019s marketed as AI may simply be expensive promises lacking real technological substance."
     },
     {
       "id": "https://thenegotiator.co.uk/news/regulation-law-news/rayner-second-favourite-to-become-pm-after-stamp-duty-furore-over/?utm_source=rss&utm_medium=rss&utm_campaign=rayner-second-favourite-to-become-pm-after-stamp-duty-furore-over",
@@ -60,7 +210,7 @@
       "source": "The Negotiator",
       "published": "Fri, 15 May 2026 04:55:40 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/angela-rayner-labour-Andy-Burham.jpg",
-      "ai_summary": "- Angela Rayner, former Deputy Prime Minister and Housing Secretary, is now positioned as the second favorite to become Prime Minister after being cleared of wrongdoing by HMRC in connection with the Stamp Duty issue.  \n- Her exoneration paves the way for a potential leadership challenge, revitalizing her political prospects."
+      "ai_summary": "- Angela Rayner, formerly Deputy Prime Minister and Housing Secretary, has been cleared of wrongdoing by HMRC, bolstering her chances in the leadership race.  \n- She emerges as the second favorite to become Prime Minister following the resolution of the Stamp Duty controversy."
     },
     {
       "id": "https://thenegotiator.co.uk/news/regulation-law-news/influential-think-tank-proposes-rent-controls-offset-by-landlord-tax-concessions/?utm_source=rss&utm_medium=rss&utm_campaign=influential-think-tank-proposes-rent-controls-offset-by-landlord-tax-concessions",
@@ -70,7 +220,7 @@
       "source": "The Negotiator",
       "published": "Fri, 15 May 2026 04:55:18 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Joseph-Rowntree-Foundation.jpg",
-      "ai_summary": "- The Joseph Rowntree Foundation suggests implementing rent controls while allowing landlords full tax deductions on mortgage interest to avoid property sell-offs.  \n- This proposal aims to balance tenant protection with landlord incentives in the UK's housing market."
+      "ai_summary": "- The Joseph Rowntree Foundation suggests implementing rent controls, paired with tax concessions that allow landlords to fully deduct mortgage interest costs, to stabilize the rental market.  \n- The think tank argues that this approach could deter landlords from selling off properties, supporting a more sustainable rental sector."
     },
     {
       "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/council-search-wait-times-balloon-beyond-four-months/?utm_source=rss&utm_medium=rss&utm_campaign=council-search-wait-times-balloon-beyond-four-months",
@@ -80,7 +230,7 @@
       "source": "The Negotiator",
       "published": "Fri, 15 May 2026 04:55:12 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/fall-throughs-land-registry.jpg",
-      "ai_summary": "- Council search wait times have ballooned to over four months, causing significant delays in property transactions.\n- As a result, many property deals are collapsing, increasing pressure on the entire property chain."
+      "ai_summary": "- Local authority search turnaround times have now exceed four months, jeopardizing property transactions and causing deal collapses.  \n- Extended wait times are increasing pressure on property chains, leading to more complications in the housing market."
     }
   ]
 }
