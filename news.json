@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-05-21T01:53:25.500469",
-  "article_count": 25,
+  "last_updated": "2026-05-21T06:40:14.494924",
+  "article_count": 26,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/five-year-ban-for-overcrowding-rogue-landlord/",
+      "title": "Five year ban for overcrowding rogue landlord",
+      "summary": "The most serious conditions were found in an outbuilding",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/five-year-ban-for-overcrowding-rogue-landlord/",
+      "source": "Landlord Today",
+      "published": "Thu, 21 May 2026 00:06:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Banned-400x310-1.png",
+      "ai_summary": "- A rogue landlord has received a five-year ban after being found guilty of overcrowding violations.  \n- The investigation revealed severe living conditions in an outbuilding linked to the property."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/property-management-firm-claims-it-would-save-landlords-money/",
+      "title": "Property management firm claims it would save landlords money",
+      "summary": "Management charges should not be regarded purely as a cost, it claims",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/property-management-firm-claims-it-would-save-landlords-money/",
+      "source": "Landlord Today",
+      "published": "Thu, 21 May 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Money-House.jpg",
+      "ai_summary": "- A property management firm argues that management charges can result in long-term savings for landlords rather than being viewed solely as an expense.  \n- The firm emphasizes the value of professional management in enhancing property performance and reducing hidden costs.  "
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/one-to-one-sessions-for-landlords-to-pay-licensing-fee/",
+      "title": "One-to-one sessions for landlords to pay licensing fee",
+      "summary": "The format involves pre-booked 30 minute sessions",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/one-to-one-sessions-for-landlords-to-pay-licensing-fee/",
+      "source": "Landlord Today",
+      "published": "Thu, 21 May 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/licensing1-400x310-1.png",
+      "ai_summary": "- Landlords can now secure their licensing fee payment through convenient 30-minute one-on-one sessions.  \n- Pre-booking is required, ensuring personalized assistance during the process."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/london-market-bats-away-threat-of-renters-rights-act/",
+      "title": "London market bats away threat of Renters Rights Act",
+      "summary": "Supply levels in the capital\u2019s lettings market are running ahead of last year\u2019s level.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/london-market-bats-away-threat-of-renters-rights-act/",
+      "source": "Landlord Today",
+      "published": "Thu, 21 May 2026 00:00:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/PrimeLondonHousesArc-400x310-1.jpg",
+      "ai_summary": "- London\u2019s lettings market is thriving, with supply levels surpassing those of the previous year.  \n- The city's property landscape remains resilient against potential impacts from the Renters Rights Act."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/over-regulation-may-take-uk-rental-market-into-sharp-decline-warning/",
       "title": "Over-regulation may take UK rental market into sharp decline \u2013 warning",
@@ -10,7 +50,7 @@
       "source": "Landlord Today",
       "published": "Wed, 20 May 2026 00:06:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_278996666.jpg",
-      "ai_summary": "- Experts warn that excessive regulation could lead to a significant decline in the UK's rental market, particularly in regions heavily populated with flats.  \n- The sharp slowdown in rental activity is exacerbated by the high density of flats in these areas, raising concerns for landlords and investors.  "
+      "ai_summary": "- Experts warn that excessive regulation could lead to a significant decline in the UK rental market, particularly affecting areas with a high concentration of flats.  \n- The current market slowdown is exacerbated by these regulatory pressures, raising concerns for landlords and tenants alike.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/serious-property-investors-undeterred-by-renters-rights-act-claim/",
@@ -20,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Wed, 20 May 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1718282725.jpg",
-      "ai_summary": "- Serious property investors remain resilient despite the new Renters Rights Act, according to Handelsbanken\u2019s latest Property Investor Report.  \n- The report highlights continued confidence in the buy-to-let market despite regulatory changes."
+      "ai_summary": "- Serious property investors remain confident despite the challenges posed by the Renters Rights Act, as highlighted in Handelsbanken's latest Property Investor Report.\n- The report indicates a resilient market, with investors undeterred by legislative changes impacting rental properties."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-more-disciplined-thanks-to-renters-rights-act/",
@@ -30,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Wed, 20 May 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/RentCheckData-March17-Wide-InArticle.jpg",
-      "ai_summary": "- Landlords are adopting stricter tenant selection processes, with 59% implementing tighter criteria following the Renters Rights Act.  \n- The legislation has prompted a shift towards more disciplined rental practices in the UK property market."
+      "ai_summary": "- **Landlords Adapting:** 59% of landlords are becoming more selective in tenant criteria due to the Renters Rights Act.  \n- **Stricter Standards Ahead:** The new legislation is prompting a trend towards disciplined rental practices in the UK property market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/one-city-identified-as-key-investment-opportunity-by-national-agency/",
@@ -40,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Wed, 20 May 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Investment-Image-1-400x310-1.jpg",
-      "ai_summary": "- A national agency highlights a city with lower average house prices as a prime investment opportunity.  \n- Rising rental income further enhances its appeal for sustainable property investments."
+      "ai_summary": "- A national agency has pinpointed a UK city as a prime investment spot due to its lower average house prices.  \n- Rising rental income prospects enhance its appeal as a sustainable property investment opportunity."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/renters-falling-out-of-love-with-london-claims-flatshare-site/",
@@ -50,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Wed, 20 May 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/LondonMap400x310-min.png",
-      "ai_summary": "- **Declining Interest**: Searches for 'London' decreased by 14%, highlighting a growing disinterest among renters in the capital.  \n- **postcode Drop**: Interest in specific London postcode areas plunged by 20% to 33%, indicating a significant shift in rental preferences."
+      "ai_summary": "- **Declining Interest**: Flatshare site reports a 14% drop in searches for 'London,' with postcode area searches plummeting by up to 33%.  \n- **Shifting Trends**: Renters are increasingly distancing themselves from the capital, signaling a potential shift in housing preferences."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/council-time-and-court-case-ends-with-landlord-fined-just-369/",
@@ -60,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Tue, 19 May 2026 00:10:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Fined200x150.jpg",
-      "ai_summary": "- A landlord was fined only \u00a3369 for breaching multiple housing laws, including the Housing Act 2004 and Housing (Wales) Act 2014.  \n- The case highlights concerns over the enforcement and penalties associated with property regulation violations in the UK."
+      "ai_summary": "- A landlord was fined merely \u00a3369 for violations of multiple housing laws, including the Housing Act 2004 and the Housing (Wales) Act 2014.  \n- The lenient penalty raises concerns about the enforcement of property regulations and accountability within the rental sector."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/sharp-rise-in-landlord-to-landlord-sales-new-stats/",
@@ -70,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Tue, 19 May 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HouseForSale_400x310.png",
-      "ai_summary": "- Landlord-to-landlord sales are surging, indicating a shift in the rental market dynamics.  \n- Recent statistics reveal increased trading of rental properties among investors, highlighting a strategic investment trend."
+      "ai_summary": "- **Surging Investor Activity**: Recent statistics reveal a notable increase in sales of rental properties among landlords, highlighting a shift within the investor market.  \n- **Market Dynamics Shift**: This trend underscores a growing preference for landlord-to-landlord transactions as investors navigate changing market conditions.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/65m-of-rental-energy-work-financed-by-lloyds-banking-groupenergy/",
@@ -80,7 +120,7 @@
       "source": "Landlord Today",
       "published": "Tue, 19 May 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/EnergyEfficientHome-400x310-1.png",
-      "ai_summary": "- Lloyds Banking Group secures \u00a365 million financing to accelerate rental property energy efficiency upgrades.  \n- Retrofit improvements will now progress rapidly, enhancing energy performance across the sector."
+      "ai_summary": "- Lloyds Banking Group funds \u00a365 million for rental energy retrofits, accelerating sustainable upgrades.  \n- The financing enables rapid implementation of energy-efficient improvements across rental properties."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/drug-gang-landlord-caught-after-google-search-goof/",
@@ -90,7 +130,7 @@
       "source": "Landlord Today",
       "published": "Tue, 19 May 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Google-400x310-1.jpg",
-      "ai_summary": "- A landlord linked to a drug gang was apprehended following a careless Google search that revealed incriminating evidence.  \n- The incident highlights the risks criminals face in the digital age when using online tools carelessly."
+      "ai_summary": "- A landlord linked to a drug gang was apprehended due to a careless Google search mistake.  \n- The oversight in online research led authorities to uncover his criminal activities."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/nrla-moves-into-build-to-rent-and-wider-property-investment/",
@@ -100,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Mon, 18 May 2026 11:09:10 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Investment-Image-1-400x310-1.jpg",
-      "ai_summary": "- The National Residential Landlords Association (NRLA) is collaborating with Build To Rent and property investment funds to enhance rental market services.\n- This partnership, facilitated by property consultancy Bidwells, aims to streamline property investment processes in the UK."
+      "ai_summary": "- The National Residential Landlords Association (NRLA) is collaborating with Build To Rent and property investment funds to enhance rental offerings.  \n- This initiative is powered by NRLA in partnership with property consultancy Bidwells."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-enjoy-supernormal-so-rent-controlcan-afford-rent-controls-claim/",
@@ -110,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Mon, 18 May 2026 00:06:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2540723483.jpg",
-      "ai_summary": "- The Joseph Rowntree Foundation argues that landlords are making \"supernormal\" profits, suggesting they can withstand the implementation of rent controls.  \n- The foundation's claim emphasizes the need for regulatory measures in the face of rising rental costs for tenants."
+      "ai_summary": "- The Joseph Rowntree Foundation asserts that landlords are currently making \"supernormal\" profits, indicating their financial capacity to accommodate rent controls.  \n- The foundation's claim suggests that implementing rent controls could be a feasible measure to address housing affordability challenges in the UK."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/councils-no-longer-giving-landlords-second-chances/",
@@ -120,7 +160,7 @@
       "source": "Landlord Today",
       "published": "Mon, 18 May 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_538089325.jpg",
-      "ai_summary": "- UK councils are tightening regulations, signaling a shift in policy where landlords will no longer receive leniency.  \n- A stark warning emphasizes that all landlords are now at risk of penalties, regardless of their previous standing."
+      "ai_summary": "- UK councils are tightening regulations, signaling that landlords will not receive second chances in compliance matters.\n- All landlords, regardless of their location, face increased scrutiny and potential risks from local authorities."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/shelters-new-claim-over-section-21-evictions/",
@@ -130,7 +170,7 @@
       "source": "Landlord Today",
       "published": "Mon, 18 May 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shelter-logo400x310.png",
-      "ai_summary": "- Shelter advocates for the immediate prohibition of Section 21 evictions, emphasizing it as crucial to the ongoing Renters Rights Act.\n- The campaign highlights the need for stronger tenant protections amid ongoing housing instability concerns."
+      "ai_summary": "- Shelter emphasizes that abolishing Section 21 evictions is crucial for the success of the Renters Rights Act.  \n- The organization advocates for stronger tenant protections in the current property landscape.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlord-wins-15-discount-after-huge-fine-for-hmo-offences/",
@@ -140,117 +180,87 @@
       "source": "Landlord Today",
       "published": "Mon, 18 May 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/A-surveyors-guide-to-finding-a-profitable-HMO-11.jpg",
-      "ai_summary": "- A landlord faced fines exceeding \u00a342,000 for violating HMO regulations but successfully negotiated a 15% discount on the penalties.  \n- This case highlights the financial repercussions for non-compliance in the rental property sector."
+      "ai_summary": "- A landlord faced substantial penalties exceeding \u00a342,000 for offences related to a House in Multiple Occupation (HMO).\n- After an appeal, the landlord secured a 15% discount on the total fines."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/prime-minister-burnham-may-lead-clampdown-on-private-landlords/",
-      "title": "Prime Minister Burnham may lead clampdown on private landlords",
-      "summary": "Prime Minister Burnham may lead a clampdown on private landlords",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/prime-minister-burnham-may-lead-clampdown-on-private-landlords/",
-      "source": "Landlord Today",
-      "published": "Fri, 15 May 2026 00:06:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Andy-Burnham-LAbour-400x310-1.png",
-      "ai_summary": "- Prime Minister Burnham plans to introduce new measures targeting private landlords.  \n- A potential clampdown could reshape the rental landscape in the UK."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/arrears-rise-but-underlying-rental-market-stability-improves/",
-      "title": "Arrears rise but underlying rental market stability improves",
-      "summary": "The rate of arrears growth has slowed, suggesting a gradual stabilisation in the market.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/arrears-rise-but-underlying-rental-market-stability-improves/",
-      "source": "Landlord Today",
-      "published": "Fri, 15 May 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/tenant-arrears.png",
-      "ai_summary": "- Arrears growth is slowing down, indicating a potential stabilization in the rental market.  \n- Overall, the underlying rental market shows signs of improvement despite rising arrears."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/put-the-brakes-on-rent-rises-says-left-wing-think-tank/",
-      "title": "Put the brakes on rent rises, says left wing think tank",
-      "summary": "Put the brakes on rent rises, says left wing think tank",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/put-the-brakes-on-rent-rises-says-left-wing-think-tank/",
-      "source": "Landlord Today",
-      "published": "Fri, 15 May 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2239146247-1.jpg",
-      "ai_summary": "- A left-wing think tank is advocating for a halt to rising rents in the UK.  \n- The call for action aims to address affordability concerns amidst escalating housing costs."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/products-services-news/alto-software-hits-new-performance-highs/?utm_source=rss&utm_medium=rss&utm_campaign=alto-software-hits-new-performance-highs",
-      "title": "Alto hits new performance highs",
-      "summary": "Alto delivered \u201cstandout\u201d growth in sales, deal size and overall performance, says the group's Chief Executive Riccardo Iannucci-Dawson.\nThe post Alto hits new performance highs appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/products-services-news/alto-software-hits-new-performance-highs/?utm_source=rss&utm_medium=rss&utm_campaign=alto-software-hits-new-performance-highs",
+      "id": "https://thenegotiator.co.uk/news/products-services-news/reposit-announced-as-goodlord-deposit-replacement-partner/?utm_source=rss&utm_medium=rss&utm_campaign=reposit-announced-as-goodlord-deposit-replacement-partner",
+      "title": "Reposit announced as Goodlord deposit replacement partner",
+      "summary": "Ben Grech, CEO at Reposit, says its partnership with Goodlord reflects the continued evolution of the rental market.\nThe post Reposit announced as Goodlord deposit replacement partner appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/products-services-news/reposit-announced-as-goodlord-deposit-replacement-partner/?utm_source=rss&utm_medium=rss&utm_campaign=reposit-announced-as-goodlord-deposit-replacement-partner",
       "source": "The Negotiator",
-      "published": "Wed, 20 May 2026 04:55:49 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Riccardo-Iannucci-Dawson-Alto-1.jpg",
-      "ai_summary": "- Alto reports significant sales growth and increased deal size, achieving new performance highs, according to CEO Riccardo Iannucci-Dawson.\n- The company's noteworthy achievements highlight its strong position in the UK property market."
+      "published": "Thu, 21 May 2026 04:55:59 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Ben-Grech-CEO-Reposit.jpg",
+      "ai_summary": "- Reposit partners with Goodlord to offer innovative deposit replacement solutions, signaling a shift in the rental market dynamics.  \n- CEO Ben Grech emphasizes the partnership as part of ongoing developments to enhance the rental experience."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/sexist-culture-in-property-industry-debated-by-leading-agents/?utm_source=rss&utm_medium=rss&utm_campaign=sexist-culture-in-property-industry-debated-by-leading-agents",
-      "title": "Sexist culture in property industry debated by leading agents",
-      "summary": "Matt Giggs presented a discussion centred on how women \"are escaping the rigged corporate ladder\" and glass ceiling.\nThe post Sexist culture in property industry debated by leading agents appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/sexist-culture-in-property-industry-debated-by-leading-agents/?utm_source=rss&utm_medium=rss&utm_campaign=sexist-culture-in-property-industry-debated-by-leading-agents",
+      "id": "https://thenegotiator.co.uk/features/regulation-law-features/the-detail-is-in-the-deposit/?utm_source=rss&utm_medium=rss&utm_campaign=the-detail-is-in-the-deposit",
+      "title": "The detail is in the deposit",
+      "summary": "Lisa Isaacs reveals how an empowered Generation Rent and a new layer of ombudsman scrutiny will force agents to review their attitude to deposit risks.\nThe post The detail is in the deposit appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/features/regulation-law-features/the-detail-is-in-the-deposit/?utm_source=rss&utm_medium=rss&utm_campaign=the-detail-is-in-the-deposit",
       "source": "The Negotiator",
-      "published": "Wed, 20 May 2026 04:55:39 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Matt-Giggs-debate.jpg",
-      "ai_summary": "- Leading agents discuss the pervasive sexist culture in the property industry, highlighting women's challenges in navigating the corporate hierarchy.\n- Matt Giggs emphasizes the need for change as more women seek to break free from the \"rigged corporate ladder\" and the glass ceiling."
+      "published": "Thu, 21 May 2026 04:55:59 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/tenants-deposit-feature.jpg",
+      "ai_summary": "- An empowered Generation Rent is pushing for change, urging agents to reassess their approach to deposit risks amid increasing scrutiny.  \n- New ombudsman oversight is set to hold property agents accountable, enhancing tenant protections during deposit disputes."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/marketing-news/property-investment-firm-changes-misleading-email-ad/?utm_source=rss&utm_medium=rss&utm_campaign=property-investment-firm-changes-misleading-email-ad",
-      "title": "Property investment firm changes \u2018misleading\u2019 email ad",
-      "summary": "Invicta Investment Properties Ltd trading as Invicta Property agreed to alter the advert after a complaint to the ASA.\nThe post Property investment firm changes \u2018misleading\u2019 email ad appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/marketing-news/property-investment-firm-changes-misleading-email-ad/?utm_source=rss&utm_medium=rss&utm_campaign=property-investment-firm-changes-misleading-email-ad",
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/self-employed-agents-outperform-traditional-ones-twentyea-data-reveals/?utm_source=rss&utm_medium=rss&utm_campaign=self-employed-agents-outperform-traditional-ones-twentyea-data-reveals",
+      "title": "Self-employed agents outperform traditional ones, TwentyEA data reveals",
+      "summary": "Estate agents that are self-employed sell properties faster and for more, according to TwentyEA\u2019s Nick Huntley.\nThe post Self-employed agents outperform traditional ones, TwentyEA data reveals appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/self-employed-agents-outperform-traditional-ones-twentyea-data-reveals/?utm_source=rss&utm_medium=rss&utm_campaign=self-employed-agents-outperform-traditional-ones-twentyea-data-reveals",
       "source": "The Negotiator",
-      "published": "Wed, 20 May 2026 04:55:39 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2024/05/asa-complaint-advertising.jpg",
-      "ai_summary": "- Invicta Investment Properties Ltd has amended a deceptive email advertisement following a complaint lodged with the Advertising Standards Authority (ASA).  \n- The firm, operating as Invicta Property, agreed to rectify the misleading content to comply with advertising standards."
+      "published": "Thu, 21 May 2026 04:55:56 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Nick-Huntley-TwentyEA.jpg",
+      "ai_summary": "- Self-employed estate agents surpass traditional counterparts by selling properties more quickly and at higher prices, as revealed by TwentyEA's Nick Huntley.\n- The data underscores a growing trend in the real estate market, favoring self-employed agents for enhanced efficiency and profitability."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/marketing-news/ai-empowered-zoopla-rolls-out-new-strategies-for-agents-and-builders/?utm_source=rss&utm_medium=rss&utm_campaign=ai-empowered-zoopla-rolls-out-new-strategies-for-agents-and-builders",
-      "title": "AI-empowered Zoopla rolls out new strategies for agents and builders",
-      "summary": "CEO Paul Whitehead highlights investment in AI tools and the new homes market as key pillars in the portal's next-step evolution.\nThe post AI-empowered Zoopla rolls out new strategies for agents and builders appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/marketing-news/ai-empowered-zoopla-rolls-out-new-strategies-for-agents-and-builders/?utm_source=rss&utm_medium=rss&utm_campaign=ai-empowered-zoopla-rolls-out-new-strategies-for-agents-and-builders",
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/shock-drop-in-uks-inflation/?utm_source=rss&utm_medium=rss&utm_campaign=shock-drop-in-uks-inflation",
+      "title": "Shock drop in inflation",
+      "summary": "Inflation has fallen from 3.3% to 2.8%, raising hopes that the Bank of England could ease rates later this year.\nThe post Shock drop in inflation appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/shock-drop-in-uks-inflation/?utm_source=rss&utm_medium=rss&utm_campaign=shock-drop-in-uks-inflation",
       "source": "The Negotiator",
-      "published": "Wed, 20 May 2026 04:55:26 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Paul-Whitehead-Zoopla.co_.uk_.jpg",
-      "ai_summary": "- Zoopla announces a strategic focus on AI tools and the new homes market to enhance its services for agents and builders, according to CEO Paul Whitehead.  \n- The portal's evolution is driven by significant investments in innovative technologies aimed at transforming the real estate landscape."
+      "published": "Thu, 21 May 2026 04:55:56 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/inflation.jpg",
+      "ai_summary": "- Inflation in the UK has significantly decreased from 3.3% to 2.8%, sparking optimism for potential interest rate cuts.  \n- This drop may lead the Bank of England to reconsider its current monetary policy later in the year.  "
     },
     {
-      "id": "https://thenegotiator.co.uk/news/proptech/sellers-seek-ai-reassurance-on-estate-agent-valuations/?utm_source=rss&utm_medium=rss&utm_campaign=sellers-seek-ai-reassurance-on-estate-agent-valuations",
-      "title": "Sellers seek AI reassurance on estate agent valuations",
-      "summary": "New analysis from Acaboom suggests sellers are increasingly using AI tools to question estate agent pricing, fees and marketing strategy.\nThe post Sellers seek AI reassurance on estate agent valuations appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/proptech/sellers-seek-ai-reassurance-on-estate-agent-valuations/?utm_source=rss&utm_medium=rss&utm_campaign=sellers-seek-ai-reassurance-on-estate-agent-valuations",
+      "id": "https://thenegotiator.co.uk/news/rental-market/nrla-unites-with-the-lettings-industry-council/?utm_source=rss&utm_medium=rss&utm_campaign=nrla-unites-with-the-lettings-industry-council",
+      "title": "NRLA unites with The Lettings Industry Council",
+      "summary": "The new structure will see the TLIC Chair Theresa Wallace work alongside Ben Beadle, the Chief Executive of the NRLA.\nThe post NRLA unites with The Lettings Industry Council appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/nrla-unites-with-the-lettings-industry-council/?utm_source=rss&utm_medium=rss&utm_campaign=nrla-unites-with-the-lettings-industry-council",
       "source": "The Negotiator",
-      "published": "Wed, 20 May 2026 04:55:21 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/AI-estate-agent-valuation.jpg",
-      "ai_summary": "- Sellers are turning to AI tools to validate estate agent valuations, fees, and marketing strategies, according to Acaboom's recent analysis.  \n- This trend reflects a growing demand for transparency and reassurance in property pricing amid rising market sophistication."
+      "published": "Thu, 21 May 2026 04:55:51 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Ben-Neadle-1.jpg",
+      "ai_summary": "- The NRLA partners with The Lettings Industry Council for a unified approach in the lettings sector, featuring Theresa Wallace as Chair and Ben Beadle as Chief Executive.  \n- This collaboration aims to strengthen representation and advocacy for landlords and tenants across the UK rental market."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/marketing-news/halifax-brand-faces-axe-after-173-years/?utm_source=rss&utm_medium=rss&utm_campaign=halifax-brand-faces-axe-after-173-years",
-      "title": "Halifax brand faces axe after 173 years",
-      "summary": "Consolidation of Lloyds Banking Group\u2019s retail banking operations could spell the end for the Halifax brand.\nThe post Halifax brand faces axe after 173 years appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/marketing-news/halifax-brand-faces-axe-after-173-years/?utm_source=rss&utm_medium=rss&utm_campaign=halifax-brand-faces-axe-after-173-years",
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/first-time-buyer-hotspots-defy-national-trend/?utm_source=rss&utm_medium=rss&utm_campaign=first-time-buyer-hotspots-defy-national-trend",
+      "title": "First-time buyer \u2018hotspots\u2019 defy national trend",
+      "summary": "Rightmove figures reveal how some locations have flourishing markets for first-timers despite a general downturn and higher mortgage rates.\nThe post First-time buyer \u2018hotspots\u2019 defy national trend appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/first-time-buyer-hotspots-defy-national-trend/?utm_source=rss&utm_medium=rss&utm_campaign=first-time-buyer-hotspots-defy-national-trend",
       "source": "The Negotiator",
-      "published": "Wed, 20 May 2026 04:55:21 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/halifax.jpg",
-      "ai_summary": "- Lloyds Banking Group is considering eliminating the Halifax brand as part of a consolidation of its retail banking operations.\n- This potential move could mark the end of Halifax's 173-year legacy in the UK banking sector."
+      "published": "Thu, 21 May 2026 04:55:47 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/11/first-time-buyers.jpg",
+      "ai_summary": "- Despite a national downturn and rising mortgage rates, certain UK locations are thriving as first-time buyer hotspots, according to Rightmove figures.  \n- These flourishing markets stand out against the broader trend, offering new opportunities for first-time homeowners."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/west-midlands-council-forced-to-refund-259k-in-empty-homes-tax-fiasco/?utm_source=rss&utm_medium=rss&utm_campaign=west-midlands-council-forced-to-refund-259k-in-empty-homes-tax-fiasco",
-      "title": "West Midlands council forced to refund \u00a3259k in empty homes tax fiasco",
-      "summary": "Nuneaton and Bedworth Borough Council admitted it had failed to follow proper procedures before introducing higher council tax charges.\nThe post West Midlands council forced to refund \u00a3259k in empty homes tax fiasco appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/west-midlands-council-forced-to-refund-259k-in-empty-homes-tax-fiasco/?utm_source=rss&utm_medium=rss&utm_campaign=west-midlands-council-forced-to-refund-259k-in-empty-homes-tax-fiasco",
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/measures-to-prevent-another-grenfell-announced-by-ministers/?utm_source=rss&utm_medium=rss&utm_campaign=measures-to-prevent-another-grenfell-announced-by-ministers",
+      "title": "Measures to prevent \u2018another Grenfell\u2019 announced by ministers",
+      "summary": "Minister for Building Safety, Fire and Democracy, Samantha Dixon says the Grenfell tragedy\u202f\"should never have happened\".\nThe post Measures to prevent \u2018another Grenfell\u2019 announced by ministers appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/measures-to-prevent-another-grenfell-announced-by-ministers/?utm_source=rss&utm_medium=rss&utm_campaign=measures-to-prevent-another-grenfell-announced-by-ministers",
       "source": "The Negotiator",
-      "published": "Wed, 20 May 2026 04:55:18 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Nuneaton-Bedworth-Borough-Council.jpg",
-      "ai_summary": "- Nuneaton and Bedworth Borough Council must refund \u00a3259,000 after mishandling regulations for higher council tax on empty homes.  \n- The council acknowledged it did not follow proper procedures prior to implementing the tax increases."
+      "published": "Thu, 21 May 2026 04:55:23 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/samantha-dixon.jpg",
+      "ai_summary": "- UK ministers, led by Samantha Dixon, emphasize the need for stringent safety measures to prevent a tragedy like Grenfell from recurring.  \n- Dixon asserts that the Grenfell disaster \"should never have happened,\" highlighting a commitment to improving building safety standards."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/rental-market/lettings-market-shrugging-off-renters-rights-act-foxtons-claims/?utm_source=rss&utm_medium=rss&utm_campaign=lettings-market-shrugging-off-renters-rights-act-foxtons-claims",
-      "title": "Lettings market shrugging off Renters\u2019 Rights Act, Foxtons claims",
-      "summary": "Rents and landlord confidence held firm during the course of April, says Foxton\u2019s Lettings' Gareth Atkins.\nThe post Lettings market shrugging off Renters\u2019 Rights Act, Foxtons claims appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/rental-market/lettings-market-shrugging-off-renters-rights-act-foxtons-claims/?utm_source=rss&utm_medium=rss&utm_campaign=lettings-market-shrugging-off-renters-rights-act-foxtons-claims",
+      "id": "https://thenegotiator.co.uk/news/land-new-homes/major-builder-warns-it-can-no-longer-invest-in-london/?utm_source=rss&utm_medium=rss&utm_campaign=major-builder-warns-it-can-no-longer-invest-in-london",
+      "title": "Major builder warns it can no longer invest in London",
+      "summary": "Planning barriers are stopping developers from investing in London, and it's making the housing crisis worse, says Berkeley\u2019s Rob Perrins.\nThe post Major builder warns it can no longer invest in London appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/land-new-homes/major-builder-warns-it-can-no-longer-invest-in-london/?utm_source=rss&utm_medium=rss&utm_campaign=major-builder-warns-it-can-no-longer-invest-in-london",
       "source": "The Negotiator",
-      "published": "Wed, 20 May 2026 04:55:12 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Gareth-Atkins-Foxtons.jpg",
-      "ai_summary": "- Foxtons reports that rents and landlord confidence remained stable in April, despite the challenges posed by the new Renters' Rights Act.  \n- Gareth Atkins highlights the resilience of the lettings market, indicating it is successfully navigating regulatory changes."
+      "published": "Thu, 21 May 2026 04:55:15 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Rob-Perrins-Berkeley.jpg",
+      "ai_summary": "- Berkeley\u2019s Rob Perrins highlights that planning barriers are thwarting investment in London, exacerbating the housing crisis.\n- Major builders are struggling to invest, signaling a critical issue for the capital's housing market."
     }
   ]
 }
