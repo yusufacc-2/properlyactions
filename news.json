@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-05-27T01:59:11.042962",
-  "article_count": 26,
+  "last_updated": "2026-05-27T06:52:08.263941",
+  "article_count": 27,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/american-style-rent-to-buy-model-issues-appeal-to-disillusioned-uk-landlords/",
+      "title": "American-style Rent To Buy scheme seeks disillusioned UK landlords",
+      "summary": "Landlords allow the company to place a vetted tenant-buyer into the home.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/american-style-rent-to-buy-model-issues-appeal-to-disillusioned-uk-landlords/",
+      "source": "Landlord Today",
+      "published": "Wed, 27 May 2026 00:06:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/RentBuy-400x3101-1.png",
+      "ai_summary": "- A new Rent To Buy scheme is targeting dissatisfied UK landlords by offering vetted tenant-buyers to occupy their properties.  \n- This American-style initiative aims to streamline rental processes while providing potential homeowners with an opportunity to purchase their rented homes."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-quitting-because-of-hidden-costs-claim/",
+      "title": "Landlords quitting because of hidden costs \u2013 claim",
+      "summary": "Those costs go beyond the well-publicised higher mortgage rates and EPC changes",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-quitting-because-of-hidden-costs-claim/",
+      "source": "Landlord Today",
+      "published": "Wed, 27 May 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/cover-costs-expanding-business.jpg",
+      "ai_summary": "- Landlords are increasingly exiting the market due to unexpected expenses that extend beyond rising mortgage rates and new energy performance standards.\n- Hidden costs are reportedly driving a significant number of landlords to reassess their investments in UK property."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlord-and-agent-must-pay-over-90000/",
+      "title": "Landlord and agent must pay over \u00a390,000",
+      "summary": "This follows a council investigation uncovered dangerous living conditions",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlord-and-agent-must-pay-over-90000/",
+      "source": "Landlord Today",
+      "published": "Wed, 27 May 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/money-fine400x310.png",
+      "ai_summary": "- A landlord and agent have been ordered to pay over \u00a390,000 due to severe safety violations.  \n- The hefty fine comes after a council investigation revealed perilous living conditions for tenants."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/five-days-before-landlords-risk-7000-fine/",
+      "title": "Five days before landlords risk \u00a37,000 fine",
+      "summary": "It's another part of the Renters Rights Act",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/five-days-before-landlords-risk-7000-fine/",
+      "source": "Landlord Today",
+      "published": "Wed, 27 May 2026 00:03:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/360x280_Return_on_Time.png",
+      "ai_summary": "- Landlords face potential fines of up to \u00a37,000 starting in five days due to new regulations under the Renters Rights Act.\n- The legislation emphasizes compliance, putting pressure on landlords to adapt quickly to avoid financial penalties."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/specialist-funding-option-for-property-investors-entering-pbsa/",
+      "title": "Specialist funding option for property investors entering PBSA",
+      "summary": "Investors have shown growing interest in Purpose Build Student Accommodation",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/specialist-funding-option-for-property-investors-entering-pbsa/",
+      "source": "Landlord Today",
+      "published": "Wed, 27 May 2026 00:00:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Studentsimage400x310.jpg",
+      "ai_summary": "- Expert funding solutions are now available for property investors looking to enter the Purpose Built Student Accommodation (PBSA) market.  \n- Investor interest in PBSA is on the rise, highlighting its potential as a lucrative property investment opportunity."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/worse-to-come-on-possessions-caused-by-renters-rights-act/",
       "title": "Worse to come on possessions caused by Renters Rights Act",
@@ -10,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Tue, 26 May 2026 00:20:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Eviction2-400x310-min.jpeg",
-      "ai_summary": "- New statistics reveal a looming increase in property possession cases linked to the Renters Rights Act, despite the figures only reflecting up to March, prior to the Act's enactment.\n- Potential future challenges in the rental market are anticipated as landlords brace for the effects of the new legislation on tenant evictions."
+      "ai_summary": "- Upcoming data suggests an increase in possession cases due to the Renters Rights Act, as the latest statistics reflect conditions prior to its implementation.  \n- Experts warn that the true impact of the Act may lead to even higher possession rates in the coming months."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlord-loses-appeal-and-is-hit-with-9000-fine-fine/",
@@ -20,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Tue, 26 May 2026 00:15:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Fined400x310.jpg",
-      "ai_summary": "- A landlord was fined \u00a39,000 after attempting to evict tenants without a proper possession order, following their complaints.  \n- The court upheld the ruling, emphasizing the importance of legal procedures in tenant evictions.  "
+      "ai_summary": "- A landlord has been fined \u00a39,000 after unlawfully evicting tenants without a possession order following their complaints.  \n- The landlord's appeal against the fine was rejected, underscoring the legal importance of tenant rights and proper eviction procedures."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/party-suspends-councillor-in-landlord-licensing-row/",
@@ -30,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Tue, 26 May 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/licensing1-400x310-1.png",
-      "ai_summary": "- A councillor has been suspended by their party amidst a controversy over landlord licensing issues.  \n- The councillor faced a fine and is required to pay associated costs."
+      "ai_summary": "- A councillor has been suspended by their party amid a controversy over landlord licensing issues.  \n- The councillor has been fined and is responsible for covering associated costs."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/agent-warns-landlords-as-vital-deadline-looms/",
@@ -40,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Tue, 26 May 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/360x280_Return_on_Time.png",
-      "ai_summary": "- Landlords must prepare for new obligations under the Renters' Rights Act as a crucial deadline approaches.\n- Failure to comply with the upcoming regulations could result in significant repercussions for property owners."
+      "ai_summary": "- Landlords face new obligations under the Renters' Rights Act as a crucial deadline approaches.  \n- Failure to comply could lead to significant repercussions for property owners."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/lenders-woo-landlords-with-new-products-and-loan-deals/",
@@ -50,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Tue, 26 May 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Money-House.jpg",
-      "ai_summary": "- Lenders are actively targeting landlords with attractive new loan products and competitive deals.  \n- These offerings are available immediately, presenting fresh opportunities for property investors."
+      "ai_summary": "- Lenders are actively targeting landlords with innovative products and competitive loan deals.  \n- New offerings are currently available, enhancing borrowing options for property investors."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlord-andy-burnham-in-hypocrite-row/",
@@ -60,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Mon, 25 May 2026 12:55:22 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Andy-Burnham-LAbour-400x310-1.png",
-      "ai_summary": "- Mayor Andy Burnham faces backlash after it emerges he owns and rents out a former council flat, sparking allegations of hypocrisy.  \n- The revelation raises questions about his stance on social housing and support for tenants amidst the ongoing housing crisis."
+      "ai_summary": "- Manchester Mayor Andy Burnham faces backlash for hypocrisy after it\u2019s disclosed he owns and rents out a former council flat.  \n- Critics argue that Burnham's actions contradict his public stance on affordable housing and support for renters."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/the-stress-of-being-a-private-landlord-in-2026/",
@@ -70,7 +120,7 @@
       "source": "Landlord Today",
       "published": "Sat, 23 May 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2131821733.jpg",
-      "ai_summary": "- Private landlords in the UK are facing mounting pressure from regulatory changes, rising costs, and tenant expectations as 2026 approaches.\n- The increasing stress on landlords highlights the challenges of maintaining profitability and compliance in a rapidly evolving property market."
+      "ai_summary": "- Rising costs and regulatory pressures are heightening the challenges faced by private landlords in the UK.  \n- Landlords are grappling with increased demands and expectations, leading to significant stress in their operations by 2026."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/starmer-throws-number-10-party-for-rental-activists/",
@@ -80,7 +130,7 @@
       "source": "Landlord Today",
       "published": "Fri, 22 May 2026 00:06:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2262886701.jpg",
-      "ai_summary": "- Prime Minister Sir Keir Starmer hosts a taxpayer-funded party at Number 10 for rental activists amidst ongoing challenges in his leadership.  \n- The event highlights Starmer's focus on housing issues as he aims to strengthen his connection with key voter demographics."
+      "ai_summary": "- Prime Minister Sir Keir Starmer hosts a taxpayer-funded party at Number 10 for rental activists amid increasing scrutiny.  \n- The event comes as rental affordability concerns escalate, drawing criticism over the use of public funds."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/40-of-tenants-dont-even-know-about-the-renters-rights-act/",
@@ -90,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Fri, 22 May 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/TenantsLandlordTalking-400x310-1.png",
-      "ai_summary": "- A staggering 40% of tenants remain unaware of the Renters Rights Act, highlighting a significant knowledge gap in tenant rights.  \n- The Barclays Property Insights report reveals rising awareness and optimism among tenants regarding their rights in rental agreements."
+      "ai_summary": "- **Awareness Gap:** A staggering 40% of tenants remain unaware of the Renters Rights Act, highlighting significant gaps in tenant knowledge.  \n- **Positive Shift:** Despite the lack of awareness, a Barclays report reveals growing positivity and awareness among tenants regarding their rights."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/what-tenants-want-most-in-their-home-and-what-they-will-pay-more-for/",
@@ -100,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Fri, 22 May 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/InteriorHouse-400x310-1.png",
-      "ai_summary": "- Renters are prioritizing features such as outdoor space and modern amenities, influencing their willingness to pay higher rents.\n- A comprehensive room-by-room analysis reveals specific preferences that significantly impact tenant satisfaction and rental decisions."
+      "ai_summary": "- Tenants prioritize essential features like modern kitchens and ample space, often willing to pay a premium for these amenities.  \n- Room-specific preferences highlight the importance of outdoor space and upgraded bathrooms in attracting higher rents."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/build-to-rent-claims-code-makes-it-best-in-class-for-tenants/",
@@ -110,7 +160,7 @@
       "source": "Landlord Today",
       "published": "Fri, 22 May 2026 00:00:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/BuildtoRent-1-400x310-1.jpg",
-      "ai_summary": "- A new Code of Practice has been introduced for the Build To Rent (BTR) sector, aimed at enhancing tenant standards.\n- Industry leaders claim this code positions BTR as the \u201cbest in class\u201d option for renters in the UK."
+      "ai_summary": "- A new Code of Practice for the Build To Rent (BTR) sector positions it as a leading choice for tenant satisfaction.  \n- The initiative aims to enhance standards and transparency, reinforcing BTR's commitment to quality living environments."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/five-year-ban-for-overcrowding-rogue-landlord/",
@@ -120,7 +170,7 @@
       "source": "Landlord Today",
       "published": "Thu, 21 May 2026 00:06:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Banned-400x310-1.png",
-      "ai_summary": "- A rogue landlord has received a five-year ban for severe overcrowding violations.  \n- The worst conditions were discovered in an outbuilding on the property."
+      "ai_summary": "- A rogue landlord was handed a five-year ban after severe overcrowding issues were uncovered in an outbuilding.  \n- Authorities cited the landlord for allowing dangerous living conditions that jeopardized tenant safety."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/property-management-firm-claims-it-would-save-landlords-money/",
@@ -130,7 +180,7 @@
       "source": "Landlord Today",
       "published": "Thu, 21 May 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Money-House.jpg",
-      "ai_summary": "- A property management firm argues that viewing management charges solely as expenses overlooks their potential for long-term savings for landlords.  \n- The firm advocates for a perspective shift, suggesting that effective management can enhance property value and reduce overall costs."
+      "ai_summary": "- A property management firm argues that viewing management fees solely as expenses overlooks the potential cost savings they offer landlords.  \n- The firm emphasizes the financial benefits of effective property management in enhancing profitability for landlords."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/one-to-one-sessions-for-landlords-to-pay-licensing-fee/",
@@ -140,47 +190,67 @@
       "source": "Landlord Today",
       "published": "Thu, 21 May 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/licensing1-400x310-1.png",
-      "ai_summary": "- Landlords can now schedule pre-booked 30-minute one-on-one sessions to discuss and pay their licensing fees.  \n- This initiative aims to streamline the licensing process for property owners in the UK."
+      "ai_summary": "- Landlords can now book 30-minute one-on-one sessions to manage and pay their licensing fees.\n- This initiative aims to streamline the licensing process and improve compliance among property owners."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/london-market-bats-away-threat-of-renters-rights-act/",
-      "title": "London market bats away threat of Renters Rights Act",
-      "summary": "Supply levels in the capital\u2019s lettings market are running ahead of last year\u2019s level.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/london-market-bats-away-threat-of-renters-rights-act/",
-      "source": "Landlord Today",
-      "published": "Thu, 21 May 2026 00:00:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/PrimeLondonHousesArc-400x310-1.jpg",
-      "ai_summary": "- London's rental market defies concerns over the Renters Rights Act as supply outpaces last year's figures.  \n- Increased availability in the lettings market signals resilience amid regulatory challenges."
+      "id": "https://thenegotiator.co.uk/news/rental-market/dynamics-shift-as-children-more-likely-to-live-in-rental-homes-than-adults/?utm_source=rss&utm_medium=rss&utm_campaign=dynamics-shift-as-children-more-likely-to-live-in-rental-homes-than-adults",
+      "title": "New report reveals shocking changes to private rented sector",
+      "summary": "The PRS is no longer a \u2018pitstop\u2019 on the way to home ownership, says Resolution Foundation\u2019s Hannah Aldridge.\nThe post New report reveals shocking changes to private rented sector appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/dynamics-shift-as-children-more-likely-to-live-in-rental-homes-than-adults/?utm_source=rss&utm_medium=rss&utm_campaign=dynamics-shift-as-children-more-likely-to-live-in-rental-homes-than-adults",
+      "source": "The Negotiator",
+      "published": "Wed, 27 May 2026 04:55:59 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Hannah-Aldridge-Resolution-Foundation.jpg",
+      "ai_summary": "- The private rented sector (PRS) has transformed from a temporary solution to a long-term living option, according to the Resolution Foundation.\n- Hannah Aldridge highlights alarming trends indicating that renting is no longer just a step towards home ownership."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/over-regulation-may-take-uk-rental-market-into-sharp-decline-warning/",
-      "title": "Over-regulation may take UK rental market into sharp decline \u2013 warning",
-      "summary": "The area\u2019s high concentration of flats appears to have amplified the slowdown",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/over-regulation-may-take-uk-rental-market-into-sharp-decline-warning/",
-      "source": "Landlord Today",
-      "published": "Wed, 20 May 2026 00:06:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_278996666.jpg",
-      "ai_summary": "- Experts warn that excessive regulations could lead to a significant downturn in the UK rental market.  \n- The proliferation of flats in certain areas is exacerbating the existing slowdown in rental demand."
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/serial-landlord-offender-faces-another-significant-fine/?utm_source=rss&utm_medium=rss&utm_campaign=serial-landlord-offender-faces-another-significant-fine",
+      "title": "Serial landlord offender faces another significant fine",
+      "summary": "In court, Deputy District Judge Imran Hussain (pictured) dismissed landlord Hasan Kazi\u2019s evidence as \u201cvague\u201d, \u201cinconsistent\u201d and \u201cfanciful\u201d.\nThe post Serial landlord offender faces another significant fine appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/serial-landlord-offender-faces-another-significant-fine/?utm_source=rss&utm_medium=rss&utm_campaign=serial-landlord-offender-faces-another-significant-fine",
+      "source": "The Negotiator",
+      "published": "Wed, 27 May 2026 04:55:35 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Imran-Hussain-Deputy-District-Judge.jpg",
+      "ai_summary": "- Landlord Hasan Kazi, labeled a \"serial offender,\" was dismissed in court for providing vague and inconsistent evidence regarding his property practices.  \n- Deputy District Judge Imran Hussain ruled against him, leading to another substantial fine."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/serious-property-investors-undeterred-by-renters-rights-act-claim/",
-      "title": "Serious property investors undeterred by Renters Rights Act \u2013 claim",
-      "summary": "That\u2019s according to Handelsbanken\u2019s fifth annual Property Investor Report.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/serious-property-investors-undeterred-by-renters-rights-act-claim/",
-      "source": "Landlord Today",
-      "published": "Wed, 20 May 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1718282725.jpg",
-      "ai_summary": "- Serious property investors remain confident and undeterred by the implications of the Renters Rights Act, as highlighted in Handelsbanken's latest Property Investor Report.  \n- The fifth annual report indicates a strong commitment from investors to navigate the evolving rental landscape in the UK."
+      "id": "https://thenegotiator.co.uk/news/marketing-news/onedome-comes-to-the-rescue-in-first-tv-ad-campaign/?utm_source=rss&utm_medium=rss&utm_campaign=onedome-comes-to-the-rescue-in-first-tv-ad-campaign",
+      "title": "OneDome \u2018comes to the rescue\u2019 in first TV ad campaign",
+      "summary": "The proptech firm's first national TV ad depicts a young couple breaking the news to parents they are buying a property.\nThe post OneDome \u2018comes to the rescue\u2019 in first TV ad campaign appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/marketing-news/onedome-comes-to-the-rescue-in-first-tv-ad-campaign/?utm_source=rss&utm_medium=rss&utm_campaign=onedome-comes-to-the-rescue-in-first-tv-ad-campaign",
+      "source": "The Negotiator",
+      "published": "Wed, 27 May 2026 04:55:30 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/OneDome-TV-ad.jpg",
+      "ai_summary": "- OneDome launches its inaugural national TV ad campaign, featuring a young couple sharing their property purchase news with their parents.  \n- The campaign highlights the firm\u2019s commitment to supporting homebuyers in the UK property market."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-more-disciplined-thanks-to-renters-rights-act/",
-      "title": "Landlords \u2018more disciplined\u2019 thanks to Renters Rights Act",
-      "summary": "59% say they are tightening tenant selection criteria",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-more-disciplined-thanks-to-renters-rights-act/",
-      "source": "Landlord Today",
-      "published": "Wed, 20 May 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/RentCheckData-March17-Wide-InArticle.jpg",
-      "ai_summary": "- 59% of landlords are adopting stricter tenant selection criteria in response to the Renters Rights Act.  \n- The new legislation is leading to a more disciplined approach among landlords in the UK rental market."
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/andy-burnhams-rental-flat-part-funded-by-taxpayers/?utm_source=rss&utm_medium=rss&utm_campaign=andy-burnhams-rental-flat-part-funded-by-taxpayers",
+      "title": "Andy Burnham\u2019s rental flat purchase part-funded by taxpayers",
+      "summary": "Mayor has attacked property inequality and the Right to Buy while renting out an ex-council flat purchased during MPs\u2019 expenses scandal\nThe post Andy Burnham\u2019s rental flat purchase part-funded by taxpayers appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/andy-burnhams-rental-flat-part-funded-by-taxpayers/?utm_source=rss&utm_medium=rss&utm_campaign=andy-burnhams-rental-flat-part-funded-by-taxpayers",
+      "source": "The Negotiator",
+      "published": "Wed, 27 May 2026 04:55:09 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Andy-Burnham-2.jpg",
+      "ai_summary": "- Mayor Andy Burnham's purchase of a rental flat, partly funded by taxpayers, highlights ongoing issues of property inequality and government policies like Right to Buy.  \n- This revelation comes amid scrutiny of MPs\u2019 expenses, as Burnham faces criticism for renting out an ex-council flat."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/conveyancers-warned-over-property-deeds-failures/?utm_source=rss&utm_medium=rss&utm_campaign=conveyancers-warned-over-property-deeds-failures",
+      "title": "Conveyancers warned about property deeds failures",
+      "summary": "Land Registry says solictors who fail to check deeds properly could face investigation and possible disciplinary action.\nThe post Conveyancers warned about property deeds failures appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/conveyancers-warned-over-property-deeds-failures/?utm_source=rss&utm_medium=rss&utm_campaign=conveyancers-warned-over-property-deeds-failures",
+      "source": "The Negotiator",
+      "published": "Wed, 27 May 2026 04:55:06 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/07/SRA.jpg",
+      "ai_summary": "- Solicitors risk investigation and disciplinary action from the Land Registry for inadequate checks on property deeds.  \n- The Land Registry emphasizes the importance of thorough deed verification to ensure compliance and protect interests."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/north-west-franchise-duo-adds-third-martin-co-office/?utm_source=rss&utm_medium=rss&utm_campaign=north-west-franchise-duo-adds-third-martin-co-office",
+      "title": "North West franchise duo adds third Martin & Co office",
+      "summary": "Peter Mahoney and Craig Wicking have acquired Martin & Co Widnes, their third office in less than two years.\nThe post North West franchise duo adds third Martin & Co office appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/north-west-franchise-duo-adds-third-martin-co-office/?utm_source=rss&utm_medium=rss&utm_campaign=north-west-franchise-duo-adds-third-martin-co-office",
+      "source": "The Negotiator",
+      "published": "Wed, 27 May 2026 04:55:03 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Craig-Wicking-and-Peter-Mahoney-Martin-Co.jpg",
+      "ai_summary": "- Franchise partners Peter Mahoney and Craig Wicking expand their portfolio with the acquisition of Martin & Co Widnes, marking their third office in under two years.  \n- The duo continues to strengthen their presence in the North West property market with this latest addition."
     },
     {
       "id": "https://thenegotiator.co.uk/news/products-services-news/new-legal-tech-platform-to-end-submit-and-hope-conveyancing/?utm_source=rss&utm_medium=rss&utm_campaign=new-legal-tech-platform-to-end-submit-and-hope-conveyancing",
@@ -190,7 +260,7 @@
       "source": "The Negotiator",
       "published": "Tue, 26 May 2026 04:55:51 +0000",
       "image": null,
-      "ai_summary": "- A new legal tech platform, RegLand, aims to revolutionize conveyancing by eliminating the uncertainty of \"submit and hope\" applications.  \n- Co-founder Ruth Beeton emphasizes that RegLand will ensure conveyancers can submit confident and accurate applications, enhancing the overall property transaction process."
+      "ai_summary": "- New legal tech platform RegLand aims to revolutionize conveyancing by removing the uncertainty of the \"submit and hope\" approach.\n- Co-founder Ruth Beeton emphasizes the importance of precision in property transactions, ensuring applications are correct before submission."
     },
     {
       "id": "https://thenegotiator.co.uk/news/regulation-law-news/landlords-risk-missing-renters-rights-act-deadlines/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-risk-missing-renters-rights-act-deadlines",
@@ -200,67 +270,7 @@
       "source": "The Negotiator",
       "published": "Tue, 26 May 2026 04:55:48 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/03/tenant-signing-and-renters-rights-act.jpg",
-      "ai_summary": "- Many landlords could miss the deadline to issue the mandatory Act Information Sheet for the Renters\u2019 Rights Act this week, according to a new proptech platform.  \n- Non-compliance with the requirements may lead to significant consequences for landlords navigating the new housing regulations."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/marketing-news/rightmove-hit-by-more-share-price-woes-as-court-date-set/?utm_source=rss&utm_medium=rss&utm_campaign=rightmove-hit-by-more-share-price-woes-as-court-date-set",
-      "title": "Rightmove avoids more share price woes as court date set",
-      "summary": "The portal has seen its shares fall 25% in six months despite profit increase forecasts up to 5%.\nThe post Rightmove avoids more share price woes as court date set appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/marketing-news/rightmove-hit-by-more-share-price-woes-as-court-date-set/?utm_source=rss&utm_medium=rss&utm_campaign=rightmove-hit-by-more-share-price-woes-as-court-date-set",
-      "source": "The Negotiator",
-      "published": "Tue, 26 May 2026 04:55:48 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/05/Rightmove-Believe-it-campaign.jpg",
-      "ai_summary": "- Rightmove's shares have plummeted 25% over the past six months, despite optimistic profit forecasts of up to 5%.  \n- A court date has been set, helping the company navigate further share price challenges."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/landlord-and-letting-agent-fined-91000-for-unsafe-hmo/?utm_source=rss&utm_medium=rss&utm_campaign=landlord-and-letting-agent-fined-91000-for-unsafe-hmo",
-      "title": "Landlord and letting agent fined \u00a391,000 for unsafe HMO",
-      "summary": "Inspection by East London council finds serious hazards and cannabis being grown at rental property.\nThe post Landlord and letting agent fined \u00a391,000 for unsafe HMO appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/landlord-and-letting-agent-fined-91000-for-unsafe-hmo/?utm_source=rss&utm_medium=rss&utm_campaign=landlord-and-letting-agent-fined-91000-for-unsafe-hmo",
-      "source": "The Negotiator",
-      "published": "Tue, 26 May 2026 04:55:40 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Redbridge-council.jpg",
-      "ai_summary": "- A landlord and letting agent in East London face a \u00a391,000 fine after a council inspection revealed serious safety hazards in a House in Multiple Occupation (HMO) and the illegal cultivation of cannabis.  \n- The significant penalty underscores the importance of adhering to safety regulations in rental properties to protect tenant wellbeing."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/norfolk-estate-agent-in-court-accused-of-50k-fraud/?utm_source=rss&utm_medium=rss&utm_campaign=norfolk-estate-agent-in-court-accused-of-50k-fraud",
-      "title": "Norfolk estate agent in court accused of \u00a350k fraud",
-      "summary": "Victoria Steele faces 19 charges of fraud by false representation, according to reporting by The Eastern Daily Press.\nThe post Norfolk estate agent in court accused of \u00a350k fraud appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/norfolk-estate-agent-in-court-accused-of-50k-fraud/?utm_source=rss&utm_medium=rss&utm_campaign=norfolk-estate-agent-in-court-accused-of-50k-fraud",
-      "source": "The Negotiator",
-      "published": "Tue, 26 May 2026 04:55:30 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/ehomes-swaffham.jpg",
-      "ai_summary": "- Victoria Steele, a Norfolk estate agent, is facing 19 charges of fraud by false representation totaling \u00a350,000.  \n- The case is being reported by The Eastern Daily Press, marking a significant legal challenge for the estate agent."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/housing-market-uncertainty-as-labour-leadership-rivals-veer-left/?utm_source=rss&utm_medium=rss&utm_campaign=housing-market-uncertainty-as-labour-leadership-rivals-veer-left",
-      "title": "Housing market uncertainty as Labour leadership rivals veer left",
-      "summary": "Knight Frank\u2019s Tom Bill says the property tax debate is \u201cnot helpful for a country trying to attract global talent and investment.\"\nThe post Housing market uncertainty as Labour leadership rivals veer left appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/housing-market-uncertainty-as-labour-leadership-rivals-veer-left/?utm_source=rss&utm_medium=rss&utm_campaign=housing-market-uncertainty-as-labour-leadership-rivals-veer-left",
-      "source": "The Negotiator",
-      "published": "Tue, 26 May 2026 04:55:16 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Tom-Bill-Knight-Frank.jpg",
-      "ai_summary": "- Knight Frank\u2019s Tom Bill warns that the ongoing property tax debate is detrimental to the UK\u2019s efforts to attract global talent and investment.\n- Uncertainty in the housing market grows as Labour leadership contenders shift towards more left-leaning policies."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/associations-bodies-news/call-for-votes-in-propertymark-leadership-election/?utm_source=rss&utm_medium=rss&utm_campaign=call-for-votes-in-propertymark-leadership-election",
-      "title": "Call for votes in Propertymark leadership election",
-      "summary": "Elections for industry body come as agents face major changes to lettings, compliance and home buying reform.\nThe post Call for votes in Propertymark leadership election appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/associations-bodies-news/call-for-votes-in-propertymark-leadership-election/?utm_source=rss&utm_medium=rss&utm_campaign=call-for-votes-in-propertymark-leadership-election",
-      "source": "The Negotiator",
-      "published": "Tue, 26 May 2026 04:55:07 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Propertymark-elections.jpg",
-      "ai_summary": "- Propertymark leadership elections are underway as agents adapt to significant changes in lettings, compliance, and home buying reforms.  \n- Stakeholders are urged to cast their votes to influence the direction of the industry amidst these shifts."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/columns/kate-faulkner/is-the-north-south-divide-worsening-in-the-property-market/?utm_source=rss&utm_medium=rss&utm_campaign=is-the-north-south-divide-worsening-in-the-property-market",
-      "title": "Is the North-South divide worsening in the property market?",
-      "summary": "We are no longer are we seeing growth in property prices in the South, while the North has consistently seen increased prices, says Kate Faulkner.\nThe post Is the North-South divide worsening in the property market? appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/columns/kate-faulkner/is-the-north-south-divide-worsening-in-the-property-market/?utm_source=rss&utm_medium=rss&utm_campaign=is-the-north-south-divide-worsening-in-the-property-market",
-      "source": "The Negotiator",
-      "published": "Fri, 22 May 2026 16:28:19 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/04/Regional-property-prices.jpg",
-      "ai_summary": "- The Southern UK property market is experiencing stagnation, while the North continues to see consistent price growth.  \n- Industry expert Kate Faulkner highlights a deepening divide in property trends between the North and South."
+      "ai_summary": "- Many landlords could be in violation of the Renters\u2019 Rights Act as a new proptech platform highlights the imminent deadline for issuing the Act Information Sheet.\n- Failure to comply with the upcoming requirements could lead to significant legal repercussions for landlords."
     }
   ]
 }
