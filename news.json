@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-02T02:09:25.342132",
-  "article_count": 26,
+  "last_updated": "2026-06-02T07:14:28.721049",
+  "article_count": 25,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/supply-shortage-keeps-rents-rising-as-act-kicks-in/",
+      "title": "Supply shortage keeps rents rising as Act kicks in",
+      "summary": "The latest figures from the HomeLet Rental Index",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/supply-shortage-keeps-rents-rising-as-act-kicks-in/",
+      "source": "Landlord Today",
+      "published": "Tue, 02 Jun 2026 00:30:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HousePriceRising_400x310.png",
+      "ai_summary": "- A significant supply shortage in the UK property market is driving up rental prices, as indicated by the latest HomeLet Rental Index figures.  \n- New government regulations are now in effect, further influencing the rental landscape amidst escalating demand and limited availability."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/another-index-shows-house-prices-falling/",
+      "title": "Another index shows house prices falling",
+      "summary": "Middle East uncertainty is the main driver of a depressed housing market",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/another-index-shows-house-prices-falling/",
+      "source": "Landlord Today",
+      "published": "Tue, 02 Jun 2026 00:25:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/NationwideLogo-400x310-1.png",
+      "ai_summary": "- House prices in the UK are declining, with new reports confirming the trend amidst market instability.  \n- Rising uncertainty in the Middle East is a key factor contributing to the sluggish housing market.  "
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/sports-direct-billionaire-invests-in-private-rental-sector/",
+      "title": "Sports Direct billionaire invests in private rental sector",
+      "summary": "He now has a 4.2% share in the UK's largest listed residential landlord",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/sports-direct-billionaire-invests-in-private-rental-sector/",
+      "source": "Landlord Today",
+      "published": "Tue, 02 Jun 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Edgbaston-Development-400x310-1.jpg",
+      "ai_summary": "- Sports Direct billionaire acquires a 4.2% stake in the UK\u2019s largest publicly listed residential landlord.\n- This investment underscores a growing interest in the private rental sector amidst changing market dynamics."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/right-to-buy-clampdown-makes-it-harder-for-tenants-to-purchase/",
+      "title": "Right To Buy clampdown makes it harder for tenants to purchase",
+      "summary": "The Social Housing Bill aims to address the long-term decline in social housing.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/right-to-buy-clampdown-makes-it-harder-for-tenants-to-purchase/",
+      "source": "Landlord Today",
+      "published": "Tue, 02 Jun 2026 00:03:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Most-tenantsdont.png",
+      "ai_summary": "- The UK government is implementing a clampdown on the Right to Buy scheme to tackle the persistent decline in social housing.\n- The new Social Housing Bill introduces measures that will make it more challenging for tenants to purchase their homes under this program."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlord-sell-off-contributes-to-stark-housing-market-warning/",
       "title": "Landlord sell off contributes to stark housing market warning",
@@ -10,7 +50,7 @@
       "source": "Landlord Today",
       "published": "Mon, 01 Jun 2026 00:20:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HouseForSale_400x310.png",
-      "ai_summary": "- Savills revises its forecast, predicting a decline in house prices rather than the previously anticipated increase.  \n- A significant sell-off by landlords is identified as a contributing factor to the shifting dynamics in the housing market."
+      "ai_summary": "- Savills revises its forecast, predicting a decline in UK house prices instead of the anticipated increase, highlighting growing concerns in the housing market.  \n- An increase in landlord sell-offs is exacerbating the situation, signaling potential instability in property values."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/reform-uk-wants-hmo-controls-to-avoid-asylum-seeker-dumping-ground/",
@@ -20,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Mon, 01 Jun 2026 00:10:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/A-surveyors-guide-to-finding-a-profitable-HMO-1.jpg",
-      "ai_summary": "- Reform UK is advocating for tighter controls on Houses in Multiple Occupation (HMOs) in Newcastle-under-Lyme to prevent the area from becoming a dumping ground for asylum seekers.  \n- The party, which holds a significant majority in the council, aims to address the impact of high-density housing on local communities."
+      "ai_summary": "- Reform UK is advocating for stricter regulations on Houses in Multiple Occupation (HMOs) in Newcastle-under-Lyme to prevent them from being used as asylum seeker \"dumping grounds.\"  \n- The party holds a significant majority in the local council, highlighting its influence in local housing policy discussions."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/top-lettings-agency-makes-radical-change-to-landlord-fee-structure/",
@@ -30,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Mon, 01 Jun 2026 00:06:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/fees400x310.png",
-      "ai_summary": "- A leading lettings agency is revamping its landlord fee structure to align with the new Renters Rights Act.\n- This significant overhaul aims to enhance transparency and compliance in the evolving rental market."
+      "ai_summary": "- A leading UK lettings agency is overhauling its landlord fee structure to align with the new Renters Rights Act.\n- The move aims to adapt to evolving regulations and improve transparency in the rental market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/civil-penalty-notice-leaves-rogue-landlord-with-big-bill/",
@@ -40,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Mon, 01 Jun 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Court2-400x310-1.jpg",
-      "ai_summary": "- A rogue landlord has been hit with a hefty Civil Penalty Notice after neglecting to communicate with the council.  \n- The fine underscores the importance of compliance and accountability among rental property owners."
+      "ai_summary": "- A rogue landlord faces a hefty bill after receiving a Civil Penalty Notice for neglecting to communicate with the council.  \n- The lack of response from the landlord underscores the need for stricter enforcement in rental property regulations."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/pc-targets-many-landlords-are-closer-than-they-think/",
@@ -50,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Fri, 29 May 2026 00:10:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/EPCTablet-695x395-1.jpg",
-      "ai_summary": "- Recent analysis of EPC lodgement data reveals that many landlords are nearer to meeting energy performance targets than previously assumed.  \n- This unexpected finding may encourage landlords to invest in upgrades, potentially boosting property values and tenant satisfaction.  "
+      "ai_summary": "- Recent analysis of EPC lodgement data reveals that many landlords are closer to meeting energy efficiency targets than previously believed.  \n- This unexpected finding suggests opportunities for landlords to enhance property value and compliance with upcoming regulations."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlord-licensing-offers-huge-social-benefits-claims-labour-council/",
@@ -60,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Fri, 29 May 2026 00:06:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/licensing1-400x310-1.png",
-      "ai_summary": "- Labour council touts landlord licensing as a key measure for enhancing renter safety and improving overall living conditions.  \n- The initiative aims to elevate landlord standards, ultimately benefiting tenants and communities alike."
+      "ai_summary": "- Labour council asserts that landlord licensing enhances safety for renters and improves landlord accountability.  \n- The initiative is touted as providing significant social benefits through elevated housing standards."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/shelter-slams-housing-downgrade-in-government-reshuffle/",
@@ -70,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Fri, 29 May 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Shelterlogo.png",
-      "ai_summary": "- Shelter criticizes government reshuffle for demoting the housing minister's role, reducing focus on housing issues.\n- The move diminishes the cabinet's direct accountability for housing policies, raising concerns about prioritizing housing in government agendas."
+      "ai_summary": "- Shelter criticizes the government reshuffle, highlighting a downgrade in the role of housing minister within the cabinet.  \n- The change signals a diminished focus on housing issues, with the minister no longer holding sole accountability for housing matters."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/more-changes-to-buy-to-let-mortgage-ranges/",
@@ -80,7 +120,7 @@
       "source": "Landlord Today",
       "published": "Fri, 29 May 2026 00:00:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_165043277-1.jpg",
-      "ai_summary": "- Increased competition among lenders is driving changes in buy-to-let mortgage offerings, benefiting landlords.  \n- New mortgage ranges are emerging as lenders vie for a larger share of the landlord market."
+      "ai_summary": "- Increased competition in the buy-to-let mortgage market as lenders expand their offerings for landlords.\n- Landlords can benefit from a wider range of mortgage options, enhancing their investment potential."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/councils-run-prosecution-pipelines-to-sting-landlords-with-licensing-fines/",
@@ -90,7 +130,7 @@
       "source": "Landlord Today",
       "published": "Thu, 28 May 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/licensing1-400x310-1.png",
-      "ai_summary": "- London councils are establishing \"prosecution pipelines\" to impose fines on landlords, accumulating \u00a324.1 million in penalties.  \n- The crackdown highlights a growing trend among local authorities to enforce licensing regulations in the rental market."
+      "ai_summary": "- London councils have collectively imposed \u00a324.1 million in fines on landlords through aggressive licensing enforcement tactics.  \n- Local authorities are establishing \"prosecution pipelines\" to maximize penalties for non-compliant property owners."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/cash-strapped-tenants-at-risk-because-of-renters-rights-act-poll/",
@@ -100,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Thu, 28 May 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/SavingMoney_400x310.png",
-      "ai_summary": "- A recent NRLA poll reveals that cash-strapped tenants might face heightened risks due to the new Renters Rights Act.  \n- Concerns are mounting among landlords about the potential impact of the legislation on their financial stability and ability to support tenants."
+      "ai_summary": "- A recent poll of NRLA members highlights concerns that the Renters Rights Act may jeopardize cash-strapped tenants.  \n- Critics argue that the legislation could lead to increased financial strain and fewer housing options for vulnerable renters."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/soaring-arrears-despite-increasing-rental-income-for-landlords/",
@@ -110,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Thu, 28 May 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/tenant-arrears.png",
-      "ai_summary": "- Nearly 850,000 landlords in the UK are facing tenants in arrears, highlighting a growing financial challenge in the rental market.  \n- Despite rising rental income, landlords are grappling with increased delinquency rates among tenants."
+      "ai_summary": "- Nearly 850,000 landlords in the UK are facing tenant arrears, signaling a growing financial strain despite rising rental income.\n- This alarming trend highlights the disparity between increased earnings for landlords and the challenges of tenant payment reliability."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/soaring-number-of-children-and-families-in-private-rental-sector/",
@@ -120,7 +160,7 @@
       "source": "Landlord Today",
       "published": "Thu, 28 May 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/FamilyatHome-mio-400x310-1.jpg",
-      "ai_summary": "- Recent data from the Resolution Foundation reveals a sharp increase in the number of children and families living in private rentals across the UK.\n- This trend highlights the growing reliance on the private rental sector among families, indicating significant shifts in housing stability and affordability."
+      "ai_summary": "- A significant increase in children and families residing in the private rental sector has been reported by the Resolution Foundation think tank.\n- This trend highlights the growing reliance on private rentals as an essential housing option for families in the UK."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/renters-rights-act-legionella-warning-to-landlords/",
@@ -130,57 +170,67 @@
       "source": "Landlord Today",
       "published": "Thu, 28 May 2026 00:00:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2711297643-scaled.jpg",
-      "ai_summary": "- The new Renters Rights Act highlights the responsibility of landlords to ensure properties are free from legionella bacteria, which thrives in warm water.  \n- Landlords must take proactive measures to prevent the spread of legionella through droplets, safeguarding tenant health."
+      "ai_summary": "- The Renters Rights Act emphasizes the responsibility of landlords to prevent legionella bacteria growth in warm water systems.  \n- Legionella poses a health risk by spreading through droplets, necessitating proactive measures from landlords to ensure tenant safety."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/american-style-rent-to-buy-model-issues-appeal-to-disillusioned-uk-landlords/",
-      "title": "American-style Rent To Buy scheme seeks disillusioned UK landlords",
-      "summary": "Landlords allow the company to place a vetted tenant-buyer into the home.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/american-style-rent-to-buy-model-issues-appeal-to-disillusioned-uk-landlords/",
-      "source": "Landlord Today",
-      "published": "Wed, 27 May 2026 00:06:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/RentBuy-400x3101-1.png",
-      "ai_summary": "- A new American-style Rent To Buy scheme is targeting disenchanted UK landlords by offering a vetted tenant-buyer for their properties.  \n- This initiative aims to alleviate landlords' concerns by providing a stable rental arrangement with the potential for future sale."
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/freeholder-campaign-group-refuses-to-reveal-backers-identity/?utm_source=rss&utm_medium=rss&utm_campaign=freeholder-campaign-group-refuses-to-reveal-backers-identity",
+      "title": "Freeholder campaign group refuses to reveal backers\u2019 identities",
+      "summary": "Justice for Property Rights, which supports some reform of leasehold law, will not say who its 250 supporters are.\nThe post Freeholder campaign group refuses to reveal backers\u2019 identities appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/freeholder-campaign-group-refuses-to-reveal-backers-identity/?utm_source=rss&utm_medium=rss&utm_campaign=freeholder-campaign-group-refuses-to-reveal-backers-identity",
+      "source": "The Negotiator",
+      "published": "Tue, 02 Jun 2026 04:55:45 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Justice-for-Property-Rights.jpg",
+      "ai_summary": "- Justice for Property Rights, a freeholder campaign group pushing for leasehold law reforms, remains tight-lipped about its 250 backers.\n- The group's secrecy raises questions about transparency and the influence of undisclosed interests in property law advocacy."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-quitting-because-of-hidden-costs-claim/",
-      "title": "Landlords quitting because of hidden costs \u2013 claim",
-      "summary": "Those costs go beyond the well-publicised higher mortgage rates and EPC changes",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlords-quitting-because-of-hidden-costs-claim/",
-      "source": "Landlord Today",
-      "published": "Wed, 27 May 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/cover-costs-expanding-business.jpg",
-      "ai_summary": "- Landlords are exiting the market due to unexpected hidden costs, exceeding the known challenges of rising mortgage rates and Energy Performance Certificate (EPC) requirements.  \n- This trend signals growing financial strain on landlords as they grapple with additional expenses impacting property profitability."
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/house-prices-fall-in-may-reports-nationwide-industry-reacts/?utm_source=rss&utm_medium=rss&utm_campaign=house-prices-fall-in-may-reports-nationwide-industry-reacts",
+      "title": "House prices fall in May, reports Nationwide \u2013 industry reacts",
+      "summary": "Annual house price growth has slowed to 1.7%, as the market loses momentum, says Robert Gardner, Nationwide's Chief Economist.\nThe post House prices fall in May, reports Nationwide \u2013 industry reacts appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/house-prices-fall-in-may-reports-nationwide-industry-reacts/?utm_source=rss&utm_medium=rss&utm_campaign=house-prices-fall-in-may-reports-nationwide-industry-reacts",
+      "source": "The Negotiator",
+      "published": "Tue, 02 Jun 2026 04:55:44 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Robert-Gardner-Natiuonwide.jpg",
+      "ai_summary": "- Nationwide reports a slowdown in annual house price growth to 1.7%, reflecting declining market momentum.  \n- Industry experts react to the drop in house prices for May, signaling potential challenges ahead."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlord-and-agent-must-pay-over-90000/",
-      "title": "Landlord and agent must pay over \u00a390,000",
-      "summary": "This follows a council investigation uncovered dangerous living conditions",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/landlord-and-agent-must-pay-over-90000/",
-      "source": "Landlord Today",
-      "published": "Wed, 27 May 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/money-fine400x310.png",
-      "ai_summary": "- A landlord and agent have been fined over \u00a390,000 due to unsafe living conditions revealed by a council investigation.  \n- The decision highlights the urgent need for compliance with housing standards to protect tenants' safety."
+      "id": "https://thenegotiator.co.uk/news/claim-renters-rights-act-means-half-of-tenants-will-need-rent-guarantor/?utm_source=rss&utm_medium=rss&utm_campaign=claim-renters-rights-act-means-half-of-tenants-will-need-rent-guarantor",
+      "title": "CLAIM: Renters\u2019 Rights Act means half of tenants will need rent guarantor",
+      "summary": "Tenants will fail standard rental affordability checks in 47.6% of local authority districts, says Zero Deposit\u2019s Sam Reynolds.\nThe post CLAIM: Renters\u2019 Rights Act means half of tenants will need rent guarantor appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/claim-renters-rights-act-means-half-of-tenants-will-need-rent-guarantor/?utm_source=rss&utm_medium=rss&utm_campaign=claim-renters-rights-act-means-half-of-tenants-will-need-rent-guarantor",
+      "source": "The Negotiator",
+      "published": "Tue, 02 Jun 2026 04:55:44 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Sam-Reynolds-Zero-Deposit.jpg",
+      "ai_summary": "- Almost 50% of tenants across local authority districts in the UK may struggle to meet rental affordability checks due to the new Renters\u2019 Rights Act.  \n- Many will be forced to rely on rent guarantors, according to Zero Deposit's Sam Reynolds."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/five-days-before-landlords-risk-7000-fine/",
-      "title": "Five days before landlords risk \u00a37,000 fine",
-      "summary": "It's another part of the Renters Rights Act",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/five-days-before-landlords-risk-7000-fine/",
-      "source": "Landlord Today",
-      "published": "Wed, 27 May 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/360x280_Return_on_Time.png",
-      "ai_summary": "- Landlords face potential fines of up to \u00a37,000 as new measures under the Renters Rights Act come into effect in just five days.  \n- The legislation aims to enhance tenant protections and enforce stricter compliance among property owners.  "
+      "id": "https://thenegotiator.co.uk/news/marketing-news/winkworth-caught-up-in-ai-picture-controversy/?utm_source=rss&utm_medium=rss&utm_campaign=winkworth-caught-up-in-ai-picture-controversy",
+      "title": "Winkworth caught up in AI picture controversy",
+      "summary": "The franchise group agreed to change some property images after client complaints they were misleading, The Times reports.\nThe post Winkworth caught up in AI picture controversy appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/marketing-news/winkworth-caught-up-in-ai-picture-controversy/?utm_source=rss&utm_medium=rss&utm_campaign=winkworth-caught-up-in-ai-picture-controversy",
+      "source": "The Negotiator",
+      "published": "Tue, 02 Jun 2026 04:55:24 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/01/Winkworth-for-sale-board.jpg",
+      "ai_summary": "- Winkworth faces backlash over misleading AI-generated property images, leading to client complaints.  \n- The franchise group agrees to revise some images to address concerns reported by The Times."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/05/specialist-funding-option-for-property-investors-entering-pbsa/",
-      "title": "Specialist funding option for property investors entering PBSA",
-      "summary": "Investors have shown growing interest in Purpose Build Student Accommodation",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/05/specialist-funding-option-for-property-investors-entering-pbsa/",
-      "source": "Landlord Today",
-      "published": "Wed, 27 May 2026 00:00:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Studentsimage400x310.jpg",
-      "ai_summary": "- Surge in investor interest for Purpose Built Student Accommodation (PBSA) is driving demand for specialized funding options.  \n- New funding opportunities are emerging to support property investors targeting the burgeoning PBSA market."
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/landlord-crackdown-will-have-to-be-funded-by-fines-warns-council/?utm_source=rss&utm_medium=rss&utm_campaign=landlord-crackdown-will-have-to-be-funded-by-fines-warns-council",
+      "title": "Landlord crackdown must be funded by fines, warns council",
+      "summary": "Funding enforcement through prosecutions risks sending out the wrong message, warns Bath and North East Somerset Council\u2019s Andy Wait.\nThe post Landlord crackdown must be funded by fines, warns council appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/landlord-crackdown-will-have-to-be-funded-by-fines-warns-council/?utm_source=rss&utm_medium=rss&utm_campaign=landlord-crackdown-will-have-to-be-funded-by-fines-warns-council",
+      "source": "The Negotiator",
+      "published": "Tue, 02 Jun 2026 04:55:03 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Andy-Wait-Bath-Council.jpg",
+      "ai_summary": "- Bath and North East Somerset Council argues that enforcing landlord regulations should be financed by fines, not prosecutions, to avoid negative perceptions.\n- Council representative Andy Wait emphasizes the importance of proper funding for effective property enforcement measures."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/two-former-knight-frank-employees-launch-start-up/?utm_source=rss&utm_medium=rss&utm_campaign=two-former-knight-frank-employees-launch-start-up",
+      "title": "Two former Knight Frank employees launch start-up",
+      "summary": "Will Jordan and Charlie Steele set up Ashlawn Chase after working in Knight Frank\u2019s land and development team.\nThe post Two former Knight Frank employees launch start-up appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/two-former-knight-frank-employees-launch-start-up/?utm_source=rss&utm_medium=rss&utm_campaign=two-former-knight-frank-employees-launch-start-up",
+      "source": "The Negotiator",
+      "published": "Tue, 02 Jun 2026 04:55:02 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Ashlawn-Chase-.jpg",
+      "ai_summary": "- Former Knight Frank employees Will Jordan and Charlie Steele have launched a new property start-up, Ashlawn Chase.  \n- The duo brings their expertise from Knight Frank's land and development team to their entrepreneurial venture."
     },
     {
       "id": "https://thenegotiator.co.uk/news/regulation-law-news/new-rental-rules-lock-landlords-into-lettings-market/?utm_source=rss&utm_medium=rss&utm_campaign=new-rental-rules-lock-landlords-into-lettings-market",
@@ -190,7 +240,7 @@
       "source": "The Negotiator",
       "published": "Mon, 01 Jun 2026 04:55:41 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Chris-Norris-NRLA.jpg",
-      "ai_summary": "- New regulations prevent landlords from re-letting properties for 12 months after deciding to sell, complicating their exit strategy if buyers don\u2019t emerge.  \n- NRLA's Chris Norris highlights the implications of these rules, effectively locking landlords into the lettings market longer than before."
+      "ai_summary": "- Landlords who decide to sell are barred from re-letting their properties for 12 months if they can't find buyers, according to NRLA's Chris Norris.  \n- New rental regulations are effectively trapping landlords in the lettings market, limiting their flexibility."
     },
     {
       "id": "https://thenegotiator.co.uk/news/regulation-law-news/kent-residents-say-no-to-hmos/?utm_source=rss&utm_medium=rss&utm_campaign=kent-residents-say-no-to-hmos",
@@ -200,67 +250,7 @@
       "source": "The Negotiator",
       "published": "Mon, 01 Jun 2026 04:55:37 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Shane-Mochrie-Cox-Gravesham-Council.jpg",
-      "ai_summary": "- Kent residents are opposing House in Multiple Occupation (HMO) developments, prompting council action to enforce landlord responsibilities.\n- Gravesham councillor Shane Mochrie-Cox announces the use of Article 4 Direction to tackle mismanagement in the rental sector."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/exp-passes-1000-agent-milestone-in-growing-market-sector/?utm_source=rss&utm_medium=rss&utm_campaign=exp-passes-1000-agent-milestone-in-growing-market-sector",
-      "title": "EXP passes 1,000-agent \u2018milestone\u2019 in growing market sector",
-      "summary": "Adam Day claims EXP now accounts for a 50% share of self-employed agents in the UK property market.\nThe post EXP passes 1,000-agent \u2018milestone\u2019 in growing market sector appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/exp-passes-1000-agent-milestone-in-growing-market-sector/?utm_source=rss&utm_medium=rss&utm_campaign=exp-passes-1000-agent-milestone-in-growing-market-sector",
-      "source": "The Negotiator",
-      "published": "Mon, 01 Jun 2026 04:55:19 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Adam-Day-EXP.jpg",
-      "ai_summary": "- EXP reaches a significant milestone, surpassing 1,000 agents and capturing a dominant 50% share of the UK self-employed property market.\n- Adam Day highlights EXP's rapid growth and influence in the evolving real estate sector."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/war-is-no-longer-the-major-factor-in-housing-market-knight-frank/?utm_source=rss&utm_medium=rss&utm_campaign=war-is-no-longer-the-major-factor-in-housing-market-knight-frank",
-      "title": "War is \u201cno longer the major factor\u201d in housing market, says Knight Frank",
-      "summary": "Tom Bill, of Knight Frank, says the turmoil in British politics is the dominant issue affecting prices and sales.\nThe post War is \u201cno longer the major factor\u201d in housing market, says Knight Frank appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/war-is-no-longer-the-major-factor-in-housing-market-knight-frank/?utm_source=rss&utm_medium=rss&utm_campaign=war-is-no-longer-the-major-factor-in-housing-market-knight-frank",
-      "source": "The Negotiator",
-      "published": "Mon, 01 Jun 2026 04:55:15 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Tom-Bill-Knight-Frank.jpg",
-      "ai_summary": "- Knight Frank's Tom Bill asserts that British political turmoil has overtaken war as the primary influence on housing market prices and sales.\n- The shift highlights a growing focus on domestic factors impacting the UK's real estate landscape."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/property-industry-reacts-to-fall-in-transactions/?utm_source=rss&utm_medium=rss&utm_campaign=property-industry-reacts-to-fall-in-transactions",
-      "title": "Property industry reacts to fall in transactions",
-      "summary": "The latest seasonally-adjusted data from HMRC shows a 3% drop in the number of deals completed last month.\nThe post Property industry reacts to fall in transactions appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/property-industry-reacts-to-fall-in-transactions/?utm_source=rss&utm_medium=rss&utm_campaign=property-industry-reacts-to-fall-in-transactions",
-      "source": "The Negotiator",
-      "published": "Mon, 01 Jun 2026 04:55:06 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/09/HMRC.jpg",
-      "ai_summary": "- HMRC reports a 3% decline in property transactions last month, signaling a slowdown in the market.  \n- Industry experts express concerns about the impact on buyers and sellers amidst the downturn."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/marketing-news/big-estate-agency-takes-to-the-skies-in-latest-marketing-push/?utm_source=rss&utm_medium=rss&utm_campaign=big-estate-agency-takes-to-the-skies-in-latest-marketing-push",
-      "title": "Big estate agency \u2018takes to the skies\u2019 in latest marketing push",
-      "summary": "Jackson-Stops has partnered with Annie Tempest for another warm-hearted animated advertising collaboration.\nThe post Big estate agency \u2018takes to the skies\u2019 in latest marketing push appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/marketing-news/big-estate-agency-takes-to-the-skies-in-latest-marketing-push/?utm_source=rss&utm_medium=rss&utm_campaign=big-estate-agency-takes-to-the-skies-in-latest-marketing-push",
-      "source": "The Negotiator",
-      "published": "Mon, 01 Jun 2026 04:55:02 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Jackson_Stops_Tottering-by-Gently-.jpeg",
-      "ai_summary": "- Jackson-Stops launches a creative marketing campaign by collaborating with animator Annie Tempest for a unique animated advertisement.  \n- The estate agency aims to elevate its brand visibility and engagement through this whimsical approach."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/landlord-database-to-become-enforcement-tool-for-councils/?utm_source=rss&utm_medium=rss&utm_campaign=landlord-database-to-become-enforcement-tool-for-councils",
-      "title": "Landlord database to become enforcement tool for councils",
-      "summary": "Ministers want 'granular' insight into how landlords, agents and tenants behave across the private rented sector.\nThe post Landlord database to become enforcement tool for councils appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/landlord-database-to-become-enforcement-tool-for-councils/?utm_source=rss&utm_medium=rss&utm_campaign=landlord-database-to-become-enforcement-tool-for-councils",
-      "source": "The Negotiator",
-      "published": "Fri, 29 May 2026 04:55:51 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/PRS-database.jpg",
-      "ai_summary": "- **Enhanced Oversight**: UK ministers are developing a landlord database to give councils detailed insights into landlord, agent, and tenant behavior in the private rented sector.  \n- **Enforcement Power**: This new tool aims to empower councils to enforce regulations more effectively, promoting better standards in rental housing."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/rental-market/industry-franchise-giant-points-to-attractive-opportunity-from-renters-rights-act/?utm_source=rss&utm_medium=rss&utm_campaign=industry-franchise-giant-points-to-attractive-opportunity-from-renters-rights-act",
-      "title": "Industry franchise giant points to \u201cattractive opportunity\u201d from Renters\u2019 Rights Act",
-      "summary": "TPFG led by Gareth Samples has seen an increase in enquiries from landlords since the Act came into force.\nThe post Industry franchise giant points to \u201cattractive opportunity\u201d from Renters\u2019 Rights Act appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/rental-market/industry-franchise-giant-points-to-attractive-opportunity-from-renters-rights-act/?utm_source=rss&utm_medium=rss&utm_campaign=industry-franchise-giant-points-to-attractive-opportunity-from-renters-rights-act",
-      "source": "The Negotiator",
-      "published": "Fri, 29 May 2026 04:55:44 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/04/TPFG-boss-Gareth-Samples.jpg",
-      "ai_summary": "- TPFG reports a surge in landlord inquiries following the introduction of the Renters\u2019 Rights Act, signaling potential growth opportunities.  \n- Gareth Samples highlights the Act as a catalyst for positive changes in the property industry, benefiting franchise operations."
+      "ai_summary": "- Kent residents are rallying against Houses in Multiple Occupation (HMOs), pushing for stricter regulations.\n- Gravesham councillor Shane Mochrie-Cox announces plans to enforce Article 4 Direction against irresponsible landlords."
     }
   ]
 }
