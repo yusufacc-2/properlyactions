@@ -1,147 +1,7 @@
 {
-  "last_updated": "2026-06-05T11:54:43.705600",
-  "article_count": 22,
+  "last_updated": "2026-06-05T14:15:13.084578",
+  "article_count": 8,
   "articles": [
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/bizarre-ban-on-landlords-to-be-scrapped-by-ambitious-green-party/",
-      "title": "Bizarre ban on landlords to be scrapped by ambitious Green Party",
-      "summary": "This is according to a report in the Financial Times",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/bizarre-ban-on-landlords-to-be-scrapped-by-ambitious-green-party/",
-      "source": "Landlord Today",
-      "published": "Fri, 05 Jun 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/GreenParty-logo400x310.png",
-      "ai_summary": "- The Green Party plans to abolish an unusual ban on landlords, signaling a shift in housing policy.  \n- This move aims to address housing challenges and promote more inclusive rental practices across the UK."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/nrla-issues-new-confidence-warning-to-government/",
-      "title": "NRLA issues new confidence warning to government",
-      "summary": "Demand is rising as the housing crisis shows no sign of ending",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/nrla-issues-new-confidence-warning-to-government/",
-      "source": "Landlord Today",
-      "published": "Fri, 05 Jun 2026 00:03:00 +0100",
-      "image": null,
-      "ai_summary": "- The National Residential Landlords Association (NRLA) urges the UK government to address the ongoing housing crisis amid rising demand for properties.\n- Despite heightened demand, the NRLA warns that government intervention is crucial to restore confidence in the rental market."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/imminent-rule-change-threatens-landlords-with-40000-fine/",
-      "title": "Imminent rule change threatens landlords with \u00a340,000 fine",
-      "summary": "The change comes into effect on June 23",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/imminent-rule-change-threatens-landlords-with-40000-fine/",
-      "source": "Landlord Today",
-      "published": "Thu, 04 Jun 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HealthSafety400x310-4.png",
-      "ai_summary": "- Landlords face potential fines of up to \u00a340,000 due to imminent rule changes starting June 23.  \n- The upcoming regulation shake-up could significantly impact property management and compliance practices for landlords across the UK."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/agents-accused-of-undermining-renters-rights-act/",
-      "title": "Agents accused of undermining Renters Rights Act",
-      "summary": "Agents are attacked for alleged malpractices",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/agents-accused-of-undermining-renters-rights-act/",
-      "source": "Landlord Today",
-      "published": "Thu, 04 Jun 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/RentingImage-400x310-1.jpg",
-      "ai_summary": "- Property agents face criticism for purportedly undermining the recently implemented Renters Rights Act.\n- Accusations center around alleged malpractices that could harm tenant protections."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/most-tenants-stay-renting-for-longer-than-they-ever-planned/",
-      "title": "Most tenants stay renting for longer than they ever planned",
-      "summary": "A new survey conducted by a letting agency group",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/most-tenants-stay-renting-for-longer-than-they-ever-planned/",
-      "source": "Landlord Today",
-      "published": "Thu, 04 Jun 2026 00:01:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/First-Time-Buyers-400x310-1.jpg",
-      "ai_summary": "- A recent survey by a letting agency reveals that most tenants are now renting for longer than they initially intended.  \n- Factors influencing this trend include rising living costs and a challenging housing market, making homeownership less attainable."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/more-landlords-splashing-out-on-energy-efficient-homes/",
-      "title": "More landlords splashing out on energy efficient homes",
-      "summary": "Lending for energy efficient home purchases has rocketed",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/more-landlords-splashing-out-on-energy-efficient-homes/",
-      "source": "Landlord Today",
-      "published": "Wed, 03 Jun 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Low_EPC-400x310-1.png",
-      "ai_summary": "- Surge in lending for energy-efficient homes signals a growing trend among landlords investing in sustainability.  \n- Increasing demand highlights a shift towards eco-friendly properties in the UK housing market."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlord-builds-compliance-tool-to-cope-with-rental-red-tape/",
-      "title": "Landlord builds compliance tool to cope with rental red tape",
-      "summary": "A private landlord with just one property has created a compliance tool",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlord-builds-compliance-tool-to-cope-with-rental-red-tape/",
-      "source": "Landlord Today",
-      "published": "Wed, 03 Jun 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_538089325.jpg",
-      "ai_summary": "- A private landlord has developed a compliance tool to navigate increasing rental regulations.  \n- This initiative aims to simplify adherence to complex rental red tape for landlords with limited portfolios."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/rent-control-demand-repeated-again-by-activist-group/",
-      "title": "Rent Control demand repeated again by activist group",
-      "summary": "It declared yesterday to be 'London: Cost of Rent Day'",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/rent-control-demand-repeated-again-by-activist-group/",
-      "source": "Landlord Today",
-      "published": "Wed, 03 Jun 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2540723483.jpg",
-      "ai_summary": "- Activist group designates 'London: Cost of Rent Day' to spotlight skyrocketing rental prices.  \n- Renewed calls for rent control echo throughout the city amidst increasing affordability concerns."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/build-to-rent-wants-special-treatment-to-get-back-on-track/",
-      "title": "Build To Rent wants special treatment to get back on track",
-      "summary": "Build To Rent wants special treatment to get back on track",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/build-to-rent-wants-special-treatment-to-get-back-on-track/",
-      "source": "Landlord Today",
-      "published": "Wed, 03 Jun 2026 00:02:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_673842874.jpg",
-      "ai_summary": "- The Build To Rent sector is seeking preferential policies to revitalize its growth and overcome current challenges.  \n- Advocates argue that targeted support is essential for maintaining momentum in the housing market and meeting rental demands."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/bill-of-25000-for-landlord-ignoring-prohibition-order/",
-      "title": "Bill of \u00a325,000 for landlord ignoring Prohibition Order",
-      "summary": "Landlord was in breach of a Prohibition Order and without the required  Licence.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/bill-of-25000-for-landlord-ignoring-prohibition-order/",
-      "source": "Landlord Today",
-      "published": "Wed, 03 Jun 2026 00:01:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Fined200x150.jpg",
-      "ai_summary": "- A landlord faced a hefty \u00a325,000 fine for violating a Prohibition Order and operating without a necessary Licence.  \n- This enforcement action underscores the importance of compliance in the UK rental market."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/supply-shortage-keeps-rents-rising-as-act-kicks-in/",
-      "title": "Supply shortage keeps rents rising as Act kicks in",
-      "summary": "The latest figures from the HomeLet Rental Index",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/supply-shortage-keeps-rents-rising-as-act-kicks-in/",
-      "source": "Landlord Today",
-      "published": "Tue, 02 Jun 2026 00:30:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HousePriceRising_400x310.png",
-      "ai_summary": "- Supply constraints in the UK property market are driving rental prices upwards, as highlighted by the latest HomeLet Rental Index figures.  \n- The new regulations taking effect are intensifying the rental demand, further exacerbating the existing shortage of available rental properties."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/another-index-shows-house-prices-falling/",
-      "title": "Another index shows house prices falling",
-      "summary": "Middle East uncertainty is the main driver of a depressed housing market",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/another-index-shows-house-prices-falling/",
-      "source": "Landlord Today",
-      "published": "Tue, 02 Jun 2026 00:25:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/NationwideLogo-400x310-1.png",
-      "ai_summary": "- UK house prices continue to decline, driven largely by uncertainties in the Middle East.  \n- The latest index reinforces concerns about the ongoing challenges in the housing market."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/sports-direct-billionaire-invests-in-private-rental-sector/",
-      "title": "Sports Direct billionaire invests in private rental sector",
-      "summary": "He now has a 4.2% share in the UK's largest listed residential landlord",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/sports-direct-billionaire-invests-in-private-rental-sector/",
-      "source": "Landlord Today",
-      "published": "Tue, 02 Jun 2026 00:05:00 +0100",
-      "image": null,
-      "ai_summary": "- Sports Direct billionaire secures a 4.2% stake in the UK's largest listed residential landlord, signaling a strong interest in the private rental market.\n- This strategic investment reflects growing confidence in the UK property sector amid ongoing demand for rental housing."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/right-to-buy-clampdown-makes-it-harder-for-tenants-to-purchase/",
-      "title": "Right To Buy clampdown makes it harder for tenants to purchase",
-      "summary": "The Social Housing Bill aims to address the long-term decline in social housing.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/right-to-buy-clampdown-makes-it-harder-for-tenants-to-purchase/",
-      "source": "Landlord Today",
-      "published": "Tue, 02 Jun 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Most-tenantsdont.png",
-      "ai_summary": "- The Social Housing Bill introduces stricter measures on the Right to Buy scheme, making it more challenging for tenants to purchase their homes.  \n- This clampdown is part of a broader effort to reverse the ongoing decline of social housing in the UK."
-    },
     {
       "id": "https://thenegotiator.co.uk/news/agencies-people-news/your-move-margate-becomes-part-of-national-home-move/?utm_source=rss&utm_medium=rss&utm_campaign=your-move-margate-becomes-part-of-national-home-move",
       "title": "Your Move Margate becomes part of National Home Move",
@@ -150,7 +10,7 @@
       "source": "The Negotiator",
       "published": "Fri, 05 Jun 2026 04:55:50 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Your-Move-Margate.jpg",
-      "ai_summary": "- National Home Move has acquired Your Move Margate as part of LSL Estate Agency Franchising's resale program.  \n- This acquisition expands National Home Move's presence in the UK property market."
+      "ai_summary": "- National Home Move has acquired Your Move Margate as part of LSL Estate Agency Franchising's resale initiative.  \n- This acquisition expands National Home Move's portfolio and strengthens its presence in the real estate market."
     },
     {
       "id": "https://thenegotiator.co.uk/news/regulation-law-news/digital-id-fiasco-sparks-investment-warning/?utm_source=rss&utm_medium=rss&utm_campaign=digital-id-fiasco-sparks-investment-warning",
@@ -160,7 +20,7 @@
       "source": "The Negotiator",
       "published": "Fri, 05 Jun 2026 04:55:44 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Digital-IDs.jpg",
-      "ai_summary": "- MyIdentity warns against investing in digital identity systems following MPs' criticism of the Government's plans, labeling them \"doomed to fail.\"  \n- The controversy raises concerns over the future of digital ID initiatives in the UK property sector."
+      "ai_summary": "- MyIdentity issues a strong caution to companies about investing in digital identity systems amid critiques from MPs labeling the Government\u2019s plans as \"doomed to fail.\"  \n- The controversy highlights significant concerns over the viability and effectiveness of the UK's digital identity initiatives, prompting a reassessment of funding in this sector."
     },
     {
       "id": "https://thenegotiator.co.uk/news/regulation-law-news/eviction-cases-jumped-6-before-renters-rights-act-came-in/?utm_source=rss&utm_medium=rss&utm_campaign=eviction-cases-jumped-6-before-renters-rights-act-came-in",
@@ -170,7 +30,7 @@
       "source": "The Negotiator",
       "published": "Fri, 05 Jun 2026 04:55:37 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/02/Sim-Sekhon-LegalforLandlords.jpg",
-      "ai_summary": "- Eviction cases surged by 6% as landlords rushed to file before the introduction of the Renters\u2019 Rights Act.  \n- Legal expert Sim Sekhon highlights that many landlords took advantage of Section 21 to expedite possession proceedings."
+      "ai_summary": "- Eviction cases in the UK surged by 6% as landlords rushed to initiate possession proceedings before the implementation of the Renters' Rights Act.\n- Legal expert Sim Sekhon highlights that the availability of Section 21 prompted many landlords to expedite their eviction processes."
     },
     {
       "id": "https://thenegotiator.co.uk/news/regulation-law-news/legal-challenge-to-lutons-landlord-licensing-schemes-fails/?utm_source=rss&utm_medium=rss&utm_campaign=legal-challenge-to-lutons-landlord-licensing-schemes-fails",
@@ -180,7 +40,7 @@
       "source": "The Negotiator",
       "published": "Fri, 05 Jun 2026 04:55:33 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Councillor-Alia-Khan-Luton-Council.jpg",
-      "ai_summary": "- Luton Council's landlord licensing schemes successfully withstand a legal challenge, reinforcing the initiative's goals to enhance housing conditions.  \n- Councillor Alia Khan champions the licensing as a vital step toward improving living standards for residents."
+      "ai_summary": "- Luton Council's landlord licensing schemes upheld in court, countering a legal challenge aimed at overturning them.\n- Councillor Alia Khan asserts that the licensing will enhance housing conditions in the area."
     },
     {
       "id": "https://thenegotiator.co.uk/columns/kate-faulkner/house-prices-analysis-avoid-overpricing-property-in-this-market/?utm_source=rss&utm_medium=rss&utm_campaign=house-prices-analysis-avoid-overpricing-property-in-this-market",
@@ -190,7 +50,7 @@
       "source": "The Negotiator",
       "published": "Fri, 05 Jun 2026 04:55:32 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Overpricing-property-Kate-Faulkner.jpg",
-      "ai_summary": "- Overpricing properties in the current UK market can lead to significant challenges and setbacks for sellers.  \n- Analysts stress the importance of pricing homes competitively to attract buyers and ensure successful sales."
+      "ai_summary": "- Overpricing homes in the current UK market is highly risky and likely to backfire, warns expert Kate Faulkner.  \n- Data shows that accurate pricing is crucial for successful property sales amidst shifting market conditions."
     },
     {
       "id": "https://thenegotiator.co.uk/news/marketing-news/free-zoopla-masterclass-on-winning-instructions/?utm_source=rss&utm_medium=rss&utm_campaign=free-zoopla-masterclass-on-winning-instructions",
@@ -200,7 +60,7 @@
       "source": "The Negotiator",
       "published": "Fri, 05 Jun 2026 04:55:28 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Ian-Preston-Zoopla.jpg",
-      "ai_summary": "- **Expert Guidance**: Zoopla launches a free six-part video series by Ian Preston aimed at empowering agents to effectively convert valuation inquiries into successful instructions.\n- **Unlock Success**: The masterclass offers valuable insights for estate agents to enhance their conversion strategies and bolster business growth."
+      "ai_summary": "- Zoopla launches a free six-part video series featuring Ian Preston, aimed at equipping agents with skills to convert valuation inquiries into secured instructions.  \n- The masterclass promises to enhance agents' effectiveness in winning more property listings."
     },
     {
       "id": "https://thenegotiator.co.uk/news/agencies-people-news/former-connells-ceo-claims-he-was-bullied/?utm_source=rss&utm_medium=rss&utm_campaign=former-connells-ceo-claims-he-was-bullied",
@@ -210,7 +70,7 @@
       "source": "The Negotiator",
       "published": "Fri, 05 Jun 2026 04:55:21 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2024/08/Connells-shop-front.jpg",
-      "ai_summary": "- David Livesey, ex-CEO of Connells, alleges he faced bullying from the chief executive of Skipton Building Society, the parent company of Connells.\n- The claims expose tensions within the leadership as Livesey speaks out about his experiences in the high-stakes property sector."
+      "ai_summary": "- David Livesey, former CEO of Connells, alleges he was bullied by the chief executive of Skipton Building Society, which owns Connells.\n- The claims highlight serious workplace issues within top management of the property industry."
     },
     {
       "id": "https://thenegotiator.co.uk/news/regulation-law-news/prime-minister-champions-the-renters-right-act/?utm_source=rss&utm_medium=rss&utm_campaign=prime-minister-champions-the-renters-right-act",
@@ -220,7 +80,7 @@
       "source": "The Negotiator",
       "published": "Fri, 05 Jun 2026 04:55:17 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Kier-Starmer-rents.jpg",
-      "ai_summary": "- The Prime Minister endorses the Renters' Rights Act, enhancing tenant protections and curbing unjust rent increases.  \n- The legislation aims to empower renters and promote fair housing practices across the UK."
+      "ai_summary": "- Prime Minister praises the Renters' Rights Act for enhancing tenant protections and curbing unjust rent increases.  \n- The Act aims to empower renters and improve housing security across the UK."
     }
   ]
 }
