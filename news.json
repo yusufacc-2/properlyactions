@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T22:16:33.246690",
-  "article_count": 13,
+  "last_updated": "2026-06-10T01:57:33.082577",
+  "article_count": 21,
   "articles": [
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/tenants-on-benefits-letting-agent-sacked-after-alleged-remark/",
@@ -10,7 +10,7 @@
       "source": "Landlord Today",
       "published": "Tue, 09 Jun 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/UK-Cash-20-400x310-1.jpg",
-      "ai_summary": "- A letting agent has been dismissed following allegations of inappropriate comments regarding tenants on benefits, raising concerns about discrimination.\n- The incident may violate the Renters Rights Act, highlighting the ongoing need for compliance and respect in the rental market."
+      "ai_summary": "- A letting agent has been dismissed following allegations of making inappropriate comments regarding tenants on benefits.  \n- The incident potentially violates the Renters Rights Act, raising concerns about discrimination in the rental market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/capital-gains-tax-soars-as-more-property-sellers-drawn-in/",
@@ -20,7 +20,7 @@
       "source": "Landlord Today",
       "published": "Tue, 09 Jun 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/House-Tax-400x310-1.jpg",
-      "ai_summary": "- Capital Gains Tax liabilities have surged, impacting a growing number of UK property sellers as HMRC reveals significant new data.\n- The increase reflects changing market dynamics and heightened financial responsibilities for those selling real estate in the current landscape."
+      "ai_summary": "- Latest HMRC figures show a sharp increase in Capital Gains Tax as more property sellers enter the market.\n- The surge indicates growing investment activity, leading to higher tax liabilities for homeowners selling their properties."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-at-risk-from-fast-changing-red-tape-new-study/",
@@ -30,7 +30,7 @@
       "source": "Landlord Today",
       "published": "Tue, 09 Jun 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_282358193.jpg",
-      "ai_summary": "- A new study by SafeDeposits Scotland Charitable Trust warns that landlords face increasing risks due to rapidly evolving regulations and compliance requirements.  \n- The research highlights the potential challenges landlords may encounter in navigating the complex and changing landscape of property management regulations."
+      "ai_summary": "- A new study by SafeDeposits Scotland Charitable Trust highlights that UK landlords face significant risks due to rapidly evolving regulations.  \n- The changing red tape could increase compliance challenges and financial pressures for rental property owners."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-reluctant-to-let-to-smokers-and-vapers-new-stats/",
@@ -40,7 +40,7 @@
       "source": "Landlord Today",
       "published": "Tue, 09 Jun 2026 00:00:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/smoke-alarm.png",
-      "ai_summary": "- A recent survey of 500 landlords reveals a growing reluctance to rent to smokers and vapers.\n- This trend highlights increasing concerns among landlords about property maintenance and tenant behavior."
+      "ai_summary": "- A recent survey of 500 landlords reveals a strong trend against renting to smokers and vapers.  \n- This reflects a growing preference for properties that prioritize smoke-free environments."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-fail-in-legal-bid-to-stop-council-licensing-schemes/",
@@ -50,7 +50,7 @@
       "source": "Landlord Today",
       "published": "Mon, 08 Jun 2026 00:30:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/licensing1-400x310-1.png",
-      "ai_summary": "- Landlords lose legal challenge against a council's Selective and Additional Licensing Schemes.  \n- The council's licensing measures remain intact, allowing for continued regulation of rental properties."
+      "ai_summary": "- A council has triumphed in a legal battle, upholding its Selective and Additional Licensing Schemes against landlord opposition.  \n- The ruling reinforces local authority powers to regulate rental properties amidst ongoing housing concerns."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/agents-back-landlord-registration-scheme-to-raise-standards/",
@@ -59,8 +59,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/agents-back-landlord-registration-scheme-to-raise-standards/",
       "source": "Landlord Today",
       "published": "Mon, 08 Jun 2026 00:05:00 +0100",
-      "image": null,
-      "ai_summary": "- Propertymark supports the Landlord Registration Scheme, aiming to enhance industry standards for rental properties.  \n- The initiative seeks to ensure accountability and improve tenant experiences across the UK rental market."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/InventoryChecklist-400x310-1.jpg",
+      "ai_summary": "- Propertymark endorses the Landlord Registration Scheme as a key initiative to enhance rental standards in the UK.  \n- The scheme aims to promote accountability and professionalism among landlords for improved tenant experiences.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/ai-service-will-identify-property-and-equipment-faults-after-renter-queries/",
@@ -70,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Mon, 08 Jun 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/PropTech-TouchScreen-400x310-1.jpg",
-      "ai_summary": "- Finest Retreats introduces an AI service that quickly identifies property and equipment faults based on renter queries.  \n- The innovative tool aims to enhance the rental experience by streamlining maintenance reporting and resolution.  "
+      "ai_summary": "- Finest Retreats has introduced an AI service to swiftly identify property and equipment issues reported by renters.\n- This innovative tool aims to enhance tenant satisfaction by providing prompt resolution to maintenance queries."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/high-profile-landlord-solicitor-joins-central-london-practice/",
@@ -79,8 +79,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/high-profile-landlord-solicitor-joins-central-london-practice/",
       "source": "Landlord Today",
       "published": "Mon, 08 Jun 2026 00:00:00 +0100",
-      "image": null,
-      "ai_summary": "- A prominent landlord and tenant solicitor is set to enhance a central London law practice.\n- The move underscores the firm's commitment to strengthening its real estate law expertise."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Law400x310.png",
+      "ai_summary": "- A prominent landlord and tenant solicitor has joined a leading legal practice in central London.\n- This addition strengthens the firm's expertise in property law, bolstering its reputation in the market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/bizarre-ban-on-landlords-to-be-scrapped-by-ambitious-green-party/",
@@ -89,8 +89,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/bizarre-ban-on-landlords-to-be-scrapped-by-ambitious-green-party/",
       "source": "Landlord Today",
       "published": "Fri, 05 Jun 2026 00:05:00 +0100",
-      "image": null,
-      "ai_summary": "- The Green Party plans to eliminate an unusual ban affecting landlords, signaling a shift in property policy.\n- This move comes as part of the party's broader ambitions to revamp housing regulations in the UK."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/GreenParty-logo400x310.png",
+      "ai_summary": "- The Green Party plans to eliminate a controversial ban on landlords, aiming to reform housing policy in the UK.  \n- This initiative aligns with broader ambitions to enhance sustainability and accessibility in the housing market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/imminent-rule-change-threatens-landlords-with-40000-fine/",
@@ -99,8 +99,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/imminent-rule-change-threatens-landlords-with-40000-fine/",
       "source": "Landlord Today",
       "published": "Thu, 04 Jun 2026 00:05:00 +0100",
-      "image": null,
-      "ai_summary": "- Upcoming rule change set for June 23 could hit landlords with fines of up to \u00a340,000.\n- Landlords need to prepare for stricter regulations or face significant financial penalties."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HealthSafety400x310-4.png",
+      "ai_summary": "- Landlords face potential fines of up to \u00a340,000 due to an impending rule change taking effect on June 23.  \n- The new regulations intensify scrutiny on rental properties, urging landlords to comply or risk significant financial penalties."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/agents-accused-of-undermining-renters-rights-act/",
@@ -109,8 +109,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/agents-accused-of-undermining-renters-rights-act/",
       "source": "Landlord Today",
       "published": "Thu, 04 Jun 2026 00:04:00 +0100",
-      "image": null,
-      "ai_summary": "- Agents face allegations of undermining the Renters Rights Act through unethical practices.\n- Critics argue these actions threaten the rights and protections intended for renters."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/RentingImage-400x310-1.jpg",
+      "ai_summary": "- Real estate agents in the UK face criticism for allegedly undermining the newly implemented Renters Rights Act.  \n- Accusations highlight a pattern of malpractices that could harm tenant protections and rights."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/most-tenants-stay-renting-for-longer-than-they-ever-planned/",
@@ -119,8 +119,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/most-tenants-stay-renting-for-longer-than-they-ever-planned/",
       "source": "Landlord Today",
       "published": "Thu, 04 Jun 2026 00:01:00 +0100",
-      "image": null,
-      "ai_summary": "- A recent letting agency survey reveals that tenants are prolonging their stay in rented accommodations beyond their initial plans.  \n- Economic factors and housing market conditions are driving many renters to extend their tenancy longer than intended."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/First-Time-Buyers-400x310-1.jpg",
+      "ai_summary": "- A recent survey reveals that many tenants in the UK are extending their rental periods beyond their initial plans.\n- Factors contributing to this trend include rising property prices and a challenging housing market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/more-landlords-splashing-out-on-energy-efficient-homes/",
@@ -129,8 +129,88 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/more-landlords-splashing-out-on-energy-efficient-homes/",
       "source": "Landlord Today",
       "published": "Wed, 03 Jun 2026 00:05:00 +0100",
-      "image": null,
-      "ai_summary": "- Increasing number of landlords are investing in energy-efficient properties, driven by rising demand for sustainable homes.  \n- Loans for purchasing energy-efficient homes have surged, highlighting a shift in the property market towards sustainability."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Low_EPC-400x310-1.png",
+      "ai_summary": "- Lending for energy-efficient home purchases in the UK has surged dramatically.  \n- More landlords are investing in energy-efficient properties, reflecting a growing trend in sustainable housing."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/ground-rent-cap-to-be-introduced-a-year-early/?utm_source=rss&utm_medium=rss&utm_campaign=ground-rent-cap-to-be-introduced-a-year-early",
+      "title": "Ground rent cap to be introduced a year early",
+      "summary": "The Government previously indicated that the \u00a3250 annual cap on ground rents would be introduced by late 2028.\nThe post Ground rent cap to be introduced a year early appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/ground-rent-cap-to-be-introduced-a-year-early/?utm_source=rss&utm_medium=rss&utm_campaign=ground-rent-cap-to-be-introduced-a-year-early",
+      "source": "The Negotiator",
+      "published": "Tue, 09 Jun 2026 04:55:54 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/leasehold-reform-bill.jpg",
+      "ai_summary": "- The UK Government will implement a \u00a3250 annual cap on ground rents a year ahead of schedule, now set for introduction in 2027.  \n- This move signals a significant shift in property regulations, aimed at promoting affordability for leasehold homeowners."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/more-than-half-of-first-time-buyers-rely-on-bank-of-mum-and-dad/?utm_source=rss&utm_medium=rss&utm_campaign=more-than-half-of-first-time-buyers-rely-on-bank-of-mum-and-dad",
+      "title": "More than half of first-time buyers rely on \u2018Bank of Mum and Dad\u2019",
+      "summary": "Savills' Lucian Cook says more than half of first-time buyers need financial help from their families to purchase a home.\nThe post More than half of first-time buyers rely on \u2018Bank of Mum and Dad\u2019 appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/more-than-half-of-first-time-buyers-rely-on-bank-of-mum-and-dad/?utm_source=rss&utm_medium=rss&utm_campaign=more-than-half-of-first-time-buyers-rely-on-bank-of-mum-and-dad",
+      "source": "The Negotiator",
+      "published": "Tue, 09 Jun 2026 04:55:53 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2024/09/Lucian-cook-savills-3-e1780919468759.jpg",
+      "ai_summary": "- Over 50% of first-time homebuyers in the UK are relying on financial assistance from their families, according to Savills' Lucian Cook.\n- This trend highlights the growing dependency on the 'Bank of Mum and Dad' to navigate the housing market."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/mortgage-affordability-at-worst-since-2008/?utm_source=rss&utm_medium=rss&utm_campaign=mortgage-affordability-at-worst-since-2008",
+      "title": "Worst mortgage affordability since 2008",
+      "summary": "Higher borrowing costs are stretching affordability and dampening demand in the housing market, says UK Finance\u2019s James Tatch.\nThe post Worst mortgage affordability since 2008 appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/mortgage-affordability-at-worst-since-2008/?utm_source=rss&utm_medium=rss&utm_campaign=mortgage-affordability-at-worst-since-2008",
+      "source": "The Negotiator",
+      "published": "Tue, 09 Jun 2026 04:55:40 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/James-Tatch-UK-Finance.jpg",
+      "ai_summary": "- Mortgage affordability in the UK reaches its lowest point since 2008, driven by soaring borrowing costs.  \n- Demand in the housing market is declining as affordability pressures intensify, according to UK Finance\u2019s James Tatch."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/guest-blog/blog-is-air-conditioning-the-new-eco-dogma-or-the-latest-front-in-britains-class-war/?utm_source=rss&utm_medium=rss&utm_campaign=blog-is-air-conditioning-the-new-eco-dogma-or-the-latest-front-in-britains-class-war",
+      "title": "BLOG: Is air conditioning the new eco-dogma or the latest front in Britain\u2019s class war?",
+      "summary": "Trevor Abrahmsohn of Glentree International says there is a growing campaign to discourage, restrict, or ban air conditioning in new residential developments.\nThe post BLOG: Is air conditioning the new eco-dogma or the latest front in Britain\u2019s class war? appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/guest-blog/blog-is-air-conditioning-the-new-eco-dogma-or-the-latest-front-in-britains-class-war/?utm_source=rss&utm_medium=rss&utm_campaign=blog-is-air-conditioning-the-new-eco-dogma-or-the-latest-front-in-britains-class-war",
+      "source": "The Negotiator",
+      "published": "Tue, 09 Jun 2026 04:55:32 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/air-conditioning.jpg",
+      "ai_summary": "- A rising movement in the UK property sector aims to limit or prohibit air conditioning in new homes, sparking debate over environmental impact and social equity.\n- Critics argue that this push reflects deeper class tensions, potentially prioritizing eco-friendly standards over comfort in residential living."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/leeds-letting-agent-dismissed-over-alleged-benefits-discrimination/?utm_source=rss&utm_medium=rss&utm_campaign=leeds-letting-agent-dismissed-over-alleged-benefits-discrimination",
+      "title": "Leeds letting agent dismissed over alleged benefits discrimination",
+      "summary": "Parklane Properties says remarks about filtering out the \u201cdross\u201d were unacceptable and not company policy.\nThe post Leeds letting agent dismissed over alleged benefits discrimination appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/leeds-letting-agent-dismissed-over-alleged-benefits-discrimination/?utm_source=rss&utm_medium=rss&utm_campaign=leeds-letting-agent-dismissed-over-alleged-benefits-discrimination",
+      "source": "The Negotiator",
+      "published": "Tue, 09 Jun 2026 04:55:29 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Parklane-properties.jpg",
+      "ai_summary": "- Parklane Properties terminated an employee after inappropriate comments about filtering out tenants on benefits, stating such remarks do not represent the company's policies.  \n- The letting agent's actions have sparked concerns over discrimination in the rental market in Leeds."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/proposed-mortgage-reforms-to-widen-pool-of-buyers/?utm_source=rss&utm_medium=rss&utm_campaign=proposed-mortgage-reforms-to-widen-pool-of-buyers",
+      "title": "Proposed mortgage reforms to widen pool of buyers",
+      "summary": "The Financial Conduct Authority has proposed the rule changes so that lenders can help borrowers who have previously struggled to get a mortgage.\nThe post Proposed mortgage reforms to widen pool of buyers appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/proposed-mortgage-reforms-to-widen-pool-of-buyers/?utm_source=rss&utm_medium=rss&utm_campaign=proposed-mortgage-reforms-to-widen-pool-of-buyers",
+      "source": "The Negotiator",
+      "published": "Tue, 09 Jun 2026 04:55:03 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/FCA_HQ_logo.gif",
+      "ai_summary": "- The Financial Conduct Authority is introducing proposed mortgage reforms aimed at expanding access for borrowers who have previously faced challenges in securing a mortgage.  \n- These changes are intended to encourage lenders to support a wider range of potential homebuyers, boosting the property market."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/proptech/estate-agents-launch-honest-pricing-ai-service/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-launch-honest-pricing-ai-service",
+      "title": "Estate agents launch \u2018honest pricing\u2019 AI service",
+      "summary": "Joshua Owens and Khashi Shahverdi set up a new tool they say provides a realistic property price.\nThe post Estate agents launch \u2018honest pricing\u2019 AI service appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/proptech/estate-agents-launch-honest-pricing-ai-service/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-launch-honest-pricing-ai-service",
+      "source": "The Negotiator",
+      "published": "Tue, 09 Jun 2026 04:55:02 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/howsold-image.jpg",
+      "ai_summary": "- Estate agents Joshua Owens and Khashi Shahverdi have introduced an innovative AI tool promising realistic property pricing.  \n- The new service aims to enhance transparency in the property market by offering \"honest pricing\" to potential buyers and sellers."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/exclusive-big-indepenent-london-estate-agency-bought-by-dexters/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-big-indepenent-london-estate-agency-bought-by-dexters",
+      "title": "EXCLUSIVE: Big independent London estate agency bought by Dexters",
+      "summary": "Fraser & Co is sold to a big corporate with help from new consultancy Pendleton London some 31 years after being established.\nThe post EXCLUSIVE: Big independent London estate agency bought by Dexters appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/exclusive-big-indepenent-london-estate-agency-bought-by-dexters/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-big-indepenent-london-estate-agency-bought-by-dexters",
+      "source": "The Negotiator",
+      "published": "Tue, 09 Jun 2026 04:45:53 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/robert-fraser-copy.jpg",
+      "ai_summary": "- Fraser & Co, a prominent independent estate agency in London, has been acquired by corporate giant Dexters after 31 years in operation.  \n- The acquisition was facilitated by consulting firm Pendleton London, signaling a significant shift in the competitive real estate market."
     }
   ]
 }
