@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-12T02:05:21.657800",
-  "article_count": 25,
+  "last_updated": "2026-06-12T07:09:23.049536",
+  "article_count": 17,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/rental-market-remains-under-pressure-as-supply-dwindles-rics/",
+      "title": "Rental market remains under pressure as supply dwindles \u2013 RICS",
+      "summary": "Landlord instructions are falling and most survey respondents expect rent rises",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/rental-market-remains-under-pressure-as-supply-dwindles-rics/",
+      "source": "Landlord Today",
+      "published": "Fri, 12 Jun 2026 00:25:00 +0100",
+      "image": null,
+      "ai_summary": "- **Shrinking Supply:** Landlord instructions are declining, leading to a tightening rental market.\n- **Rising Rents Ahead:** Most survey respondents anticipate increases in rental prices due to reduced availability."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlord-opportunities-as-coastal-house-prices-slump-up-to-35/",
+      "title": "Landlord opportunities as coastal house prices slump up to 35%",
+      "summary": "This is according to an online agency",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlord-opportunities-as-coastal-house-prices-slump-up-to-35/",
+      "source": "Landlord Today",
+      "published": "Fri, 12 Jun 2026 00:05:00 +0100",
+      "image": null,
+      "ai_summary": "- Coastal house prices have dropped by up to 35%, creating unique opportunities for landlords to invest in undervalued properties.  \n- An online agency highlights this as a strategic moment for real estate investment along the coast."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/monthly-instalment-plan-for-rogue-landlords-five-figure-fine/",
+      "title": "Monthly instalment plan for rogue landlord\u2019s five figure fine",
+      "summary": "He will pay at a rate of \u00a31,750 a month",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/monthly-instalment-plan-for-rogue-landlords-five-figure-fine/",
+      "source": "Landlord Today",
+      "published": "Fri, 12 Jun 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Fined200x150.jpg",
+      "ai_summary": "- A rogue landlord has been fined five figures and will repay the amount through a monthly installment plan.  \n- The repayment plan is set at \u00a31,750 per month to address the penalty imposed."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/london-rental-market-resilient-despite-renters-rights-act-agents-view/",
+      "title": "London rental market \u2018resilient\u2019 despite Renters Rights Act \u2013 agent\u2019s view",
+      "summary": "The latest analysis from lettings agency Benham and Reeves",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/london-rental-market-resilient-despite-renters-rights-act-agents-view/",
+      "source": "Landlord Today",
+      "published": "Fri, 12 Jun 2026 00:01:00 +0100",
+      "image": null,
+      "ai_summary": "- The London rental market remains strong and resilient even in the face of the new Renters Rights Act, according to lettings agency Benham and Reeves.\n- Continued demand for rental properties reflects a robust sector, indicating adaptability amidst regulatory changes."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/void-losses-soar-and-landlords-are-footing-the-bill/",
       "title": "Void losses soar and landlords are footing the bill",
@@ -10,7 +50,7 @@
       "source": "Landlord Today",
       "published": "Thu, 11 Jun 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Money-House.jpg",
-      "ai_summary": "- Landlords are facing a significant financial burden as void costs surge by over 50%.\n- The rise in empty property expenses highlights the mounting challenges within the UK rental market."
+      "ai_summary": "- Void losses for UK landlords have surged, with some facing cost increases of over 50%.  \n- Landlords are bearing the financial burden as these void costs continue to escalate."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/banning-order-after-flat-suffers-mice-cockroaches-bed-bugs/",
@@ -19,8 +59,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/banning-order-after-flat-suffers-mice-cockroaches-bed-bugs/",
       "source": "Landlord Today",
       "published": "Thu, 11 Jun 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/banned-2.jpg",
-      "ai_summary": "- A council has issued a banning order after a flat was found infested with mice, cockroaches, and bed bugs, highlighting severe housing violations.  \n- Banning orders are a key tool for councils to address critical housing offenses and ensure tenant safety.  "
+      "image": null,
+      "ai_summary": "- A banning order has been issued after a flat was found infested with mice, cockroaches, and bed bugs, highlighting severe health violations.  \n- Councils leverage banning orders as a key tool to address serious housing offences and protect tenant welfare."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/tenants-in-cheapest-areas-hit-by-largest-rent-rises/",
@@ -29,8 +69,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/tenants-in-cheapest-areas-hit-by-largest-rent-rises/",
       "source": "Landlord Today",
       "published": "Thu, 11 Jun 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HousePriceRising_400x310.png",
-      "ai_summary": "- Tenants in the UK's most affordable areas are facing significant rent increases, as reported by Zoopla.\n- Rising demand and limited supply are driving these sharp rent hikes in the lower-cost regions."
+      "image": null,
+      "ai_summary": "- Tenants in the UK's most affordable regions are experiencing the steepest rent increases, as reported by Zoopla.  \n- The trend highlights a growing rental pressure in lower-cost areas, shifting the rental landscape for budget-conscious renters."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/warning-to-landlords-renting-to-friends-or-family/",
@@ -40,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Thu, 11 Jun 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/StudentsInHome2-695x395-1.png",
-      "ai_summary": "- **Informal Arrangements Risky**: Around 20% of landlords letting to friends or family do so without formal agreements, exposing them to potential legal and financial pitfalls.  \n- **Need for Clarity**: Experts urge landlords to formalize rental agreements, even with acquaintances, to protect their interests and ensure compliance with legal obligations."
+      "ai_summary": "- **Informal Agreements Risky:** Nearly 20% of landlords renting to friends do so without formal contracts, exposing them to potential legal and financial issues.  \n- **Caution Advised:** Experts warn landlords to consider the implications of informal arrangements, emphasizing the importance of clear, written agreements."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/renters-rights-act-later-phases-timetable-confirmed/",
@@ -50,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Wed, 10 Jun 2026 00:30:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/GovernmentImage-400x310-1.jpg",
-      "ai_summary": "- The UK's Renters Rights Act will roll out its next phase in late 2026.  \n- This legislation aims to enhance protections for tenants across the country."
+      "ai_summary": "- The phased implementation of the Renters Rights Act is set to commence in late 2026.  \n- Key changes aimed at enhancing tenant protections are on the horizon, impacting the rental landscape in the UK."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/do-average-landlords-really-earn-89000-a-year/",
@@ -60,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Wed, 10 Jun 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/UK-Cash-20-400x310-1.jpg",
-      "ai_summary": "- New research from Pegasus Insight claims landlords in the UK earn an average of \u00a389,000 annually, sparking debate about the true profitability of rental properties.  \n- The findings raise questions about the financial landscape for landlords, highlighting potential disparities in income based on location and property type."
+      "ai_summary": "- A recent Pegasus Insight report claims landlords in the UK earn an average annual income of \u00a389,000, sparking debates on the profitability of property investment.  \n- The figures have raised eyebrows, leading to discussions about the realities of landlord earnings versus public perception.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/fifth-of-landlords-dont-trust-agents-on-deposit-handling/",
@@ -69,8 +109,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/fifth-of-landlords-dont-trust-agents-on-deposit-handling/",
       "source": "Landlord Today",
       "published": "Wed, 10 Jun 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Young-people-more-likely-MortgageCalculated1_400x310.png",
-      "ai_summary": "- A recent Lettings Partnership survey reveals that 20% of landlords lack trust in agents regarding deposit management.  \n- Concerns over transparency and accountability are driving landlords to question their agents' handling of rental deposits."
+      "image": null,
+      "ai_summary": "- A survey by the Lettings Partnership reveals that 20% of landlords lack trust in letting agents' management of security deposits.  \n- Concerns over transparency and accountability in deposit handling are putting strain on landlord-agent relationships in the UK rental market.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/guaranteed-rent-for-landlords-signing-up-to-lease-deal/",
@@ -79,8 +119,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/guaranteed-rent-for-landlords-signing-up-to-lease-deal/",
       "source": "Landlord Today",
       "published": "Wed, 10 Jun 2026 00:01:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/RentBuy-400x3101-2.png",
-      "ai_summary": "- Landlords can secure guaranteed rent through a new lease deal, ensuring steady income regardless of market fluctuations.  \n- The initiative is backed by government funding and implemented via local authorities, enhancing support for property owners."
+      "image": null,
+      "ai_summary": "- Landlords can secure guaranteed rent by enrolling in a new scheme backed by the government and administered via local authorities.  \n- This initiative aims to provide financial stability for landlords while addressing rental market challenges."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/government-renews-calls-for-home-for-ukraine-hosts/",
@@ -89,8 +129,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/government-renews-calls-for-home-for-ukraine-hosts/",
       "source": "Landlord Today",
       "published": "Wed, 10 Jun 2026 00:00:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/russia-ukraine.png",
-      "ai_summary": "- The UK government is urgently appealing for more individuals to step forward as hosts for the Homes for Ukraine Scheme, first established in March 2022.  \n- This initiative aims to provide sanctuary for Ukrainian refugees amid ongoing conflicts, highlighting the need for community support in resettling displaced families."
+      "image": null,
+      "ai_summary": "- The UK government is actively seeking more hosts for its Homes for Ukraine Scheme, initiated in March 2022.  \n- Emphasizing the ongoing need for support, officials are urging citizens to open their homes to Ukrainian refugees."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/tenants-on-benefits-letting-agent-sacked-after-alleged-remark/",
@@ -100,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Tue, 09 Jun 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/UK-Cash-20-400x310-1.jpg",
-      "ai_summary": "- A letting agent has been dismissed following allegations of an inappropriate comment regarding tenants on benefits.  \n- The incident raises concerns about potential violations of the Renters Rights Act."
+      "ai_summary": "- A letting agent has been dismissed after allegedly making a comment that breaches the Renters Rights Act concerning tenants on benefits.  \n- The incident highlights ongoing concerns about discrimination in the rental market and the protection of renters\u2019 rights in the UK."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/capital-gains-tax-soars-as-more-property-sellers-drawn-in/",
@@ -110,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Tue, 09 Jun 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/House-Tax-400x310-1.jpg",
-      "ai_summary": "- Capital Gains Tax on property sales has increased sharply, affecting more sellers as new HMRC figures reveal rising tax liabilities.  \n- The surge in tax revenue indicates a growing number of property owners are realizing gains amid a revitalized market.  "
+      "ai_summary": "- HMRC reports a significant increase in Capital Gains Tax as more property sellers enter the market.  \n- The data indicates that rising property transactions are contributing to higher tax liabilities for homeowners."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-at-risk-from-fast-changing-red-tape-new-study/",
@@ -119,8 +159,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-at-risk-from-fast-changing-red-tape-new-study/",
       "source": "Landlord Today",
       "published": "Tue, 09 Jun 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_282358193.jpg",
-      "ai_summary": "- A new study by SafeDeposits Scotland Charitable Trust highlights the increasing risks for landlords due to rapidly evolving regulations.  \n- The changing red tape could pose significant challenges for landlords, impacting their compliance and operational stability."
+      "image": null,
+      "ai_summary": "- Landlords face increased risks due to rapidly evolving regulations, as highlighted in a new study by SafeDeposits Scotland Charitable Trust.  \n- The changing red tape could significantly impact compliance and operational costs for landlords across the UK."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-reluctant-to-let-to-smokers-and-vapers-new-stats/",
@@ -129,128 +169,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-reluctant-to-let-to-smokers-and-vapers-new-stats/",
       "source": "Landlord Today",
       "published": "Tue, 09 Jun 2026 00:00:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/smoke-alarm.png",
-      "ai_summary": "- A new survey of 500 landlords reveals a trend of reluctance to rent to smokers and vapers.  \n- This shift could impact the rental market as landlords prioritize property upkeep and tenant preferences."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-fail-in-legal-bid-to-stop-council-licensing-schemes/",
-      "title": "Landlords fail in legal bid to stop council licensing schemes",
-      "summary": "A council has successfully defended a legal challenge to its Selective and Additional Licensing Schemes.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-fail-in-legal-bid-to-stop-council-licensing-schemes/",
-      "source": "Landlord Today",
-      "published": "Mon, 08 Jun 2026 00:30:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/licensing1-400x310-1.png",
-      "ai_summary": "- A council's legal victory allows it to maintain its Selective and Additional Licensing Schemes for landlords.  \n- The unsuccessful challenge from landlords underscores ongoing tensions in property regulation."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/agents-back-landlord-registration-scheme-to-raise-standards/",
-      "title": "Agents back Landlord Registration Scheme \u2018to raise standards\u2019",
-      "summary": "The backing comes from Propertymark",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/agents-back-landlord-registration-scheme-to-raise-standards/",
-      "source": "Landlord Today",
-      "published": "Mon, 08 Jun 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/InventoryChecklist-400x310-1.jpg",
-      "ai_summary": "- Propertymark supports the Landlord Registration Scheme aimed at enhancing property management standards in the UK.  \n- The initiative is designed to ensure landlords are properly vetted, improving tenant safety and overall housing quality."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/ai-service-will-identify-property-and-equipment-faults-after-renter-queries/",
-      "title": "AI service will identify property and equipment faults after renter queries",
-      "summary": "Finest Retreats have launched the service",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/ai-service-will-identify-property-and-equipment-faults-after-renter-queries/",
-      "source": "Landlord Today",
-      "published": "Mon, 08 Jun 2026 00:01:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/PropTech-TouchScreen-400x310-1.jpg",
-      "ai_summary": "- Finest Retreats has launched an AI service to quickly identify property and equipment faults based on renter inquiries.  \n- This innovative tool aims to enhance the rental experience by streamlining issue resolution for tenants."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/high-profile-landlord-solicitor-joins-central-london-practice/",
-      "title": "High profile landlord solicitor joins central London practice",
-      "summary": "High profile landlord and tenant solicitor joins central London practice",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/high-profile-landlord-solicitor-joins-central-london-practice/",
-      "source": "Landlord Today",
-      "published": "Mon, 08 Jun 2026 00:00:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Law400x310.png",
-      "ai_summary": "- A prominent landlord and tenant solicitor has joined a central London law firm, enhancing its expertise in property law.  \n- This addition signals a strategic move to strengthen the firm's offerings in the competitive London property market."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/products-services-news/conveyancers-told-to-target-estate-agents/?utm_source=rss&utm_medium=rss&utm_campaign=conveyancers-told-to-target-estate-agents",
-      "title": "Conveyancers told to target estate agents",
-      "summary": "Time should be invested in building and maintaining strong relationships with local agents, says Lyons Bowe Solicitors' Paul Lyons.\nThe post Conveyancers told to target estate agents appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/products-services-news/conveyancers-told-to-target-estate-agents/?utm_source=rss&utm_medium=rss&utm_campaign=conveyancers-told-to-target-estate-agents",
-      "source": "The Negotiator",
-      "published": "Thu, 11 Jun 2026 04:55:49 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Paul-Lyons-Lyons-Bowe-Solicitors.jpg",
-      "ai_summary": "- Conveyancers encouraged to strengthen ties with local estate agents for enhanced collaboration.  \n- Paul Lyons of Lyons Bowe Solicitors emphasizes the importance of maintaining these relationships for business success."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/james-diggins-new-fine-country-greater-manchester/?utm_source=rss&utm_medium=rss&utm_campaign=james-diggins-new-fine-country-greater-manchester",
-      "title": "New Fine & Country presence in Greater Manchester",
-      "summary": "Fine & Country strengthens its presence in across Greater Manchester, Cheshire and the surrounding areas with James Diggins at the helm.\nThe post New Fine & Country presence in Greater Manchester appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/james-diggins-new-fine-country-greater-manchester/?utm_source=rss&utm_medium=rss&utm_campaign=james-diggins-new-fine-country-greater-manchester",
-      "source": "The Negotiator",
-      "published": "Thu, 11 Jun 2026 04:55:41 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Fine-Country-Stockport-and-Saddleworth-James-Diggins.jpg",
-      "ai_summary": "- Fine & Country expands its footprint in Greater Manchester, Cheshire, and nearby regions, led by James Diggins.\n- This strategic move enhances the brand's reach and services in key property markets."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/reeves-rules-out-help-to-buy-revival/?utm_source=rss&utm_medium=rss&utm_campaign=reeves-rules-out-help-to-buy-revival",
-      "title": "Reeves rules out Help to Buy revival",
-      "summary": "Chancellor Rachel Reeves said spending on defence was a priority above incentives to boost the property market.\nThe post Reeves rules out Help to Buy revival appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/reeves-rules-out-help-to-buy-revival/?utm_source=rss&utm_medium=rss&utm_campaign=reeves-rules-out-help-to-buy-revival",
-      "source": "The Negotiator",
-      "published": "Thu, 11 Jun 2026 04:55:38 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/04/Rachel-Reeves-2026.jpg",
-      "ai_summary": "- Chancellor Rachel Reeves prioritizes defense spending over reviving the Help to Buy scheme for the property market.\n- The decision highlights a shift in focus away from housing incentives amidst rising geopolitical concerns."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/products-services-news/claim-client-money-trust-gap-between-landlords-and-agents/?utm_source=rss&utm_medium=rss&utm_campaign=claim-client-money-trust-gap-between-landlords-and-agents",
-      "title": "One in five landlords don\u2019t trust their lettings agent",
-      "summary": "Landlords want proof that agents have the right controls and safeguards in place, says The Letting Partnership\u2019s Chris Mason\nThe post One in five landlords don\u2019t trust their lettings agent appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/products-services-news/claim-client-money-trust-gap-between-landlords-and-agents/?utm_source=rss&utm_medium=rss&utm_campaign=claim-client-money-trust-gap-between-landlords-and-agents",
-      "source": "The Negotiator",
-      "published": "Thu, 11 Jun 2026 04:55:34 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Chris-Mason-The-Letting-Partnership.jpg",
-      "ai_summary": "- **Trust Issues:** One in five landlords lack confidence in their lettings agents, highlighting concerns over transparency and reliability.  \n- **Demand for Accountability:** Landlords are calling for proof of proper controls and safeguards from agents to strengthen trust, according to Chris Mason of The Letting Partnership."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/property-firm-insolvencies-hit-10-year-high/?utm_source=rss&utm_medium=rss&utm_campaign=property-firm-insolvencies-hit-10-year-high",
-      "title": "Property company insolvencies hit ten-year high",
-      "summary": "More than 760 real estate businesses have become insolvent this year as economic uncertainty hits the property market.\nThe post Property company insolvencies hit ten-year high appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/property-firm-insolvencies-hit-10-year-high/?utm_source=rss&utm_medium=rss&utm_campaign=property-firm-insolvencies-hit-10-year-high",
-      "source": "The Negotiator",
-      "published": "Thu, 11 Jun 2026 04:55:17 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Insolvent.jpg",
-      "ai_summary": "- Over 760 real estate companies have gone insolvent in the UK this year, marking the highest level in a decade.  \n- Economic uncertainty is significantly impacting the property market, driving these insolvencies."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/columns/nelly-berova/building-lead-pipelines-property-portals-not-enough/?utm_source=rss&utm_medium=rss&utm_campaign=building-lead-pipelines-property-portals-not-enough",
-      "title": "FEATURE: Why property portals are not enough",
-      "summary": "Property portals are crucial to estate agency businesses, boosting visibility and generating enquiries - but dependency on this model comes with its risks. \nThe post FEATURE: Why property portals are not enough appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/columns/nelly-berova/building-lead-pipelines-property-portals-not-enough/?utm_source=rss&utm_medium=rss&utm_campaign=building-lead-pipelines-property-portals-not-enough",
-      "source": "The Negotiator",
-      "published": "Thu, 11 Jun 2026 04:55:09 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/rightmove-property-portal-nelly-berova-article.jpg",
-      "ai_summary": "- Property portals enhance visibility and inquiries for estate agents, but over-reliance on them poses significant risks.  \n- Diversifying marketing strategies is essential for estate agencies to mitigate risks associated with dependency on property portals."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/first-time-buyer-hotspots-see-asking-prices-up-18/?utm_source=rss&utm_medium=rss&utm_campaign=first-time-buyer-hotspots-see-asking-prices-up-18",
-      "title": "First-time buyer hotspots see asking prices up 18%",
-      "summary": "The first-time buyer hotpots have been revealed by Rightmove, with the portal's Colleen Babcock saying affordability is key.\nThe post First-time buyer hotspots see asking prices up 18% appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/first-time-buyer-hotspots-see-asking-prices-up-18/?utm_source=rss&utm_medium=rss&utm_campaign=first-time-buyer-hotspots-see-asking-prices-up-18",
-      "source": "The Negotiator",
-      "published": "Thu, 11 Jun 2026 04:55:05 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Colleen-Babcock-FTB.jpg",
-      "ai_summary": "- Rightmove identifies key first-time buyer hotspots where asking prices have surged by 18%.  \n- Affordability remains a central concern for new buyers, according to Rightmove's Colleen Babcock."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/rental-market/rents-in-cheapest-areas-jump-5-zoopla-data-reveals/?utm_source=rss&utm_medium=rss&utm_campaign=rents-in-cheapest-areas-jump-5-zoopla-data-reveals",
-      "title": "Rents in cheapest areas jump 5%, Zoopla data reveals",
-      "summary": "New figures show rents in the most affordable locations leapt more than twice the average national rate.\nThe post Rents in cheapest areas jump 5%, Zoopla data reveals appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/rental-market/rents-in-cheapest-areas-jump-5-zoopla-data-reveals/?utm_source=rss&utm_medium=rss&utm_campaign=rents-in-cheapest-areas-jump-5-zoopla-data-reveals",
-      "source": "The Negotiator",
-      "published": "Thu, 11 Jun 2026 04:55:02 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/To-Let-board.jpg",
-      "ai_summary": "- Rents in the UK\u2019s most affordable areas have surged by 5%, outpacing the national average increase.  \n- Zoopla data highlights a growing trend of rising rents in low-cost locations, indicating a shift in the rental market dynamics."
+      "image": null,
+      "ai_summary": "- A new survey of 500 landlords reveals a growing reluctance to rent to smokers and vapers.\n- This trend indicates a potential shift in rental market preferences, prioritizing tenant habits that align with property maintenance and overall tenant quality."
     }
   ]
 }
