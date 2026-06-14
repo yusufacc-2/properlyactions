@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T19:02:34.666510",
+  "last_updated": "2026-06-14T22:01:05.556852",
   "article_count": 17,
   "articles": [
     {
@@ -9,8 +9,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/rental-market-remains-under-pressure-as-supply-dwindles-rics/",
       "source": "Landlord Today",
       "published": "Fri, 12 Jun 2026 00:25:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/RICS-logo400x310.png",
-      "ai_summary": "- Landlord instructions are declining, contributing to a tightening rental market.  \n- The majority of survey respondents anticipate rising rents due to the reduced supply of rental properties."
+      "image": null,
+      "ai_summary": "- Rental supply is tightening as landlord instructions decline, signaling continued pressure on the rental market.  \n- A majority of survey respondents anticipate rent increases, reflecting the shifting dynamics in housing availability."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlord-opportunities-as-coastal-house-prices-slump-up-to-35/",
@@ -20,7 +20,7 @@
       "source": "Landlord Today",
       "published": "Fri, 12 Jun 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/kid-and-women-by-the-sea-2.png",
-      "ai_summary": "- Coastal house prices in the UK have plummeted by up to 35%, creating potential investment opportunities for landlords.  \n- An online agency highlights this significant market shift, encouraging property investors to explore coastal regions."
+      "ai_summary": "- Coastal house prices in the UK have dropped by up to 35%, presenting lucrative investment opportunities for landlords.  \n- An online agency highlights the potential for buyers to capitalize on lower property costs in these regions."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/monthly-instalment-plan-for-rogue-landlords-five-figure-fine/",
@@ -30,7 +30,7 @@
       "source": "Landlord Today",
       "published": "Fri, 12 Jun 2026 00:04:00 +0100",
       "image": null,
-      "ai_summary": "- A rogue landlord has been ordered to pay a hefty five-figure fine through a monthly instalment plan.\n- The payment will be made at a rate of \u00a31,750 per month."
+      "ai_summary": "- A rogue landlord has been ordered to pay a hefty fine through a monthly instalment plan.  \n- He is set to make payments of \u00a31,750 each month until the five-figure penalty is fully settled."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/london-rental-market-resilient-despite-renters-rights-act-agents-view/",
@@ -39,8 +39,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/london-rental-market-resilient-despite-renters-rights-act-agents-view/",
       "source": "Landlord Today",
       "published": "Fri, 12 Jun 2026 00:01:00 +0100",
-      "image": null,
-      "ai_summary": "- London's rental market remains robust despite the implications of the new Renters Rights Act, according to insights from lettings agency Benham and Reeves.  \n- Increased demand and limited supply continue to drive resilience in rental prices and tenancy stability across the capital."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/LondonMap400x310-min.png",
+      "ai_summary": "- The London rental market remains surprisingly resilient, even in the wake of the new Renters Rights Act, according to analysis from lettings agency Benham and Reeves.  \n- Agents note that demand continues to outpace supply, indicating a robust rental environment despite regulatory changes."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/void-losses-soar-and-landlords-are-footing-the-bill/",
@@ -49,8 +49,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/void-losses-soar-and-landlords-are-footing-the-bill/",
       "source": "Landlord Today",
       "published": "Thu, 11 Jun 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Money-House.jpg",
-      "ai_summary": "- Void loss expenses for landlords have surged by over 50%, significantly increasing their financial burden.  \n- Landlords are now facing mounting costs as the problem of void losses escalates in the UK property market."
+      "image": null,
+      "ai_summary": "- Void losses for UK landlords have surged, with some experiencing cost increases exceeding 50%.\n- Landlords are bearing the brunt of these escalating costs, significantly impacting their profitability."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/banning-order-after-flat-suffers-mice-cockroaches-bed-bugs/",
@@ -60,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Thu, 11 Jun 2026 00:04:00 +0100",
       "image": null,
-      "ai_summary": "- A banning order has been issued for a flat plagued by infestations of mice, cockroaches, and bed bugs, highlighting severe housing violations.  \n- Councils are empowered to impose banning orders as a key tool to address and penalize serious housing offenses."
+      "ai_summary": "- A council has issued a banning order for a flat plagued by infestations of mice, cockroaches, and bed bugs, highlighting serious health and safety violations.  \n- Banning orders represent a significant enforcement tool for councils to address severe housing breaches and protect tenant welfare."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/tenants-in-cheapest-areas-hit-by-largest-rent-rises/",
@@ -69,8 +69,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/tenants-in-cheapest-areas-hit-by-largest-rent-rises/",
       "source": "Landlord Today",
       "published": "Thu, 11 Jun 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HousePriceRising_400x310.png",
-      "ai_summary": "- Tenants in the UK\u2019s most affordable areas are facing significant rent increases, according to new insights from Zoopla.\n- The trend highlights a growing disparity, with budget-conscious renters experiencing the steepest price hikes in the current market."
+      "image": null,
+      "ai_summary": "- Tenants in the UK's most affordable regions are experiencing the steepest rent increases, as highlighted by Zoopla.  \n- Rising rental costs are putting additional strain on renters in historically low-cost areas."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/warning-to-landlords-renting-to-friends-or-family/",
@@ -80,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Thu, 11 Jun 2026 00:02:00 +0100",
       "image": null,
-      "ai_summary": "- Around 20% of landlords renting to friends or family do so without formal agreements, increasing risks.\n- Experts warn that informal arrangements can lead to disputes and financial complications for landlords."
+      "ai_summary": "- **Caution for Landlords**: Nearly 20% of landlords rent to friends without formal agreements, potentially leading to disputes.  \n- **Risk Alert**: Informal arrangements may compromise tenant rights and landlord protections, creating legal vulnerabilities."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/renters-rights-act-later-phases-timetable-confirmed/",
@@ -89,8 +89,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/renters-rights-act-later-phases-timetable-confirmed/",
       "source": "Landlord Today",
       "published": "Wed, 10 Jun 2026 00:30:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/GovernmentImage-400x310-1.jpg",
-      "ai_summary": "- The implementation timetable for the Renters Rights Act has been set, with the next phase slated to start in late 2026.  \n- This development signals a significant step in enhancing protections for renters across the UK."
+      "image": null,
+      "ai_summary": "- The Renters Rights Act is set to advance into its next phase starting in late 2026.  \n- This legislative move aims to enhance protections and rights for renters across the UK."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/do-average-landlords-really-earn-89000-a-year/",
@@ -100,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Wed, 10 Jun 2026 00:05:00 +0100",
       "image": null,
-      "ai_summary": "- New research from Pegasus Insight reveals a surprising claim that UK landlords earn an average of \u00a389,000 annually.\n- The findings spark debate about the profitability of rental investments amid rising housing concerns."
+      "ai_summary": "- Recent research by Pegasus Insight suggests that landlords in the UK are earning an average annual income of \u00a389,000, sparking debates about the profitability of property investment.\n- The findings challenge perceptions of landlord earnings, raising questions about the financial dynamics of the rental market amid rising living costs."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/fifth-of-landlords-dont-trust-agents-on-deposit-handling/",
@@ -110,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Wed, 10 Jun 2026 00:03:00 +0100",
       "image": null,
-      "ai_summary": "- A recent Lettings Partnership survey reveals that 20% of landlords lack trust in agents' handling of tenant deposits.  \n- Concerns over deposit management could signal a growing rift between landlords and property agents in the UK rental market."
+      "ai_summary": "- A recent survey by the Lettings Partnership reveals that 20% of landlords lack trust in agents' handling of rental deposits.  \n- Landlords express growing concerns over transparency and accountability in the property management process."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/guaranteed-rent-for-landlords-signing-up-to-lease-deal/",
@@ -120,7 +120,7 @@
       "source": "Landlord Today",
       "published": "Wed, 10 Jun 2026 00:01:00 +0100",
       "image": null,
-      "ai_summary": "- Landlords can secure guaranteed rent by participating in a new lease deal backed by the government.  \n- The initiative is executed through local authorities to bolster rental security for property owners."
+      "ai_summary": "- Landlords can secure guaranteed rent by participating in a government-funded lease deal administered by local authorities.  \n- This initiative aims to provide financial stability for property owners while easing pressure on rental markets."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/government-renews-calls-for-home-for-ukraine-hosts/",
@@ -130,7 +130,7 @@
       "source": "Landlord Today",
       "published": "Wed, 10 Jun 2026 00:00:00 +0100",
       "image": null,
-      "ai_summary": "- The UK government is intensifying efforts to encourage more hosts for the Homes for Ukraine Scheme, originally launched in March 2022.  \n- This initiative aims to provide support and accommodation for Ukrainian refugees amidst ongoing humanitarian needs."
+      "ai_summary": "- The UK government is reiterating its appeal for more hosts to support the Homes for Ukraine Scheme, initially established in March 2022.  \n- This renewed call aims to bolster assistance for Ukrainian refugees amidst ongoing humanitarian needs."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/tenants-on-benefits-letting-agent-sacked-after-alleged-remark/",
@@ -140,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Tue, 09 Jun 2026 00:05:00 +0100",
       "image": null,
-      "ai_summary": "- A letting agent has been terminated after making an alleged comment regarding tenants on benefits, which could violate the Renters Rights Act.\n- The incident highlights ongoing concerns about discrimination in the rental market and adherence to new tenant protections."
+      "ai_summary": "- A letting agent has been dismissed for allegedly making a comment that could violate the Renters Rights Act regarding tenants on benefits.  \n- The incident highlights ongoing concerns about discrimination in the rental market and the importance of upholding tenant rights."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/capital-gains-tax-soars-as-more-property-sellers-drawn-in/",
@@ -150,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Tue, 09 Jun 2026 00:04:00 +0100",
       "image": null,
-      "ai_summary": "- **Capital Gains Tax Increases**: Recent HMRC data reveals a significant rise in Capital Gains Tax as more property sellers enter the market.  \n- **Seller Surge**: The uptick in sales has led to a broader tax base, impacting many individuals who may not have previously been liable."
+      "ai_summary": "- Capital Gains Tax liabilities for property sellers have significantly increased, according to recent HMRC data.\n- More property owners are being attracted to the market, contributing to the rise in tax obligations."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-at-risk-from-fast-changing-red-tape-new-study/",
@@ -160,7 +160,7 @@
       "source": "Landlord Today",
       "published": "Tue, 09 Jun 2026 00:03:00 +0100",
       "image": null,
-      "ai_summary": "- Landlords face increasing risk from rapidly evolving regulations, according to a new study by SafeDeposits Scotland Charitable Trust.  \n- The findings highlight concerns about the challenges landlords may encounter in navigating the complex and changing legal landscape."
+      "ai_summary": "- A new study by SafeDeposits Scotland Charitable Trust reveals that landlords are increasingly at risk due to rapidly changing regulations.\n- The study highlights the pressing need for landlords to stay informed and adapt to the evolving legal landscape to avoid potential pitfalls."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-reluctant-to-let-to-smokers-and-vapers-new-stats/",
@@ -170,7 +170,7 @@
       "source": "Landlord Today",
       "published": "Tue, 09 Jun 2026 00:00:00 +0100",
       "image": null,
-      "ai_summary": "- A recent survey of 500 landlords reveals that the majority are hesitant to rent to smokers and vapers.  \n- Increasing reluctance may limit housing options for tenants who smoke or vape, impacting rental market dynamics."
+      "ai_summary": "- A recent survey of 500 landlords reveals a growing trend, with most hesitant to rent to smokers and vapers.  \n- The statistics highlight landlords' increasing prioritization of property cleanliness and tenant profiles in rental decisions."
     }
   ]
 }
