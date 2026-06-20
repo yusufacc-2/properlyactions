@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-20T01:58:41.694068",
-  "article_count": 17,
+  "last_updated": "2026-06-20T06:51:41.533286",
+  "article_count": 25,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/residential-vs-commercial-property-investment-what-you-need-to-know/",
+      "title": "Residential vs Commercial Property Investment: What You Need to Know",
+      "summary": "What Do You Need to Know?",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/residential-vs-commercial-property-investment-what-you-need-to-know/",
+      "source": "Landlord Today",
+      "published": "Sat, 20 Jun 2026 00:01:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_349740575.jpg",
+      "ai_summary": "- Residential properties offer stability and consistent rental income, while commercial investments can yield higher returns but come with increased risks and vacancy concerns.  \n- Understanding market trends and property management differences is crucial for making informed investment decisions in either sector."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/starmer-reeves-and-reed-justify-revolutionary-changes/",
       "title": "Starmer, Reeves and Reed justify revolutionary changes",
@@ -9,8 +19,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/starmer-reeves-and-reed-justify-revolutionary-changes/",
       "source": "Landlord Today",
       "published": "Fri, 19 Jun 2026 00:06:00 +0100",
-      "image": null,
-      "ai_summary": "- Labour leaders Starmer, Reeves, and Reed unveil transformative reforms targeting lettings and sales agents to enhance the house buying process.  \n- Proposed measures aim to streamline transactions, ensuring greater transparency and efficiency in the UK property market."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/KeirStarmer-400x310-1.jpg",
+      "ai_summary": "- Starmer, Reeves, and Reed advocate for transformative reforms targeting lettings and sales agents to streamline the house-buying process.  \n- Proposed changes aim to enhance efficiency and transparency in the UK's property market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/scrap-2027-tax-rise-to-help-private-rental-sector-call/",
@@ -19,8 +29,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/scrap-2027-tax-rise-to-help-private-rental-sector-call/",
       "source": "Landlord Today",
       "published": "Fri, 19 Jun 2026 00:04:00 +0100",
-      "image": null,
-      "ai_summary": "- Official data reveals that the annual increase in private rents has significantly slowed to 3.3%, leading to calls for the government to reverse its planned tax rise in 2027.  \n- The slowdown in rent growth underscores the demand for action to support the struggling private rental sector."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/TaxCut-400x310-1.png",
+      "ai_summary": "- A significant slowdown in private rent growth, now at 3.3% annually, has ignited calls for the UK government to reverse its planned 2027 tax hike on landlords.  \n- Officials argue that the easing rental market should prompt a reconsideration of fiscal policies to support the struggling private rental sector."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/new-ai-tool-for-landlords-forced-into-making-tax-digital/",
@@ -29,8 +39,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/new-ai-tool-for-landlords-forced-into-making-tax-digital/",
       "source": "Landlord Today",
       "published": "Fri, 19 Jun 2026 00:02:00 +0100",
-      "image": null,
-      "ai_summary": "- **Tax Simplification**: A new AI tool enables landlords to easily input and reconcile data from rental statements, streamlining the transition to Making Tax Digital.  \n- **Efficiency Boost**: The software aims to enhance productivity for landlords by simplifying the tax reporting process, reducing manual effort and errors."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Tax-SelfAssessment-400x310-1.png",
+      "ai_summary": "- A new AI tool streamlines the Making Tax Digital process for landlords by automatically inputting and reconciling data from rental statements.  \n- This innovation aims to simplify tax reporting and compliance for property owners navigating digital tax regulations."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/flurry-of-new-mortgage-products-and-reduced-rates-for-landlords/",
@@ -39,8 +49,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/flurry-of-new-mortgage-products-and-reduced-rates-for-landlords/",
       "source": "Landlord Today",
       "published": "Fri, 19 Jun 2026 00:00:00 +0100",
-      "image": null,
-      "ai_summary": "- Landlords benefit as new mortgage products and lower rates flood the market.  \n- Increased competition among lenders fuels better borrowing options for property investors."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_165043277-1.jpg",
+      "ai_summary": "- An influx of new mortgage products is emerging as lenders vie for landlord borrowers in a competitive market.  \n- Many landlords are benefiting from reduced rates, making financing more accessible and attractive.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/nightmare-for-landlords-trying-to-sell-flats/",
@@ -49,8 +59,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/nightmare-for-landlords-trying-to-sell-flats/",
       "source": "Landlord Today",
       "published": "Thu, 18 Jun 2026 00:06:00 +0100",
-      "image": null,
-      "ai_summary": "- The price gap between houses and flats in the UK has reached a record 30-year high, with houses rising 43% since 2016 while flats have only seen a 10% increase.  \n- This disparity poses significant challenges for landlords aiming to sell their flats in the current market."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Coins-Notes-Houses-400x310-1.jpg",
+      "ai_summary": "- The price disparity between houses and flats in the UK has reached a 30-year high, with average house prices soaring 43% since 2016, compared to a mere 10% increase for flats.  \n- This significant gap poses a challenging market for landlords attempting to sell apartments, as they struggle to compete with the rising value of houses."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/so-why-do-landlords-hold-back-deposits-from-tenants/",
@@ -59,8 +69,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/so-why-do-landlords-hold-back-deposits-from-tenants/",
       "source": "Landlord Today",
       "published": "Thu, 18 Jun 2026 00:03:00 +0100",
-      "image": null,
-      "ai_summary": "- The Deposit Protection Service (DPS) reveals that landlords often withhold deposits to cover damages or unpaid rent, highlighting a common tension between tenant expectations and landlord protections.\n- The findings emphasize the importance of clear communication and agreements to prevent disputes over deposit returns in the rental market."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/cleaning360280.png",
+      "ai_summary": "- Landlords often retain deposits due to concerns over unpaid rent and property damage, as highlighted by the DPS.\n- The findings reveal a significant lack of communication and understanding between landlords and tenants regarding deposit returns."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/police-called-to-landlord-tenant-dispute-make-amazing-discovery/",
@@ -69,8 +79,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/police-called-to-landlord-tenant-dispute-make-amazing-discovery/",
       "source": "Landlord Today",
       "published": "Thu, 18 Jun 2026 00:01:00 +0100",
-      "image": null,
-      "ai_summary": "- Police responding to a landlord-tenant dispute in Greater Manchester uncovered a stash of illegal goods, including a significant amount of vapes.  \n- Bolton council's trading standards are now investigating the legitimacy of the seized products.  "
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/police-tape400x310.png",
+      "ai_summary": "- Police responding to a landlord-tenant dispute in Greater Manchester stumbled upon a significant stash of goods, including an extensive collection of vapes.  \n- Bolton council's trading standards team was called in to investigate the legitimacy of the discovered products."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/private-renting-how-has-it-changed-since-brexit-referendum/",
@@ -79,8 +89,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/private-renting-how-has-it-changed-since-brexit-referendum/",
       "source": "Landlord Today",
       "published": "Thu, 18 Jun 2026 00:00:00 +0100",
-      "image": null,
-      "ai_summary": "- Since the Brexit referendum in 2016, the UK's private rented sector has expanded by 6.6%, growing from 2.98 million to 3.17 million rental properties.  \n- The growth is primarily attributed to regional variations in England, highlighting significant shifts in the private rental landscape over the past decade.  "
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/RentingImage-400x310-1.jpg",
+      "ai_summary": "- Since the Brexit referendum, the UK\u2019s private rented sector has expanded by 6.6%, rising from 2.98 million to 3.17 million rental properties.  \n- The growth in rental stock is primarily fueled by developments in England, highlighting significant regional differences within the rental market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-borrow-more-to-fund-epc-improvements/",
@@ -89,8 +99,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-borrow-more-to-fund-epc-improvements/",
       "source": "Landlord Today",
       "published": "Wed, 17 Jun 2026 00:05:00 +0100",
-      "image": null,
-      "ai_summary": "- Landlords are increasing borrowing to finance upgrades for Energy Performance Certificate (EPC) improvements.\n- New insights from Paragon Bank highlight a growing trend in environmentally conscious property investments."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/EPC-Editorial-960x800-Silver.png",
+      "ai_summary": "- Landlords are increasingly turning to loans to finance upgrades that improve Energy Performance Certificates (EPC) for their properties.  \n- Paragon Bank's data highlights a significant rise in borrowing aimed at enhancing energy efficiency standards among rental properties."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/shock-figures-show-two-in-five-landlords-may-sell/",
@@ -99,8 +109,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/shock-figures-show-two-in-five-landlords-may-sell/",
       "source": "Landlord Today",
       "published": "Wed, 17 Jun 2026 00:04:00 +0100",
-      "image": null,
-      "ai_summary": "- Recent data reveals that 40% of landlords are considering selling part or all of their property portfolios.  \n- This potential mass sell-off could significantly impact the UK rental market landscape."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HouseForSale_400x310.png",
+      "ai_summary": "- **Market Shake-Up**: Recent figures reveal that nearly 40% of landlords in the UK are considering selling part or all of their property portfolios.  \n- **Investment Uncertainty**: This potential mass sell-off highlights growing concerns among landlords about the future profitability of rental investments."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/activists-says-landlords-rents-encourage-growth-of-scammers/",
@@ -109,8 +119,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/activists-says-landlords-rents-encourage-growth-of-scammers/",
       "source": "Landlord Today",
       "published": "Wed, 17 Jun 2026 00:03:00 +0100",
-      "image": null,
-      "ai_summary": "- Rising rent levels in the UK are fueling an increase in rental scams targeting tenants.  \n- A group of advocates is urging the government to implement rent controls to combat this issue."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/scam-alert.png",
+      "ai_summary": "- Rising rent levels in the UK are fueling a surge in rental scams targeting tenants.  \n- A group is calling on the government to implement rent controls to protect renters from exploitation."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/council-imposes-waste-red-tape-on-landlords-of-student-houses/",
@@ -119,8 +129,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/council-imposes-waste-red-tape-on-landlords-of-student-houses/",
       "source": "Landlord Today",
       "published": "Wed, 17 Jun 2026 00:02:00 +0100",
-      "image": null,
-      "ai_summary": "- Councils are classifying waste from student rentals as commercial waste, imposing stricter disposal regulations on landlords.  \n- Landlords of student houses will face additional red tape in managing waste, complicating tenant turnover logistics.  "
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_86381524.jpg",
+      "ai_summary": "- Local councils are classifying waste from student accommodations as commercial waste, imposing new regulations on landlords.  \n- Landlords now face increased bureaucratic hurdles and potential costs associated with disposal of waste left by student tenants."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/fewer-but-bigger-rent-rises-under-renters-rights-act-regime/",
@@ -129,8 +139,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/fewer-but-bigger-rent-rises-under-renters-rights-act-regime/",
       "source": "Landlord Today",
       "published": "Tue, 16 Jun 2026 00:20:00 +0100",
-      "image": null,
-      "ai_summary": "- Recent analysis shows that, under the Renters Rights Act regime, rent increases in the UK are occurring less frequently but at significantly higher amounts.  \n- The trend indicates a shift towards larger, less frequent rent hikes, impacting tenants' financial planning and rental affordability.  "
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/MortgageRatesIncrease_400x310.png",
+      "ai_summary": "- The new Renters Rights Act is leading to fewer overall rent increases but with larger hikes in rental prices.  \n- A lettings agency's analysis of May reveals a trend towards significant rent rises in fewer rental agreements."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/rent-levels-pass-new-threshold-despite-market-hit-by-reforms/",
@@ -139,8 +149,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/rent-levels-pass-new-threshold-despite-market-hit-by-reforms/",
       "source": "Landlord Today",
       "published": "Tue, 16 Jun 2026 00:15:00 +0100",
-      "image": null,
-      "ai_summary": "- Rent levels in the UK have reached new highs, according to lettings agency Hamptons, as demand continues to outpace supply.  \n- Recent reforms intended to stabilize the rental market have inadvertently hindered growth, exacerbating the challenges for tenants."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1718282725.jpg",
+      "ai_summary": "- Rent levels in the UK have surged to new highs, according to lettings agency Hamptons.  \n- Recent reforms aimed at the rental market are hindering growth despite the increased rental prices.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-company-fined-over-licensing-breach/",
@@ -149,8 +159,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-company-fined-over-licensing-breach/",
       "source": "Landlord Today",
       "published": "Tue, 16 Jun 2026 00:10:00 +0100",
-      "image": null,
-      "ai_summary": "- A landlord's company has been penalized for failing to comply with licensing regulations.  \n- The fine underscores the importance of adhering to property licensing requirements in the UK rental market."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Fined400x310.jpg",
+      "ai_summary": "- A landlord's company has faced penalties for failing to comply with licensing regulations.  \n- The fine underscores the importance of adhering to property licensing requirements in the UK housing market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/app-tells-airbnb-landlords-when-to-jack-up-prices/",
@@ -159,18 +169,88 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/app-tells-airbnb-landlords-when-to-jack-up-prices/",
       "source": "Landlord Today",
       "published": "Tue, 16 Jun 2026 00:03:00 +0100",
-      "image": null,
-      "ai_summary": "- A new app alerts Airbnb landlords to nearby major events, helping them identify optimal price increase opportunities.  \n- Landlords can maximize their earnings by strategically raising prices during peak demand periods associated with local happenings."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/airbnb-logo400x310.png",
+      "ai_summary": "- An innovative app empowers Airbnb landlords to optimize their rental pricing by alerting them to nearby major events.\n- Users can capitalize on increased demand by strategically raising prices, enhancing their earning potential."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/burnhams-manchester-named-uks-top-capital-appreciation-city/",
-      "title": "Burnham\u2019s Manchester named \u2018UK\u2019s top capital appreciation city\u2019",
-      "summary": "Manchester is the fastest growing city for prices over the last 10 years, while London is the slowest.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/burnhams-manchester-named-uks-top-capital-appreciation-city/",
-      "source": "Landlord Today",
-      "published": "Tue, 16 Jun 2026 00:02:00 +0100",
-      "image": null,
-      "ai_summary": "- Manchester has been identified as the UK's leading city for property price growth over the past decade.\n- In contrast, London has ranked as the slowest city for capital appreciation during the same period."
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/simplify-right-to-rent-guidance-urges-propertymark/?utm_source=rss&utm_medium=rss&utm_campaign=simplify-right-to-rent-guidance-urges-propertymark",
+      "title": "Simplify Right to Rent guidance, urges Propertymark",
+      "summary": "Agents need clearer guidance and practical tools to help them comply with Right to Rent rules.\nThe post Simplify Right to Rent guidance, urges Propertymark appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/simplify-right-to-rent-guidance-urges-propertymark/?utm_source=rss&utm_medium=rss&utm_campaign=simplify-right-to-rent-guidance-urges-propertymark",
+      "source": "The Negotiator",
+      "published": "Fri, 19 Jun 2026 04:55:34 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2024/05/permit-right-torent.jpg",
+      "ai_summary": "- Propertymark calls for clearer guidance and practical tools to assist agents in navigating Right to Rent rules.  \n- The organization emphasizes that simplified instructions are essential for effective compliance in rental practices."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/government-considers-ending-insured-deposits/?utm_source=rss&utm_medium=rss&utm_campaign=government-considers-ending-insured-deposits",
+      "title": "Government considers ending insured deposits",
+      "summary": "Housing Minister Matthew Pennycook says there is growing evidence of fraud risk for insured deposit schemes.\nThe post Government considers ending insured deposits appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/government-considers-ending-insured-deposits/?utm_source=rss&utm_medium=rss&utm_campaign=government-considers-ending-insured-deposits",
+      "source": "The Negotiator",
+      "published": "Fri, 19 Jun 2026 04:55:30 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/MAtthew-Pennycook-1.jpg",
+      "ai_summary": "- Housing Minister Matthew Pennycook highlights rising concerns over fraud risks associated with insured deposit schemes.\n- The government is contemplating the potential termination of insured deposits in response to these risks."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/majority-of-reforms-corporate-donors-property-related/?utm_source=rss&utm_medium=rss&utm_campaign=majority-of-reforms-corporate-donors-property-related",
+      "title": "Majority of Reform\u2019s corporate donors property-related",
+      "summary": "Property sector backing raises hopes any potential Reform government might take a more informed approach to housing policy.\nThe post Majority of Reform\u2019s corporate donors property-related appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/majority-of-reforms-corporate-donors-property-related/?utm_source=rss&utm_medium=rss&utm_campaign=majority-of-reforms-corporate-donors-property-related",
+      "source": "The Negotiator",
+      "published": "Fri, 19 Jun 2026 04:55:19 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Reform.jpg",
+      "ai_summary": "- Reform party\u2019s corporate donations predominantly come from the property sector, suggesting strong backing for housing initiatives.  \n- This support could lead to a more informed and progressive approach to housing policy under a potential Reform government."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/partridge-homes-prepares-for-block-management-launch/?utm_source=rss&utm_medium=rss&utm_campaign=partridge-homes-prepares-for-block-management-launch",
+      "title": "Partridge Homes prepares for block management launch",
+      "summary": "West Midlands lettings agency, Partridge Homes, has hired two senior property sector experts as it prepares to launch its new block management division. \nThe post Partridge Homes prepares for block management launch appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/partridge-homes-prepares-for-block-management-launch/?utm_source=rss&utm_medium=rss&utm_campaign=partridge-homes-prepares-for-block-management-launch",
+      "source": "The Negotiator",
+      "published": "Fri, 19 Jun 2026 04:55:06 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/From-left-senior-property-management-consultant-Nicola-Hall-managing-director-Charlotte-Partridge-property-manager-Sarah-Bannister-Partridge-Homes.jpg",
+      "ai_summary": "- Partridge Homes is set to launch a new block management division, enhancing its service offerings in the West Midlands property market.  \n- The lettings agency has bolstered its team by hiring two senior experts from the property sector to lead this initiative."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/new-lomond-boss-confirmed/?utm_source=rss&utm_medium=rss&utm_campaign=new-lomond-boss-confirmed",
+      "title": "New Lomond boss confirmed",
+      "summary": "Lomond issues official statement confirming that Paul Geddes would be stepping into its Chief Executive role.\nThe post New Lomond boss confirmed appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/new-lomond-boss-confirmed/?utm_source=rss&utm_medium=rss&utm_campaign=new-lomond-boss-confirmed",
+      "source": "The Negotiator",
+      "published": "Fri, 19 Jun 2026 04:55:05 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Paul-Geedes.jpg",
+      "ai_summary": "- Paul Geddes has been officially appointed as the new Chief Executive of Lomond.\n- The announcement marks a significant leadership change for the property company."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/major-homebuying-shake-up-and-code-of-practice-unveiled-by-government/?utm_source=rss&utm_medium=rss&utm_campaign=major-homebuying-shake-up-and-code-of-practice-unveiled-by-government",
+      "title": "Major homebuying shake-up unveiled by Government",
+      "summary": "Prime Minister Keir Starmer makes announcement of reforms to property buying system to cut time to four weeks.\nThe post Major homebuying shake-up unveiled by Government appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/major-homebuying-shake-up-and-code-of-practice-unveiled-by-government/?utm_source=rss&utm_medium=rss&utm_campaign=major-homebuying-shake-up-and-code-of-practice-unveiled-by-government",
+      "source": "The Negotiator",
+      "published": "Thu, 18 Jun 2026 21:30:32 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/11/Keir-Starmer.jpg",
+      "ai_summary": "- Prime Minister Keir Starmer announces reforms aimed at streamlining the property buying process, reducing the timeline to just four weeks.  \n- Major changes in the UK homebuying system are set to enhance efficiency and ease for prospective homeowners.  "
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/bank-of-england-holds-interest-rates-for-fourth-time-in-a-row/?utm_source=rss&utm_medium=rss&utm_campaign=bank-of-england-holds-interest-rates-for-fourth-time-in-a-row",
+      "title": "Bank of England holds interest rates for fourth time in a row",
+      "summary": "The Bank of England held the Bank Rate at 3.75% again, denying the property industry the cut it needs.\nThe post Bank of England holds interest rates for fourth time in a row appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/bank-of-england-holds-interest-rates-for-fourth-time-in-a-row/?utm_source=rss&utm_medium=rss&utm_campaign=bank-of-england-holds-interest-rates-for-fourth-time-in-a-row",
+      "source": "The Negotiator",
+      "published": "Thu, 18 Jun 2026 11:02:32 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/02/base-rate.jpg",
+      "ai_summary": "- The Bank of England maintains interest rates at 3.75% for the fourth consecutive meeting, stalling hopes for a crucial cut in the property sector.  \n- Property industry remains under pressure as the decision leaves potential buyers and investors seeking relief in a challenging market."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/columns/nigel-lewis/when-will-the-shocks-stop-and-a-normal-property-market-return/?utm_source=rss&utm_medium=rss&utm_campaign=when-will-the-shocks-stop-and-a-normal-property-market-return",
+      "title": "When will the shocks stop and a normal property market return?",
+      "summary": "The Spring sales market pretty much didn't happen for many estate agents as global and national problems persist, so what does that mean for pricing?\nThe post When will the shocks stop and a normal property market return? appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/columns/nigel-lewis/when-will-the-shocks-stop-and-a-normal-property-market-return/?utm_source=rss&utm_medium=rss&utm_campaign=when-will-the-shocks-stop-and-a-normal-property-market-return",
+      "source": "The Negotiator",
+      "published": "Thu, 18 Jun 2026 04:55:59 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/Nigel-Lewis.jpg",
+      "ai_summary": "- The Spring sales market has largely stalled for estate agents, impacted by ongoing global and national challenges.  \n- Uncertainty looms over property pricing as agents and buyers await a return to a more stable market."
     }
   ]
 }
