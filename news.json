@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-22T02:13:47.985681",
-  "article_count": 17,
+  "last_updated": "2026-06-22T08:45:18.337429",
+  "article_count": 16,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/fines-on-landlords-rise-from-today/",
+      "title": "Government increases fines on landlords from today",
+      "summary": "Sir Keir Starmer\u2019s swansong in government may be another attack on private landlords \u2013 higher fines from today. From today councils can issue fines of up to \u00a37,000 if landlords fail to fix what the government calls \u201cpoor conditions.\u201d Fines will apply to 21 types of hazards that are found to be serious \u2013 the [\u2026]",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/fines-on-landlords-rise-from-today/",
+      "source": "Landlord Today",
+      "published": "Mon, 22 Jun 2026 00:08:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Fined200x150.jpg",
+      "ai_summary": "- Effective today, councils can impose fines up to \u00a37,000 on landlords who neglect to address serious \"poor conditions\" in their properties.\n- This move marks a significant increase in penalties aimed at holding private landlords accountable for 21 identified safety hazards."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/bigger-fines-for-landlords-but-whos-bothering-to-collect-the-cash/",
+      "title": "Big fines for landlords \u2013 but who bothers to collect the cash?",
+      "summary": "The National Residential Landlords Association speaks out",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/bigger-fines-for-landlords-but-whos-bothering-to-collect-the-cash/",
+      "source": "Landlord Today",
+      "published": "Mon, 22 Jun 2026 00:06:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Fine1-1.jpg",
+      "ai_summary": "- The National Residential Landlords Association highlights significant fines imposed on landlords but questions their enforcement and collection.  \n- Concerns arise over whether authorities effectively pursue the financial penalties, raising doubts about accountability within the rental market."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/insured-tenancy-deposit-schemes-to-be-scrapped/",
+      "title": "Insured tenancy deposit schemes to be scrapped",
+      "summary": "This is according to housing minister Matthew Pennycook",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/insured-tenancy-deposit-schemes-to-be-scrapped/",
+      "source": "Landlord Today",
+      "published": "Mon, 22 Jun 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/deposit-protection400x310.png",
+      "ai_summary": "- The UK government, led by Housing Minister Matthew Pennycook, plans to abolish insured tenancy deposit schemes.  \n- This change could significantly impact landlords and tenants, altering the way deposits are managed in rental agreements."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/prime-rental-market-returns-to-growth-new-data/",
+      "title": "Prime rental market returns to growth \u2013 new data",
+      "summary": "The data comes from LonRes",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/prime-rental-market-returns-to-growth-new-data/",
+      "source": "Landlord Today",
+      "published": "Mon, 22 Jun 2026 00:00:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/LondonRichHomes400x310.png",
+      "ai_summary": "- The prime rental market is experiencing a revival, showing growth after a period of stagnation, according to new data from LonRes.\n- This resurgence highlights a recovering demand for high-end rental properties in the UK."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/residential-vs-commercial-property-investment-what-you-need-to-know/",
       "title": "Residential vs Commercial Property Investment: What You Need to Know",
@@ -9,8 +49,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/residential-vs-commercial-property-investment-what-you-need-to-know/",
       "source": "Landlord Today",
       "published": "Sat, 20 Jun 2026 00:01:00 +0100",
-      "image": null,
-      "ai_summary": "- **Investment Landscape:** Understanding the key differences between residential and commercial property investments is crucial for potential investors in the UK market.\n- **Smart Strategies:** Tailoring investment strategies to leverage the unique benefits and risks associated with each property type can enhance returns and minimize risks."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_349740575.jpg",
+      "ai_summary": "- Weigh the benefits: Residential properties offer stable rental income and demand, while commercial properties can yield higher returns but come with higher risks and longer vacancies.\n- Understanding the market: Investors should assess current market conditions, economic trends, and property management complexities to make informed decisions in either sector."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/starmer-reeves-and-reed-justify-revolutionary-changes/",
@@ -20,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Fri, 19 Jun 2026 00:06:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/KeirStarmer-400x310-1.jpg",
-      "ai_summary": "- Starmer, Reeves, and Reed propose transformative reforms targeting lettings and sales agents to streamline the house buying process in the UK.  \n- The initiative aims to enhance transparency and efficiency in the property market, reshaping how transactions are conducted."
+      "ai_summary": "- Starmer, Reeves, and Reed propose transformative reforms aimed at reshaping the lettings and sales agent sectors, along with the home buying process.  \n- The proposed changes signal a significant shift intended to enhance transparency and efficiency in the UK property market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/scrap-2027-tax-rise-to-help-private-rental-sector-call/",
@@ -29,8 +69,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/scrap-2027-tax-rise-to-help-private-rental-sector-call/",
       "source": "Landlord Today",
       "published": "Fri, 19 Jun 2026 00:04:00 +0100",
-      "image": null,
-      "ai_summary": "- **Call for Change**: As private rent growth slows to 3.3%, industry leaders urge the UK government to scrap the planned 2027 tax rise to support the rental sector.  \n- **Data Insight**: Official figures reveal that the rate of increase in private rents has halved over the past year, highlighting a cooling rental market."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/TaxCut-400x310-1.png",
+      "ai_summary": "- The rate of private rent increases has halved to 3.3% over the past year, signaling a shift in the rental market.  \n- Calls are growing for the UK government to reconsider its planned 2027 tax rise to support the struggling private rental sector."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/new-ai-tool-for-landlords-forced-into-making-tax-digital/",
@@ -40,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Fri, 19 Jun 2026 00:02:00 +0100",
       "image": null,
-      "ai_summary": "- **Efficiency Boost**: A new AI tool is streamlining the transition for landlords into Making Tax Digital by automating data input and reconciliation from rental statements.  \n- **Simplified Compliance**: The software minimizes the administrative burden on landlords, ensuring easier adherence to tax regulations and enhancing financial accuracy."
+      "ai_summary": "- A new AI tool streamlines rental statement data management for landlords adapting to Making Tax Digital requirements.\n- The software automates input and reconciliation, enhancing efficiency and compliance for property owners."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/flurry-of-new-mortgage-products-and-reduced-rates-for-landlords/",
@@ -50,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Fri, 19 Jun 2026 00:00:00 +0100",
       "image": null,
-      "ai_summary": "- Increased competition leads to a surge in new mortgage products and lower rates specifically for landlords in the UK market.  \n- Landlord borrowers are benefiting from more favorable lending options as lenders vie for their business."
+      "ai_summary": "- A surge of new mortgage products and decreased interest rates are now available for landlords, intensifying competition in the market.  \n- Landlord borrowers can benefit from a wider range of financing options as lenders vie for their business."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/nightmare-for-landlords-trying-to-sell-flats/",
@@ -60,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Thu, 18 Jun 2026 00:06:00 +0100",
       "image": null,
-      "ai_summary": "- The price gap between houses and flats in the UK has reached a 30-year high, with house prices rising 43% since 2016 compared to a mere 10% increase for flats.  \n- Landlords are facing significant challenges in selling flats as demand sharply contrasts with the more robust housing market."
+      "ai_summary": "- The price disparity between houses and flats in the UK has reached a 30-year high, with house prices rising 43% since 2016, while flats have only seen a 10% increase.  \n- This widening gap presents a challenging scenario for landlords looking to sell flats, making them less competitive in the current market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/so-why-do-landlords-hold-back-deposits-from-tenants/",
@@ -69,8 +109,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/so-why-do-landlords-hold-back-deposits-from-tenants/",
       "source": "Landlord Today",
       "published": "Thu, 18 Jun 2026 00:03:00 +0100",
-      "image": null,
-      "ai_summary": "- Landlords often retain deposits due to disputes over property damage, unpaid rent, or breach of tenancy agreements.  \n- The Deposit Protection Service (DPS) has highlighted these common reasons, shedding light on the ongoing tension between landlords and tenants regarding deposit returns."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/cleaning360280.png",
+      "ai_summary": "- Landlords frequently withhold deposits due to disputes over property damage and cleaning issues, as highlighted by the DPS.\n- Misunderstandings about tenancy agreements and expectations often lead to financial conflicts between landlords and tenants regarding deposit returns."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/police-called-to-landlord-tenant-dispute-make-amazing-discovery/",
@@ -80,7 +120,7 @@
       "source": "Landlord Today",
       "published": "Thu, 18 Jun 2026 00:01:00 +0100",
       "image": null,
-      "ai_summary": "- Police responded to a landlord-tenant dispute in Greater Manchester and uncovered a significant stash of goods, including numerous vapes.\n- The discovery prompted an investigation by Bolton council's trading standards teams to evaluate the legitimacy of the products involved."
+      "ai_summary": "- Police responding to a landlord-tenant dispute in Greater Manchester uncovered a significant stash of vapes and other goods stored on the property.  \n- Bolton council's trading standards teams are now investigating the legitimacy of these products after the unexpected find."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/private-renting-how-has-it-changed-since-brexit-referendum/",
@@ -90,7 +130,7 @@
       "source": "Landlord Today",
       "published": "Thu, 18 Jun 2026 00:00:00 +0100",
       "image": null,
-      "ai_summary": "- The UK's private rented sector has expanded by 6.6% since the Brexit referendum, rising from 2.98 million to 3.17 million rental properties.  \n- This growth is predominantly fueled by changes in England, reflecting significant regional variations within the rental market."
+      "ai_summary": "- Since the Brexit referendum in 2016, the UK's private rented sector has expanded by 6.6%, rising from 2.98 million to 3.17 million rental properties.  \n- Most of this growth has occurred in England, highlighting significant regional variations in the rental market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-borrow-more-to-fund-epc-improvements/",
@@ -100,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Wed, 17 Jun 2026 00:05:00 +0100",
       "image": null,
-      "ai_summary": "- Landlords are increasingly turning to borrowing to finance energy performance certificate (EPC) improvements, highlighting a shift towards sustainable properties.  \n- Paragon Bank reveals a significant uptick in loans specifically aimed at enhancing property energy efficiency."
+      "ai_summary": "- Landlords are increasingly tapping into loans to finance Energy Performance Certificate (EPC) improvements for their properties.  \n- Paragon Bank reports a notable uptick in borrowing among landlords for sustainability upgrades."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/shock-figures-show-two-in-five-landlords-may-sell/",
@@ -110,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Wed, 17 Jun 2026 00:04:00 +0100",
       "image": null,
-      "ai_summary": "- Shocking new data reveals that 40% of landlords are considering selling part or all of their property portfolios.  \n- This potential mass exodus could significantly impact the UK rental market."
+      "ai_summary": "- Shocking data reveals nearly 40% of landlords are considering selling part or all of their property portfolios.  \n- A potential shake-up in the rental market looms as rising financial pressures drive this sell-off trend."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/activists-says-landlords-rents-encourage-growth-of-scammers/",
@@ -119,58 +159,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/activists-says-landlords-rents-encourage-growth-of-scammers/",
       "source": "Landlord Today",
       "published": "Wed, 17 Jun 2026 00:03:00 +0100",
-      "image": null,
-      "ai_summary": "- Rising rent levels from landlords are driving an increase in rental scams across the UK.\n- Advocacy groups are calling on the government to implement rent controls to protect tenants."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/council-imposes-waste-red-tape-on-landlords-of-student-houses/",
-      "title": "Council imposes waste red tape on landlords of student houses",
-      "summary": "Waste left behind by student tenants is defined as commercial waste",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/council-imposes-waste-red-tape-on-landlords-of-student-houses/",
-      "source": "Landlord Today",
-      "published": "Wed, 17 Jun 2026 00:02:00 +0100",
-      "image": null,
-      "ai_summary": "- Councils classify waste from student tenants as commercial waste, imposing new regulations on landlords.  \n- Landlords of student houses must navigate increased waste management red tape, complicating disposal processes."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/fewer-but-bigger-rent-rises-under-renters-rights-act-regime/",
-      "title": "Fewer but bigger rent rises under Renters Rights Act regime",
-      "summary": "A lettings agency has analysed May's rent movements",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/fewer-but-bigger-rent-rises-under-renters-rights-act-regime/",
-      "source": "Landlord Today",
-      "published": "Tue, 16 Jun 2026 00:20:00 +0100",
-      "image": null,
-      "ai_summary": "- A lettings agency reports that under the new Renters Rights Act, rent increases are occurring less frequently but with larger amounts.\n- The analysis of May's rent trends reveals a shift towards substantial hikes, signaling potential pressure on renters."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/rent-levels-pass-new-threshold-despite-market-hit-by-reforms/",
-      "title": "Rent levels pass new high despite reforms hurting growth",
-      "summary": "The analysis has come from lettings agency Hamptons",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/rent-levels-pass-new-threshold-despite-market-hit-by-reforms/",
-      "source": "Landlord Today",
-      "published": "Tue, 16 Jun 2026 00:15:00 +0100",
-      "image": null,
-      "ai_summary": "- Rent levels in the UK have reached record highs, despite recent reforms aimed at curbing growth in the rental market.  \n- This finding is based on an analysis conducted by lettings agency Hamptons, highlighting the ongoing pressures on tenants."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-company-fined-over-licensing-breach/",
-      "title": "Landlord\u2019s company fined over licensing breach",
-      "summary": "Landlord\u2019s company fined over licensing breach",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlords-company-fined-over-licensing-breach/",
-      "source": "Landlord Today",
-      "published": "Tue, 16 Jun 2026 00:10:00 +0100",
-      "image": null,
-      "ai_summary": "- A landlord's company has been hit with a financial penalty for failing to comply with licensing regulations.  \n- The breach highlights the importance of adhering to local rental laws to avoid hefty fines."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/app-tells-airbnb-landlords-when-to-jack-up-prices/",
-      "title": "App tells Airbnb landlords when to jack up prices",
-      "summary": "The app tells landlords when big events are happening nearby",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/app-tells-airbnb-landlords-when-to-jack-up-prices/",
-      "source": "Landlord Today",
-      "published": "Tue, 16 Jun 2026 00:03:00 +0100",
-      "image": null,
-      "ai_summary": "- An innovative app alerts Airbnb landlords to local major events, helping them optimize rental prices.  \n- Landlords can capitalize on peak demand periods by adjusting their rates in real-time."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/scam-alert.png",
+      "ai_summary": "- Rising rent levels by landlords are prompting an increase in scams targeting tenants.  \n- A group is calling on the government to implement rent controls to address this issue."
     }
   ]
 }
