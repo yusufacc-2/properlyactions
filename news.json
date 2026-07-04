@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-04T01:24:41.282434",
-  "article_count": 12,
+  "last_updated": "2026-07-04T06:06:00.159444",
+  "article_count": 13,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/tougher-regulation-of-private-renting-demanded-by-mps/",
+      "title": "Tougher regulation of private renting demanded by MPs",
+      "summary": "The Housing, Communities and Local Government committee has published a report",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/tougher-regulation-of-private-renting-demanded-by-mps/",
+      "source": "Landlord Today",
+      "published": "Fri, 03 Jul 2026 10:00:50 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HousesofParliament-3-400x310-1.jpg",
+      "ai_summary": null
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rental-reality-tenants-wake-up-and-smell-the-coffee/",
       "title": "Rental Reality \u2013 tenants wake up and smell the coffee",
@@ -29,7 +39,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rate-cut-targets-professional-landlords/",
       "source": "Landlord Today",
       "published": "Fri, 03 Jul 2026 00:02:00 +0100",
-      "image": null,
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/FeeCut-400x310-1.jpg",
       "ai_summary": null
     },
     {
@@ -39,7 +49,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/emergency-prohibition-order-served-on-rogue-landlords-property/",
       "source": "Landlord Today",
       "published": "Fri, 03 Jul 2026 00:00:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Fined400x310.jpg",
+      "image": null,
       "ai_summary": null
     },
     {
@@ -49,7 +59,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rents-should-be-double-locked-to-prevent-unfair-rises-call/",
       "source": "Landlord Today",
       "published": "Thu, 02 Jul 2026 00:50:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2540723483.jpg",
+      "image": null,
       "ai_summary": null
     },
     {
@@ -119,7 +129,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlord-shift-expected-this-autumn-warns-lettings-agent/",
       "source": "Landlord Today",
       "published": "Tue, 30 Jun 2026 00:01:00 +0100",
-      "image": null,
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2131821733.jpg",
       "ai_summary": null
     }
   ]
