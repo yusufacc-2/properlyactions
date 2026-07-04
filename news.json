@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T15:51:52.640619",
-  "article_count": 13,
+  "last_updated": "2026-07-04T18:48:31.351828",
+  "article_count": 21,
   "articles": [
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/tougher-regulation-of-private-renting-demanded-by-mps/",
@@ -49,7 +49,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/emergency-prohibition-order-served-on-rogue-landlords-property/",
       "source": "Landlord Today",
       "published": "Fri, 03 Jul 2026 00:00:00 +0100",
-      "image": null,
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Fined400x310.jpg",
       "ai_summary": null
     },
     {
@@ -69,7 +69,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/murky-case-of-unlicensed-hmo-lands-councillor-in-court/",
       "source": "Landlord Today",
       "published": "Thu, 02 Jul 2026 00:06:00 +0100",
-      "image": null,
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Court-Fine-400x310-1.jpg",
       "ai_summary": null
     },
     {
@@ -79,7 +79,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/activists-accuse-landlords-of-imaginary-damage-to-keep-deposits/",
       "source": "Landlord Today",
       "published": "Wed, 01 Jul 2026 00:05:00 +0100",
-      "image": null,
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/WaterDamage-400x310-1.jpg",
       "ai_summary": null
     },
     {
@@ -89,7 +89,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/lender-woos-landlords-with-1000-cashback-offer/",
       "source": "Landlord Today",
       "published": "Wed, 01 Jul 2026 00:03:00 +0100",
-      "image": null,
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/UK-Cash-20-400x310-1.jpg",
       "ai_summary": null
     },
     {
@@ -99,7 +99,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlord-fined-after-repeatedly-ignoring-improvement-notices/",
       "source": "Landlord Today",
       "published": "Wed, 01 Jul 2026 00:01:00 +0100",
-      "image": null,
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Fined200x150.jpg",
       "ai_summary": null
     },
     {
@@ -109,7 +109,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/build-to-rent-significantly-dearer-than-mainstream-rentals-data/",
       "source": "Landlord Today",
       "published": "Tue, 30 Jun 2026 00:05:00 +0100",
-      "image": null,
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1718282725.jpg",
       "ai_summary": null
     },
     {
@@ -119,7 +119,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/new-portal-is-free-for-landlords-to-list-rental-properties/",
       "source": "Landlord Today",
       "published": "Tue, 30 Jun 2026 00:04:00 +0100",
-      "image": null,
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2434117281.jpg",
       "ai_summary": null
     },
     {
@@ -130,6 +130,86 @@
       "source": "Landlord Today",
       "published": "Tue, 30 Jun 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2131821733.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/the-stow-brothers-plan-islington-office-opening/?utm_source=rss&utm_medium=rss&utm_campaign=the-stow-brothers-plan-islington-office-opening",
+      "title": "The Stow Brothers plan Islington office opening",
+      "summary": "Founders of The Stow Brothers, Kenny and Andrew Goad, say the new Islington office carries a personal significance as well as a strategic one.\nThe post The Stow Brothers plan Islington office opening appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/the-stow-brothers-plan-islington-office-opening/?utm_source=rss&utm_medium=rss&utm_campaign=the-stow-brothers-plan-islington-office-opening",
+      "source": "The Negotiator",
+      "published": "Sat, 04 Jul 2026 07:12:28 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Kenny-and-Andrew-Goad-Stow-Brothers.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/columns/kate-faulkner/uk-housing-market-update-holding-up-despite-uncertainty/?utm_source=rss&utm_medium=rss&utm_campaign=uk-housing-market-update-holding-up-despite-uncertainty",
+      "title": "UK HOUSING MARKET UPDATE: Still holding up despite uncertainty",
+      "summary": "Housing market specialist, Kate Faulkner, looks at how property prices are performing amid global uncertainty and a predicted rise in inflation.\nThe post UK HOUSING MARKET UPDATE: Still holding up despite uncertainty appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/columns/kate-faulkner/uk-housing-market-update-holding-up-despite-uncertainty/?utm_source=rss&utm_medium=rss&utm_campaign=uk-housing-market-update-holding-up-despite-uncertainty",
+      "source": "The Negotiator",
+      "published": "Sat, 04 Jul 2026 06:54:48 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/UK-Housing-Market-Kate.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/supplier-news/art-division-marks-25-year-anniversary-with-estate-agency-marketing-offer/?utm_source=rss&utm_medium=rss&utm_campaign=art-division-marks-25-year-anniversary-with-estate-agency-marketing-offer",
+      "title": "Art Division marks 25 year anniversary with estate agency marketing offer",
+      "summary": "Estate agency marketing specialist, Art Division, is celebrating a milestone by reflecting on the sector's digital transformation and launching a discounted website offer.\nThe post Art Division marks 25 year anniversary with estate agency marketing offer appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/supplier-news/art-division-marks-25-year-anniversary-with-estate-agency-marketing-offer/?utm_source=rss&utm_medium=rss&utm_campaign=art-division-marks-25-year-anniversary-with-estate-agency-marketing-offer",
+      "source": "The Negotiator",
+      "published": "Fri, 03 Jul 2026 04:55:57 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/art-division-25-years-in-business.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/bristol-landlord-hit-with-25k-rent-repayment-order/?utm_source=rss&utm_medium=rss&utm_campaign=bristol-landlord-hit-with-25k-rent-repayment-order",
+      "title": "Bristol landlord hit with \u00a325k Rent Repayment Order",
+      "summary": "Tribunal says fire safety and property condition failings made Bristol HMO one of its more serious cases.\nThe post Bristol landlord hit with \u00a325k Rent Repayment Order appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/bristol-landlord-hit-with-25k-rent-repayment-order/?utm_source=rss&utm_medium=rss&utm_campaign=bristol-landlord-hit-with-25k-rent-repayment-order",
+      "source": "The Negotiator",
+      "published": "Fri, 03 Jul 2026 04:55:42 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/bristol-court.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/rental-market/landlords-suffer-rental-yield-hit-in-most-areas/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-suffer-rental-yield-hit-in-most-areas",
+      "title": "Landlords suffer rental yield hit in most areas",
+      "summary": "Steve Cox, of Fleet Mortgages, says property investors saw yield dip in Q2 in six out of 10 regions.\nThe post Landlords suffer rental yield hit in most areas appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/landlords-suffer-rental-yield-hit-in-most-areas/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-suffer-rental-yield-hit-in-most-areas",
+      "source": "The Negotiator",
+      "published": "Fri, 03 Jul 2026 04:55:40 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/02/Steve-Cox-Fleet-Mortgages.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/interest-rate-cut-off-the-table-governor-warns/?utm_source=rss&utm_medium=rss&utm_campaign=interest-rate-cut-off-the-table-governor-warns",
+      "title": "Interest rate cut \u201coff the table\u201d, Governor warns",
+      "summary": "Andrew Bailey, Governor of the Bank of England, rules out a base rate reduction in the near future.\nThe post Interest rate cut \u201coff the table\u201d, Governor warns appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/interest-rate-cut-off-the-table-governor-warns/?utm_source=rss&utm_medium=rss&utm_campaign=interest-rate-cut-off-the-table-governor-warns",
+      "source": "The Negotiator",
+      "published": "Fri, 03 Jul 2026 04:55:38 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/09/Andrew-Bailey-Bank-of-England.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/govt-warns-landlords-and-agents-against-right-to-rent-discrimination/?utm_source=rss&utm_medium=rss&utm_campaign=govt-warns-landlords-and-agents-against-right-to-rent-discrimination",
+      "title": "Govt warns landlords and agents against Right to Rent discrimination",
+      "summary": "Updated Right to Rent guidance aims to protect vulnerable tenants from \u201cunscrupulous landlords and letting agents.\u201d\nThe post Govt warns landlords and agents against Right to Rent discrimination appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/govt-warns-landlords-and-agents-against-right-to-rent-discrimination/?utm_source=rss&utm_medium=rss&utm_campaign=govt-warns-landlords-and-agents-against-right-to-rent-discrimination",
+      "source": "The Negotiator",
+      "published": "Fri, 03 Jul 2026 04:55:36 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/right-to-rent.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/features/estate-agent-crms-and-the-ai-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agent-crms-and-the-ai-revolution",
+      "title": "Estate agent CRM software platforms embrace the AI revolution",
+      "summary": "CRMs are the absolute bedrock of your agency. Now AI is unlocking your dormant data with promising results, discovers Lisa Isaacs.\nThe post Estate agent CRM software platforms embrace the AI revolution appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/features/estate-agent-crms-and-the-ai-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agent-crms-and-the-ai-revolution",
+      "source": "The Negotiator",
+      "published": "Fri, 03 Jul 2026 04:55:08 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/digital-record-management-2.jpg",
       "ai_summary": null
     }
   ]
