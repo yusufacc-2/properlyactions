@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-06T01:31:57.412261",
-  "article_count": 21,
+  "last_updated": "2026-07-06T06:57:40.616062",
+  "article_count": 20,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/dire-price-news-for-prime-london-buy-to-let-landlords/",
+      "title": "Dire price news for prime London buy to let landlords",
+      "summary": "Prime Central London capital values have seen yet another fall",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/dire-price-news-for-prime-london-buy-to-let-landlords/",
+      "source": "Landlord Today",
+      "published": "Mon, 06 Jul 2026 00:15:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Savills-NEW-logo400x310.png",
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/shock-leap-in-rent-levels-as-renters-rights-act-disrupts-market/",
+      "title": "Shock leap in rent levels as Renters Rights Act disrupts market",
+      "summary": "This is according to Goodlord",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/shock-leap-in-rent-levels-as-renters-rights-act-disrupts-market/",
+      "source": "Landlord Today",
+      "published": "Mon, 06 Jul 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HousePriceRising_400x310.png",
+      "ai_summary": null
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/tougher-regulation-of-private-renting-demanded-by-mps/",
       "title": "Tougher regulation of private renting demanded by MPs",
@@ -39,7 +59,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rate-cut-targets-professional-landlords/",
       "source": "Landlord Today",
       "published": "Fri, 03 Jul 2026 00:02:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/FeeCut-400x310-1.jpg",
+      "image": null,
       "ai_summary": null
     },
     {
@@ -59,7 +79,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rents-should-be-double-locked-to-prevent-unfair-rises-call/",
       "source": "Landlord Today",
       "published": "Thu, 02 Jul 2026 00:50:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2540723483.jpg",
+      "image": null,
       "ai_summary": null
     },
     {
@@ -69,7 +89,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/murky-case-of-unlicensed-hmo-lands-councillor-in-court/",
       "source": "Landlord Today",
       "published": "Thu, 02 Jul 2026 00:06:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Court-Fine-400x310-1.jpg",
+      "image": null,
       "ai_summary": null
     },
     {
@@ -79,7 +99,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/activists-accuse-landlords-of-imaginary-damage-to-keep-deposits/",
       "source": "Landlord Today",
       "published": "Wed, 01 Jul 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/WaterDamage-400x310-1.jpg",
+      "image": null,
       "ai_summary": null
     },
     {
@@ -89,7 +109,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/lender-woos-landlords-with-1000-cashback-offer/",
       "source": "Landlord Today",
       "published": "Wed, 01 Jul 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/UK-Cash-20-400x310-1.jpg",
+      "image": null,
       "ai_summary": null
     },
     {
@@ -99,37 +119,57 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlord-fined-after-repeatedly-ignoring-improvement-notices/",
       "source": "Landlord Today",
       "published": "Wed, 01 Jul 2026 00:01:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Fined200x150.jpg",
+      "image": null,
       "ai_summary": null
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/build-to-rent-significantly-dearer-than-mainstream-rentals-data/",
-      "title": "Build To Rent significantly dearer than mainstream rentals \u2013 data",
-      "summary": "BTR properties achieved an estimated rental premium of 12.3% in 2025",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/build-to-rent-significantly-dearer-than-mainstream-rentals-data/",
-      "source": "Landlord Today",
-      "published": "Tue, 30 Jun 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1718282725.jpg",
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/claim-better-flats-will-bring-housing-market-back-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=claim-better-flats-will-bring-housing-market-back-to-life",
+      "title": "CLAIM: Better flats will bring housing market back to life",
+      "summary": "Flats are an important first step on the property ladder for many buyers, says Hill Group\u2019s Andy Hill.\nThe post CLAIM: Better flats will bring housing market back to life appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/claim-better-flats-will-bring-housing-market-back-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=claim-better-flats-will-bring-housing-market-back-to-life",
+      "source": "The Negotiator",
+      "published": "Mon, 06 Jul 2026 04:55:58 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Andy-Hill-Hill-Group.jpg",
       "ai_summary": null
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/new-portal-is-free-for-landlords-to-list-rental-properties/",
-      "title": "New free website for landlords to list rental properties",
-      "summary": "The site has been set up by a lettings agent",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/new-portal-is-free-for-landlords-to-list-rental-properties/",
-      "source": "Landlord Today",
-      "published": "Tue, 30 Jun 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2434117281.jpg",
+      "id": "https://thenegotiator.co.uk/news/rental-market/buy-to-let-lending-falls-as-banks-favour-major-investors/?utm_source=rss&utm_medium=rss&utm_campaign=buy-to-let-lending-falls-as-banks-favour-major-investors",
+      "title": "Buy-to-let lending falls as banks favour major investors",
+      "summary": "Nicholas Christofi, of Karis Capital, says banks now consider small and medium-sized investors a higher risk.\nThe post Buy-to-let lending falls as banks favour major investors appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/buy-to-let-lending-falls-as-banks-favour-major-investors/?utm_source=rss&utm_medium=rss&utm_campaign=buy-to-let-lending-falls-as-banks-favour-major-investors",
+      "source": "The Negotiator",
+      "published": "Mon, 06 Jul 2026 04:55:56 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Nicholas-Christofi-Karis-Capital-banks.jpg",
       "ai_summary": null
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlord-shift-expected-this-autumn-warns-lettings-agent/",
-      "title": "Landlord shift expected this autumn, warns lettings agent",
-      "summary": "A prominent agent says he\u2019s expecting a \u201csignificant shift\u201d in the market this autumn.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/06/landlord-shift-expected-this-autumn-warns-lettings-agent/",
-      "source": "Landlord Today",
-      "published": "Tue, 30 Jun 2026 00:01:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2131821733.jpg",
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/landlords-win-legal-battle-with-south-coast-council-over-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-win-legal-battle-with-south-coast-council-over-licensing",
+      "title": "Landlords win legal battle with South Coast council over licensing",
+      "summary": "Ruling shows Portsmouth Council exceeded its powers for HMO licensing \u2013\u00a0and other councils should take note, says landlord Simon Fletcher.\nThe post Landlords win legal battle with South Coast council over licensing appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/landlords-win-legal-battle-with-south-coast-council-over-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-win-legal-battle-with-south-coast-council-over-licensing",
+      "source": "The Negotiator",
+      "published": "Mon, 06 Jul 2026 04:55:40 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Portsmouth-council.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/landlord-leaders-reject-new-hmo-crackdown-powers/?utm_source=rss&utm_medium=rss&utm_campaign=landlord-leaders-reject-new-hmo-crackdown-powers",
+      "title": "Landlord leaders reject new HMO crackdown powers",
+      "summary": "Ben Beadle, of the NRLA, \"fundamentally rejects\" call from MPs for councils to be given extra control over HMOs.\nThe post Landlord leaders reject new HMO crackdown powers appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/landlord-leaders-reject-new-hmo-crackdown-powers/?utm_source=rss&utm_medium=rss&utm_campaign=landlord-leaders-reject-new-hmo-crackdown-powers",
+      "source": "The Negotiator",
+      "published": "Mon, 06 Jul 2026 04:55:20 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2024/11/Ben-Beadle-NRLA.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/govt-reveals-framework-for-landlord-redress-scheme/?utm_source=rss&utm_medium=rss&utm_campaign=govt-reveals-framework-for-landlord-redress-scheme",
+      "title": "Govt reveals framework for landlord redress scheme",
+      "summary": "Landlord ombudsman will give tenants an alternative to court action and could award compensation of up to \u00a325,000.\nThe post Govt reveals framework for landlord redress scheme appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/govt-reveals-framework-for-landlord-redress-scheme/?utm_source=rss&utm_medium=rss&utm_campaign=govt-reveals-framework-for-landlord-redress-scheme",
+      "source": "The Negotiator",
+      "published": "Mon, 06 Jul 2026 04:55:09 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/landlord-redress-scheme.jpg",
       "ai_summary": null
     },
     {
@@ -160,56 +200,6 @@
       "source": "The Negotiator",
       "published": "Fri, 03 Jul 2026 04:55:57 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/art-division-25-years-in-business.jpg",
-      "ai_summary": null
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/bristol-landlord-hit-with-25k-rent-repayment-order/?utm_source=rss&utm_medium=rss&utm_campaign=bristol-landlord-hit-with-25k-rent-repayment-order",
-      "title": "Bristol landlord hit with \u00a325k Rent Repayment Order",
-      "summary": "Tribunal says fire safety and property condition failings made Bristol HMO one of its more serious cases.\nThe post Bristol landlord hit with \u00a325k Rent Repayment Order appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/bristol-landlord-hit-with-25k-rent-repayment-order/?utm_source=rss&utm_medium=rss&utm_campaign=bristol-landlord-hit-with-25k-rent-repayment-order",
-      "source": "The Negotiator",
-      "published": "Fri, 03 Jul 2026 04:55:42 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/bristol-court.jpg",
-      "ai_summary": null
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/rental-market/landlords-suffer-rental-yield-hit-in-most-areas/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-suffer-rental-yield-hit-in-most-areas",
-      "title": "Landlords suffer rental yield hit in most areas",
-      "summary": "Steve Cox, of Fleet Mortgages, says property investors saw yield dip in Q2 in six out of 10 regions.\nThe post Landlords suffer rental yield hit in most areas appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/rental-market/landlords-suffer-rental-yield-hit-in-most-areas/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-suffer-rental-yield-hit-in-most-areas",
-      "source": "The Negotiator",
-      "published": "Fri, 03 Jul 2026 04:55:40 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/02/Steve-Cox-Fleet-Mortgages.jpg",
-      "ai_summary": null
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/interest-rate-cut-off-the-table-governor-warns/?utm_source=rss&utm_medium=rss&utm_campaign=interest-rate-cut-off-the-table-governor-warns",
-      "title": "Interest rate cut \u201coff the table\u201d, Governor warns",
-      "summary": "Andrew Bailey, Governor of the Bank of England, rules out a base rate reduction in the near future.\nThe post Interest rate cut \u201coff the table\u201d, Governor warns appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/interest-rate-cut-off-the-table-governor-warns/?utm_source=rss&utm_medium=rss&utm_campaign=interest-rate-cut-off-the-table-governor-warns",
-      "source": "The Negotiator",
-      "published": "Fri, 03 Jul 2026 04:55:38 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/09/Andrew-Bailey-Bank-of-England.jpg",
-      "ai_summary": null
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/govt-warns-landlords-and-agents-against-right-to-rent-discrimination/?utm_source=rss&utm_medium=rss&utm_campaign=govt-warns-landlords-and-agents-against-right-to-rent-discrimination",
-      "title": "Govt warns landlords and agents against Right to Rent discrimination",
-      "summary": "Updated Right to Rent guidance aims to protect vulnerable tenants from \u201cunscrupulous landlords and letting agents.\u201d\nThe post Govt warns landlords and agents against Right to Rent discrimination appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/govt-warns-landlords-and-agents-against-right-to-rent-discrimination/?utm_source=rss&utm_medium=rss&utm_campaign=govt-warns-landlords-and-agents-against-right-to-rent-discrimination",
-      "source": "The Negotiator",
-      "published": "Fri, 03 Jul 2026 04:55:36 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/right-to-rent.jpg",
-      "ai_summary": null
-    },
-    {
-      "id": "https://thenegotiator.co.uk/features/estate-agent-crms-and-the-ai-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agent-crms-and-the-ai-revolution",
-      "title": "Estate agent CRM software platforms embrace the AI revolution",
-      "summary": "CRMs are the absolute bedrock of your agency. Now AI is unlocking your dormant data with promising results, discovers Lisa Isaacs.\nThe post Estate agent CRM software platforms embrace the AI revolution appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/features/estate-agent-crms-and-the-ai-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agent-crms-and-the-ai-revolution",
-      "source": "The Negotiator",
-      "published": "Fri, 03 Jul 2026 04:55:08 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/digital-record-management-2.jpg",
       "ai_summary": null
     }
   ]
