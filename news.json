@@ -1,7 +1,197 @@
 {
-  "last_updated": "2026-07-07T01:31:01.187654",
-  "article_count": 8,
+  "last_updated": "2026-07-07T06:33:37.564683",
+  "article_count": 21,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlords-must-pay-25000-to-tenants-if-ombudsman-orders/",
+      "title": "Landlords must pay tenants \u00a325,000 if Ombudsman demands",
+      "summary": "There's no date yet for the Landlord Ombudsman scheme to launch",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlords-must-pay-25000-to-tenants-if-ombudsman-orders/",
+      "source": "Landlord Today",
+      "published": "Tue, 07 Jul 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Ombudsman-Definition-400x310-1.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-tax-threat-already-hitting-rental-market-claim/",
+      "title": "Burnham tax threat already hitting rental market \u2013 claim",
+      "summary": "The autumn Budget is already looming large over the rental market, it's claimed",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-tax-threat-already-hitting-rental-market-claim/",
+      "source": "Landlord Today",
+      "published": "Tue, 07 Jul 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Andy-Burnham-LAbour-400x310-1.png",
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/would-you-allow-an-unaccompanied-viewing-of-your-buy-to-let/",
+      "title": "Would you allow an unaccompanied viewing of your buy to let?",
+      "summary": "An electronic key is given to the viewer to attend the property unaccompanied",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/would-you-allow-an-unaccompanied-viewing-of-your-buy-to-let/",
+      "source": "Landlord Today",
+      "published": "Tue, 07 Jul 2026 00:03:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/AgentsWindow-400x310-1.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/paying-rent-while-saving-for-deposit-hits-young-adults-claim/",
+      "title": "Paying rent while saving for deposit hits young adults \u2013 claim",
+      "summary": "This is according to an analysis by conveyancing solicitors Bird & Co.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/paying-rent-while-saving-for-deposit-hits-young-adults-claim/",
+      "source": "Landlord Today",
+      "published": "Tue, 07 Jul 2026 00:01:00 +0100",
+      "image": null,
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/dire-price-news-for-prime-london-buy-to-let-landlords/",
+      "title": "Dire price news for prime London buy to let landlords",
+      "summary": "Prime Central London capital values have seen yet another fall",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/dire-price-news-for-prime-london-buy-to-let-landlords/",
+      "source": "Landlord Today",
+      "published": "Mon, 06 Jul 2026 00:15:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Savills-NEW-logo400x310-1.png",
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/shock-leap-in-rent-levels-as-renters-rights-act-disrupts-market/",
+      "title": "Shock leap in rent levels as Renters Rights Act disrupts market",
+      "summary": "This is according to Goodlord",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/shock-leap-in-rent-levels-as-renters-rights-act-disrupts-market/",
+      "source": "Landlord Today",
+      "published": "Mon, 06 Jul 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HousePriceRising_400x310.png",
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/tougher-regulation-of-private-renting-demanded-by-mps/",
+      "title": "Tougher regulation of private renting demanded by MPs",
+      "summary": "The Housing, Communities and Local Government committee has published a report",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/tougher-regulation-of-private-renting-demanded-by-mps/",
+      "source": "Landlord Today",
+      "published": "Fri, 03 Jul 2026 10:00:50 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HousesofParliament-3-400x310-1.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rental-reality-tenants-wake-up-and-smell-the-coffee/",
+      "title": "Rental Reality \u2013 tenants wake up and smell the coffee",
+      "summary": "Many tenants have to pay more than they expect as supply fails to meet demand",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rental-reality-tenants-wake-up-and-smell-the-coffee/",
+      "source": "Landlord Today",
+      "published": "Fri, 03 Jul 2026 00:05:00 +0100",
+      "image": null,
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/five-figure-fixed-penalty-notice-confirmed-for-landlord/",
+      "title": "Hefty Fixed Penalty Notice confirmed for landlord",
+      "summary": "The fine was initially applied a full year ago",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/five-figure-fixed-penalty-notice-confirmed-for-landlord/",
+      "source": "Landlord Today",
+      "published": "Fri, 03 Jul 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Fine-3-400x310-1.png",
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rate-cut-targets-professional-landlords/",
+      "title": "Rate cut targets professional landlords",
+      "summary": "The lender\u2019s lowest rates now start at 3.74%.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rate-cut-targets-professional-landlords/",
+      "source": "Landlord Today",
+      "published": "Fri, 03 Jul 2026 00:02:00 +0100",
+      "image": null,
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/emergency-prohibition-order-served-on-rogue-landlords-property/",
+      "title": "Emergency Prohibition Order served on rogue landlord\u2019s property",
+      "summary": "Anita Sharma has been fined \u00a34,000",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/emergency-prohibition-order-served-on-rogue-landlords-property/",
+      "source": "Landlord Today",
+      "published": "Fri, 03 Jul 2026 00:00:00 +0100",
+      "image": null,
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rents-should-be-double-locked-to-prevent-unfair-rises-call/",
+      "title": "Rents should be double-locked to prevent unfair rises \u2013 call",
+      "summary": "The IPPR thinks its idea counters past criticisms of rent controls",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rents-should-be-double-locked-to-prevent-unfair-rises-call/",
+      "source": "Landlord Today",
+      "published": "Thu, 02 Jul 2026 00:50:00 +0100",
+      "image": null,
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/murky-case-of-unlicensed-hmo-lands-councillor-in-court/",
+      "title": "Murky case of unlicensed HMO lands councillor in court",
+      "summary": "A complex investigation has led to the prosecution of a landlord for operating an unlicensed House in Multiple Occupation (HMO). Since September 2025, Barking and Dagenham council\u2019s Accredited Financial Investigator (AFI) has been assisting Nottingham council on a case. It involved identifying the individual responsible for a property registered under a charity structure, which \u2013 [\u2026]",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/murky-case-of-unlicensed-hmo-lands-councillor-in-court/",
+      "source": "Landlord Today",
+      "published": "Thu, 02 Jul 2026 00:06:00 +0100",
+      "image": null,
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/rental-market/landlords-face-7k-fine-amid-heatwave-hazards/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-face-7k-fine-amid-heatwave-hazards",
+      "title": "Landlords face \u00a37K fine amid heatwave hazards",
+      "summary": "A rental property can be considered unsafe if overheating creates a health risk, landlords are warned.\nThe post Landlords face \u00a37K fine amid heatwave hazards appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/landlords-face-7k-fine-amid-heatwave-hazards/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-face-7k-fine-amid-heatwave-hazards",
+      "source": "The Negotiator",
+      "published": "Tue, 07 Jul 2026 04:55:30 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Landlords-sunshine.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/prime-london-suffers-big-drop-in-sales/?utm_source=rss&utm_medium=rss&utm_campaign=prime-london-suffers-big-drop-in-sales",
+      "title": "Prime London suffers big drop in sales",
+      "summary": "Property sales in prime central London areas fell 14% in 12 months, according to the latest Knight Frank figures.\nThe post Prime London suffers big drop in sales appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/prime-london-suffers-big-drop-in-sales/?utm_source=rss&utm_medium=rss&utm_campaign=prime-london-suffers-big-drop-in-sales",
+      "source": "The Negotiator",
+      "published": "Tue, 07 Jul 2026 04:55:28 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Prime-London-image.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/guest-blog/is-andy-burnham-the-new-messiah-or-just-starmer-with-better-eyebrows/?utm_source=rss&utm_medium=rss&utm_campaign=is-andy-burnham-the-new-messiah-or-just-starmer-with-better-eyebrows",
+      "title": "Is Andy Burnham the new messiah \u2013 or just Starmer with better eyebrows?",
+      "summary": "Glentree Founder Trevor Abrahmsohn takes a look at what Andy Burnham will change if he becomes the new Prime Minister.\nThe post Is Andy Burnham the new messiah \u2013 or just Starmer with better eyebrows? appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/guest-blog/is-andy-burnham-the-new-messiah-or-just-starmer-with-better-eyebrows/?utm_source=rss&utm_medium=rss&utm_campaign=is-andy-burnham-the-new-messiah-or-just-starmer-with-better-eyebrows",
+      "source": "The Negotiator",
+      "published": "Tue, 07 Jul 2026 04:55:28 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2024/06/labour-trevor.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/columns/kate-faulkner/property-price-growth-by-country-scotland-only-nation-to-outpace-inflation/?utm_source=rss&utm_medium=rss&utm_campaign=property-price-growth-by-country-scotland-only-nation-to-outpace-inflation",
+      "title": "PROPERTY PRICE GROWTH BY COUNTRY: Scotland only nation to outpace inflation",
+      "summary": "Scotland is the only nation where average property price growth has consistently outpaced inflation, writes Kate Faulkner. \nThe post PROPERTY PRICE GROWTH BY COUNTRY: Scotland only nation to outpace inflation appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/columns/kate-faulkner/property-price-growth-by-country-scotland-only-nation-to-outpace-inflation/?utm_source=rss&utm_medium=rss&utm_campaign=property-price-growth-by-country-scotland-only-nation-to-outpace-inflation",
+      "source": "The Negotiator",
+      "published": "Tue, 07 Jul 2026 04:55:26 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Scotlandand-demand-Kate.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/property-market-sees-6-fall-in-offers/?utm_source=rss&utm_medium=rss&utm_campaign=property-market-sees-6-fall-in-offers",
+      "title": "Property market sees 6% fall in offers",
+      "summary": "New analysis by Connells reveals a drop in the proportion of homes listed this year receiving an offer.\nThe post Property market sees 6% fall in offers appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/property-market-sees-6-fall-in-offers/?utm_source=rss&utm_medium=rss&utm_campaign=property-market-sees-6-fall-in-offers",
+      "source": "The Negotiator",
+      "published": "Tue, 07 Jul 2026 04:55:19 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/05/under-offer-sale-agreed-SSTC-board.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/andy-burnham-will-see-more-pay-mansion-tax/?utm_source=rss&utm_medium=rss&utm_campaign=andy-burnham-will-see-more-pay-mansion-tax",
+      "title": "More will pay Mansion Tax under Andy Burnham",
+      "summary": "Andy Burnham is understood to be planning to lower the Mansion Tax threshold to \u00a31.5million, if he becomes Prime Minister.\nThe post More will pay Mansion Tax under Andy Burnham appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/andy-burnham-will-see-more-pay-mansion-tax/?utm_source=rss&utm_medium=rss&utm_campaign=andy-burnham-will-see-more-pay-mansion-tax",
+      "source": "The Negotiator",
+      "published": "Tue, 07 Jul 2026 04:55:04 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Andy-Burnham-Mansion-Tax.jpg",
+      "ai_summary": null
+    },
     {
       "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/claim-better-flats-will-bring-housing-market-back-to-life/?utm_source=rss&utm_medium=rss&utm_campaign=claim-better-flats-will-bring-housing-market-back-to-life",
       "title": "CLAIM: Better flats will bring housing market back to life",
@@ -20,66 +210,6 @@
       "source": "The Negotiator",
       "published": "Mon, 06 Jul 2026 04:55:56 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Nicholas-Christofi-Karis-Capital-banks.jpg",
-      "ai_summary": null
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/landlords-win-legal-battle-with-south-coast-council-over-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-win-legal-battle-with-south-coast-council-over-licensing",
-      "title": "Landlords win legal battle with South Coast council over licensing",
-      "summary": "Ruling shows Portsmouth Council exceeded its powers for HMO licensing \u2013\u00a0and other councils should take note, says landlord Simon Fletcher.\nThe post Landlords win legal battle with South Coast council over licensing appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/landlords-win-legal-battle-with-south-coast-council-over-licensing/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-win-legal-battle-with-south-coast-council-over-licensing",
-      "source": "The Negotiator",
-      "published": "Mon, 06 Jul 2026 04:55:40 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Portsmouth-council.jpg",
-      "ai_summary": null
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/landlord-leaders-reject-new-hmo-crackdown-powers/?utm_source=rss&utm_medium=rss&utm_campaign=landlord-leaders-reject-new-hmo-crackdown-powers",
-      "title": "Landlord leaders reject new HMO crackdown powers",
-      "summary": "Ben Beadle, of the NRLA, \"fundamentally rejects\" call from MPs for councils to be given extra control over HMOs.\nThe post Landlord leaders reject new HMO crackdown powers appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/landlord-leaders-reject-new-hmo-crackdown-powers/?utm_source=rss&utm_medium=rss&utm_campaign=landlord-leaders-reject-new-hmo-crackdown-powers",
-      "source": "The Negotiator",
-      "published": "Mon, 06 Jul 2026 04:55:20 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2024/11/Ben-Beadle-NRLA.jpg",
-      "ai_summary": null
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/govt-reveals-framework-for-landlord-redress-scheme/?utm_source=rss&utm_medium=rss&utm_campaign=govt-reveals-framework-for-landlord-redress-scheme",
-      "title": "Govt reveals framework for landlord redress scheme",
-      "summary": "Landlord ombudsman will give tenants an alternative to court action and could award compensation of up to \u00a325,000.\nThe post Govt reveals framework for landlord redress scheme appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/govt-reveals-framework-for-landlord-redress-scheme/?utm_source=rss&utm_medium=rss&utm_campaign=govt-reveals-framework-for-landlord-redress-scheme",
-      "source": "The Negotiator",
-      "published": "Mon, 06 Jul 2026 04:55:09 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/landlord-redress-scheme.jpg",
-      "ai_summary": null
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/the-stow-brothers-plan-islington-office-opening/?utm_source=rss&utm_medium=rss&utm_campaign=the-stow-brothers-plan-islington-office-opening",
-      "title": "The Stow Brothers plan Islington office opening",
-      "summary": "Founders of The Stow Brothers, Kenny and Andrew Goad, say the new Islington office carries a personal significance as well as a strategic one.\nThe post The Stow Brothers plan Islington office opening appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/the-stow-brothers-plan-islington-office-opening/?utm_source=rss&utm_medium=rss&utm_campaign=the-stow-brothers-plan-islington-office-opening",
-      "source": "The Negotiator",
-      "published": "Sat, 04 Jul 2026 07:12:28 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/05/Kenny-and-Andrew-Goad-Stow-Brothers.jpg",
-      "ai_summary": null
-    },
-    {
-      "id": "https://thenegotiator.co.uk/columns/kate-faulkner/uk-housing-market-update-holding-up-despite-uncertainty/?utm_source=rss&utm_medium=rss&utm_campaign=uk-housing-market-update-holding-up-despite-uncertainty",
-      "title": "UK HOUSING MARKET UPDATE: Still holding up despite uncertainty",
-      "summary": "Housing market specialist, Kate Faulkner, looks at how property prices are performing amid global uncertainty and a predicted rise in inflation.\nThe post UK HOUSING MARKET UPDATE: Still holding up despite uncertainty appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/columns/kate-faulkner/uk-housing-market-update-holding-up-despite-uncertainty/?utm_source=rss&utm_medium=rss&utm_campaign=uk-housing-market-update-holding-up-despite-uncertainty",
-      "source": "The Negotiator",
-      "published": "Sat, 04 Jul 2026 06:54:48 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/UK-Housing-Market-Kate.jpg",
-      "ai_summary": null
-    },
-    {
-      "id": "https://thenegotiator.co.uk/supplier-news/art-division-marks-25-year-anniversary-with-estate-agency-marketing-offer/?utm_source=rss&utm_medium=rss&utm_campaign=art-division-marks-25-year-anniversary-with-estate-agency-marketing-offer",
-      "title": "Art Division marks 25 year anniversary with estate agency marketing offer",
-      "summary": "Estate agency marketing specialist, Art Division, is celebrating a milestone by reflecting on the sector's digital transformation and launching a discounted website offer.\nThe post Art Division marks 25 year anniversary with estate agency marketing offer appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/supplier-news/art-division-marks-25-year-anniversary-with-estate-agency-marketing-offer/?utm_source=rss&utm_medium=rss&utm_campaign=art-division-marks-25-year-anniversary-with-estate-agency-marketing-offer",
-      "source": "The Negotiator",
-      "published": "Fri, 03 Jul 2026 04:55:57 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/art-division-25-years-in-business.jpg",
       "ai_summary": null
     }
   ]
