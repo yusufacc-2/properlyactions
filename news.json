@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-07-10T01:21:02.156752",
-  "article_count": 14,
+  "last_updated": "2026-07-10T06:29:56.303484",
+  "article_count": 16,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rent-controls-hurt-landlords-less-than-tax-and-interest-rates-claim/",
+      "title": "Rent controls back on the agenda as new campaign launches",
+      "summary": "Privately rented dwellings in England grew by 96,000 between 2023 and 2025.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rent-controls-hurt-landlords-less-than-tax-and-interest-rates-claim/",
+      "source": "Landlord Today",
+      "published": "Fri, 10 Jul 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2239146247-1.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/hmrc-warns-about-tax-deadline-this-month/",
+      "title": "HMRC warns about tax deadline this month",
+      "summary": "The deadline is July 31",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/hmrc-warns-about-tax-deadline-this-month/",
+      "source": "Landlord Today",
+      "published": "Fri, 10 Jul 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Tax-SelfAssessment-400x310-1.png",
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/nrla-offers-new-help-to-landlords-facing-renters-rights-act/",
+      "title": "NRLA offers new help to landlords facing Renters Rights Act",
+      "summary": "Hubs offer practical and trusted guidance, the association says",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/nrla-offers-new-help-to-landlords-facing-renters-rights-act/",
+      "source": "Landlord Today",
+      "published": "Fri, 10 Jul 2026 00:02:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/NRLA-Logo-2020-400x310-1.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/renters-rights-act-six-months-on-conference-this-autumn/",
+      "title": "Renters Rights Act six months on \u2013 conference this autumn",
+      "summary": "The event is on October 20",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/renters-rights-act-six-months-on-conference-this-autumn/",
+      "source": "Landlord Today",
+      "published": "Fri, 10 Jul 2026 00:01:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1940487949.jpg",
+      "ai_summary": null
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/even-flatsharing-isnt-cheap-any-more-as-rents-rise/",
+      "title": "Even flatsharing isn\u2019t cheap any more as rents rise",
+      "summary": "Across the UK, rents have risen almost 7% in the past three years.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/even-flatsharing-isnt-cheap-any-more-as-rents-rise/",
+      "source": "Landlord Today",
+      "published": "Fri, 10 Jul 2026 00:00:00 +0100",
+      "image": null,
+      "ai_summary": null
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/impose-awaabs-law-on-private-landlords-this-year-demand-activists/",
       "title": "Impose Awaab\u2019s Law on private landlords this year, demand activists",
@@ -9,7 +59,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/impose-awaabs-law-on-private-landlords-this-year-demand-activists/",
       "source": "Landlord Today",
       "published": "Thu, 09 Jul 2026 00:05:00 +0100",
-      "image": null,
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/MouldProperty-400x310-1.jpg",
       "ai_summary": null
     },
     {
@@ -29,7 +79,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/do-tenants-even-know-about-the-renters-rights-act/",
       "source": "Landlord Today",
       "published": "Thu, 09 Jul 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HousesQuestions-400x310-1.jpg",
+      "image": null,
       "ai_summary": null
     },
     {
@@ -49,7 +99,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/fraud-airbnb-probing-illegal-social-house-sub-letting/",
       "source": "Landlord Today",
       "published": "Thu, 09 Jul 2026 00:01:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Fraud-image400x310.png",
+      "image": null,
       "ai_summary": null
     },
     {
@@ -79,7 +129,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/farewell-to-the-small-scale-amateur-buy-to-let-landlord/",
       "source": "Landlord Today",
       "published": "Wed, 08 Jul 2026 00:03:00 +0100",
-      "image": null,
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Buy-to-let-2-400x310-1.png",
       "ai_summary": null
     },
     {
@@ -89,7 +139,7 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlords-must-pay-25000-to-tenants-if-ombudsman-orders/",
       "source": "Landlord Today",
       "published": "Tue, 07 Jul 2026 00:05:00 +0100",
-      "image": null,
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Ombudsman-Definition-400x310-1.jpg",
       "ai_summary": null
     },
     {
@@ -109,36 +159,6 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/would-you-allow-an-unaccompanied-viewing-of-your-buy-to-let/",
       "source": "Landlord Today",
       "published": "Tue, 07 Jul 2026 00:03:00 +0100",
-      "image": null,
-      "ai_summary": null
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/paying-rent-while-saving-for-deposit-hits-young-adults-claim/",
-      "title": "Paying rent while saving for deposit hits young adults \u2013 claim",
-      "summary": "This is according to an analysis by conveyancing solicitors Bird & Co.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/paying-rent-while-saving-for-deposit-hits-young-adults-claim/",
-      "source": "Landlord Today",
-      "published": "Tue, 07 Jul 2026 00:01:00 +0100",
-      "image": null,
-      "ai_summary": null
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/dire-price-news-for-prime-london-buy-to-let-landlords/",
-      "title": "Dire price news for prime London buy to let landlords",
-      "summary": "Prime Central London capital values have seen yet another fall",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/dire-price-news-for-prime-london-buy-to-let-landlords/",
-      "source": "Landlord Today",
-      "published": "Mon, 06 Jul 2026 00:15:00 +0100",
-      "image": null,
-      "ai_summary": null
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/shock-leap-in-rent-levels-as-renters-rights-act-disrupts-market/",
-      "title": "Shock leap in rent levels as Renters Rights Act disrupts market",
-      "summary": "This is according to Goodlord",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/shock-leap-in-rent-levels-as-renters-rights-act-disrupts-market/",
-      "source": "Landlord Today",
-      "published": "Mon, 06 Jul 2026 00:05:00 +0100",
       "image": null,
       "ai_summary": null
     }
