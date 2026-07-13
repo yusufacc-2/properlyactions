@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-07-13T01:18:29.211687",
-  "article_count": 24,
+  "last_updated": "2026-07-13T05:56:27.379676",
+  "article_count": 26,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/one-year-re-letting-ban-leaves-100000-rental-homes-in-limbo/",
+      "title": "One-year re-letting ban leaves 100,000 rental homes in limbo",
+      "summary": "Is this an unintended consequence of the Renters Rights Act?",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/one-year-re-letting-ban-leaves-100000-rental-homes-in-limbo/",
+      "source": "Landlord Today",
+      "published": "Mon, 13 Jul 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/property-sales400x310.png",
+      "ai_summary": "- A one-year re-letting ban stemming from the Renters Rights Act has put 100,000 rental homes in a state of uncertainty.  \n- The situation raises questions about the unforeseen impacts of new legislation on the rental market."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-given-five-demands-for-more-anti-landlord-measures/",
+      "title": "Burnham given five demands for more anti-landlord measures",
+      "summary": "Activists have set out a wish-list for yet more rental sector reforms The demands come with prospective Prime Minister Andy Burnham set to assume office in a matter of days. In a website entry, the Generation Rent activist group calls the far-reaching Renters Rights Act \u201conly a first step\u201d and itemises a shopping list of [\u2026]",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-given-five-demands-for-more-anti-landlord-measures/",
+      "source": "Landlord Today",
+      "published": "Mon, 13 Jul 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Andy-Burnham-LAbour-400x310-1.png",
+      "ai_summary": "- Activists urge incoming Prime Minister Andy Burnham to implement five key reforms to strengthen tenant protections against landlords.\n- Generation Rent asserts that the recently introduced Renters Rights Act is just an initial step, emphasizing the need for further reforms in the rental sector."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/high-cost-areas-see-biggest-exodus-of-landlords-data/",
+      "title": "High-cost areas see biggest exodus of landlords \u2013 data",
+      "summary": "The fewest landlord sales appear in the higher-yielding north of England",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/high-cost-areas-see-biggest-exodus-of-landlords-data/",
+      "source": "Landlord Today",
+      "published": "Mon, 13 Jul 2026 00:03:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2131821733.jpg",
+      "ai_summary": "- Landlords are fleeing high-cost areas, resulting in a notable exodus from regions with expensive property markets.\n- In contrast, the north of England, known for its higher rental yields, sees the lowest rate of landlord sales, indicating a shift towards more profitable investments."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rents-on-newly-let-homes-creeps-up/",
+      "title": "Rents on newly-let homes creep up",
+      "summary": "The Hamptons analysis is based on data from across the Connells Group",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rents-on-newly-let-homes-creeps-up/",
+      "source": "Landlord Today",
+      "published": "Mon, 13 Jul 2026 00:02:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/RisingRents-Small-InArticle.jpg",
+      "ai_summary": "- Rents for newly-let homes in the UK are gradually increasing, as highlighted by recent analysis from Hamptons.  \n- This trend is supported by data sourced from the Connells Group, indicating a shift in the rental market.  "
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/waste-warning-seven-rules-landlords-should-follow-this-summer/",
+      "title": "Waste warning \u2013 seven rules landlords should follow this summer",
+      "summary": "Hidden laws and rules can land landlords at risk of prosecution",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/waste-warning-seven-rules-landlords-should-follow-this-summer/",
+      "source": "Landlord Today",
+      "published": "Mon, 13 Jul 2026 00:01:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1506416447.jpg",
+      "ai_summary": "- **Compliance Crucial:** Landlords must adhere to seven essential rules to avoid legal issues and potential prosecution this summer.  \n- **Stay Informed:** Ignorance of hidden laws could lead to significant penalties, emphasizing the need for vigilance in property management."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rent-controls-hurt-landlords-less-than-tax-and-interest-rates-claim/",
       "title": "Rent controls back on the agenda as new campaign launches",
@@ -10,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Fri, 10 Jul 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2239146247-1.jpg",
-      "ai_summary": "- A new campaign has reignited discussions around rent controls in the UK amid a significant rise in privately rented homes, with an increase of 96,000 units expected between 2023 and 2025.  \n- Advocates argue that rent controls are necessary to address affordability issues in a rapidly growing rental market."
+      "ai_summary": "- A new campaign is pushing for rent controls in response to a significant increase in privately rented homes in England, which rose by 96,000 from 2023 to 2025.\n- This surge in rental properties has reignited discussions on housing affordability and tenant protections in the UK."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/hmrc-warns-about-tax-deadline-this-month/",
@@ -20,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Fri, 10 Jul 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Tax-SelfAssessment-400x310-1.png",
-      "ai_summary": "- HMRC alerts taxpayers that the crucial tax deadline is fast approaching on July 31.  \n- Time's ticking for UK property owners to meet their tax obligations this month!"
+      "ai_summary": "- HMRC alerts taxpayers that the important tax deadline is set for July 31.  \n- Timely action is essential to avoid penalties and ensure compliance."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/nrla-offers-new-help-to-landlords-facing-renters-rights-act/",
@@ -30,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Fri, 10 Jul 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/NRLA-Logo-2020-400x310-1.jpg",
-      "ai_summary": "- The National Residential Landlords Association (NRLA) launches new support hubs to assist landlords in navigating the Renters Rights Act.\n- These hubs provide practical and reliable guidance to help landlords adapt to the evolving rental landscape."
+      "ai_summary": "- The NRLA launches new support hubs to assist landlords navigating the Renters Rights Act.  \n- These hubs provide practical, reliable guidance to help landlords understand and comply with new regulations."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/renters-rights-act-six-months-on-conference-this-autumn/",
@@ -40,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Fri, 10 Jul 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1940487949.jpg",
-      "ai_summary": "- A conference will be held on October 20 to discuss the impact of the Renters Rights Act, six months post-enactment.\n- The event aims to address key developments and challenges faced by renters and landlords under the new legislation."
+      "ai_summary": "- A conference will be held on October 20 to discuss the impacts of the Renters Rights Act, six months after its implementation.  \n- The event aims to highlight changes and challenges faced by renters and landlords under the new legislation."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/even-flatsharing-isnt-cheap-any-more-as-rents-rise/",
@@ -50,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Fri, 10 Jul 2026 00:00:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Spareroom-logo400x310.png",
-      "ai_summary": "- Rents in the UK have surged nearly 7% over the past three years, making flatsharing increasingly expensive.  \n- The rising rental costs are challenging affordability, highlighting the growing strain on the housing market."
+      "ai_summary": "- Rents in the UK have surged nearly 7% over the past three years, impacting even flatsharing arrangements.  \n- The rising cost of living is making shared accommodations increasingly unaffordable for many renters."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/impose-awaabs-law-on-private-landlords-this-year-demand-activists/",
@@ -60,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Thu, 09 Jul 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/MouldProperty-400x310-1.jpg",
-      "ai_summary": "- Activists from Generation Rent are calling for the swift implementation of Awaab\u2019s Law for private landlords to enhance tenant protections.\n- They emphasize the urgency for the UK government to take immediate action to safeguard renters' rights this year."
+      "ai_summary": "- Activists urge the UK government to implement Awaab\u2019s Law for private landlords without delay, emphasizing the need for swift change.\n- Generation Rent calls for urgent reforms to enhance rental standards and tenant protections across the private sector."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlords-told-not-to-miss-hmo-deadline-or-face-consequences/",
@@ -70,7 +120,7 @@
       "source": "Landlord Today",
       "published": "Thu, 09 Jul 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HMOlicensing.png",
-      "ai_summary": "- Landlords must comply with the new HMO regulations by August 25 to avoid penalties.\n- Failure to meet the deadline could lead to serious consequences for property owners."
+      "ai_summary": "- Landlords must comply with new regulations for Houses in Multiple Occupation (HMOs) by the August 25 deadline to avoid penalties.  \n- Failure to meet these requirements could result in serious consequences for non-compliant landlords.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/do-tenants-even-know-about-the-renters-rights-act/",
@@ -79,8 +129,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/do-tenants-even-know-about-the-renters-rights-act/",
       "source": "Landlord Today",
       "published": "Thu, 09 Jul 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HousesQuestions-400x310-1.jpg",
-      "ai_summary": "- **Limited Awareness:** 70% of tenants are either unaware of or confused by the Renters Rights Act.  \n- **Urgent Need for Education:** There is a pressing need to educate renters about their rights in the housing market."
+      "image": null,
+      "ai_summary": "- **Widespread Ignorance:** 70% of tenants are unaware of or confused about the Renters Rights Act.  \n- **Urgent Awareness Needed:** Significant gaps in knowledge highlight the need for better education on tenants' rights."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/investors-start-to-switch-from-resi-to-commercial-says-propertymark/",
@@ -90,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Thu, 09 Jul 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/CommercialProperty-1-400x310-1.jpg",
-      "ai_summary": "- Investors are increasingly shifting their focus from residential to commercial property, driven by a more favorable regulatory environment.  \n- Propertymark highlights the appeal of commercial real estate as a less restrictive investment option compared to residential sectors.  "
+      "ai_summary": "- Investors are increasingly shifting focus from residential to commercial property, driven by a more flexible regulatory environment.\n- Propertymark highlights the appeal of commercial real estate as a potentially less restrictive investment option."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/fraud-airbnb-probing-illegal-social-house-sub-letting/",
@@ -100,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Thu, 09 Jul 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Fraud-image400x310.png",
-      "ai_summary": "- Airbnb is investigating illegal sub-letting of social housing, prompted by concerns over fraudulent practices.\n- The initiative sees collaboration from three major councils to tackle the issue head-on."
+      "ai_summary": "- Airbnb is investigating illegal sub-letting of social housing as part of a new initiative involving three major UK councils.  \n- The probe aims to tackle widespread fraud and protect affordable housing availability.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/labour-politicians-pledge-to-renew-landlord-clampdown-after-court-ruling/",
@@ -110,7 +160,7 @@
       "source": "Landlord Today",
       "published": "Wed, 08 Jul 2026 00:50:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/A-surveyors-guide-to-finding-a-profitable-HMO-11.jpg",
-      "ai_summary": "- Labour pledges to strengthen landlord regulations following a recent court ruling, marking a renewed effort in housing policy.\n- The ongoing legal battle highlights longstanding issues in the rental market, emphasizing the need for reform."
+      "ai_summary": "- Labour pledges to reinforce landlord regulations following a landmark court ruling that highlights ongoing issues in the rental market.\n- The prolonged legal battles underscore the government's commitment to improving housing standards and tenant protections."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/fine-slashed-by-430000-as-landlord-and-property-management-firm-force-retrial/",
@@ -120,7 +170,7 @@
       "source": "Landlord Today",
       "published": "Wed, 08 Jul 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Court2-400x310-1.jpg",
-      "ai_summary": "- A landlord and management firm successfully secured a retrial, resulting in a \u00a3430,000 reduction of their fine.  \n- The lengthy legal battle has spanned multiple years and involved two previous trials."
+      "ai_summary": "- A court significantly reduced a \u00a3430,000 fine for a landlord and management firm, paving the way for a retrial after a lengthy legal battle.  \n- The case, which has spanned several years, highlights ongoing disputes in the UK property sector."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/farewell-to-the-small-scale-amateur-buy-to-let-landlord/",
@@ -130,37 +180,77 @@
       "source": "Landlord Today",
       "published": "Wed, 08 Jul 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Buy-to-let-2-400x310-1.png",
-      "ai_summary": "- The landscape of UK property is shifting as over 20% of landlords now identify as full-time professionals, signaling a decline in small-scale amateur buy-to-let landlords.  \n- This trend highlights a growing professionalization in the rental market, impacting tenant experiences and the overall dynamics of property investment."
+      "ai_summary": "- A significant shift in the UK rental market sees over 20% of landlords now operating as full-time professionals, signaling the decline of small-scale amateur buy-to-let landlords.  \n- Increased regulations and market pressures are driving casual investors out, leading to a more consolidated and professional rental landscape."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlords-must-pay-25000-to-tenants-if-ombudsman-orders/",
-      "title": "Landlords must pay tenants \u00a325,000 if Ombudsman demands",
-      "summary": "There's no date yet for the Landlord Ombudsman scheme to launch",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlords-must-pay-25000-to-tenants-if-ombudsman-orders/",
-      "source": "Landlord Today",
-      "published": "Tue, 07 Jul 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Ombudsman-Definition-400x310-1.jpg",
-      "ai_summary": "- Landlords face potential fines of \u00a325,000 if they fail to comply with the forthcoming Landlord Ombudsman scheme.  \n- Specific launch date for the Ombudsman initiative remains unconfirmed."
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/knight-frank-promotes-33-across-residential-business/?utm_source=rss&utm_medium=rss&utm_campaign=knight-frank-promotes-33-across-residential-business",
+      "title": "Knight Frank promotes 33 across residential business",
+      "summary": "Knight Frank says more than a quarter of its 129 promotions are within the residential departments of the business.\nThe post Knight Frank promotes 33 across residential business appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/knight-frank-promotes-33-across-residential-business/?utm_source=rss&utm_medium=rss&utm_campaign=knight-frank-promotes-33-across-residential-business",
+      "source": "The Negotiator",
+      "published": "Mon, 13 Jul 2026 04:55:54 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/William-Beardmore-Gray-Senior-Partner-and-Group-Chair-Knight-Frank-promotions.jpg",
+      "ai_summary": "- Knight Frank announces 33 promotions in its residential departments, making up over 25% of a total of 129 promotions across the firm.  \n- The strategic focus highlights the company's commitment to strengthening its residential business amid ongoing market dynamics."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-tax-threat-already-hitting-rental-market-claim/",
-      "title": "Burnham tax threat already hitting rental market \u2013 claim",
-      "summary": "The autumn Budget is already looming large over the rental market, it's claimed",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-tax-threat-already-hitting-rental-market-claim/",
-      "source": "Landlord Today",
-      "published": "Tue, 07 Jul 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Andy-Burnham-LAbour-400x310-1.png",
-      "ai_summary": "- **Rental Market Impact:** Concerns about the upcoming autumn Budget are causing anxiety within the rental market, impacting landlord confidence.  \n- **Tax Threat Looms:** Speculation about potential tax changes is already influencing rental decisions and property investments."
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/vendors-are-still-living-in-2021-when-it-comes-to-asking-prices-agent-warns/?utm_source=rss&utm_medium=rss&utm_campaign=vendors-are-still-living-in-2021-when-it-comes-to-asking-prices-agent-warns",
+      "title": "Sellers still price homes like it is 2021, warns agent",
+      "summary": "Thousands of sellers risk pricing themselves out of the market by setting pandemic boom-style asking prices, says London agent, Josh Endacott.\nThe post Sellers still price homes like it is 2021, warns agent appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/vendors-are-still-living-in-2021-when-it-comes-to-asking-prices-agent-warns/?utm_source=rss&utm_medium=rss&utm_campaign=vendors-are-still-living-in-2021-when-it-comes-to-asking-prices-agent-warns",
+      "source": "The Negotiator",
+      "published": "Mon, 13 Jul 2026 04:55:40 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/tungart7-house-8458547_1920avenue.jpg",
+      "ai_summary": "- London agent Josh Endacott warns that many sellers are clinging to inflated asking prices from the pandemic boom, jeopardizing their market appeal.  \n- A significant number of sellers risk pricing themselves out of the current real estate market by ignoring post-pandemic valuation realities."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/would-you-allow-an-unaccompanied-viewing-of-your-buy-to-let/",
-      "title": "Would you allow an unaccompanied viewing of your buy to let?",
-      "summary": "An electronic key is given to the viewer to attend the property unaccompanied",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/would-you-allow-an-unaccompanied-viewing-of-your-buy-to-let/",
-      "source": "Landlord Today",
-      "published": "Tue, 07 Jul 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/AgentsWindow-400x310-1.jpg",
-      "ai_summary": "- Property owners are considering allowing unaccompanied viewings for potential tenants, utilizing electronic keys for access.  \n- The trend aims to streamline the rental process but raises concerns about security and tenant vetting."
+      "id": "https://thenegotiator.co.uk/news/rental-market/challenge-for-landlords-as-number-of-pensioner-in-rental-sector-set-to-soar/?utm_source=rss&utm_medium=rss&utm_campaign=challenge-for-landlords-as-number-of-pensioner-in-rental-sector-set-to-soar",
+      "title": "Landlords face surge in pensioner renters",
+      "summary": "Tenants are getting older, but will they have sufficient cash to pay for rent throughout their retirement?\nThe post Landlords face surge in pensioner renters appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/challenge-for-landlords-as-number-of-pensioner-in-rental-sector-set-to-soar/?utm_source=rss&utm_medium=rss&utm_campaign=challenge-for-landlords-as-number-of-pensioner-in-rental-sector-set-to-soar",
+      "source": "The Negotiator",
+      "published": "Mon, 13 Jul 2026 04:55:35 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Pensioners.jpg",
+      "ai_summary": "- Landlords are seeing a rising trend of older tenants, as more pensioners are renting their homes.  \n- Concerns loom over whether these retirees will have enough funds to sustain their rent payments during retirement."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/taxes-hit-property-market-harder-than-middle-east-war/?utm_source=rss&utm_medium=rss&utm_campaign=taxes-hit-property-market-harder-than-middle-east-war",
+      "title": "Taxes hit property market harder than Middle East war",
+      "summary": "North London estate agent Jeremy Leaf says concerns about property taxes rises have replaced the Iran war as an excuse not to buy or sell.\nThe post Taxes hit property market harder than Middle East war appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/taxes-hit-property-market-harder-than-middle-east-war/?utm_source=rss&utm_medium=rss&utm_campaign=taxes-hit-property-market-harder-than-middle-east-war",
+      "source": "The Negotiator",
+      "published": "Mon, 13 Jul 2026 04:55:26 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Jeremy-Leaf-No-10.jpg",
+      "ai_summary": "- Rising property taxes are now a bigger deterrent for buyers and sellers in North London than the ongoing Iran war, according to estate agent Jeremy Leaf.\n- The shift in sentiment highlights growing anxieties around tax implications in the property market."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/burnhams-property-tax-plans-dismissed-by-tories/?utm_source=rss&utm_medium=rss&utm_campaign=burnhams-property-tax-plans-dismissed-by-tories",
+      "title": "Burnham\u2019s property tax plans dismissed by Tories",
+      "summary": "Mel Stride, Shadow Chancellor, says Andy Burnham's proposals for a land value tax would represent \u201ca huge tax rise\".\nThe post Burnham\u2019s property tax plans dismissed by Tories appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/burnhams-property-tax-plans-dismissed-by-tories/?utm_source=rss&utm_medium=rss&utm_campaign=burnhams-property-tax-plans-dismissed-by-tories",
+      "source": "The Negotiator",
+      "published": "Mon, 13 Jul 2026 04:55:11 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/10/Mel-Stride.jpg",
+      "ai_summary": "- Tories reject Andy Burnham's land value tax proposals, branding them \"a huge tax rise.\"  \n- Shadow Chancellor Mel Stride criticizes Burnham's plans, highlighting concerns over financial impact."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/land-new-homes/mayor-delivers-only-a-fraction-of-new-builds-needed-in-london/?utm_source=rss&utm_medium=rss&utm_campaign=mayor-delivers-only-a-fraction-of-new-builds-needed-in-london",
+      "title": "Mayor delivers only a fraction of new builds needed in London",
+      "summary": "London Mayor Sadiq Khan has overseen just over 8,000 new build starts when 45,000 are required to meet demand.\nThe post Mayor delivers only a fraction of new builds needed in London appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/land-new-homes/mayor-delivers-only-a-fraction-of-new-builds-needed-in-london/?utm_source=rss&utm_medium=rss&utm_campaign=mayor-delivers-only-a-fraction-of-new-builds-needed-in-london",
+      "source": "The Negotiator",
+      "published": "Mon, 13 Jul 2026 04:55:07 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/02/Mayor-of-London-Sadiq-Khan.png",
+      "ai_summary": "- Sadiq Khan's administration has initiated only 8,000 new housing builds in London, significantly short of the 45,000 required to meet demand.  \n- The mayor's performance raises concerns about housing shortages in the capital, highlighting a critical gap in support for residents."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/rental-market/pace-of-landlord-sales-is-slowing-hamptons/?utm_source=rss&utm_medium=rss&utm_campaign=pace-of-landlord-sales-is-slowing-hamptons",
+      "title": "Pace of landlord sales is slowing \u2013 Hamptons",
+      "summary": "New rules on selling former rental homes may be deterring landlords, according to Hamptons data.\nThe post Pace of landlord sales is slowing \u2013 Hamptons appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/pace-of-landlord-sales-is-slowing-hamptons/?utm_source=rss&utm_medium=rss&utm_campaign=pace-of-landlord-sales-is-slowing-hamptons",
+      "source": "The Negotiator",
+      "published": "Mon, 13 Jul 2026 04:55:03 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/04/For-sale-to-let-sold-signs.jpg",
+      "ai_summary": "- Hamptons data reveals a slowdown in landlord property sales, influenced by new regulations on selling former rental homes.  \n- Increased compliance requirements may be dissuading landlords from putting their properties on the market."
     },
     {
       "id": "https://thenegotiator.co.uk/columns/kate-faulkner/property-transactions-home-sales-fell-across-every-region-in-june/?utm_source=rss&utm_medium=rss&utm_campaign=property-transactions-home-sales-fell-across-every-region-in-june",
@@ -170,77 +260,7 @@
       "source": "The Negotiator",
       "published": "Sat, 11 Jul 2026 06:44:30 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/uk-property-transactions-fall-Kate.jpg",
-      "ai_summary": "- Home sales across the UK declined in June, influenced by the ongoing USA-Iran war, contrasting with a robust June in 2025.\n- The downturn in property transactions was felt uniformly across all regions, signaling a significant shift in the market."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/land-new-homes/new-build-numbers-at-lowest-for-a-decade/?utm_source=rss&utm_medium=rss&utm_campaign=new-build-numbers-at-lowest-for-a-decade",
-      "title": "Lowest new build numbers for a decade",
-      "summary": "\u201cWe need more homes to support people at every stage of the moving journey,\" says Rightmove's Colleen Babcock.\nThe post Lowest new build numbers for a decade appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/land-new-homes/new-build-numbers-at-lowest-for-a-decade/?utm_source=rss&utm_medium=rss&utm_campaign=new-build-numbers-at-lowest-for-a-decade",
-      "source": "The Negotiator",
-      "published": "Fri, 10 Jul 2026 04:55:55 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Colleen-Babcock.jpg",
-      "ai_summary": "- New build homes in the UK have reached their lowest levels in a decade, highlighting a significant housing supply crisis.  \n- Rightmove emphasizes the urgent need for increased housing to accommodate individuals throughout their moving journey."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/mortgage-lenders-urge-urgent-help-for-first-time-buyers/?utm_source=rss&utm_medium=rss&utm_campaign=mortgage-lenders-urge-urgent-help-for-first-time-buyers",
-      "title": "Lenders demand urgent help for first-time buyers",
-      "summary": "Around 3.5 million households are locked out of homeownership and need a helping hand to get onto the housing ladder, says the IMLA.\nThe post Lenders demand urgent help for first-time buyers appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/mortgage-lenders-urge-urgent-help-for-first-time-buyers/?utm_source=rss&utm_medium=rss&utm_campaign=mortgage-lenders-urge-urgent-help-for-first-time-buyers",
-      "source": "The Negotiator",
-      "published": "Fri, 10 Jul 2026 04:55:40 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/06/First-time-buyers.jpg",
-      "ai_summary": "- Lenders are calling for immediate support for approximately 3.5 million households struggling to enter the housing market.  \n- The IMLA highlights the urgent need for measures to assist first-time buyers in overcoming homeownership barriers.  "
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/just-one-mortgage-fraud-case-recorded-in-a-year/?utm_source=rss&utm_medium=rss&utm_campaign=just-one-mortgage-fraud-case-recorded-in-a-year",
-      "title": "One mortgage fraud case recorded in a year",
-      "summary": "Olly Thornton-Berry, of Thirdfort, says the FCA only carried out one investigation into mortgage fraud last year.\nThe post One mortgage fraud case recorded in a year appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/just-one-mortgage-fraud-case-recorded-in-a-year/?utm_source=rss&utm_medium=rss&utm_campaign=just-one-mortgage-fraud-case-recorded-in-a-year",
-      "source": "The Negotiator",
-      "published": "Fri, 10 Jul 2026 04:55:25 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/07/Olly-Thornton-Berry-Thirdfoot-.jpg",
-      "ai_summary": "- The FCA conducted just one investigation into mortgage fraud in the past year, highlighting significant oversight gaps.  \n- Olly Thornton-Berry from Thirdfort emphasizes the alarming decline in mortgage fraud scrutiny by regulators."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/cj-hole-burnham-on-sea/?utm_source=rss&utm_medium=rss&utm_campaign=cj-hole-burnham-on-sea",
-      "title": "CJ Hole unveils new home for Burnham-on-Sea branch",
-      "summary": "A new Burnham-on-Sea office has been opened by CJ Hole franchise owner, Chris Hill, following a relocation of its previous branch in the area. \nThe post CJ Hole unveils new home for Burnham-on-Sea branch appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/cj-hole-burnham-on-sea/?utm_source=rss&utm_medium=rss&utm_campaign=cj-hole-burnham-on-sea",
-      "source": "The Negotiator",
-      "published": "Fri, 10 Jul 2026 04:55:20 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/CJ-Hole-Burnham-on-Sea-team.jpg",
-      "ai_summary": "- CJ Hole has officially opened a new office location for its Burnham-on-Sea branch, spearheaded by franchise owner Chris Hill. \n- The move marks the relocation of their previous branch in the area, enhancing their presence in the community."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/south-facing-gardens-still-popular-despite-heatwave-effect/?utm_source=rss&utm_medium=rss&utm_campaign=south-facing-gardens-still-popular-despite-heatwave-effect",
-      "title": "South-facing gardens still popular despite heatwave effect",
-      "summary": "Buyers are willing to pay \u00a320,000 extra for south-facing gardens, but is the sun setting on this premium?\nThe post South-facing gardens still popular despite heatwave effect appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/south-facing-gardens-still-popular-despite-heatwave-effect/?utm_source=rss&utm_medium=rss&utm_campaign=south-facing-gardens-still-popular-despite-heatwave-effect",
-      "source": "The Negotiator",
-      "published": "Fri, 10 Jul 2026 04:55:19 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Garden-image.jpg",
-      "ai_summary": "- Buyers continue to value south-facing gardens, willing to pay an additional \u00a320,000 for the sunny outdoor feature.  \n- Concerns grow as heatwave effects challenge the long-term appeal of these properties."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/new-cladding-funding-risks-years-of-delays/?utm_source=rss&utm_medium=rss&utm_campaign=new-cladding-funding-risks-years-of-delays",
-      "title": "New cladding funding risks \u201cyears of delays\u201d",
-      "summary": "Campaigners have dismissed extra cladding funding as \u201cincremental measures\u201d that risk locking leaseholders into long waits for a resolution.\nThe post New cladding funding risks \u201cyears of delays\u201d appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/new-cladding-funding-risks-years-of-delays/?utm_source=rss&utm_medium=rss&utm_campaign=new-cladding-funding-risks-years-of-delays",
-      "source": "The Negotiator",
-      "published": "Fri, 10 Jul 2026 04:55:07 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/EndOurCladdingScandal.jpg",
-      "ai_summary": "- Campaigners criticize new cladding funding as insufficient, labeling it as \"incremental measures\" that fail to expedite solutions for affected leaseholders.  \n- The funding is expected to prolong unresolved issues, potentially leading to years of delays in addressing cladding safety concerns."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/rental-market/legal-and-tax-strangleholds-driving-residential-investors-out/?utm_source=rss&utm_medium=rss&utm_campaign=legal-and-tax-strangleholds-driving-residential-investors-out",
-      "title": "Legal and tax \u201cstrangleholds\u201d drive out residential investors",
-      "summary": "Propertymark says increasing numbers of landlords are turning away from residential investments and choosing commercial property instead.\nThe post Legal and tax \u201cstrangleholds\u201d drive out residential investors appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/rental-market/legal-and-tax-strangleholds-driving-residential-investors-out/?utm_source=rss&utm_medium=rss&utm_campaign=legal-and-tax-strangleholds-driving-residential-investors-out",
-      "source": "The Negotiator",
-      "published": "Thu, 09 Jul 2026 04:55:44 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/High-street-shops1.jpg",
-      "ai_summary": "- Propertymark reports a growing trend of landlords shifting from residential investments to commercial properties due to increasing legal and tax pressures.  \n- Landlords are increasingly deterred by regulations, prompting a significant exit from the residential market."
+      "ai_summary": "- Home sales experienced a decline across all UK regions in June, influenced by external factors including the USA-Iran war.  \n- This downturn is notable when compared to an exceptionally strong June in 2025."
     }
   ]
 }
