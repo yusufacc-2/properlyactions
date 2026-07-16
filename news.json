@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-07-16T01:14:26.821642",
+  "last_updated": "2026-07-16T05:29:24.022625",
   "article_count": 25,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/one-in-six-rental-properties-sold-as-landlords-quit-market/",
+      "title": "One in six rental properties sold as landlords quit market",
+      "summary": "The data comes from respected property consultancy TwentyEA",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/one-in-six-rental-properties-sold-as-landlords-quit-market/",
+      "source": "Landlord Today",
+      "published": "Thu, 16 Jul 2026 00:30:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HouseForSale_400x310.png",
+      "ai_summary": "- One in six rental properties in the UK has been sold as landlords exit the market, according to data from property consultancy TwentyEA.\n- The trend highlights growing challenges for landlords, prompting a significant shift in the rental landscape."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/remortgaging-helps-landlords-stay-afloat-in-troubled-market/",
+      "title": "Remortgaging helps landlords stay afloat in volatile market",
+      "summary": "This is according to UK Finance, the mortgage lenders' body",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/remortgaging-helps-landlords-stay-afloat-in-troubled-market/",
+      "source": "Landlord Today",
+      "published": "Thu, 16 Jul 2026 00:10:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/remortgage-image400x310.png",
+      "ai_summary": "- UK Finance reports that remortgaging is a key strategy for landlords to navigate the current volatile property market.\n- The trend highlights growing resilience among landlords as they seek financial stability amid economic uncertainties."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-will-bear-down-on-rogue-landlords-warning-from-leading-agent/",
+      "title": "Burnham will bear down on rogue landlords \u2013 warning",
+      "summary": "The new Prime Minister will make enforcement one of his priorities",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-will-bear-down-on-rogue-landlords-warning-from-leading-agent/",
+      "source": "Landlord Today",
+      "published": "Thu, 16 Jul 2026 00:06:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Andy-Burnham-LAbour-400x310-1.png",
+      "ai_summary": "- The new Prime Minister of the UK is prioritizing strict enforcement against rogue landlords.\n- Burnham aims to strengthen regulations to protect tenants from unethical rental practices."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/build-to-rent-massively-dearer-than-mainstream-rentals/",
+      "title": "Build To Rent massively dearer than mainstream rentals",
+      "summary": "BTR operators can better absorb higher regulation costs",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/build-to-rent-massively-dearer-than-mainstream-rentals/",
+      "source": "Landlord Today",
+      "published": "Thu, 16 Jul 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_673842874.jpg",
+      "ai_summary": "- Build To Rent (BTR) properties are significantly more expensive than traditional rentals in the UK.\n- BTR operators have the capacity to absorb increased regulatory costs more effectively than mainstream rental providers."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/new-figure-leads-housing-ombudsman-office-for-now/",
+      "title": "New figure leads Housing Ombudsman office \u2026 for now",
+      "summary": "An interim caretaker Ombudsman has been named",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/new-figure-leads-housing-ombudsman-office-for-now/",
+      "source": "Landlord Today",
+      "published": "Thu, 16 Jul 2026 00:00:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_701748778.jpg",
+      "ai_summary": "- An interim caretaker has been appointed to lead the Housing Ombudsman office amid ongoing transitions.  \n- This temporary role is critical as the organization navigates changes and prepares for permanent leadership."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlords-given-guidance-over-hot-weather-risks/",
       "title": "Landlords given guidance over extreme weather risks",
@@ -10,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Wed, 15 Jul 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/LondonHousesAndSkyline-400x310-1.jpg",
-      "ai_summary": "- Landlords advised to prepare for extreme weather impacts, particularly in apartments and modern homes.\n- Increasing focus on mitigating risks related to hot weather challenges for rental properties."
+      "ai_summary": "- Landlords are advised to address the unique challenges posed by extreme heat in apartments and modern houses.  \n- New guidelines highlight the need for proactive measures to mitigate risk and ensure tenant safety during severe weather events.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/section-21-disproportionately-hit-black-households-claim/",
@@ -20,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Wed, 15 Jul 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Section-21-image400x310.png",
-      "ai_summary": "- A recent report by Generation Rent reveals that Section 21 evictions are disproportionately impacting black households in the UK.\n- The organization calls for urgent reforms to address these inequalities in housing security."
+      "ai_summary": "- Generation Rent asserts that Section 21 evictions disproportionately affect black households in the UK.  \n- The organization highlights systemic issues in housing policies contributing to racial inequality in eviction rates."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rail-boss-to-head-up-landlord-tenant-mediation-service/",
@@ -30,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Wed, 15 Jul 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2319504085.jpg",
-      "ai_summary": "- Steve Harriott, a prominent figure in the rail sector, is set to lead a new mediation service for landlords and tenants following his retirement at Christmas.  \n- With 16 years of experience, Harriott aims to enhance dispute resolution in the UK rental market."
+      "ai_summary": "- Rail executive Steve Harriott is set to take the helm of a new landlord-tenant mediation service upon retiring from his current role after 16 years.\n- This leadership transition aims to enhance conflict resolution in the rental sector, benefiting both landlords and tenants."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/shelter-claims-alarming-numbers-of-workers-worry-over-housing-costs/",
@@ -40,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Wed, 15 Jul 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shelter-logo400x310.png",
-      "ai_summary": "- Shelter reports that 40% of workers are losing sleep over mounting housing costs.  \n- The organization highlights a growing anxiety, with millions feeling the financial strain of housing affordability.  "
+      "ai_summary": "- Shelter reports that 40% of workers are losing sleep over rising housing costs.  \n- Millions across the UK are increasingly anxious about their ability to afford housing."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/council-says-selective-licensing-is-win-win-for-landlords-and-renters/",
@@ -50,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Tue, 14 Jul 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/licensing1-400x310-1.png",
-      "ai_summary": "- The council's implementation of selective licensing aims to enhance property standards, benefiting both landlords and renters.  \n- This initiative is part of a significant rollout, signaling a strategic move to improve rental conditions across the area."
+      "ai_summary": "- The council's rollout of selective licensing aims to create a mutually beneficial environment for both landlords and renters.\n- This initiative is designed to improve rental standards and tenant safety while providing landlords with better regulatory support."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/high-cost-areas-see-biggest-exodus-of-landlords-data-2/",
@@ -60,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Tue, 14 Jul 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/doors-tablet.jpg",
-      "ai_summary": "- High-cost regions in the UK are experiencing a significant outflow of landlords, highlighting concerns over profitability and market instability.\n- Data reveals that two specific areas are leading this trend, suggesting a potential shift in the rental landscape."
+      "ai_summary": "- High-cost regions in the UK are experiencing a significant surge in landlord departures, with two areas notably leading this trend.\n- The exodus highlights growing concerns over rental yields and regulatory pressures impacting investment in these prime locations."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/new-platform-aims-to-help-landlord-compliance/",
@@ -70,7 +120,7 @@
       "source": "Landlord Today",
       "published": "Tue, 14 Jul 2026 00:00:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/PropTech-TouchScreen-400x310-1.jpg",
-      "ai_summary": "- A new platform has been launched to simplify compliance for landlords in the UK.  \n- Creators of the platform emphasize their goal to eliminate complex regulations faced by property owners."
+      "ai_summary": "- A new platform has been launched to streamline compliance processes for landlords, reducing complexity in property management.\n- The creators emphasize that the tool is designed specifically to simplify regulatory requirements and enhance landlord efficiency."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/one-year-re-letting-ban-leaves-100000-rental-homes-in-limbo/",
@@ -80,7 +130,7 @@
       "source": "Landlord Today",
       "published": "Mon, 13 Jul 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/property-sales400x310.png",
-      "ai_summary": "- A year-long re-letting ban has put 100,000 rental homes in the UK on hold, raising concerns about its impact on the rental market.  \n- The situation highlights potential unintended consequences of the newly implemented Renters Rights Act."
+      "ai_summary": "- The one-year re-letting ban, a potential outcome of the Renters Rights Act, has left 100,000 rental properties in a state of uncertainty.\n- Experts are questioning whether this legislation is inadvertently complicating the rental market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-given-five-demands-for-more-anti-landlord-measures/",
@@ -90,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Mon, 13 Jul 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Andy-Burnham-LAbour-400x310-1.png",
-      "ai_summary": "- Activists urge incoming Prime Minister Andy Burnham to implement five key reforms aimed at tightening regulations on landlords.  \n- Generation Rent labels the recent Renters Rights Act as merely a starting point, advocating for more comprehensive changes to enhance tenant protections."
+      "ai_summary": "- Activists are urging incoming Prime Minister Andy Burnham to implement five additional reforms to strengthen protections for renters beyond the recently introduced Renters Rights Act.  \n- Generation Rent describes the current legislation as merely a \"first step,\" highlighting the need for more comprehensive measures to address landlord practices in the rental sector."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/high-cost-areas-see-biggest-exodus-of-landlords-data/",
@@ -100,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Mon, 13 Jul 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2131821733.jpg",
-      "ai_summary": "- High-cost areas in the UK are witnessing a significant exodus of landlords, with the largest sales occurring in these regions.\n- In contrast, the north of England, known for higher rental yields, experiences the fewest landlord sales."
+      "ai_summary": "- High-cost regions in the UK are experiencing a significant exodus of landlords, leading to fewer property sales.\n- In contrast, areas in the north with higher yields are witnessing stability, with minimal landlord turnover."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rents-on-newly-let-homes-creeps-up/",
@@ -110,7 +160,7 @@
       "source": "Landlord Today",
       "published": "Mon, 13 Jul 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/RisingRents-Small-InArticle.jpg",
-      "ai_summary": "- Rents for newly-let homes in the UK are on the rise, according to analysis by Hamptons.\n- The findings are drawn from comprehensive data provided by the Connells Group."
+      "ai_summary": "- Rents for newly-let homes in the UK are experiencing a gradual increase, according to analysis from Hamptons.\n- The findings are derived from comprehensive data gathered by the Connells Group."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/waste-warning-seven-rules-landlords-should-follow-this-summer/",
@@ -120,137 +170,87 @@
       "source": "Landlord Today",
       "published": "Mon, 13 Jul 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1506416447.jpg",
-      "ai_summary": "- Landlords must navigate strict regulations to avoid legal repercussions this summer, as hidden laws could lead to prosecution.\n- Adhering to seven essential guidelines can help landlords manage waste disposal and maintain compliance with property regulations."
+      "ai_summary": "- Landlords must adhere to lesser-known regulations to avoid potential legal issues this summer.  \n- Ignoring these hidden rules could lead to prosecution and significant penalties for property owners."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rent-controls-hurt-landlords-less-than-tax-and-interest-rates-claim/",
-      "title": "Rent controls back on the agenda as new campaign launches",
-      "summary": "Privately rented dwellings in England grew by 96,000 between 2023 and 2025.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rent-controls-hurt-landlords-less-than-tax-and-interest-rates-claim/",
-      "source": "Landlord Today",
-      "published": "Fri, 10 Jul 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2239146247-1.jpg",
-      "ai_summary": "- A new campaign is reviving discussions on rent controls in response to the rising number of privately rented homes in England, which increased by 96,000 from 2023 to 2025.  \n- Advocates argue that rent controls could help address affordability issues as the private rental market continues to expand."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/hmrc-warns-about-tax-deadline-this-month/",
-      "title": "HMRC warns about tax deadline this month",
-      "summary": "The deadline is July 31",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/hmrc-warns-about-tax-deadline-this-month/",
-      "source": "Landlord Today",
-      "published": "Fri, 10 Jul 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Tax-SelfAssessment-400x310-1.png",
-      "ai_summary": "- HMRC issues urgent reminder: Tax deadline approaching on July 31.  \n- Property owners warned to prepare ahead to avoid late penalties."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/nrla-offers-new-help-to-landlords-facing-renters-rights-act/",
-      "title": "NRLA offers new help to landlords facing Renters Rights Act",
-      "summary": "Hubs offer practical and trusted guidance, the association says",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/nrla-offers-new-help-to-landlords-facing-renters-rights-act/",
-      "source": "Landlord Today",
-      "published": "Fri, 10 Jul 2026 00:02:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/NRLA-Logo-2020-400x310-1.jpg",
-      "ai_summary": "- The NRLA is launching new support hubs to assist landlords in navigating the Renters Rights Act.  \n- These hubs provide practical and reliable guidance to help landlords adjust to the legislative changes."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/renters-rights-act-six-months-on-conference-this-autumn/",
-      "title": "Renters Rights Act six months on \u2013 conference this autumn",
-      "summary": "The event is on October 20",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/renters-rights-act-six-months-on-conference-this-autumn/",
-      "source": "Landlord Today",
-      "published": "Fri, 10 Jul 2026 00:01:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1940487949.jpg",
-      "ai_summary": "- The Renters Rights Act is under review six months after its implementation.  \n- A conference discussing its impact and developments is scheduled for October 20."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/even-flatsharing-isnt-cheap-any-more-as-rents-rise/",
-      "title": "Even flatsharing isn\u2019t cheap any more as rents rise",
-      "summary": "Across the UK, rents have risen almost 7% in the past three years.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/even-flatsharing-isnt-cheap-any-more-as-rents-rise/",
-      "source": "Landlord Today",
-      "published": "Fri, 10 Jul 2026 00:00:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Spareroom-logo400x310.png",
-      "ai_summary": "- UK rents have surged nearly 7% over the past three years, making flatsharing less affordable.  \n- Rising rental costs are impacting all housing options, intensifying financial pressure on tenants.  "
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/winkworth-update-political-and-economic-uncertainty-weigh-on-market-confidence/?utm_source=rss&utm_medium=rss&utm_campaign=winkworth-update-political-and-economic-uncertainty-weigh-on-market-confidence",
-      "title": "Winkworth update: Political and economic uncertainty weigh on market confidence",
-      "summary": "Winkworth has delivered a half-year stockmarket update on how it is performing in the current housing market.\nThe post Winkworth update: Political and economic uncertainty weigh on market confidence appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/winkworth-update-political-and-economic-uncertainty-weigh-on-market-confidence/?utm_source=rss&utm_medium=rss&utm_campaign=winkworth-update-political-and-economic-uncertainty-weigh-on-market-confidence",
+      "id": "https://thenegotiator.co.uk/news/products-services-news/new-ceo-for-the-dispute-service-as-steve-harriott-announces-retirement/?utm_source=rss&utm_medium=rss&utm_campaign=new-ceo-for-the-dispute-service-as-steve-harriott-announces-retirement",
+      "title": "New CEO for The Dispute Service as Steve Harriott announces retirement",
+      "summary": "The Dispute Service (TDS) has announced the appointment of Jacqueline Starr as Chief Executive Officer designate.\nThe post New CEO for The Dispute Service as Steve Harriott announces retirement appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/products-services-news/new-ceo-for-the-dispute-service-as-steve-harriott-announces-retirement/?utm_source=rss&utm_medium=rss&utm_campaign=new-ceo-for-the-dispute-service-as-steve-harriott-announces-retirement",
       "source": "The Negotiator",
-      "published": "Wed, 15 Jul 2026 09:25:17 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/09/Dominic-Agace-Winkworth.jpg",
-      "ai_summary": "- Winkworth's half-year stockmarket update reveals that political and economic uncertainties are negatively impacting market confidence in the housing sector.\n- The current environment is challenging for Winkworth as it navigates a tough housing market landscape."
+      "published": "Thu, 16 Jul 2026 04:55:52 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/JACQUELINE-STARR-incoming-ceo-TDS.jpg",
+      "ai_summary": "- Jacqueline Starr steps in as the new CEO of The Dispute Service, succeeding Steve Harriott following his retirement.  \n- The transition aims to enhance the organization's leadership and continue its commitment to resolving property disputes effectively."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/landlords-in-scotland-face-year-long-wait-for-repossessions-warning/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-in-scotland-face-year-long-wait-for-repossessions-warning",
-      "title": "Landlords in Scotland warned about year-long wait for repossessions",
-      "summary": "Court delays, increasing regulation and rising costs are driving many landlords to sell their properties, warns law firm.\nThe post Landlords in Scotland warned about year-long wait for repossessions appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/landlords-in-scotland-face-year-long-wait-for-repossessions-warning/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-in-scotland-face-year-long-wait-for-repossessions-warning",
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/rental-supply-hits-seven-year-high-despite-landlord-exits/?utm_source=rss&utm_medium=rss&utm_campaign=rental-supply-hits-seven-year-high-despite-landlord-exits",
+      "title": "Rental supply hits seven-year high despite landlord exits",
+      "summary": "TwentyEA's Nick Huntley says many letting agents are still feeling the effects of landlords leaving the sector, reducing the available stock.\nThe post Rental supply hits seven-year high despite landlord exits appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/rental-supply-hits-seven-year-high-despite-landlord-exits/?utm_source=rss&utm_medium=rss&utm_campaign=rental-supply-hits-seven-year-high-despite-landlord-exits",
       "source": "The Negotiator",
-      "published": "Wed, 15 Jul 2026 04:55:54 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/shutterstock_2039879495-scaled-e1784034373150.jpg",
-      "ai_summary": "- **Landlords in Scotland face a year-long wait for repossessions** due to court delays, heightened regulations, and increased costs, prompting many to consider selling their properties.  \n- **Legal experts warn** that the mounting challenges are reshaping the rental landscape in Scotland, pushing landlords to reassess their investments."
+      "published": "Thu, 16 Jul 2026 04:55:44 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Untitled-15-July-2026-at-09.33.05.jpeg",
+      "ai_summary": "- **Rental Supply Surge:** Rental supply in the UK has reached a seven-year high, indicating a significant increase in available properties despite the ongoing trend of landlords exiting the market.  \n- **Letting Agents Struggle:** Many letting agents continue to grapple with the impact of dwindling landlord participation, which is constraining overall available stock."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/knight-frank-appoints-head-of-lettings-business-development/?utm_source=rss&utm_medium=rss&utm_campaign=knight-frank-appoints-head-of-lettings-business-development",
-      "title": "Knight Frank appoints Head of Lettings Business Development",
-      "summary": "Mike Knowles has been appointed Head of Lettings Business Development for Knight Frank in a newly created board-level role.\nThe post Knight Frank appoints Head of Lettings Business Development appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/knight-frank-appoints-head-of-lettings-business-development/?utm_source=rss&utm_medium=rss&utm_campaign=knight-frank-appoints-head-of-lettings-business-development",
+      "id": "https://thenegotiator.co.uk/news/shamplina-slams-protestors-after-they-crash-landlord-show/?utm_source=rss&utm_medium=rss&utm_campaign=shamplina-slams-protestors-after-they-crash-landlord-show",
+      "title": "Shamplina slams protestors after group \u2018crash\u2019 landlord show",
+      "summary": "TV star and evictions expert Paul Shamplina says landlord show demonstrators didn't want to engage in a debate.\nThe post Shamplina slams protestors after group \u2018crash\u2019 landlord show appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/shamplina-slams-protestors-after-they-crash-landlord-show/?utm_source=rss&utm_medium=rss&utm_campaign=shamplina-slams-protestors-after-they-crash-landlord-show",
       "source": "The Negotiator",
-      "published": "Wed, 15 Jul 2026 04:55:38 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Mike-Knowles-Head-Lettings-Business-Development-Knight-Frank.jpg",
-      "ai_summary": "- Mike Knowles takes on a new board-level role as Head of Lettings Business Development at Knight Frank.  \n- This newly created position aims to enhance Knight Frank's lettings strategy and growth."
+      "published": "Thu, 16 Jul 2026 04:55:30 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/rent-controls-shamplina.jpg",
+      "ai_summary": "- TV star Paul Shamplina criticizes demonstrators for disrupting a landlord show, claiming they were unwilling to engage in constructive debate.  \n- The incident highlights the ongoing tensions between landlords and protest groups within the UK property sector."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/buyers-remain-cautious-despite-plenty-of-housing-stock-report/?utm_source=rss&utm_medium=rss&utm_campaign=buyers-remain-cautious-despite-plenty-of-housing-stock-report",
-      "title": "Buyers remain \u2018cautious\u2019 despite plenty of housing stock",
-      "summary": "Affordability pressures and wider market uncertainty continue to slow the market, warns Ben Robinson of Landmark\u00a0Estate Agency Services.\nThe post Buyers remain \u2018cautious\u2019 despite plenty of housing stock appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/buyers-remain-cautious-despite-plenty-of-housing-stock-report/?utm_source=rss&utm_medium=rss&utm_campaign=buyers-remain-cautious-despite-plenty-of-housing-stock-report",
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/leasehold-remains-a-life-sentence-despite-governments-reforms/?utm_source=rss&utm_medium=rss&utm_campaign=leasehold-remains-a-life-sentence-despite-governments-reforms",
+      "title": "Leasehold remains a \u2018life sentence\u2019 despite Government\u2019s reforms",
+      "summary": "National Leasehold Campaign's Katie Kendrick describes leasehold as a \"life sentence\" just hours after the Government announces new leaseholder protections.\nThe post Leasehold remains a \u2018life sentence\u2019 despite Government\u2019s reforms appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/leasehold-remains-a-life-sentence-despite-governments-reforms/?utm_source=rss&utm_medium=rss&utm_campaign=leasehold-remains-a-life-sentence-despite-governments-reforms",
       "source": "The Negotiator",
-      "published": "Wed, 15 Jul 2026 04:55:20 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/khamkhor-apartment-5002551_1920benrobinson.jpg",
-      "ai_summary": "- Despite a surplus of housing options, affordability issues and market uncertainty are keeping buyers on the sidelines.\n- Landmark Estate Agency Services' Ben Robinson highlights the ongoing caution among buyers in the current market climate."
+      "published": "Thu, 16 Jul 2026 04:55:30 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Katite-Kendrick.jpg",
+      "ai_summary": "- Despite new Government reforms aimed at protecting leaseholders, the National Leasehold Campaign argues that leasehold remains a burdensome \"life sentence.\"  \n- Activist Katie Kendrick highlights the ongoing challenges faced by leaseholders, indicating that recent changes fall short of meaningful relief."
     },
     {
-      "id": "https://thenegotiator.co.uk/columns/redress/ombudsman-files-compensation-competing-buyer/?utm_source=rss&utm_medium=rss&utm_campaign=ombudsman-files-compensation-competing-buyer",
-      "title": "The Ombudsman Files \u2013 Compensation awarded after no disclosure of competing buyer",
-      "summary": "A decision made by The Property Ombudsman (TPO) has reinforced the importance of transparency after an estate agent failed to disclose a competing buyer.\nThe post The Ombudsman Files \u2013 Compensation awarded after no disclosure of competing buyer appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/columns/redress/ombudsman-files-compensation-competing-buyer/?utm_source=rss&utm_medium=rss&utm_campaign=ombudsman-files-compensation-competing-buyer",
+      "id": "https://thenegotiator.co.uk/charity/dm-hall-team-conquers-three-peaks-for-charity/?utm_source=rss&utm_medium=rss&utm_campaign=dm-hall-team-conquers-three-peaks-for-charity",
+      "title": "DM Hall team conquers Three Peaks for charity",
+      "summary": "Ten colleagues from across DM Hall's residential, commercial and rural teams completed the Three Peaks Challenge in 24 hours for charity. \nThe post DM Hall team conquers Three Peaks for charity appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/charity/dm-hall-team-conquers-three-peaks-for-charity/?utm_source=rss&utm_medium=rss&utm_campaign=dm-hall-team-conquers-three-peaks-for-charity",
       "source": "The Negotiator",
-      "published": "Wed, 15 Jul 2026 04:55:16 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/TPO-competing-buyer.jpg",
-      "ai_summary": "- The Property Ombudsman mandated compensation due to an estate agent's failure to disclose a competing buyer, highlighting the critical need for transparency in property transactions.  \n- This ruling serves as a reminder to agents and buyers alike about the legal obligations surrounding disclosure in the competitive UK housing market."
+      "published": "Thu, 16 Jul 2026 04:55:28 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/DM-HALL-three-peaks-challenge.jpg",
+      "ai_summary": "- A dedicated team of ten from DM Hall's residential, commercial, and rural divisions tackled the Three Peaks Challenge, completing it in 24 hours.  \n- Their heroic effort was aimed at raising funds for charity, showcasing teamwork and commitment to a good cause."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/warnings-about-first-making-tax-digital-quarterly-deadline/?utm_source=rss&utm_medium=rss&utm_campaign=warnings-about-first-making-tax-digital-quarterly-deadline",
-      "title": "Warnings about first Making Tax Digital quarterly deadline",
-      "summary": "Eriona Bajrakurtaj, of Major's Accounts & Co, says:\u00a0\"The biggest problems we're seeing come from misconceptions about what's required.\"\nThe post Warnings about first Making Tax Digital quarterly deadline appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/warnings-about-first-making-tax-digital-quarterly-deadline/?utm_source=rss&utm_medium=rss&utm_campaign=warnings-about-first-making-tax-digital-quarterly-deadline",
+      "id": "https://thenegotiator.co.uk/news/rental-market/landlords-reveal-incredible-resilience-despite-tax-and-legislation-onslaught/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-reveal-incredible-resilience-despite-tax-and-legislation-onslaught",
+      "title": "Landlords reveal \u2018incredible resilience\u2019 despite tax and legislation onslaught",
+      "summary": "A higher-than-expected number of buy-to-let loans were taken out by landlords in the first three months of the year.\nThe post Landlords reveal \u2018incredible resilience\u2019 despite tax and legislation onslaught appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/landlords-reveal-incredible-resilience-despite-tax-and-legislation-onslaught/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-reveal-incredible-resilience-despite-tax-and-legislation-onslaught",
       "source": "The Negotiator",
-      "published": "Wed, 15 Jul 2026 04:55:09 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Eriona.jpg",
-      "ai_summary": "- Experts warn that misconceptions about the Making Tax Digital requirements are leading to significant issues for many property owners ahead of the first quarterly deadline.\n- Eriona Bajrakurtaj from Major's Accounts & Co emphasizes the need for clarity to avoid pitfalls as the deadline approaches."
+      "published": "Thu, 16 Jul 2026 04:55:28 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/UK-Finance-data.jpg",
+      "ai_summary": "- Landlords showcased remarkable resilience, securing an unexpected surge in buy-to-let loans during Q1.\n- Despite facing tough tax regulations and legislative challenges, the rental market remains robust and appealing for investors."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/products-services-news/202457/?utm_source=rss&utm_medium=rss&utm_campaign=202457",
-      "title": "Land Registry warned of \u2018flaws\u2019 with Qualified Electronic Signatures",
-      "summary": "An open letter has called for the Land Registry to resolve issues that are holding back conveyancers.\nThe post Land Registry warned of \u2018flaws\u2019 with Qualified Electronic Signatures appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/products-services-news/202457/?utm_source=rss&utm_medium=rss&utm_campaign=202457",
+      "id": "https://thenegotiator.co.uk/news/proptech/new-ai-tool-to-cut-certificate-renewal-admin/?utm_source=rss&utm_medium=rss&utm_campaign=new-ai-tool-to-cut-certificate-renewal-admin",
+      "title": "New AI tool to cut certificate renewal admin",
+      "summary": "Alto is launching AutoCert, a new feature that automates gas safety, EPC and EICR certificate renewals, helping agents manage regulatory risk.\nThe post New AI tool to cut certificate renewal admin appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/proptech/new-ai-tool-to-cut-certificate-renewal-admin/?utm_source=rss&utm_medium=rss&utm_campaign=new-ai-tool-to-cut-certificate-renewal-admin",
       "source": "The Negotiator",
-      "published": "Wed, 15 Jul 2026 04:55:04 +0000",
-      "image": null,
-      "ai_summary": "- Conveyancers urge the Land Registry to address critical flaws in Qualified Electronic Signatures that are hindering property transactions.\n- An open letter highlights the urgent need for improvements to streamline conveyancing processes in the UK property market."
+      "published": "Thu, 16 Jul 2026 04:55:21 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/AutoCert-Alto-Riccardo.jpg",
+      "ai_summary": "- Alto's innovative AutoCert feature automates the renewal of gas safety, EPC, and EICR certificates, streamlining administrative tasks for agents.  \n- This AI-driven tool aims to enhance efficiency while effectively managing regulatory compliance risks in the property sector."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/big-landlord-and-his-letting-agencies-lose-appeal-against-105000-fine/?utm_source=rss&utm_medium=rss&utm_campaign=big-landlord-and-his-letting-agencies-lose-appeal-against-105000-fine",
-      "title": "Landlord and his letting agencies lose appeal against \u00a3105k fine",
-      "summary": "Waltham Forest landlord Asad Chaudery and two property firms had sought to challenge the selective licensing non-compliance fines on legal grounds.\nThe post Landlord and his letting agencies lose appeal against \u00a3105k fine appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/big-landlord-and-his-letting-agencies-lose-appeal-against-105000-fine/?utm_source=rss&utm_medium=rss&utm_campaign=big-landlord-and-his-letting-agencies-lose-appeal-against-105000-fine",
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/durden-hunt-combines-branch-launch-with-charity-drive/?utm_source=rss&utm_medium=rss&utm_campaign=durden-hunt-combines-branch-launch-with-charity-drive",
+      "title": "Durden & Hunt combines branch launch with charity drive",
+      "summary": "Durden & Hunt opened its seventh branch in Leigh-on-Sea with a community launch event that raised money for Leigh Lionesses FC.\nThe post Durden & Hunt combines branch launch with charity drive appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/durden-hunt-combines-branch-launch-with-charity-drive/?utm_source=rss&utm_medium=rss&utm_campaign=durden-hunt-combines-branch-launch-with-charity-drive",
       "source": "The Negotiator",
-      "published": "Wed, 15 Jul 2026 04:45:59 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/chaudery-legal-tribunal-licensing.jpg",
-      "ai_summary": "- Landlord Asad Chaudery and his two letting agencies faced a setback as their appeal against \u00a3105k in fines for selective licensing non-compliance was rejected.  \n- The ruling reinforces the importance of adhering to property licensing regulations in Waltham Forest."
+      "published": "Thu, 16 Jul 2026 04:55:18 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Durden-Hunt-Leigh-on-Sea-team-with-Durden-Hunt-Founders-and-Deputy-Mayor-of-Southend-Councillor-Anne-Jones.jpg",
+      "ai_summary": "- Durden & Hunt celebrated the launch of their seventh branch in Leigh-on-Sea with a vibrant community event.  \n- The event successfully raised funds for Leigh Lionesses FC, emphasizing the brand's commitment to local engagement."
     }
   ]
 }
