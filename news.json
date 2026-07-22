@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-07-22T01:14:14.829941",
-  "article_count": 26,
+  "last_updated": "2026-07-22T05:37:49.462908",
+  "article_count": 24,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlords-urged-to-report-hate-crimes-on-behalf-of-tenants/",
+      "title": "Landlords urged to report hate crimes on behalf of tenants",
+      "summary": "It's a \u201cmad\u201d policy according to a leading political magazine.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlords-urged-to-report-hate-crimes-on-behalf-of-tenants/",
+      "source": "Landlord Today",
+      "published": "Wed, 22 Jul 2026 00:06:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2190262027.jpg",
+      "ai_summary": "- Landlords in the UK are being encouraged to report hate crimes committed against their tenants.  \n- A prominent political magazine criticizes this initiative as a \u201cmad\u201d policy."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/massive-growth-of-landlord-companies-still-accelerating/",
+      "title": "Massive growth of landlord companies still accelerating",
+      "summary": "Nearly 14,000 registered in the first five months of 2026",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/massive-growth-of-landlord-companies-still-accelerating/",
+      "source": "Landlord Today",
+      "published": "Wed, 22 Jul 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2059630586.jpg",
+      "ai_summary": "- Over 14,000 landlord companies registered in the UK within the first five months of 2026, marking a significant surge.\n- The rapid growth of landlord companies shows no signs of slowing down."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-has-genuine-interest-in-property-standards-says-nrla-chief/",
+      "title": "Burnham has \u201cgenuine interest in property standards\u201d says NRLA chief",
+      "summary": "The NRLA chief executive has written to he new PM outlining a vision for private renting",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-has-genuine-interest-in-property-standards-says-nrla-chief/",
+      "source": "Landlord Today",
+      "published": "Wed, 22 Jul 2026 00:03:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Andy-Burnham-LAbour-400x310-1.png",
+      "ai_summary": "- NRLA chief executive praises Burnham for showing real commitment to improving property standards in the private rental sector.  \n- The letter to the new PM lays out a forward-thinking vision aimed at enhancing the rental experience for tenants and landlords alike."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-lobbied-to-test-private-rent-controls-in-one-city/",
       "title": "Burnham lobbied to test private rent controls in one city",
@@ -10,7 +40,7 @@
       "source": "Landlord Today",
       "published": "Tue, 21 Jul 2026 00:20:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_282358193.jpg",
-      "ai_summary": "- Labour is advocating for mayors to be granted the authority to implement private rent control measures in their cities.  \n- Burnham is at the forefront of this initiative, pushing for reforms to enhance rental affordability and tenant protections.  "
+      "ai_summary": "- Labour advocates for empowering mayors to implement private rent controls in specific cities, starting with Burnham\u2019s initiative.  \n- The move aims to enhance governance over rental practices and ensure fairer housing conditions."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-makes-surprise-choice-as-housing-secretary/",
@@ -20,7 +50,7 @@
       "source": "Landlord Today",
       "published": "Tue, 21 Jul 2026 00:09:58 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_625746086.jpg",
-      "ai_summary": "- Angela Rayner returns as Housing Secretary after a 10-month hiatus, surprising many in the political landscape.  \n- Her comeback marks a key shift in Burnham's cabinet, potentially impacting housing policies and initiatives."
+      "ai_summary": "- Angela Rayner makes an unexpected return as Housing Secretary, just 10 months after stepping down from the role.\n- Burnham's surprise appointment of Rayner signals a potential shift in housing policy and strategy moving forward."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/labour-bid-to-clampdown-on-airbnbs-and-other-short-lets/",
@@ -30,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Tue, 21 Jul 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1527132737.jpg",
-      "ai_summary": "- Labour's proposed Private Member's Bill seeks to impose stricter regulations on short lets, including Airbnbs, aiming to limit landlord freedoms.  \n- The initiative reflects growing concerns over the impact of short-term rentals on housing availability and local communities."
+      "ai_summary": "- The Labour Party proposes a Private Member's Bill aimed at tightening regulations on Airbnbs and other short-term rentals.\n- The initiative seeks to limit the operational freedoms of short let landlords in the UK."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlords-resort-to-auctions-to-shift-units-as-renters-rights-act-kicks-in/",
@@ -40,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Tue, 21 Jul 2026 00:00:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2230237751.jpg",
-      "ai_summary": "- Landlords are turning to auctions to sell properties as the Renters Rights Act takes effect, leading to a significant increase in auction activity.\n- Property auction participation has surged by over 30%, reflecting a shift in strategy among landlords in response to changing rental regulations."
+      "ai_summary": "- Landlords are increasingly turning to auctions to sell properties as the Renters Rights Act comes into effect.\n- Property auction activity has surged by more than 33% in response to these regulatory changes."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/renters-chief-stands-down-taking-part-credit-for-section-21-abolition/",
@@ -50,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Mon, 20 Jul 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_426185557.jpg",
-      "ai_summary": "- Ben Twomey, formerly a director, has stepped down as chief executive of Generation Rent, citing his contributions to the abolition of Section 21 evictions.  \n- His departure marks a significant moment for renters' advocacy in the UK, highlighting ongoing changes in rental policies."
+      "ai_summary": "- Ben Twomey steps down as chief executive of Generation Rent, taking partial credit for the abolition of Section 21 evictions.  \n- His tenure marked a significant shift in renter advocacy, as he elevated the organization's influence in the UK housing debate."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/huge-fine-for-landlord-of-home-caked-in-faeces-and-urine/",
@@ -60,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Mon, 20 Jul 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_622874000-1.jpg",
-      "ai_summary": "- Landlord Glyn Carter of Carter Property Services fined \u00a342,000 for severe violations of tenancy laws at his properties in County Durham, including dangerous living conditions.  \n- Legal action was initiated by the council after reports revealed neglect of 13 conditions set under the Selective Licence for his extensive 300-property portfolio."
+      "ai_summary": "- Portfolio landlord Glyn Carter has been hit with a \u00a342,000 fine for neglecting 13 conditions of his property's Selective Licence, leaving it in appalling conditions filled with feces and urine.  \n- Legal action by County Durham council highlights enforcement against landlords failing to meet housing standards, with Carter Property Services operating 300 properties under scrutiny."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/council-threat-to-pursue-convicted-landlords-over-damp-and-mould/",
@@ -70,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Mon, 20 Jul 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/MouldProperty-400x310-1.jpg",
-      "ai_summary": "- Council to take action against landlords convicted for neglecting properties with damp and mould after disregarding Improvement Notice.  \n- Authorities ramping up efforts to hold negligent landlords accountable for tenant health and safety violations."
+      "ai_summary": "- Local council plans to take action against landlords convicted for neglecting damp and mould issues by disregarding an Improvement Notice.\n- Authorities emphasize accountability for landlords to ensure safe and habitable living conditions for tenants."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlords-and-tenants-poles-apart-on-rent-levels-says-top-agency/",
@@ -80,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Mon, 20 Jul 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Savills-NEW-logo400x310.png",
-      "ai_summary": "- A leading agency reveals a significant disparity between landlords and tenants regarding rental prices in the UK's prime property markets.\n- This growing divide highlights the challenges facing both parties in negotiating fair and sustainable rent levels."
+      "ai_summary": "- A leading agency reveals a significant disconnect between landlords' expectations and tenants' ability to pay rent in the UK's prime rental markets.  \n- Rising rental demands from landlords contrast sharply with tenants facing affordability challenges, highlighting a widening gap in the rental landscape."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/agents-given-new-guidance-for-selling-tenanted-properties/",
@@ -90,7 +120,7 @@
       "source": "Landlord Today",
       "published": "Fri, 17 Jul 2026 00:10:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HouseForSale_400x310.png",
-      "ai_summary": "- The new guidance for selling tenanted properties is introduced in response to the Renters Rights Act.  \n- It aims to clarify legal responsibilities and enhance protections for tenants during property transactions."
+      "ai_summary": "- New guidance for selling tenanted properties has been introduced in response to the Renters Rights Act.  \n- This guidance aims to clarify the rights and responsibilities of landlords during the sale process."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/councils-fail-to-collect-vast-majority-of-fines-issued-to-landlords/",
@@ -100,7 +130,7 @@
       "source": "Landlord Today",
       "published": "Fri, 17 Jul 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_60938278.jpg",
-      "ai_summary": "- Councils in the UK have missed out on millions of pounds in fines owed by landlords, as revealed by the NRLA's Freedom of Information requests.  \n- The lack of effective fine collection highlights gaps in enforcement and oversight in the rental sector."
+      "ai_summary": "- Councils across the UK have failed to collect millions of pounds in fines imposed on landlords for violations, revealing significant enforcement gaps.\n- The National Residential Landlords Association (NRLA) uncovered this issue through Freedom of Information requests, highlighting a critical need for improved regulatory oversight."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rental-stock-drops-as-renters-rights-act-kicks-in/",
@@ -110,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Fri, 17 Jul 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HousePricesFall-400x310-1.jpg",
-      "ai_summary": "- Rental stock has decreased by 1% compared to last year as the new Renters Rights Act takes effect.  \n- This decline highlights the tightening rental market amid evolving housing regulations."
+      "ai_summary": "- Rental stock in the UK has decreased by 1% compared to last year as the new Renters Rights Act takes effect.  \n- The shrinking number of available rental homes could impact housing affordability and availability for tenants."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/market-stabilises-despite-new-record-high-rents-rightmove/",
@@ -120,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Fri, 17 Jul 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/rightmove-2.jpg",
-      "ai_summary": "- Average advertised rents outside London have surged 2.3% year-on-year, reaching a new record high.\n- Despite rising rents, the UK property market shows signs of stabilization."
+      "ai_summary": "- Average advertised rents outside London have surged by 2.3% year-on-year, reaching a new record high.\n- Despite rising rents, the UK property market shows signs of stabilisation."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/new-figure-leads-housing-ombudsman-office-for-now-2/",
@@ -130,137 +160,87 @@
       "source": "Landlord Today",
       "published": "Fri, 17 Jul 2026 00:00:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Ombudsman-Definition-400x310-1.jpg",
-      "ai_summary": "- A new figure has taken the helm at the Housing Ombudsman office, stepping in during a transitional phase.  \n- Questions arise about whether the upcoming landlord ombudsman service will integrate with the current social housing framework."
+      "ai_summary": "- A new figure has taken the lead at the Housing Ombudsman office, bringing potential changes to the landlord ombudsman service.\n- Questions arise about whether the existing social housing framework will be integrated into the new service."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/one-in-six-rental-properties-sold-as-landlords-quit-market/",
-      "title": "One in six rental properties sold as landlords quit market",
-      "summary": "The data comes from respected property consultancy TwentyEA",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/one-in-six-rental-properties-sold-as-landlords-quit-market/",
-      "source": "Landlord Today",
-      "published": "Thu, 16 Jul 2026 00:30:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/HouseForSale_400x310.png",
-      "ai_summary": "- One in six rental properties has been sold as landlords exit the market, according to insights from property consultancy TwentyEA.\n- This trend highlights significant shifts in the rental landscape, with growing concerns among landlords prompting many to divest their holdings."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/remortgaging-helps-landlords-stay-afloat-in-troubled-market/",
-      "title": "Remortgaging helps landlords stay afloat in volatile market",
-      "summary": "This is according to UK Finance, the mortgage lenders' body",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/remortgaging-helps-landlords-stay-afloat-in-troubled-market/",
-      "source": "Landlord Today",
-      "published": "Thu, 16 Jul 2026 00:10:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/remortgage-image400x310.png",
-      "ai_summary": "- UK Finance reports that remortgaging is a vital strategy for landlords to navigate the turbulent property market.  \n- Landlords are increasingly relying on remortgaging to maintain financial stability amid rising costs and economic uncertainty."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-will-bear-down-on-rogue-landlords-warning-from-leading-agent/",
-      "title": "Burnham will bear down on rogue landlords \u2013 warning",
-      "summary": "The new Prime Minister will make enforcement one of his priorities",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/burnham-will-bear-down-on-rogue-landlords-warning-from-leading-agent/",
-      "source": "Landlord Today",
-      "published": "Thu, 16 Jul 2026 00:06:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/Andy-Burnham-LAbour-400x310-1.png",
-      "ai_summary": "- The new Prime Minister plans to intensify efforts to crack down on rogue landlords as a top enforcement priority.  \n- Burnham emphasizes the need for stricter regulations to protect tenants and enhance housing standards."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/build-to-rent-massively-dearer-than-mainstream-rentals/",
-      "title": "Build To Rent massively dearer than mainstream rentals",
-      "summary": "BTR operators can better absorb higher regulation costs",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/build-to-rent-massively-dearer-than-mainstream-rentals/",
-      "source": "Landlord Today",
-      "published": "Thu, 16 Jul 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_673842874.jpg",
-      "ai_summary": "- Build To Rent (BTR) properties are significantly more expensive than traditional rentals.  \n- BTR operators leverage their resources to absorb rising regulatory costs more effectively."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/new-figure-leads-housing-ombudsman-office-for-now/",
-      "title": "New figure leads Housing Ombudsman office \u2026 for now",
-      "summary": "An interim caretaker Ombudsman has been named",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/new-figure-leads-housing-ombudsman-office-for-now/",
-      "source": "Landlord Today",
-      "published": "Thu, 16 Jul 2026 00:00:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_701748778.jpg",
-      "ai_summary": "- An interim caretaker Ombudsman has been appointed to lead the Housing Ombudsman office temporarily.  \n- This change comes amidst ongoing developments in the UK property sector as leadership transitions occur."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/industry-reaction-as-uk-pm-andy-burnham-enters-downing-street/?utm_source=rss&utm_medium=rss&utm_campaign=industry-reaction-as-uk-pm-andy-burnham-enters-downing-street",
-      "title": "Industry reaction as new PM Andy Burnham enters Downing Street",
-      "summary": "Andy Burnham officially became Britain's new Prime Minister yesterday - and here is how agents reacted to the news.\nThe post Industry reaction as new PM Andy Burnham enters Downing Street appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/industry-reaction-as-uk-pm-andy-burnham-enters-downing-street/?utm_source=rss&utm_medium=rss&utm_campaign=industry-reaction-as-uk-pm-andy-burnham-enters-downing-street",
+      "id": "https://thenegotiator.co.uk/movers-and-shakers/winkworth-appoints-new-franchise-operations-lead/?utm_source=rss&utm_medium=rss&utm_campaign=winkworth-appoints-new-franchise-operations-lead",
+      "title": "Winkworth appoints new franchise operations lead",
+      "summary": "Jack Spellman has joined Winkworth as its new Franchise Operations Lead to focus on connect and communication across the network.\nThe post Winkworth appoints new franchise operations lead appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/movers-and-shakers/winkworth-appoints-new-franchise-operations-lead/?utm_source=rss&utm_medium=rss&utm_campaign=winkworth-appoints-new-franchise-operations-lead",
       "source": "The Negotiator",
-      "published": "Tue, 21 Jul 2026 04:55:58 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/AndyBurnham-downing-st-1.jpeg",
-      "ai_summary": "- Andy Burnham's appointment as Prime Minister has sparked significant interest and varied reactions from property agents across the UK.  \n- The industry is closely watching how his leadership may influence housing policies and market dynamics moving forward."
+      "published": "Wed, 22 Jul 2026 04:55:56 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/jack-spellman-winkworth.jpg",
+      "ai_summary": "- Winkworth has appointed Jack Spellman as its new Franchise Operations Lead to enhance communication within its network.  \n- This strategic hire aims to strengthen connections across Winkworth's franchise operations."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/auctions-news/auction-confidence-grows-says-propertymark-president/?utm_source=rss&utm_medium=rss&utm_campaign=auction-confidence-grows-says-propertymark-president",
-      "title": "Auction confidence grows, says Propertymark President",
-      "summary": "Stuart Collar-Brown says buyers and sellers continue to see the value of auctions as EIG figures show a sharp rise in lots offered and sold in June.\nThe post Auction confidence grows, says Propertymark President appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/auctions-news/auction-confidence-grows-says-propertymark-president/?utm_source=rss&utm_medium=rss&utm_campaign=auction-confidence-grows-says-propertymark-president",
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/zoopla-annual-house-price-growth-is-no-longer-guaranteed/?utm_source=rss&utm_medium=rss&utm_campaign=zoopla-annual-house-price-growth-is-no-longer-guaranteed",
+      "title": "House price growth is no longer guaranteed, warns Zoopla",
+      "summary": "Homeowners can\u2019t rely on annual house price growth, says Zoopla\u2019s Richard Donnell, but there are regional variations.\nThe post House price growth is no longer guaranteed, warns Zoopla appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/zoopla-annual-house-price-growth-is-no-longer-guaranteed/?utm_source=rss&utm_medium=rss&utm_campaign=zoopla-annual-house-price-growth-is-no-longer-guaranteed",
       "source": "The Negotiator",
-      "published": "Tue, 21 Jul 2026 04:55:45 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/propertymark-stuart-collar-brown-auction-sign-houses.jpg",
-      "ai_summary": "- Confidence in property auctions is on the rise, with significant increases in both the number of lots offered and sold in June, according to EIG figures.\n- Propertymark President Stuart Collar-Brown notes that both buyers and sellers are increasingly recognizing the value of auction sales."
+      "published": "Wed, 22 Jul 2026 04:55:56 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/richard-donnell.png",
+      "ai_summary": "- Zoopla\u2019s Richard Donnell cautions that annual house price growth is becoming uncertain and homeowners should brace for fluctuations.  \n- Regional variations in property values mean that some areas may still experience growth despite broader market challenges."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/has-charles-dunstone-struck-out-at-purplebricks/?utm_source=rss&utm_medium=rss&utm_campaign=has-charles-dunstone-struck-out-at-purplebricks",
-      "title": "Has Charles Dunstone struck out at Purplebricks?",
-      "summary": "Carphone Warehouse billionaire Charles Dunstone is no longer listed as a person of significant control at Strike.\nThe post Has Charles Dunstone struck out at Purplebricks? appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/has-charles-dunstone-struck-out-at-purplebricks/?utm_source=rss&utm_medium=rss&utm_campaign=has-charles-dunstone-struck-out-at-purplebricks",
+      "id": "https://thenegotiator.co.uk/news/marketing-news/estate-agents-fear-rightmove-retaliation-in-legal-case/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-fear-rightmove-retaliation-in-legal-case",
+      "title": "Estate agents \u2018fear\u2019 Rightmove retaliation in legal case",
+      "summary": "Lawyers in a \u00a31.5billion action led by Jeremy Newman say agents are worried about \"adverse commercial consequences\".\nThe post Estate agents \u2018fear\u2019 Rightmove retaliation in legal case appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/marketing-news/estate-agents-fear-rightmove-retaliation-in-legal-case/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-fear-rightmove-retaliation-in-legal-case",
       "source": "The Negotiator",
-      "published": "Tue, 21 Jul 2026 04:55:36 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Bruce-purplebricks.jpeg",
-      "ai_summary": "- Billionaire Charles Dunstone has been removed as a person of significant control at Strike, indicating a significant shift in his role or influence in the property platform.  \n- This development raises questions about Dunstone's continued involvement with Purplebricks, sparking speculation about the future of the company."
+      "published": "Wed, 22 Jul 2026 04:55:54 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/04/jeremy-newman-rightmove.jpg",
+      "ai_summary": "- Estate agents express concerns over potential backlash from Rightmove amid a \u00a31.5 billion legal action spearheaded by Jeremy Newman.  \n- The looming case raises fears of \"adverse commercial consequences\" for agents involved."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/angela-rayner-makes-shock-return-in-new-burnham-cabinet/?utm_source=rss&utm_medium=rss&utm_campaign=angela-rayner-makes-shock-return-in-new-burnham-cabinet",
-      "title": "Angela Rayner makes shock return in new PM Burnham\u2019s cabinet",
-      "summary": "Former Deputy Prime Minister Angela Rayner has returned to Government as Housing Secretary.\nThe post Angela Rayner makes shock return in new PM Burnham\u2019s cabinet appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/angela-rayner-makes-shock-return-in-new-burnham-cabinet/?utm_source=rss&utm_medium=rss&utm_campaign=angela-rayner-makes-shock-return-in-new-burnham-cabinet",
+      "id": "https://thenegotiator.co.uk/news/hmo-interest-helps-boost-landlord-yields-paragon/?utm_source=rss&utm_medium=rss&utm_campaign=hmo-interest-helps-boost-landlord-yields-paragon",
+      "title": "HMOs push average landlord yields above 7%",
+      "summary": "Average landlord returns remain \"resilient\" with a healthy boost from HMOs, according to Paragon Bank's Louisa Sedgwick.\nThe post HMOs push average landlord yields above 7% appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/hmo-interest-helps-boost-landlord-yields-paragon/?utm_source=rss&utm_medium=rss&utm_campaign=hmo-interest-helps-boost-landlord-yields-paragon",
       "source": "The Negotiator",
-      "published": "Tue, 21 Jul 2026 04:55:36 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/rayner.png",
-      "ai_summary": "- Angela Rayner makes a surprising comeback as Housing Secretary in Prime Minister Burnham\u2019s new cabinet.  \n- The former Deputy Prime Minister\u2019s return signals a significant shift in the UK government\u2019s housing policy strategy."
+      "published": "Wed, 22 Jul 2026 04:55:51 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/MD-Louisa-Sedgwick-Paragon.jpg",
+      "ai_summary": "- HMOs are driving average landlord yields to surpass 7%, highlighting strong market resilience.  \n- Paragon Bank's Louisa Sedgwick reports a significant boost in returns for landlords thanks to this trend.  "
     },
     {
-      "id": "https://thenegotiator.co.uk/news/john-healey-is-appointed-the-new-chancellor/?utm_source=rss&utm_medium=rss&utm_campaign=john-healey-is-appointed-the-new-chancellor",
-      "title": "John Healey is appointed as the new Chancellor",
-      "summary": "John Healey will have \"sizeable difficulties to contend with\" in his new role as the Chancellor of the Exchequer.\nThe post John Healey is appointed as the new Chancellor appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/john-healey-is-appointed-the-new-chancellor/?utm_source=rss&utm_medium=rss&utm_campaign=john-healey-is-appointed-the-new-chancellor",
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/leasehold-campaigners-welcome-rayners-return/?utm_source=rss&utm_medium=rss&utm_campaign=leasehold-campaigners-welcome-rayners-return",
+      "title": "Leasehold campaigners welcome Rayner\u2019s return",
+      "summary": "Leasehold campaigners have welcomed Angela Rayner back into her former role as Housing Communities and Local Government Secretary.\nThe post Leasehold campaigners welcome Rayner\u2019s return appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/leasehold-campaigners-welcome-rayners-return/?utm_source=rss&utm_medium=rss&utm_campaign=leasehold-campaigners-welcome-rayners-return",
       "source": "The Negotiator",
-      "published": "Tue, 21 Jul 2026 04:55:34 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/John-Healey-Stamp-Duty.jpg",
-      "ai_summary": "- John Healey takes on the role of Chancellor of the Exchequer amid significant challenges ahead.  \n- His appointment raises expectations as the UK faces pressing economic issues."
+      "published": "Wed, 22 Jul 2026 04:55:50 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Angela-Rayner-housing.jpg",
+      "ai_summary": "- Leasehold campaigners celebrate Angela Rayner's reinstatement as Housing Communities and Local Government Secretary, seeing it as a positive move for reform.\n- Her return signals renewed hope for addressing leasehold issues and advocating for tenant rights within the UK housing sector."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/us-and-gulf-buyers-drive-ultra-prime-property-market-rebound/?utm_source=rss&utm_medium=rss&utm_campaign=us-and-gulf-buyers-drive-ultra-prime-property-market-rebound",
-      "title": "US and Gulf buyers drive ultra-prime property market rebound",
-      "summary": "A flight of capital from the Middle East is boosting the ultra prime UK property market, says Beauchamp Estates' Jeremy Gee.\nThe post US and Gulf buyers drive ultra-prime property market rebound appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/us-and-gulf-buyers-drive-ultra-prime-property-market-rebound/?utm_source=rss&utm_medium=rss&utm_campaign=us-and-gulf-buyers-drive-ultra-prime-property-market-rebound",
+      "id": "https://thenegotiator.co.uk/news/marketing-news/phil-spencer-joins-rightmove-webinar-on-reducing-fall-throughs/?utm_source=rss&utm_medium=rss&utm_campaign=phil-spencer-joins-rightmove-webinar-on-reducing-fall-throughs",
+      "title": "Phil Spencer\u00a0joins\u00a0Rightmove\u00a0webinar\u00a0on reducing fall-throughs",
+      "summary": "The Rightmove webinar will see television presenter Phil Spencer help provide tips on keeping property chains secure.\nThe post Phil Spencer\u00a0joins\u00a0Rightmove\u00a0webinar\u00a0on reducing fall-throughs appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/marketing-news/phil-spencer-joins-rightmove-webinar-on-reducing-fall-throughs/?utm_source=rss&utm_medium=rss&utm_campaign=phil-spencer-joins-rightmove-webinar-on-reducing-fall-throughs",
       "source": "The Negotiator",
-      "published": "Tue, 21 Jul 2026 04:55:21 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/jeremygee.png",
-      "ai_summary": "- Capital inflow from US and Gulf buyers is revitalizing the ultra-prime UK property market, according to industry expert Jeremy Gee from Beauchamp Estates.  \n- Increasing demand from international investors signals a robust rebound in high-end real estate."
+      "published": "Wed, 22 Jul 2026 04:55:30 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Phil-Spencer-rightmove-webinar.jpeg",
+      "ai_summary": "- Phil Spencer teams up with Rightmove for a webinar aimed at minimizing property transaction fall-throughs.  \n- The session will share expert tips for ensuring property chains remain secure and reliable."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/landlords-targeted-by-criminal-gangs-highlighted-in-panorama-investigation/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-targeted-by-criminal-gangs-highlighted-in-panorama-investigation",
-      "title": "Landlords targeted by criminal gangs highlighted in Panorama investigation",
-      "summary": "OpenRent is featured heavily during BBC programme looking at how some private rentals have been hijacked by criminals.\nThe post Landlords targeted by criminal gangs highlighted in Panorama investigation appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/landlords-targeted-by-criminal-gangs-highlighted-in-panorama-investigation/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-targeted-by-criminal-gangs-highlighted-in-panorama-investigation",
+      "id": "https://thenegotiator.co.uk/news/rental-market/tenants-back-rent-controls-as-burnham-weighs-up-reform/?utm_source=rss&utm_medium=rss&utm_campaign=tenants-back-rent-controls-as-burnham-weighs-up-reform",
+      "title": "Tenants back rent controls as Burnham weighs up reform",
+      "summary": "A SpareRoom survey revealed overwhelming tenant support for rent controls - a move being considered by Andy Burnham.\nThe post Tenants back rent controls as Burnham weighs up reform appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/tenants-back-rent-controls-as-burnham-weighs-up-reform/?utm_source=rss&utm_medium=rss&utm_campaign=tenants-back-rent-controls-as-burnham-weighs-up-reform",
       "source": "The Negotiator",
-      "published": "Tue, 21 Jul 2026 04:55:10 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Panorama-gangster-image.jpg",
-      "ai_summary": "- A BBC Panorama investigation reveals that criminal gangs are hijacking private rentals, with OpenRent prominently featured as a platform involved in these schemes.  \n- Landlords are increasingly vulnerable to these criminal activities, raising concerns about the safety and integrity of the rental market."
+      "published": "Wed, 22 Jul 2026 04:55:23 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Rent-controls.jpg",
+      "ai_summary": "- A SpareRoom survey shows strong tenant backing for rent controls, prompting potential reforms by Andy Burnham.  \n- Burnham is evaluating the implementation of rent controls amid rising concerns from tenants about housing costs.  "
     },
     {
-      "id": "https://thenegotiator.co.uk/news/products-services-news/burnhams-move-into-number-10-sees-mortgage-rates-rise/?utm_source=rss&utm_medium=rss&utm_campaign=burnhams-move-into-number-10-sees-mortgage-rates-rise",
-      "title": "Burnham\u2019s move into Number 10 sees mortgage rates rise",
-      "summary": "Three of the big lenders announced they would be increasing mortgage rates as Andy Burnham enters Downing Street.\nThe post Burnham\u2019s move into Number 10 sees mortgage rates rise appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/products-services-news/burnhams-move-into-number-10-sees-mortgage-rates-rise/?utm_source=rss&utm_medium=rss&utm_campaign=burnhams-move-into-number-10-sees-mortgage-rates-rise",
+      "id": "https://thenegotiator.co.uk/news/land-new-homes/build-to-rent-fails-to-meet-demand-despite-record-investment/?utm_source=rss&utm_medium=rss&utm_campaign=build-to-rent-fails-to-meet-demand-despite-record-investment",
+      "title": "Build-to-rent fails to meet demand despite record investment",
+      "summary": "Knight Frank says demand is outstripping supply of build-to-rent homes with regional markets suffering the most.\nThe post Build-to-rent fails to meet demand despite record investment appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/land-new-homes/build-to-rent-fails-to-meet-demand-despite-record-investment/?utm_source=rss&utm_medium=rss&utm_campaign=build-to-rent-fails-to-meet-demand-despite-record-investment",
       "source": "The Negotiator",
-      "published": "Tue, 21 Jul 2026 04:00:43 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Andy-Burham-1.jpg",
-      "ai_summary": "- Major lenders hike mortgage rates in response to Andy Burnham's appointment as UK Prime Minister.\n- The financial shift highlights the immediate impact of political changes on the housing market."
+      "published": "Wed, 22 Jul 2026 04:55:11 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2024/11/build-to-rent.jpg",
+      "ai_summary": "- Demand for build-to-rent homes is soaring, significantly outpacing supply, particularly in regional markets, according to Knight Frank.  \n- Despite record levels of investment in the sector, the gap between available units and renter needs continues to widen."
     }
   ]
 }
