@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T11:14:39.199551",
-  "article_count": 23,
+  "last_updated": "2026-07-31T13:22:16.989317",
+  "article_count": 15,
   "articles": [
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/over-1000-per-property-licence-proposed-by-labour-led-council/",
@@ -10,7 +10,7 @@
       "source": "Landlord Today",
       "published": "Fri, 31 Jul 2026 00:20:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2354542231.jpg",
-      "ai_summary": "- Landlords face a potential \u00a31,050 fee for each property license, as proposed by the council.  \n- If approved, this move could significantly impact rental costs across the UK."
+      "ai_summary": "- Landlords face a potential \u00a31,050 fee per property license following a proposed council decision.  \n- The new charge aims to increase costs for property owners across the UK."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/mp-talks-of-dodgy-landlords-as-she-accepts-government-job/",
@@ -20,7 +20,7 @@
       "source": "Landlord Today",
       "published": "Fri, 31 Jul 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2275455799.jpg",
-      "ai_summary": "- MP highlights concerns over \"dodgy landlords\" while stepping into a new role at the Ministry of Housing, Communities and Local Government.  \n- Her appointment raises questions about the government's approach to tackling landlord accountability amid ongoing housing issues."
+      "ai_summary": "- MP highlights issues with 'dodgy landlords' amidst new role in government.\n- Accepts position at the Ministry of Housing, Communities and Local Government to address housing challenges."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlord-allowed-imminent-risk-of-serious-harm-to-tenants/",
@@ -29,8 +29,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlord-allowed-imminent-risk-of-serious-harm-to-tenants/",
       "source": "Landlord Today",
       "published": "Fri, 31 Jul 2026 00:01:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2298790199.jpg",
-      "ai_summary": "- A landlord has pleaded guilty to 14 offences amid serious concerns for tenant safety.  \n- Court findings highlight an imminent risk of harm due to the landlord's negligence in property management."
+      "image": null,
+      "ai_summary": "- A landlord has been found guilty of 14 offences, highlighting severe negligence in tenant safety.  \n- The ruling underscores the imminent risk of serious harm that tenants faced due to the landlord\u2019s actions.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/council-licensing-proposals-have-12-different-fees-up-to-995/",
@@ -39,8 +39,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/council-licensing-proposals-have-12-different-fees-up-to-995/",
       "source": "Landlord Today",
       "published": "Thu, 30 Jul 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_424977874-1.jpg",
-      "ai_summary": "- New council licensing proposals introduce a convoluted fee structure with 12 different charges, peaking at \u00a3995.\n- The scheme could become the UK's most complex licensing regime to navigate for property owners."
+      "image": null,
+      "ai_summary": "- A new council proposal introduces a complex licensing system with 12 different fees, reaching up to \u00a3995.\n- The initiative has sparked concerns about it being one of the UK's most convoluted licensing frameworks."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/hmo-landlords-praised-for-energy-efficiency-investment/",
@@ -49,8 +49,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/hmo-landlords-praised-for-energy-efficiency-investment/",
       "source": "Landlord Today",
       "published": "Thu, 30 Jul 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1708966177.jpg",
-      "ai_summary": "- HMO landlords are receiving recognition for their significant investments in energy efficiency, showcasing a commitment to sustainability in the property market.  \n- The findings come from a study carried out by a specialist buy-to-let lender, highlighting the positive impact of these investments on the rental sector.  "
+      "image": null,
+      "ai_summary": "- HMO landlords are being recognized for their significant investments in energy efficiency improvements.  \n- A recent study by a specialist buy-to-let lender highlights the positive impact of these investments on the housing market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/fewer-buy-to-let-mortgage-applications-thanks-to-renters-rights-act/",
@@ -60,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Thu, 30 Jul 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_355901639.jpg",
-      "ai_summary": "- A decline in Buy To Let mortgage applications is attributed to the recent Renters Rights Act, as highlighted by Commercial Trust's analysis.\n- The findings are based on data from both Commercial Trust and HM Land Registry, reflecting shifting dynamics in the UK property market."
+      "ai_summary": "- Analysis reveals a decline in Buy To Let mortgage applications following the implementation of the Renters Rights Act.  \n- Commercial Trust and HM Land Registry data indicate significant impact on the rental property market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/labour-links-on-show-as-generation-rent-celebrates-new-boss/",
@@ -69,8 +69,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/labour-links-on-show-as-generation-rent-celebrates-new-boss/",
       "source": "Landlord Today",
       "published": "Thu, 30 Jul 2026 00:00:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_528642268.jpg",
-      "ai_summary": "- Generation Rent appoints Holly Williamson, former head of Labour MP John Healey's office, signaling strong political ties.  \n- The new leadership aims to strengthen the organization\u2019s advocacy for renters in the UK housing market."
+      "image": null,
+      "ai_summary": "- Generation Rent appoints Holly Williamson, former chief of Labour MP John Healey\u2019s office, signaling strong Labour ties.  \n- The move highlights Labour\u2019s commitment to addressing housing issues amid ongoing rental challenges in the UK."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/council-probe-and-court-case-ends-with-small-fine-for-landlord/",
@@ -79,8 +79,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/council-probe-and-court-case-ends-with-small-fine-for-landlord/",
       "source": "Landlord Today",
       "published": "Thu, 30 Jul 2026 00:00:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2078405314.jpg",
-      "ai_summary": "- A landlord in Long Eaton, Mahmood Rahemtulla, faced legal action from Erewash council for failing to provide tenancy documentation for his HMO, resulting in a minor penalty.  \n- The court case concluded with Rahemtulla being fined \u00a31,145, a relatively small amount for the alleged regulatory violations."
+      "image": null,
+      "ai_summary": "- Landlord Mahmood Rahemtulla faces a court case and ends up paying only \u00a31,145 in fines after failing to provide requested documentation for a five-bed House in Multiple Occupation (HMO).  \n- Erewash Council launched a prosecution against Rahemtulla due to his negligence regarding tenancy agreements and rent deposits."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/hmrc-pockets-over-100m-from-voluntary-landlord-deals/",
@@ -90,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Wed, 29 Jul 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_640959928.jpg",
-      "ai_summary": "- HMRC has collected over \u00a3100 million through voluntary agreements with landlords, as revealed by Price Bailey, chartered accountants.  \n- The figure highlights the growing trend of landlords proactively settling their tax obligations to avoid penalties."
+      "ai_summary": "- HMRC has secured over \u00a3100 million through voluntary compliance agreements with landlords, as revealed by Price Bailey's data.  \n- This significant revenue underscores the effectiveness of voluntary disclosure initiatives in the property sector."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rayner-is-not-telling-the-truth-claim-activists/",
@@ -99,8 +99,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/rayner-is-not-telling-the-truth-claim-activists/",
       "source": "Landlord Today",
       "published": "Wed, 29 Jul 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1372353404.jpg",
-      "ai_summary": "- Activists are accusing Rayner of dishonesty over her stance on rent controls, suggesting they are essential.\n- Rayner maintains that rent controls are not needed, sparking controversy among housing advocates."
+      "image": null,
+      "ai_summary": "- Activists accuse Rayner of dishonesty regarding the necessity of rent controls.  \n- Rayner suggests that implementing rent controls is unwarranted."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/spotlight-on-labour-candidate-urging-rent-controls/",
@@ -109,8 +109,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/spotlight-on-labour-candidate-urging-rent-controls/",
       "source": "Landlord Today",
       "published": "Wed, 29 Jul 2026 00:02:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_439657666.jpg",
-      "ai_summary": "- Bev Craig, the Labour candidate for Greater Manchester Mayor, is advocating for the implementation of rent controls to address housing affordability.  \n- Her campaign emphasizes the need to protect tenants amid rising rental costs and housing instability in the region."
+      "image": null,
+      "ai_summary": "- Bev Craig, the Labour candidate for Greater Manchester Mayor, advocates for implementing rent controls to address housing affordability issues.  \n- Craig's push for rent regulation highlights the growing concern over rising living costs and aims to provide relief for tenants in the region."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/pressure-on-burnham-to-increase-capital-gains-tax/",
@@ -119,8 +119,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/pressure-on-burnham-to-increase-capital-gains-tax/",
       "source": "Landlord Today",
       "published": "Tue, 28 Jul 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_630862376.jpg",
-      "ai_summary": "- Burnham faces mounting pressure to raise Capital Gains Tax, prompted by a respected figure he recently dubbed \"a legend.\"  \n- The push for tax reform highlights ongoing discussions about fiscal policy and its impact on the property market in the UK."
+      "image": null,
+      "ai_summary": "- Pressure mounts on Burnham as a prominent figure advocates for an increase in Capital Gains Tax.  \n- The endorsement comes from an influential individual whom Burnham has referred to as \"a legend.\""
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/repeat-offender-landlords-fined-over-200000-in-total/",
@@ -129,8 +129,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/repeat-offender-landlords-fined-over-200000-in-total/",
       "source": "Landlord Today",
       "published": "Tue, 28 Jul 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2078405314.jpg",
-      "ai_summary": "- Two landlords in Norfolk penalized over \u00a3216,000 for renting out unsafe homes, part of a crackdown by Breckland council officers.  \n- A repeat offender managing 11 properties faced a hefty \u00a364,800 fine for neglecting essential electrical safety checks."
+      "image": null,
+      "ai_summary": "- Two repeat-offending landlords in Norfolk were collectively fined over \u00a3216,000 for renting out unsafe homes, highlighting a crackdown by Breckland council.  \n- One landlord, managing 11 properties, faced a hefty \u00a364,800 penalty for neglecting essential electrical safety checks."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/upward-only-rent-review-ban-could-create-a-two-tier-market-claim/",
@@ -139,8 +139,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/upward-only-rent-review-ban-could-create-a-two-tier-market-claim/",
       "source": "Landlord Today",
       "published": "Tue, 28 Jul 2026 00:01:00 +0100",
-      "image": null,
-      "ai_summary": "- The recent Royal Assent of the English Devolution and Community Empowerment Act 2026 introduces a ban on upward-only rent reviews, signaling potential shifts in rental dynamics.  \n- Experts warn this legislative change could lead to a two-tier market, disadvantaging landlords while benefiting tenants in certain regions."
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1372353404.jpg",
+      "ai_summary": "- The English Devolution and Community Empowerment Act 2026, recently enacted, could lead to a two-tier property market due to the ban on upward-only rent reviews.\n- Experts warn that this legislative shift may create disparities between landlords and tenants, impacting rental negotiations and market dynamics."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlord-neglect-left-property-with-mould-and-no-hot-water/",
@@ -149,88 +149,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/07/landlord-neglect-left-property-with-mould-and-no-hot-water/",
       "source": "Landlord Today",
       "published": "Tue, 28 Jul 2026 00:00:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2235281841-1.jpg",
-      "ai_summary": "- A landlord has been found guilty of neglect after failing to address mould and lack of hot water in a rental property.  \n- The court ruled that the landlord did not comply with an improvement notice aimed at remedying unsafe living conditions."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/connells-moves-from-profit-to-loss-skiptons-results-reveal/?utm_source=rss&utm_medium=rss&utm_campaign=connells-moves-from-profit-to-loss-skiptons-results-reveal",
-      "title": "Connells moves from profit to loss, Skipton\u2019s results reveal",
-      "summary": "Figures from latest results from parent group Skipton Building Society show contracting housing market has hit estate agency giant hard.\nThe post Connells moves from profit to loss, Skipton\u2019s results reveal appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/connells-moves-from-profit-to-loss-skiptons-results-reveal/?utm_source=rss&utm_medium=rss&utm_campaign=connells-moves-from-profit-to-loss-skiptons-results-reveal",
-      "source": "The Negotiator",
-      "published": "Fri, 31 Jul 2026 09:04:15 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/stuart-haire-connells.jpg",
-      "ai_summary": "- Connells has transitioned from profitability to a financial loss as the housing market contracts, reflecting tough conditions for the estate agency.  \n- Skipton Building Society's latest results reveal the significant impact of the sluggish housing market on its subsidiary, Connells."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/legal-case-to-cost-rightmove-2-3-million-this-year/?utm_source=rss&utm_medium=rss&utm_campaign=legal-case-to-cost-rightmove-2-3-million-this-year",
-      "title": "Legal case to cost Rightmove \u00a32.3m this year",
-      "summary": "The bill for defending itself against a \u00a31.5billion 'class action' by a significant number of estate agencies is beginning to mount, its latest results reveal.\nThe post Legal case to cost Rightmove \u00a32.3m this year appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/legal-case-to-cost-rightmove-2-3-million-this-year/?utm_source=rss&utm_medium=rss&utm_campaign=legal-case-to-cost-rightmove-2-3-million-this-year",
-      "source": "The Negotiator",
-      "published": "Fri, 31 Jul 2026 07:27:00 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/rightmove-costs.jpg",
-      "ai_summary": "- Rightmove is facing escalating legal costs, projected to reach \u00a32.3 million this year, as it defends against a massive \u00a31.5 billion class action lawsuit from numerous estate agencies.  \n- The ongoing legal battle is significantly impacting Rightmove's financial performance, as revealed in its latest results."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/marketing-news/rightmove-reports-h1-revenue-up-7-with-major-ai-progress/?utm_source=rss&utm_medium=rss&utm_campaign=rightmove-reports-h1-revenue-up-7-with-major-ai-progress",
-      "title": "Rightmove reports H1 revenue up 7% claiming major AI progress",
-      "summary": "Johan Svanstrom, the portal's Chief Executive, says it has taken significant steps in its drive to harness AI technology.\nThe post Rightmove reports H1 revenue up 7% claiming major AI progress appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/marketing-news/rightmove-reports-h1-revenue-up-7-with-major-ai-progress/?utm_source=rss&utm_medium=rss&utm_campaign=rightmove-reports-h1-revenue-up-7-with-major-ai-progress",
-      "source": "The Negotiator",
-      "published": "Fri, 31 Jul 2026 07:07:39 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/02/Johan-Svanstrom-Rightmove.jpg",
-      "ai_summary": "- Rightmove's first-half revenue rises 7%, highlighting strong financial performance amid a challenging market.  \n- CEO Johan Svanstrom announces significant advancements in the company\u2019s AI technology initiatives."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/mortgage-fraudster-sentenced-for-cons-totalling-200000/?utm_source=rss&utm_medium=rss&utm_campaign=mortgage-fraudster-sentenced-for-cons-totalling-200000",
-      "title": "Mortgage fraudster sentenced for cons totalling \u00a3200K",
-      "summary": "Adam Francis spoke to estate agents as part of his elaborate efforts to convince victims to part with cash.\nThe post Mortgage fraudster sentenced for cons totalling \u00a3200K appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/mortgage-fraudster-sentenced-for-cons-totalling-200000/?utm_source=rss&utm_medium=rss&utm_campaign=mortgage-fraudster-sentenced-for-cons-totalling-200000",
-      "source": "The Negotiator",
-      "published": "Fri, 31 Jul 2026 04:55:55 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/adam-francis-chester-crown-court.jpg",
-      "ai_summary": "- Adam Francis duped victims out of \u00a3200K through a sophisticated mortgage fraud scheme involving estate agents.  \n- He has been sentenced for his elaborate cons that targeted unsuspecting individuals to exploit their finances."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/first-time-buyers-squeezed-by-higher-loan-and-deposit-costs/?utm_source=rss&utm_medium=rss&utm_campaign=first-time-buyers-squeezed-by-higher-loan-and-deposit-costs",
-      "title": "First-time buyers \u2018squeezed\u2019 by higher loan and deposit costs",
-      "summary": "Moneyfacts warns that first-time buyers could face a 'perfect storm' of increased mortgage rates and out-of-reach deposit demands.\nThe post First-time buyers \u2018squeezed\u2019 by higher loan and deposit costs appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/first-time-buyers-squeezed-by-higher-loan-and-deposit-costs/?utm_source=rss&utm_medium=rss&utm_campaign=first-time-buyers-squeezed-by-higher-loan-and-deposit-costs",
-      "source": "The Negotiator",
-      "published": "Fri, 31 Jul 2026 04:55:46 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/First-time-buyers-image.jpg",
-      "ai_summary": "- First-time buyers are struggling as rising mortgage rates and steep deposit requirements create a challenging market environment.\n- Moneyfacts warns that this combination could lead to a 'perfect storm' that further limits homeownership opportunities for new buyers."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/households-under-pressure-amid-bank-of-england-inflation-warning/?utm_source=rss&utm_medium=rss&utm_campaign=households-under-pressure-amid-bank-of-england-inflation-warning",
-      "title": "Households under pressure amid Bank of England inflation warning",
-      "summary": "The Middle East conflict continues to mean high energy prices that will cause inflation to rise again this year, warns the Bank of England.\nThe post Households under pressure amid Bank of England inflation warning appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/households-under-pressure-amid-bank-of-england-inflation-warning/?utm_source=rss&utm_medium=rss&utm_campaign=households-under-pressure-amid-bank-of-england-inflation-warning",
-      "source": "The Negotiator",
-      "published": "Fri, 31 Jul 2026 04:55:37 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Inflation-rate.jpg",
-      "ai_summary": "- The Bank of England warns that continuing conflicts in the Middle East are driving up energy prices, which will lead to increased inflation this year.  \n- UK households face mounting financial pressure as higher inflation impacts their cost of living."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/revealed-the-north-south-divide-for-buying-a-property/?utm_source=rss&utm_medium=rss&utm_campaign=revealed-the-north-south-divide-for-buying-a-property",
-      "title": "Places where it takes six months to complete are revealed",
-      "summary": "Home movers are facing the \"longest summer wait on record,\" says Rightmove's Johan Svanstrom.\nThe post Places where it takes six months to complete are revealed appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/revealed-the-north-south-divide-for-buying-a-property/?utm_source=rss&utm_medium=rss&utm_campaign=revealed-the-north-south-divide-for-buying-a-property",
-      "source": "The Negotiator",
-      "published": "Fri, 31 Jul 2026 04:55:32 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Johan-Svanstrom.png",
-      "ai_summary": "- Homebuyers are experiencing record wait times, with six-month completion periods reported in certain areas, according to Rightmove's Johan Svanstrom.\n- The current housing market is seeing the longest summer delays for home movers, intensifying the stress of property transactions."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/bank-of-england-interest-rates-decision-industry-reacts/?utm_source=rss&utm_medium=rss&utm_campaign=bank-of-england-interest-rates-decision-industry-reacts",
-      "title": "Industry reacts to Bank of England interest rates decision",
-      "summary": "Interest rates have been held at 3.75%.\nThe post Industry reacts to Bank of England interest rates decision appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/bank-of-england-interest-rates-decision-industry-reacts/?utm_source=rss&utm_medium=rss&utm_campaign=bank-of-england-interest-rates-decision-industry-reacts",
-      "source": "The Negotiator",
-      "published": "Thu, 30 Jul 2026 11:04:59 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/09/Andrew-Bailey-Bank-of-England.jpg",
-      "ai_summary": "- The Bank of England has maintained interest rates at 3.75%, prompting varied reactions from the property industry.  \n- Industry experts are closely analyzing the implications of the rate decision on the housing market and borrowing costs."
+      "image": null,
+      "ai_summary": "- A landlord has been found guilty of neglecting a property, resulting in severe issues like mould and lack of hot water.  \n- The court highlighted the landlord's failure to adhere to an improvement notice as a key factor in the case.  "
     }
   ]
 }
