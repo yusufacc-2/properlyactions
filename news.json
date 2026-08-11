@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-08-11T04:09:34.369738",
-  "article_count": 25,
+  "last_updated": "2026-08-11T06:41:22.331132",
+  "article_count": 17,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/tenants-need-75k-income-to-rent-in-london-claim/",
+      "title": "Tenants need \u00a375k income to rent in London \u2013 claim",
+      "summary": "This is according to Propertymark, the letting agents\u2019 trade body",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/tenants-need-75k-income-to-rent-in-london-claim/",
+      "source": "Landlord Today",
+      "published": "Tue, 11 Aug 2026 00:10:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1911696088.jpg",
+      "ai_summary": "- Tenants in London now require an annual income of \u00a375,000 to secure rental accommodations, as reported by Propertymark.\n- The rising income threshold highlights the growing affordability crisis in the capital's rental market."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/shelter-slams-tory-rental-ideas-as-unworkable/",
+      "title": "Shelter slams Tory rental idea as \u201cunworkable\u201d",
+      "summary": "The charity's deputy director has criticised the idea",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/shelter-slams-tory-rental-ideas-as-unworkable/",
+      "source": "Landlord Today",
+      "published": "Tue, 11 Aug 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2295879361.jpg",
+      "ai_summary": "- Shelter's deputy director labels the Tory rental proposal as \"unworkable,\" highlighting significant concerns about its feasibility.\n- The charity's critique underscores growing frustrations with government housing policies and their impact on renters."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlord-taxes-fail-to-invigorate-local-markets-claim/",
+      "title": "Landlord taxes fail to invigorate local markets \u2013 claim",
+      "summary": "Council tax premiums on second homes have failed to deliver stronger rental markets",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlord-taxes-fail-to-invigorate-local-markets-claim/",
+      "source": "Landlord Today",
+      "published": "Tue, 11 Aug 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2178241605.jpg",
+      "ai_summary": "- Council tax premiums on second homes haven't boosted local rental markets as intended.  \n- Landlords argue that increased taxes aren't driving the expected market invigorations.  "
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlords-who-sell-can-estimate-their-propertys-value/",
+      "title": "Landlords who sell can estimate their property\u2019s value",
+      "summary": "Landlords can justify their valuation with comments to the agent, too",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlords-who-sell-can-estimate-their-propertys-value/",
+      "source": "Landlord Today",
+      "published": "Tue, 11 Aug 2026 00:03:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1502582423.jpg",
+      "ai_summary": "- Landlords can now estimate their property's value when selling, offering greater control over the selling process.\n- Improved communication with agents allows landlords to support their valuation with personal insights."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/property-investment-shows-combine-as-costs-squeeze-organisers/",
+      "title": "Major property shows combine as costs squeeze organisers",
+      "summary": "Exhibitors are demanding wider audiences",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/property-investment-shows-combine-as-costs-squeeze-organisers/",
+      "source": "Landlord Today",
+      "published": "Tue, 11 Aug 2026 00:01:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1058263202.jpg",
+      "ai_summary": "- Major property shows are merging due to rising costs for organizers, seeking efficiency and sustainability in the face of economic pressures.\n- Exhibitors are pushing for broader audience reach, highlighting the need for larger platforms to showcase their offerings effectively."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlords-lose-billions-as-tenant-fraudsters-run-rampant/",
       "title": "Landlords lose billions as tenant fraudsters run rampant",
@@ -10,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Mon, 10 Aug 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1488438023.jpg",
-      "ai_summary": "- UK landlords face staggering financial losses as Goodlord reports tenant fraud is costing them billions.  \n- Increasing incidents of rogue tenants highlight the urgent need for stronger vetting procedures in the rental market."
+      "ai_summary": "- Landlords face losses in the billions as a surge in tenant fraud continues to impact the rental market.  \n- Research by Goodlord highlights the financial strain on property owners due to increasing incidents of rogue tenant activities."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlord-ignores-council-waste-advice-and-pays-a-heavy-price/",
@@ -20,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Mon, 10 Aug 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_622874000-1.jpg",
-      "ai_summary": "- A landlord faced significant penalties after disregarding council waste management advice, responding to escalating complaints from nearby residents.\n- Neighbourhood grievances prompted enforcement action, highlighting the importance of compliance with local waste regulations for landlords."
+      "ai_summary": "- A landlord faced significant penalties for neglecting council waste management advice, leading to community complaints.  \n- The case underscores the importance of adhering to local regulations to avoid costly repercussions."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/housing-market-stuck-in-summer-doldrums/",
@@ -30,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Mon, 10 Aug 2026 00:00:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1441430522.jpg",
-      "ai_summary": "- UK housing market experiences the slowest annual price growth in over two and a half years, highlighting stagnation.  \n- Summer season sees a significant slowdown in property sales, reflecting overall market doldrums."
+      "ai_summary": "- The UK housing market is experiencing its slowest annual price growth in over 30 months.  \n- Current conditions are characterized by a stagnant market, reflecting a persistent summer lull."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/mayor-spends-hundreds-of-thousands-to-fight-unfair-rent-increases/",
@@ -40,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Fri, 07 Aug 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2231794913.jpg",
-      "ai_summary": "- Labour Mayor of London, Sir Sadiq Khan, is launching a major spending initiative to combat what he calls \"unfair rent increases.\"\n- The funding aims to address housing affordability issues in the capital, using public resources to support struggling tenants."
+      "ai_summary": "- Labour Mayor Sadiq Khan announces a spending plan to combat \"unfair rent increases\" in London, utilizing public funds.  \n- The initiative aims to provide financial relief to tenants facing escalating housing costs amid the capital's rental crisis."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/insurance-costs-for-property-types-revealed-in-new-survey/",
@@ -50,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Fri, 07 Aug 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_236845816.jpg",
-      "ai_summary": "- A recent Uswitch survey reveals significant variations in insurance costs across different property types in the UK.\n- Homeowners may face increasing premiums depending on their property type, highlighting the need for tailored insurance solutions."
+      "ai_summary": "- A new Uswitch survey reveals varying insurance costs across different property types in the UK.  \n- Insights from the analysis highlight the financial impact of property characteristics on insurance premiums."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/private-rental-demand-set-to-rise-because-of-right-to-buy-surge/",
@@ -60,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Fri, 07 Aug 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1928467268.jpg",
-      "ai_summary": "- **Rising Demand:** A surge in Right To Buy sales is expected to increase private rental demand as council houses are sold off.  \n- **Market Shift:** The trend indicates a significant shift in the housing market dynamics, impacting availability and rental prices."
+      "ai_summary": "- Surge in Right To Buy sales is expected to drive an increase in demand for private rental properties across the UK.\n- Recent statistics reveal a significant uptick in council house sell-offs, impacting the rental market landscape."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/investing-in-overseas-property-rightmoves-guide-to-wheres-hot/",
@@ -69,8 +119,8 @@
       "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/investing-in-overseas-property-rightmoves-guide-to-wheres-hot/",
       "source": "Landlord Today",
       "published": "Fri, 07 Aug 2026 00:00:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_671599105.jpg",
-      "ai_summary": "- Rightmove reveals a mix of popular and unexpected overseas property hotspots for investors.  \n- The guide highlights both classic destinations and emerging markets that are gaining traction."
+      "image": null,
+      "ai_summary": "- Rightmove reveals a mix of trending overseas property locations, balancing unexpected hotspots with established favorites.  \n- Investors are encouraged to explore diverse opportunities in the international real estate market, highlighting potential for lucrative returns."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/rent-control-failures-revealed-in-new-analysis/",
@@ -80,7 +130,7 @@
       "source": "Landlord Today",
       "published": "Thu, 06 Aug 2026 00:06:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2540723483.jpg",
-      "ai_summary": "- A recent analysis exposes significant shortcomings in the implementation of rent control measures across the UK, raising concerns about their effectiveness in maintaining affordable housing.  \n- The findings spark a renewed debate on the need for comprehensive housing reforms, as current policies fail to address escalating rental prices and tenant needs.  "
+      "ai_summary": "- New analysis uncovers significant shortcomings in rent control policies across the UK, highlighting their ineffectiveness in stabilizing housing costs.  \n- The findings fuel ongoing debates about the necessity and design of rent control measures in addressing affordability and housing supply issues."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/green-council-wants-tenants-to-lead-private-rental-forum/",
@@ -90,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Thu, 06 Aug 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1863838480.jpg",
-      "ai_summary": "- A green council is inviting tenants to take an active role in shaping a new private rental forum.  \n- The initiative aims to empower renters by involving them in the planning and leadership of discussions.  "
+      "ai_summary": "- A green council is urging tenants to take an active role in shaping a new private rental forum.  \n- The initiative emphasizes tenant participation in planning and leading discussions on rental issues.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlords-increasingly-re-mortgaging-new-figures/",
@@ -100,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Thu, 06 Aug 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2325203059.jpg",
-      "ai_summary": "- Landlords are capitalizing on favorable conditions, with remortgaging hitting record levels once again.\n- Increased remortgaging activity suggests confidence among landlords in the current property market."
+      "ai_summary": "- Landlords are hitting record levels of remortgaging activity as they adapt to changing market conditions.  \n- Recent figures reveal a significant uptick in mortgage renewals among property investors, highlighting their proactive financial strategies."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/overseas-investors-behind-one-in-five-new-buy-to-let-businesses/",
@@ -110,7 +160,7 @@
       "source": "Landlord Today",
       "published": "Thu, 06 Aug 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2461203173.jpg",
-      "ai_summary": "- Overseas investors now account for 20% of new buy-to-let businesses in the UK, according to Hamptons.\n- This trend highlights a growing international interest in the UK rental market."
+      "ai_summary": "- Overseas investors are fueling the UK rental market, establishing one in five new buy-to-let businesses.  \n- Hamptons reports that this trend highlights the growing allure of UK property for foreign capital."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/free-maintenance-reporting-tech-for-small-scale-landlords/",
@@ -120,137 +170,7 @@
       "source": "Landlord Today",
       "published": "Thu, 06 Aug 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_445307692.jpg",
-      "ai_summary": "- Small-scale landlords with four or fewer buy-to-let properties can access free maintenance reporting technology.  \n- This initiative aims to simplify property management for independent landlords and enhance tenant satisfaction."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/compulsory-database-must-be-tough-on-rogue-landlords-says-lettings-boss/",
-      "title": "Compulsory database \u2018must be tough on rogue landlords\u2019 says lettings boss",
-      "summary": "The Lettings Industry Council chief speaks out",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/compulsory-database-must-be-tough-on-rogue-landlords-says-lettings-boss/",
-      "source": "Landlord Today",
-      "published": "Wed, 05 Aug 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2434117281.jpg",
-      "ai_summary": "- The Lettings Industry Council chief advocates for a strict compulsory database to combat rogue landlords in the UK property market.  \n- Emphasizing accountability, the call seeks to enhance transparency and protect tenants from poor rental practices."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/right-to-have-pets-has-had-little-impact-so-far-claim/",
-      "title": "Right to have pets has had little impact so far \u2013 claim",
-      "summary": "Very few landlords appear to have had a request to keep a pet",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/right-to-have-pets-has-had-little-impact-so-far-claim/",
-      "source": "Landlord Today",
-      "published": "Wed, 05 Aug 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2295764213.jpg",
-      "ai_summary": "- Landlords report minimal requests from tenants for pet accommodations under the new regulations.  \n- Despite recent policy changes, the right to have pets in rental properties is showing little effect on tenant behavior."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/build-to-rent-in-crisis-as-starts-plummet-by-79/",
-      "title": "Build To Rent in crisis as starts plummet by 79%",
-      "summary": "New figures from Savills set alarm bells ringing",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/build-to-rent-in-crisis-as-starts-plummet-by-79/",
-      "source": "Landlord Today",
-      "published": "Wed, 05 Aug 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_673842874.jpg",
-      "ai_summary": "- Build To Rent sector faces a dramatic crisis with new development starts plummeting by 79%, raising concerns about future housing availability.  \n- Savills' alarming figures highlight significant challenges in the UK property market, emphasizing the need for urgent solutions."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/tenants-complain-that-landlords-make-it-hard-to-charge-electric-cars/",
-      "title": "Tenants complain that landlords make it hard to charge electric cars",
-      "summary": "Even so, most renters say EV charging is easy",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/tenants-complain-that-landlords-make-it-hard-to-charge-electric-cars/",
-      "source": "Landlord Today",
-      "published": "Wed, 05 Aug 2026 00:02:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2473197775.jpg",
-      "ai_summary": "- Tenants report difficulties accessing electric vehicle (EV) charging infrastructure set up by landlords.\n- Despite the challenges, the majority of renters find EV charging to be generally straightforward."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlord-ignores-improvement-notice-and-ends-up-in-court/",
-      "title": "Landlord ignores Improvement Notice and ends up in court",
-      "summary": "The total he must pay os over \u00a36,400",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlord-ignores-improvement-notice-and-ends-up-in-court/",
-      "source": "Landlord Today",
-      "published": "Wed, 05 Aug 2026 00:01:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2377734171.jpg",
-      "ai_summary": "- A landlord faced legal action after disregarding an Improvement Notice, resulting in significant court penalties.  \n- The final cost for the landlord has reached over \u00a36,400 due to the legal proceedings."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/hope-for-first-time-buyers-despite-mortgage-rate-hikes/?utm_source=rss&utm_medium=rss&utm_campaign=hope-for-first-time-buyers-despite-mortgage-rate-hikes",
-      "title": "Hope for first-time buyers despite mortgage rate hikes",
-      "summary": "\"For first-time buyers, there is a silver-lining, with house prices more or less standing still,\" says Moneyfactscompare.co.uk's Adam French.\nThe post Hope for first-time buyers despite mortgage rate hikes appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/hope-for-first-time-buyers-despite-mortgage-rate-hikes/?utm_source=rss&utm_medium=rss&utm_campaign=hope-for-first-time-buyers-despite-mortgage-rate-hikes",
-      "source": "The Negotiator",
-      "published": "Mon, 10 Aug 2026 04:55:48 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/Adam-French-Moneycompare.jpg",
-      "ai_summary": "- House prices are stabilizing, offering a glimmer of hope for first-time buyers amid rising mortgage rates, according to Moneyfactscompare.co.uk's Adam French.  \n- The current market conditions may provide opportunities for new buyers despite the challenges of higher borrowing costs."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/property-prices-static-with-growth-slowest-in-almost-three-years/?utm_source=rss&utm_medium=rss&utm_campaign=property-prices-static-with-growth-slowest-in-almost-three-years",
-      "title": "House prices flat amid slowest growth in almost three years",
-      "summary": "The latest Lloyds house price data reveals a 0.1% annual rise last month, the slowest since November 2023.\nThe post House prices flat amid slowest growth in almost three years appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/property-prices-static-with-growth-slowest-in-almost-three-years/?utm_source=rss&utm_medium=rss&utm_campaign=property-prices-static-with-growth-slowest-in-almost-three-years",
-      "source": "The Negotiator",
-      "published": "Mon, 10 Aug 2026 04:55:11 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/house-prices-land-registry.png",
-      "ai_summary": "- House prices see a minimal 0.1% annual increase, marking the slowest growth since November 2023.\n- Lloyds' latest data highlights stagnant property market conditions over the past three years."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/products-services-news/selly-oak-student-specialist-swaps-spreadsheets-for-alto/?utm_source=rss&utm_medium=rss&utm_campaign=selly-oak-student-specialist-swaps-spreadsheets-for-alto",
-      "title": "Selly Oak student specialist swaps spreadsheets for Alto",
-      "summary": "House Hunt, a Birmingham-based student lettings specialist, has picked Alto as its CRM after years of running the business on spreadsheets. \nThe post Selly Oak student specialist swaps spreadsheets for Alto appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/products-services-news/selly-oak-student-specialist-swaps-spreadsheets-for-alto/?utm_source=rss&utm_medium=rss&utm_campaign=selly-oak-student-specialist-swaps-spreadsheets-for-alto",
-      "source": "The Negotiator",
-      "published": "Mon, 10 Aug 2026 04:55:05 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/Kiran-Bhogal-Branch-Manager-House-Hunt.jpg",
-      "ai_summary": "- Birmingham's House Hunt transitions from spreadsheets to Alto CRM to enhance efficiency in student lettings management.\n- This shift marks a significant upgrade for the Selly Oak specialist, aligning operations with modern technology."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/rental-scammers-costing-landlords-9600-per-tenancy-warns-referencing-giant/?utm_source=rss&utm_medium=rss&utm_campaign=rental-scammers-costing-landlords-9600-per-tenancy-warns-referencing-giant",
-      "title": "Rental scammers cost landlords \u00a39.6k per tenancy, warns referencing giant",
-      "summary": "Goodlord says the cost to the rental sector is more than \u00a34billion every year as AI helps scammers hoodwink landlords and letting agents.\nThe post Rental scammers cost landlords \u00a39.6k per tenancy, warns referencing giant appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/rental-scammers-costing-landlords-9600-per-tenancy-warns-referencing-giant/?utm_source=rss&utm_medium=rss&utm_campaign=rental-scammers-costing-landlords-9600-per-tenancy-warns-referencing-giant",
-      "source": "The Negotiator",
-      "published": "Mon, 10 Aug 2026 04:45:29 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/nishma-goodlord-referencing-fake.jpg",
-      "ai_summary": "- **Scammers Strike:** Rental fraud now costs UK landlords an average of \u00a39.6k per tenancy, fueling an annual loss of over \u00a34 billion in the rental sector.  \n- **AI-Driven Deceit:** The rise of AI technology is empowering scammers, making it easier to deceive landlords and letting agents."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/reform-run-city-launches-huge-crackdown-on-hmo-sector/?utm_source=rss&utm_medium=rss&utm_campaign=reform-run-city-launches-huge-crackdown-on-hmo-sector",
-      "title": "Reform-run city launches huge crackdown on HMO sector",
-      "summary": "Local Reform councillor in Stoke echoes party's national leadership, saying there are too many HMOs in the city.\nThe post Reform-run city launches huge crackdown on HMO sector appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/reform-run-city-launches-huge-crackdown-on-hmo-sector/?utm_source=rss&utm_medium=rss&utm_campaign=reform-run-city-launches-huge-crackdown-on-hmo-sector",
-      "source": "The Negotiator",
-      "published": "Mon, 10 Aug 2026 04:45:01 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/duncan-hmo-stoke.jpg",
-      "ai_summary": "- Stoke's Reform councillor calls for a major crackdown on the city's surging number of Houses in Multiple Occupation (HMOs), aligning with national party views.  \n- The initiative aims to address concerns over overcrowding and housing standards in the local community."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/rental-market/tenants-need-75k-salary-to-rent-in-london/?utm_source=rss&utm_medium=rss&utm_campaign=tenants-need-75k-salary-to-rent-in-london",
-      "title": "Tenants need \u00a375k salary to rent in London",
-      "summary": "London saw the strongest monthly rental price rises, driving higher representative salary requirements for tenants, reveals Propertymark's Kim Lidbury.\nThe post Tenants need \u00a375k salary to rent in London appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/rental-market/tenants-need-75k-salary-to-rent-in-london/?utm_source=rss&utm_medium=rss&utm_campaign=tenants-need-75k-salary-to-rent-in-london",
-      "source": "The Negotiator",
-      "published": "Mon, 10 Aug 2026 04:00:12 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/Kim-Lidbury-Propertymark.jpg",
-      "ai_summary": "- Tenants in London now need an annual salary of \u00a375,000 to afford rising rental prices, according to Propertymark's Kim Lidbury.  \n- London experiences the highest monthly rental price increases, intensifying the financial strain on renters."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/winkworth-in-turmoil-as-family-at-top-wrestles-for-power/?utm_source=rss&utm_medium=rss&utm_campaign=winkworth-in-turmoil-as-family-at-top-wrestles-for-power",
-      "title": "Winkworth in turmoil as family at top wrestles for power",
-      "summary": "Father and son, Simon and Dominic Agace, are battling for control of the agency with new High Court action initiated.\nThe post Winkworth in turmoil as family at top wrestles for power appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/winkworth-in-turmoil-as-family-at-top-wrestles-for-power/?utm_source=rss&utm_medium=rss&utm_campaign=winkworth-in-turmoil-as-family-at-top-wrestles-for-power",
-      "source": "The Negotiator",
-      "published": "Fri, 07 Aug 2026 12:05:27 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/WInkworth-plc-Simon-Agace-Dominic-Agace.jpg",
-      "ai_summary": "- Family power struggle emerges at Winkworth as father and son, Simon and Dominic Agace, vie for control amid new High Court proceedings.\n- The turmoil raises questions about the agency's future as internal conflicts escalate within its leadership."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/national-landlord-register-risks-increasing-workload-and-fees/?utm_source=rss&utm_medium=rss&utm_campaign=national-landlord-register-risks-increasing-workload-and-fees",
-      "title": "National landlord register risks increasing workload and fees",
-      "summary": "A new national landlord database must \"not simply duplicate information\" already submitted through licensing schemes, warns Propertymark.\nThe post National landlord register risks increasing workload and fees appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/national-landlord-register-risks-increasing-workload-and-fees/?utm_source=rss&utm_medium=rss&utm_campaign=national-landlord-register-risks-increasing-workload-and-fees",
-      "source": "The Negotiator",
-      "published": "Fri, 07 Aug 2026 04:55:51 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/Landlord-register.jpg",
-      "ai_summary": "- Propertymark cautions that the proposed national landlord database could lead to unnecessary duplication, burdening landlords with added workload and costs.  \n- The organization emphasizes the need for the register to integrate with existing licensing schemes to avoid redundancy."
+      "ai_summary": "- Small-scale landlords in the UK, owning four or fewer buy-to-let properties, can now access free maintenance reporting technology.  \n- This initiative aims to simplify property management for smaller landlords and streamline maintenance requests."
     }
   ]
 }
