@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-08-19T03:34:59.629192",
-  "article_count": 24,
+  "last_updated": "2026-08-19T06:19:48.288852",
+  "article_count": 16,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/council-admits-huge-new-licensing-fee-may-trigger-rent-rises/",
+      "title": "Council admits huge new licensing fee may trigger rent rises",
+      "summary": "Some may choose to pass on part or all of the costs via rent, admits the council",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/council-admits-huge-new-licensing-fee-may-trigger-rent-rises/",
+      "source": "Landlord Today",
+      "published": "Wed, 19 Aug 2026 00:05:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_506982190-1.jpg",
+      "ai_summary": "- Council acknowledges that a substantial new licensing fee could lead to increased rents for tenants.  \n- Property owners may opt to transfer some or all of the cost burden to renters, according to council officials."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlords-selling-short-lease-flats-face-tens-of-thousands-in-losses/",
+      "title": "Landlords selling short-lease flats face huge losses",
+      "summary": "If you're selling do you extend at a cost or sell at a loss?",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlords-selling-short-lease-flats-face-tens-of-thousands-in-losses/",
+      "source": "Landlord Today",
+      "published": "Wed, 19 Aug 2026 00:04:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2150126883.jpg",
+      "ai_summary": "- Landlords of short-lease flats are grappling with significant financial losses, forced to choose between costly lease extensions or selling their properties at a reduced price.\n- The dilemma highlights the challenging market conditions for landlords, as extending leases may not be a viable solution amid declining property values."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/zoopla-data-in-new-housing-report-targets-london-property-investors/",
+      "title": "Zoopla data in new housing report targets London property investors",
+      "summary": "The report comes from the firm behind the National Landlord Investment Shoe",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/zoopla-data-in-new-housing-report-targets-london-property-investors/",
+      "source": "Landlord Today",
+      "published": "Wed, 19 Aug 2026 00:02:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1911696088.jpg",
+      "ai_summary": "- A new report from Zoopla aims to inform London property investors, leveraging insights from the National Landlord Investment Show.\n- The data highlights key trends and opportunities in the capital's housing market, positioning it as a critical resource for potential and existing investors."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/royal-rental-properties-fail-energy-efficiency-rules/",
+      "title": "Royal rental properties fail energy efficiency rules",
+      "summary": "Over 100 homes on the royal estates fail current EPC standards.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/royal-rental-properties-fail-energy-efficiency-rules/",
+      "source": "Landlord Today",
+      "published": "Wed, 19 Aug 2026 00:01:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1907842648.jpg",
+      "ai_summary": "- Over 100 royal estate properties fall short of energy efficiency regulations.  \n- Non-compliance with EPC standards raises concerns about sustainability in royal housing."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlord-exhibition-to-host-live-auction-for-investors/",
+      "title": "Landlord exhibition to host live auction for investors",
+      "summary": "The event takes place on October 28 - Budget Day",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlord-exhibition-to-host-live-auction-for-investors/",
+      "source": "Landlord Today",
+      "published": "Wed, 19 Aug 2026 00:00:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2386601493.jpg",
+      "ai_summary": "- A landlord exhibition set for October 28 will feature a live auction, providing an exclusive investment opportunity for property investors.  \n- Coinciding with Budget Day, the event promises to attract attention from those looking to capitalize on new financial developments in the property market."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/council-launches-intelligence-led-crackdown-on-landlords/",
       "title": "Council launches \u2018intelligence led\u2019 crackdown on landlords",
@@ -10,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Tue, 18 Aug 2026 00:20:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2333255399.jpg",
-      "ai_summary": "- The council initiates a targeted crackdown on landlords, emphasizing an \"intelligence led\" approach to enforcement.  \n- Lack of clarity surrounds its pledge to support \"good\" landlords amid the enforcement efforts."
+      "ai_summary": "- A UK council has initiated a targeted crackdown on landlords, emphasizing an \"intelligence led\" approach.  \n- The council's assurances of support for responsible landlords remain unclear and unelaborated."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/tax-threat-to-landlords-burnham-warned-against-change/",
@@ -20,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Tue, 18 Aug 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2178241605.jpg",
-      "ai_summary": "- Leading analyst cautions against potential tax changes that could negatively impact UK landlords.  \n- Calls for Mayor Burnham to reconsider any alterations that may threaten the stability of the rental market."
+      "ai_summary": "- Industry analysts caution Burnham against implementing tax changes that could negatively impact landlords.\n- Potential tax reforms could exacerbate the challenges already faced by the rental market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/what-landlords-should-do-if-they-missed-making-tax-digital-deadline/",
@@ -30,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Tue, 18 Aug 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1098330302.jpg",
-      "ai_summary": "- Missed the Making Tax Digital deadline? Prepare for the next quarterly update on November 7 to stay compliant.\n- Take action now to ensure you're ready for the upcoming submission and avoid penalties."
+      "ai_summary": "- If you missed the Making Tax Digital deadline, prepare for the upcoming quarterly update on November 7 to avoid penalties.  \n- Take proactive steps to ensure compliance and stay on track for future submissions."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/rents-still-rising-but-at-rate-below-general-inflation/",
@@ -40,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Tue, 18 Aug 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_180368474.jpg",
-      "ai_summary": "- Rents in the UK continue to rise, but the increase is now lagging behind overall inflation rates.\n- According to new data from letting agency Hamptons, the rental growth is showing signs of moderation."
+      "ai_summary": "- Rents in the UK continue to increase, but the growth rate is lagging behind overall inflation levels.  \n- Latest data from Hamptons highlights a divergence between rental prices and the rising cost of living."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlords-demand-big-reductions-from-anxious-sellers-as-market-weakens/",
@@ -50,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Mon, 17 Aug 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_108503696.jpg",
-      "ai_summary": "- Landlords are seeking significant price cuts as the property market softens, capitalizing on anxious sellers eager to sell.  \n- With an abundance of bargains available, buy-to-let investors are positioning themselves to take advantage of the current market conditions.  "
+      "ai_summary": "- Buy-to-let investors are pushing for significant price cuts from nervous sellers in a weakening property market.  \n- An abundance of distressed properties presents lucrative bargain opportunities for landlords."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/worst-yields-for-landlords-locations-with-relatively-poor-returns/",
@@ -60,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Mon, 17 Aug 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_509332225.jpg",
-      "ai_summary": "- Cambridge ranks as the worst location for buy-to-let landlords in the UK, with an average gross yield of just 4.7%, despite lower rental costs compared to London.  \n- London, despite high rents, offers slightly better prospects for landlords with an average gross yield of 5.1%."
+      "ai_summary": "- A Zoopla analysis reveals Cambridge offers the lowest average gross yield for landlords at 4.7%, significantly lower than London's 5.1%, despite cheaper rents.  \n- Across major cities, landlords in these low-yield areas face challenges, making investment less attractive despite high demand."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlord-app-wins-prestigious-international-award/",
@@ -70,7 +120,7 @@
       "source": "Landlord Today",
       "published": "Mon, 17 Aug 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_576245266.jpg",
-      "ai_summary": "- A new app designed for landlords managing one or two properties alongside their full-time jobs has garnered a prestigious international award.  \n- The recognition highlights the app's significance in streamlining property management for busy landlords."
+      "ai_summary": "- A groundbreaking app designed for landlords with one or two properties has secured a prestigious international award, highlighting its innovative approach.  \n- Tailored for busy landlords balancing work and property management, the app streamlines their rental experience and enhances efficiency."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/hundreds-of-buy-to-let-properties-repossessed-by-lenders/",
@@ -80,7 +130,7 @@
       "source": "Landlord Today",
       "published": "Fri, 14 Aug 2026 00:20:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2131821733.jpg",
-      "ai_summary": "- Hundreds of buy-to-let properties have been repossessed by lenders, highlighting growing concerns in the rental market.  \n- The data, sourced from UK Finance, underscores the rising financial pressures faced by landlords amid economic uncertainty."
+      "ai_summary": "- Hundreds of buy-to-let properties have been repossessed by lenders, highlighting ongoing challenges in the rental market.  \n- The alarming statistics are reported by UK Finance, the lenders' trade body, underscoring the impact of economic conditions on landlords."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/council-may-add-50-to-fines-if-landlords-fail-to-answer-a-letter/",
@@ -90,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Fri, 14 Aug 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1896522829-1.jpg",
-      "ai_summary": "- Local councils may increase fines by 50% for landlords who neglect to respond to official letters, reinforcing new regulations.\n- The changes stem from the recently enacted Renters Rights Act, which grants councils enhanced authority over rental properties."
+      "ai_summary": "- Landlords could face fines increased by 50% if they do not respond to correspondence from local councils under new regulations.  \n- The changes stem from the recently implemented Renters Rights Act, granting councils enhanced authority to enforce landlord accountability."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/unfreezing-local-housing-allowance-would-not-increase-rent/",
@@ -100,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Fri, 14 Aug 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2094142588.jpg",
-      "ai_summary": "- Discussions are ongoing about whether to increase or freeze the Local Housing Allowance (LHA) in October's Budget.\n- Experts argue that unfreezing the LHA would not lead to an increase in rent prices."
+      "ai_summary": "- Experts suggest that unfreezing the Local Housing Allowance (LHA) won't lead to increased rent prices.  \n- The decision on whether to increase or freeze LHA will be announced in October's Budget."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/btl-lender-woos-landlords-with-reduced-rates/",
@@ -110,137 +160,7 @@
       "source": "Landlord Today",
       "published": "Fri, 14 Aug 2026 00:00:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1666987021.jpg",
-      "ai_summary": "- Molo is enticing landlords with competitive reduced mortgage rates.  \n- The lender focuses on serving both UK and international property investors."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/rent-control-activists-accuse-angela-rayner-of-taking-lobby-fee/",
-      "title": "Activists accuse Angela Rayner of taking \u2018lobby fee\u2019",
-      "summary": "Rayner received \u00a320,000 from Propertymark for a two hour appearance",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/rent-control-activists-accuse-angela-rayner-of-taking-lobby-fee/",
-      "source": "Landlord Today",
-      "published": "Thu, 13 Aug 2026 00:05:00 +0100",
-      "image": null,
-      "ai_summary": "- Activists allege Angela Rayner accepted a controversial \u00a320,000 \"lobby fee\" from Propertymark for a brief two-hour engagement.  \n- The incident raises concerns over political ethics and transparency in financial dealings with property organizations."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/hmrc-to-sign-up-landlords-not-yet-on-making-tax-digital/",
-      "title": "HMRC to sign up landlords not yet on Making Tax Digital",
-      "summary": "This applies to landlords earning more than \u00a350,000",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/hmrc-to-sign-up-landlords-not-yet-on-making-tax-digital/",
-      "source": "Landlord Today",
-      "published": "Thu, 13 Aug 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2281656523.jpg",
-      "ai_summary": "- HMRC is set to register landlords earning over \u00a350,000 for Making Tax Digital compliance.  \n- The move aims to streamline tax reporting and ensure all qualifying landlords are aligned with digital tax requirements."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlord-exodus-set-to-continue-warns-leading-property-institution/",
-      "title": "Landlord exodus set to continue warns leading property institution",
-      "summary": "The Royal Institution of Chartered Surveyors speaks out",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/landlord-exodus-set-to-continue-warns-leading-property-institution/",
-      "source": "Landlord Today",
-      "published": "Thu, 13 Aug 2026 00:03:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_112039931.jpg",
-      "ai_summary": "- The Royal Institution of Chartered Surveyors predicts a continued exodus of landlords from the UK property market.  \n- Concerns are raised over the long-term impact on rental availability and housing stability."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/possession-figures-show-that-landlords-dont-hold-all-the-cards/",
-      "title": "Possession figures show that landlords don\u2019t hold all the cards",
-      "summary": "Latest figures reveal exactly how many possession notices have been served",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/possession-figures-show-that-landlords-dont-hold-all-the-cards/",
-      "source": "Landlord Today",
-      "published": "Thu, 13 Aug 2026 00:02:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2295879361.jpg",
-      "ai_summary": "- Recent data highlights that landlords are not solely in control, as current possession notice figures reveal a complex landscape in the rental market.  \n- The statistics shed light on the frequency and impact of possession notices, emphasizing the need for balance in landlord-tenant relationships.  "
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/08/investors-hit-by-losses-from-void-commercial-units/",
-      "title": "Investors hit by losses from void commercial units",
-      "summary": "This is from a survey of 350 UK commercial property owners.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/08/investors-hit-by-losses-from-void-commercial-units/",
-      "source": "Landlord Today",
-      "published": "Thu, 13 Aug 2026 00:00:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2464860309.jpg",
-      "ai_summary": "- A recent survey of 350 UK commercial property owners reveals significant losses due to unoccupied units, impacting investor returns.  \n- Rising void rates are raising concerns about the long-term viability of commercial investments in the UK property market."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/new-homes-near-stations-to-be-fast-tracked/?utm_source=rss&utm_medium=rss&utm_campaign=new-homes-near-stations-to-be-fast-tracked",
-      "title": "New homes near train stations to be fast-tracked",
-      "summary": "Developments near public transport will be fast-tracked but Propertymark warns this mustn't create 'isolated communities.'\nThe post New homes near train stations to be fast-tracked appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/new-homes-near-stations-to-be-fast-tracked/?utm_source=rss&utm_medium=rss&utm_campaign=new-homes-near-stations-to-be-fast-tracked",
-      "source": "The Negotiator",
-      "published": "Tue, 18 Aug 2026 04:55:46 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/nathan-emerson-pmark.png",
-      "ai_summary": "- New housing developments near train stations will receive expedited approval to boost accessibility and reduce housing shortages.\n- Propertymark raises concerns that this initiative could lead to the creation of 'isolated communities' if not managed properly."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/faster-and-more-reliable-property-transactions-promised/?utm_source=rss&utm_medium=rss&utm_campaign=faster-and-more-reliable-property-transactions-promised",
-      "title": "Faster and more reliable property transactions promised",
-      "summary": "\u201cA more efficient property market is vital to the economy,\" says Ordnance Survey's Tina Kennedy.\nThe post Faster and more reliable property transactions promised appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/faster-and-more-reliable-property-transactions-promised/?utm_source=rss&utm_medium=rss&utm_campaign=faster-and-more-reliable-property-transactions-promised",
-      "source": "The Negotiator",
-      "published": "Tue, 18 Aug 2026 04:55:46 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/Tina-Kennedy.jpg",
-      "ai_summary": "- Ordnance Survey's Tina Kennedy emphasizes the need for a more efficient property market to boost the economy.  \n- Promises for faster and more reliable property transactions aim to transform the UK real estate landscape."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/revealed-the-45000-cost-of-aml-compliance-for-agents/?utm_source=rss&utm_medium=rss&utm_campaign=revealed-the-45000-cost-of-aml-compliance-for-agents",
-      "title": "True \u00a345k AML compliance cost for agents is revealed",
-      "summary": "Anti-money laundering checks are now a full-time job, says Dan Salmons, Chief Executive of Coadjute.\nThe post True \u00a345k AML compliance cost for agents is revealed appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/revealed-the-45000-cost-of-aml-compliance-for-agents/?utm_source=rss&utm_medium=rss&utm_campaign=revealed-the-45000-cost-of-aml-compliance-for-agents",
-      "source": "The Negotiator",
-      "published": "Tue, 18 Aug 2026 04:55:32 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/dan-salmons-coadjute.png",
-      "ai_summary": "- **Hefty Compliance Burden**: Agents face a staggering \u00a345,000 annual cost for anti-money laundering (AML) compliance, emphasizing the financial strain of these regulations.  \n- **Full-Time Commitment**: Dan Salmons, CEO of Coadjute, highlights that managing AML checks has become a full-time responsibility for property agents."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/new-calls-emerge-to-revive-help-to-buy/?utm_source=rss&utm_medium=rss&utm_campaign=new-calls-emerge-to-revive-help-to-buy",
-      "title": "New calls emerge to revive Help to Buy",
-      "summary": "Help to Buy was good for buyers and the Treasury, says the Home Builders Federation's Neil Jefferson.\nThe post New calls emerge to revive Help to Buy appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/new-calls-emerge-to-revive-help-to-buy/?utm_source=rss&utm_medium=rss&utm_campaign=new-calls-emerge-to-revive-help-to-buy",
-      "source": "The Negotiator",
-      "published": "Tue, 18 Aug 2026 04:55:23 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/Untitled-17-August-2026-at-20.44.23.png",
-      "ai_summary": "- The Home Builders Federation advocates for the revival of Help to Buy, citing benefits for both homebuyers and the Treasury.\n- There is growing momentum behind reintroducing the program to tackle housing affordability challenges in the UK."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/regional-gap-grows-as-more-homes-take-longer-to-sell-zoopla/?utm_source=rss&utm_medium=rss&utm_campaign=regional-gap-grows-as-more-homes-take-longer-to-sell-zoopla",
-      "title": "Regional gap grows as more homes take longer to sell \u2013 Zoopla",
-      "summary": "A regional divide is opening up when it comes to time on the market, says Zoopla's Richard Donnell.\nThe post Regional gap grows as more homes take longer to sell \u2013 Zoopla appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/regional-gap-grows-as-more-homes-take-longer-to-sell-zoopla/?utm_source=rss&utm_medium=rss&utm_campaign=regional-gap-grows-as-more-homes-take-longer-to-sell-zoopla",
-      "source": "The Negotiator",
-      "published": "Tue, 18 Aug 2026 04:55:21 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/richard-donnell-1.jpeg",
-      "ai_summary": "- A widening regional gap is emerging in the UK property market, with certain areas seeing homes take significantly longer to sell.  \n- According to Zoopla's Richard Donnell, this trend highlights the growing disparities in property demand and selling times across different regions."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/mansion-tax-increases-predicted-in-upcoming-budget/?utm_source=rss&utm_medium=rss&utm_campaign=mansion-tax-increases-predicted-in-upcoming-budget",
-      "title": "Mansion Tax increases predicted in upcoming Budget",
-      "summary": "Knight Frank\u2019s Tom Bill says Andy Burnham faces \u201ctough choices\u2019 in order to meet his Government's spending plans.\nThe post Mansion Tax increases predicted in upcoming Budget appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/mansion-tax-increases-predicted-in-upcoming-budget/?utm_source=rss&utm_medium=rss&utm_campaign=mansion-tax-increases-predicted-in-upcoming-budget",
-      "source": "The Negotiator",
-      "published": "Tue, 18 Aug 2026 04:55:14 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/Tom-Bill-Knight-Frank.jpg",
-      "ai_summary": "- Knight Frank's Tom Bill warns that Andy Burnham will need to make tough decisions to align with government spending plans, potentially leading to predicted Mansion Tax increases.\n- The upcoming Budget may witness significant changes as local government grapples with financial challenges."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/movers-and-shakers/queen-of-the-gavel-joins-strettons-auctions/?utm_source=rss&utm_medium=rss&utm_campaign=queen-of-the-gavel-joins-strettons-auctions",
-      "title": "\u2018Queen of the Gavel\u2019 joins Strettons\u2019 Auctions",
-      "summary": "Olivia Boulting joins Strettons from Auction House UK, where she was Regional Manager and Auctioneer for the Southern UK territories.\nThe post \u2018Queen of the Gavel\u2019 joins Strettons\u2019 Auctions appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/movers-and-shakers/queen-of-the-gavel-joins-strettons-auctions/?utm_source=rss&utm_medium=rss&utm_campaign=queen-of-the-gavel-joins-strettons-auctions",
-      "source": "The Negotiator",
-      "published": "Tue, 18 Aug 2026 04:55:13 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/Olivia-Boulting-Strettons.jpg",
-      "ai_summary": "- Olivia Boulting, dubbed the 'Queen of the Gavel,' has joined Strettons\u2019 Auctions, bringing her expertise from Auction House UK.  \n- Previously Regional Manager and Auctioneer for Southern UK, Boulting aims to enhance Strettons' auction capabilities."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/large-estate-management-firm-accelerates-expansion-plans/?utm_source=rss&utm_medium=rss&utm_campaign=large-estate-management-firm-accelerates-expansion-plans",
-      "title": "Expansion plan accelerates for estate management company",
-      "summary": "The management team at Principle Estate Management has set its sights on the south coast with a new regional office.\nThe post Expansion plan accelerates for estate management company appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/large-estate-management-firm-accelerates-expansion-plans/?utm_source=rss&utm_medium=rss&utm_campaign=large-estate-management-firm-accelerates-expansion-plans",
-      "source": "The Negotiator",
-      "published": "Mon, 17 Aug 2026 04:55:59 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/08/Principle-line-up.jpg",
-      "ai_summary": "- Principle Estate Management is accelerating its expansion with a new regional office on the south coast.\n- The move underscores the company's growth strategy and commitment to enhancing its service reach."
+      "ai_summary": "- Molo, a specialist mortgage lender, is attracting landlords with newly reduced rates.  \n- The lender targets both UK and overseas investors in the Buy-to-Let (BTL) market."
     }
   ]
 }
