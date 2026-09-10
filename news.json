@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-09-10T01:35:01.505102",
-  "article_count": 25,
+  "last_updated": "2026-09-10T07:32:23.581631",
+  "article_count": 26,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/database-controversy-nrlas-cautious-response/",
+      "title": "Database Controversy \u2013 NRLA\u2019s cautious response",
+      "summary": "Landlords are being forced to sign up",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/09/database-controversy-nrlas-cautious-response/",
+      "source": "Landlord Today",
+      "published": "Thu, 10 Sep 2026 00:30:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2434117281.jpg",
+      "ai_summary": "- The NRLA is urging caution regarding the mandatory registration of landlords in a new database, reflecting concerns over potential implications and costs.\n- Landlords are facing increasing pressure to comply with the registration, raising questions about privacy and regulatory challenges in the property sector."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/corbyn-leads-new-demand-for-rent-controls/",
+      "title": "Corbyn leads new demand for rent controls",
+      "summary": "The demo was in London",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/09/corbyn-leads-new-demand-for-rent-controls/",
+      "source": "Landlord Today",
+      "published": "Thu, 10 Sep 2026 00:20:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2094142588.jpg",
+      "ai_summary": "- Jeremy Corbyn spearheads a rally in London advocating for the implementation of rent controls.  \n- The demonstration highlights growing public demand for affordable housing solutions amidst rising living costs."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/shelter-and-generation-rent-cock-a-hoop-over-database/",
+      "title": "Shelter and Generation Rent cock-a-hoop over database",
+      "summary": "Generation Rent heralded the news with social media posts saying \u201cWIN\u201d.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/09/shelter-and-generation-rent-cock-a-hoop-over-database/",
+      "source": "Landlord Today",
+      "published": "Thu, 10 Sep 2026 00:06:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2465605331.jpg",
+      "ai_summary": "- Shelter and Generation Rent celebrate the launch of a new database, marking a significant victory for tenants' rights.\n- Generation Rent shares their excitement on social media, calling it a \"WIN\" for renters across the UK."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/thousands-of-properties-with-tenants-in-situ-now-on-sales-market/",
+      "title": "Thousands of properties with tenants in situ now on sales market",
+      "summary": "Purchasing a property with a tenant in situ can bring advantages, its claimed",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/09/thousands-of-properties-with-tenants-in-situ-now-on-sales-market/",
+      "source": "Landlord Today",
+      "published": "Thu, 10 Sep 2026 00:02:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1502582423.jpg",
+      "ai_summary": "- Thousands of properties with existing tenants are now hitting the market, offering buyers immediate rental income potential.\n- Buying a tenant-occupied property is touted for its advantages, making it an appealing option for investors looking to maximize gains."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/redress-chief-welcomes-mandatory-landlord-registration/",
+      "title": "Redress chief welcomes mandatory landlord registration",
+      "summary": "The register kicks in from December",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/09/redress-chief-welcomes-mandatory-landlord-registration/",
+      "source": "Landlord Today",
+      "published": "Thu, 10 Sep 2026 00:00:00 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2434117281.jpg",
+      "ai_summary": "- Mandatory landlord registration set to launch in December, aiming to enhance accountability in the rental market.  \n- Redress chief praises the initiative as a crucial step toward improving tenant rights and reducing rogue landlord activity.  "
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/government-launches-private-rental-registration-service/",
+      "title": "Government launches private rental registration service",
+      "summary": "It starts in December",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/09/government-launches-private-rental-registration-service/",
+      "source": "Landlord Today",
+      "published": "Wed, 09 Sep 2026 11:22:36 +0100",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2434117281.jpg",
+      "ai_summary": "- The UK government is set to launch a private rental registration service starting in December.  \n- This initiative aims to enhance accountability and standards within the private rental sector."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/landlords-boosting-asking-rents-because-of-renters-rights-act/",
       "title": "Landlords boost asking rents because of Renters Rights Act",
@@ -10,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Wed, 09 Sep 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_746423194.jpg",
-      "ai_summary": "- Landlords are raising asking rents in response to the new Renters Rights Act, influencing rental market dynamics.  \n- Recent analysis by Hello Neighbour reveals notable trends in rent increases across the UK."
+      "ai_summary": "- Landlords are raising asking rents in response to the new Renters Rights Act, impacting rental market dynamics across the UK.\n- Recent analysis by Hello Neighbour reveals significant shifts in rental pricing trends, reflecting landlords' adaptations to changing regulations."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/renters-rights-act-enforcement-powers-concern-letting-agents/",
@@ -20,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Wed, 09 Sep 2026 00:04:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2078405314.jpg",
-      "ai_summary": "- The Renters Rights Act has granted councils enhanced enforcement powers, raising concerns among letting agents.  \n- With the initial phase now established, agents worry about the potential implications for their operations and tenant relations."
+      "ai_summary": "- Letting agents express concerns as the Renters Rights Act grants councils increased enforcement powers in the rental market.  \n- The initial phase of the Act is now established, leading to heightened apprehension among agents about potential regulatory impacts."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/unaffordability-league-table-spells-bad-news-for-renters/",
@@ -30,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Wed, 09 Sep 2026 00:00:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_746423194.jpg",
-      "ai_summary": "- SpareRoom's analysis reveals a troubling \"unaffordability league table\" across 35 UK cities, indicating significant financial strain on renters.  \n- Rising rental prices and stagnant wages are exacerbating the housing crisis, making it increasingly difficult for individuals to secure affordable accommodation."
+      "ai_summary": "- SpareRoom's latest report reveals that many UK cities rank poorly in affordability, exacerbating the rental crisis for tenants.  \n- The analysis of 35 cities highlights the growing challenges faced by renters, with high prices outpacing wages and making housing less accessible."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/eviction-costs-and-delays-to-soar-as-tenants-challenge-landlords/",
@@ -40,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Tue, 08 Sep 2026 00:20:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1786564283.jpg",
-      "ai_summary": "- Tenants are increasingly challenging landlords under the new Renters Rights Act, leading to significant hikes in eviction costs and processing delays.\n- The legislation empowers tenants, shifting the balance in disputes and making it tougher for landlords to navigate the eviction process."
+      "ai_summary": "- Rising eviction costs and prolonged delays are expected as tenants increasingly contest landlord actions under the new Renters Rights Act.\n- The Act empowers tenants with enhanced rights, leading to more legal challenges and complexities in the landlord-tenant relationship."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/hmrc-preparing-huge-tax-clampdown-on-property-sector/",
@@ -50,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Tue, 08 Sep 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1060261916-1.jpg",
-      "ai_summary": "- HMRC is ramping up enforcement efforts with a significant tax clampdown targeting the UK property sector.  \n- A law firm reports that a comprehensive program of activities has been scheduled to address tax compliance issues."
+      "ai_summary": "- HMRC is set to implement a significant tax crackdown on the property sector, as revealed by a law firm's recent insights.  \n- The initiative signals heightened scrutiny and compliance measures for property transactions in the UK."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/market-worries-grow-as-prices-dip-for-second-month-in-a-row/",
@@ -60,7 +120,7 @@
       "source": "Landlord Today",
       "published": "Tue, 08 Sep 2026 00:02:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2590833365.jpg",
-      "ai_summary": "- UK property prices have declined for two consecutive months, raising concerns among landlords about potential capital appreciation.  \n- Growing market worries signal challenges ahead for property investors as price trends continue downward.  "
+      "ai_summary": "- UK property prices have declined for the second consecutive month, raising concerns among investors.  \n- Landlords expecting capital appreciation may face disappointment as market worries intensify."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/student-rental-league-table-shows-landlord-yields-strengthening/",
@@ -70,7 +130,7 @@
       "source": "Landlord Today",
       "published": "Tue, 08 Sep 2026 00:01:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_159286760.jpg",
-      "ai_summary": "- A buy-to-let lender reports increasing landlord yields in popular student rental areas, indicating a strengthening market for student housing investments.  \n- The analysis of mortgage applications highlights the rising demand and profitability for landlords targeting student postcodes."
+      "ai_summary": "- A recent analysis reveals that landlord yields in student rental markets are on the rise, indicating strengthening returns for buy-to-let investors.  \n- The study focused on mortgage applications across well-known student postcodes, highlighting potential hotspots for rental growth."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/landlords-urged-to-check-boiler-pressures-before-temperatures-cool/",
@@ -80,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Tue, 08 Sep 2026 00:00:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2231794913.jpg",
-      "ai_summary": "- As autumn approaches, experts advise landlords to check boiler pressures to ensure optimal heating efficiency as temperatures drop.  \n- Low boiler pressure can lead to inefficient heating or inadequate radiator performance, making pre-winter maintenance crucial."
+      "ai_summary": "- Experts advise landlords to check boiler pressures before autumn to ensure efficient heating as temperatures drop.  \n- Low boiler pressure can lead to inefficient operation and inadequate radiator heating, potentially affecting comfort during colder months. "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/anti-landlord-green-party-chief-owns-company-buy-to-lets/",
@@ -90,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Mon, 07 Sep 2026 00:07:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1640429362-1.jpg",
-      "ai_summary": "- Green Party deputy leader Mothin Ali owns two buy-to-let properties in Leeds, purchased through his company MA Holdings for \u00a3165,000 and \u00a3157,000 in 2022 and 2025, respectively.  \n- Despite advocating against landlords, Ali\u2019s properties are currently tenanted, raising questions about the party's stance on rental ownership."
+      "ai_summary": "- Green Party Deputy Leader Mothin Ali under scrutiny for owning two buy-to-let properties in Leeds despite the party's anti-landlord stance.  \n- Ali purchased the council houses through his company MA Holdings for \u00a3165,000 and \u00a3157,000, with both properties currently tenanted."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/short-let-landlord-register-coming-soon-warns-government/",
@@ -100,7 +160,7 @@
       "source": "Landlord Today",
       "published": "Mon, 07 Sep 2026 00:06:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_311702489.jpg",
-      "ai_summary": "- England's government plans to launch a mandatory register for short lets like Airbnb by March next year, following similar initiatives in Scotland and Northern Ireland.\n- Wales is set to introduce its own visitor accommodation register next month, aligning with the growing trend of formalizing short-term rental regulations across the UK."
+      "ai_summary": "- England's mandatory Airbnb-style short let register will launch by March 2024, following similar initiatives in Scotland and Northern Ireland.  \n- Wales is set to roll out its visitor accommodation register next month, tightening regulations across the UK."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/left-winger-slams-public-spending-on-slum-landlords/",
@@ -110,7 +170,7 @@
       "source": "Landlord Today",
       "published": "Mon, 07 Sep 2026 00:05:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2183289555.jpg",
-      "ai_summary": "- Left-wing politician condemns taxpayer funds supporting \"slum landlords\" in the unregulated private rental market.  \n- Calls for greater regulation to tackle substandard living conditions for tenants."
+      "ai_summary": "- A left-wing political figure criticizes government spending that supports \"slum landlords\" in the unregulated private rental market.  \n- Calls for reform highlight concerns over inadequate oversight and living conditions for renters."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/council-slams-rogue-landlords-who-are-quick-to-collect-their-rent/",
@@ -120,57 +180,77 @@
       "source": "Landlord Today",
       "published": "Mon, 07 Sep 2026 00:03:00 +0100",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2130146024.jpg",
-      "ai_summary": "- A council is ramping up enforcement against rogue landlords who prioritize rent collection over tenant welfare.\n- New strengthened powers will be utilized to tackle negligent rental practices and protect vulnerable tenants."
+      "ai_summary": "- A UK council is taking a strong stance against rogue landlords who prioritize rapid rent collection over tenant welfare.\n- The council plans to leverage enhanced enforcement powers to crack down on unethical rental practices."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/second-phase-of-rental-reform-set-to-dominate-landlord-forum/",
-      "title": "Second phase of rental reform is basis of landlord forum",
-      "summary": "Second phase of rental reform set to dominate landlord forum",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/09/second-phase-of-rental-reform-set-to-dominate-landlord-forum/",
-      "source": "Landlord Today",
-      "published": "Mon, 07 Sep 2026 00:01:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2108780006.jpg",
-      "ai_summary": "- The second phase of rental reform will be the central focus of the upcoming landlord forum.  \n- Key discussions are expected to shape future policies impacting landlords across the UK."
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/back-to-school-buyer-bounce-boosts-property-market/?utm_source=rss&utm_medium=rss&utm_campaign=back-to-school-buyer-bounce-boosts-property-market",
+      "title": "Back-to-school buyer bounce boosts property market",
+      "summary": "Buyer demand jumped 5% last week as parents started looking for their next home following the end of the summer holidays.\nThe post Back-to-school buyer bounce boosts property market appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/back-to-school-buyer-bounce-boosts-property-market/?utm_source=rss&utm_medium=rss&utm_campaign=back-to-school-buyer-bounce-boosts-property-market",
+      "source": "The Negotiator",
+      "published": "Thu, 10 Sep 2026 04:55:52 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/01/Drop-kids-off-at-school.jpg",
+      "ai_summary": "- Buyer demand surged by 5% last week as parents resumed house hunting after the summer holidays.  \n- The \"back-to-school\" effect is revitalizing the UK property market, signaling renewed activity and interest."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/do-landlords-really-get-90000-a-year-in-gross-rental-income/",
-      "title": "Do landlords REALLY get \u00a390,000 a year in gross rental income?",
-      "summary": "The claim comes from a property management company calculations",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/09/do-landlords-really-get-90000-a-year-in-gross-rental-income/",
-      "source": "Landlord Today",
-      "published": "Fri, 04 Sep 2026 00:05:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1563144256.jpg",
-      "ai_summary": "- A property management company's calculations suggest landlords could earn an average gross rental income of \u00a390,000 annually.  \n- This figure raises questions about the realistic returns for landlords in the current UK rental market."
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/auctioneer-colin-young-celebrates-40-years-in-the-profession/?utm_source=rss&utm_medium=rss&utm_campaign=auctioneer-colin-young-celebrates-40-years-in-the-profession",
+      "title": "Auctioneer Colin Young celebrates 40 years in the profession",
+      "summary": "Former NAVA Propertymark President marks four decades in auctioneering at Lincolnshire firm Golding Young & Mawer.\nThe post Auctioneer Colin Young celebrates 40 years in the profession appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/auctioneer-colin-young-celebrates-40-years-in-the-profession/?utm_source=rss&utm_medium=rss&utm_campaign=auctioneer-colin-young-celebrates-40-years-in-the-profession",
+      "source": "The Negotiator",
+      "published": "Thu, 10 Sep 2026 04:55:49 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/09/Former-NAVA-Propertymark-President-Colin-Young.jpg",
+      "ai_summary": "- Colin Young, a seasoned auctioneer and former NAVA Propertymark President, commemorates 40 years in the industry at Golding Young & Mawer in Lincolnshire.  \n- His four-decade career highlights a significant contribution to the auctioneering sector in the UK."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/landlords-threatened-with-late-application-licence-surcharge/",
-      "title": "Landlords threatened with \u2018late application\u2019 licence surcharge",
-      "summary": "North East Lincolnshire Council approved the Selective Licensing area last October.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/09/landlords-threatened-with-late-application-licence-surcharge/",
-      "source": "Landlord Today",
-      "published": "Fri, 04 Sep 2026 00:04:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2078405314.jpg",
-      "ai_summary": "- North East Lincolnshire Council introduces a 'late application' surcharge for landlords in the newly designated Selective Licensing area, effective from October.  \n- Landlords in the region must ensure timely applications to avoid financial penalties as the enforcement deadline approaches."
+      "id": "https://thenegotiator.co.uk/guest-blog/blog-all-aboard-the-burnham-express/?utm_source=rss&utm_medium=rss&utm_campaign=blog-all-aboard-the-burnham-express",
+      "title": "BLOG: All aboard the Burnham Express",
+      "summary": "Andy Burnham\u2019s plans for greater state control and infrastructure investment will do little to revive Britain's growth, argues Trevor Abrahmsohn.\nThe post BLOG: All aboard the Burnham Express appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/guest-blog/blog-all-aboard-the-burnham-express/?utm_source=rss&utm_medium=rss&utm_campaign=blog-all-aboard-the-burnham-express",
+      "source": "The Negotiator",
+      "published": "Thu, 10 Sep 2026 04:55:41 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/09/train-trevor-abrahmsohn-glentree-.jpg",
+      "ai_summary": "- Trevor Abrahmsohn critiques Andy Burnham's proposals for increased state control and infrastructure spending, claiming they won't effectively boost Britain's growth.\n- The blog, titled \"All aboard the Burnham Express,\" highlights skepticism around government intervention in revitalizing the economy."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/landlords-need-agents-more-because-of-renters-rights-act-claim/",
-      "title": "Landlords need agents more because of Renters Rights Act \u2013 claim",
-      "summary": "Most agents think so",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/09/landlords-need-agents-more-because-of-renters-rights-act-claim/",
-      "source": "Landlord Today",
-      "published": "Fri, 04 Sep 2026 00:02:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1753744661-1.jpg",
-      "ai_summary": "- Landlords increasingly rely on property agents due to the complexities introduced by the new Renters Rights Act.\n- A majority of agents believe their services are essential for navigating the updated regulations."
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/estate-agents-clash-over-unrealistic-home-valuations-by-rivals/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-clash-over-unrealistic-home-valuations-by-rivals",
+      "title": "Agents turn on rivals accused of unrealistic valuations",
+      "summary": "GetAgent's Colby Short says vendors share some of the blame for prioritising price over service when choosing an estate agent.\nThe post Agents turn on rivals accused of unrealistic valuations appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/estate-agents-clash-over-unrealistic-home-valuations-by-rivals/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-clash-over-unrealistic-home-valuations-by-rivals",
+      "source": "The Negotiator",
+      "published": "Thu, 10 Sep 2026 04:55:23 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/09/colby-short.jpeg",
+      "ai_summary": "- Estate agents are criticizing rivals for providing unrealistic property valuations, which could mislead sellers.\n- GetAgent's Colby Short highlights that vendors often prioritize price over service when selecting an estate agent, contributing to the issue."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/09/professional-property-investors-sound-out-build-to-rent/",
-      "title": "Professional property investors sound out Build To Rent",
-      "summary": "his is despite a sharp fall in the number of new BTR homes starting construction.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/09/professional-property-investors-sound-out-build-to-rent/",
-      "source": "Landlord Today",
-      "published": "Fri, 04 Sep 2026 00:01:00 +0100",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_673842874.jpg",
-      "ai_summary": "- Professional property investors are increasingly interested in the Build To Rent (BTR) sector.  \n- This trend comes even as new BTR home construction experiences a significant decline."
+      "id": "https://thenegotiator.co.uk/news/rental-market/rents-up-in-most-regions-since-renters-right-act-came-in/?utm_source=rss&utm_medium=rss&utm_campaign=rents-up-in-most-regions-since-renters-right-act-came-in",
+      "title": "Rents climb in most regions since Renters\u2019 Right Act landed",
+      "summary": "Marc von Grundherr, of Benham and Reeves, says pent-up tenant demand has been released since the Act was implemented.\nThe post Rents climb in most regions since Renters\u2019 Right Act landed appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/rents-up-in-most-regions-since-renters-right-act-came-in/?utm_source=rss&utm_medium=rss&utm_campaign=rents-up-in-most-regions-since-renters-right-act-came-in",
+      "source": "The Negotiator",
+      "published": "Thu, 10 Sep 2026 04:55:11 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2024/06/Marc-von-Grundherr-Benham-and-Reeves.jpg",
+      "ai_summary": "- Following the implementation of the Renters' Right Act, tenant demand has surged, leading to increased rents across most UK regions.  \n- Marc von Grundherr of Benham and Reeves attributes the rent rise to the release of significant pent-up demand in the rental market."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/estate-agents-urged-to-help-rightmove-bust-property-market-myths/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-urged-to-help-rightmove-bust-property-market-myths",
+      "title": "Rightmove calls on agents to help bust property market myths",
+      "summary": "The portal\u2019s Director of Agency Partnerships Christian Balshen says the work of estate agents is often underestimated.\nThe post Rightmove calls on agents to help bust property market myths appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/estate-agents-urged-to-help-rightmove-bust-property-market-myths/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-urged-to-help-rightmove-bust-property-market-myths",
+      "source": "The Negotiator",
+      "published": "Thu, 10 Sep 2026 04:55:03 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/09/christian-balshen.jpeg",
+      "ai_summary": "- Rightmove urges estate agents to take an active role in dispelling common misconceptions about the property market.  \n- Director Christian Balshen emphasizes that the contributions of agents are frequently undervalued in the industry."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/estate-agency-chief-reveals-big-ai-rollout-for-branches/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agency-chief-reveals-big-ai-rollout-for-branches",
+      "title": "Estate agency chief reveals big AI rollout for branches",
+      "summary": "Boss of TPFG, which operates dozens of estate agency brands across the UK including Martin & Co, says tech is designed to both save costs and increase turnover for franchisees.\nThe post Estate agency chief reveals big AI rollout for branches appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/estate-agency-chief-reveals-big-ai-rollout-for-branches/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agency-chief-reveals-big-ai-rollout-for-branches",
+      "source": "The Negotiator",
+      "published": "Thu, 10 Sep 2026 04:45:26 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/09/samples-tpfg-results.jpg",
+      "ai_summary": "- TPFG, which manages multiple UK estate agency brands like Martin & Co, is launching a major AI initiative aimed at cutting costs and boosting revenue for franchisees.  \n- The rollout is part of a broader strategy to enhance operational efficiency and drive growth within its branches."
     },
     {
       "id": "https://thenegotiator.co.uk/news/regulation-law-news/landlord-register-to-launch-in-december/?utm_source=rss&utm_medium=rss&utm_campaign=landlord-register-to-launch-in-december",
@@ -180,77 +260,7 @@
       "source": "The Negotiator",
       "published": "Wed, 09 Sep 2026 12:30:34 +0000",
       "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/09/Matthew-Pennycook.jpg",
-      "ai_summary": "- A national landlord registration service is set to launch in December, aimed at empowering tenants.\n- Housing Minister Matthew Pennycook emphasizes that the initiative will enhance tenant rights and transparency in the rental market."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/tpfg-marks-bumper-first-half-of-2026-with-record-results/?utm_source=rss&utm_medium=rss&utm_campaign=tpfg-marks-bumper-first-half-of-2026-with-record-results",
-      "title": "Record results cap bumper six months for estate agency giant",
-      "summary": "TPFG boss Gareth Samples hails the brand's franchise model for helping navigate the uncertain property market.\nThe post Record results cap bumper six months for estate agency giant appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/tpfg-marks-bumper-first-half-of-2026-with-record-results/?utm_source=rss&utm_medium=rss&utm_campaign=tpfg-marks-bumper-first-half-of-2026-with-record-results",
-      "source": "The Negotiator",
-      "published": "Wed, 09 Sep 2026 07:29:22 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/01/Gareth-Samples-CEO-TPFG.jpg",
-      "ai_summary": "- TPFG reports record results, attributing success to its effective franchise model amid a volatile property market.  \n- CEO Gareth Samples emphasizes the brand's adaptive strategy that has driven significant growth over the past six months."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/mortgage-approval-data-shows-strong-q2/?utm_source=rss&utm_medium=rss&utm_campaign=mortgage-approval-data-shows-strong-q2",
-      "title": "Summer mortgage approvals pick up pace",
-      "summary": "The Bank of England has revealed an 11% increase in the total amount of home loans agreed this summer.\nThe post Summer mortgage approvals pick up pace appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/mortgage-approval-data-shows-strong-q2/?utm_source=rss&utm_medium=rss&utm_campaign=mortgage-approval-data-shows-strong-q2",
-      "source": "The Negotiator",
-      "published": "Wed, 09 Sep 2026 04:55:56 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/bank-of-england.png",
-      "ai_summary": "- Mortgage approvals in the UK have surged by 11% this summer, signaling a rebound in the housing market.  \n- The Bank of England's latest figures indicate growing consumer confidence and activity in home financing."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/rental-market/one-in-four-landlords-in-rent-arrears/?utm_source=rss&utm_medium=rss&utm_campaign=one-in-four-landlords-in-rent-arrears",
-      "title": "One in four landlords in rent arrears",
-      "summary": "\u201cMost renters are continuing to meet their housing costs, but many household budgets remain stretched,\" explains Bethan Cooke, director of Pegasus Insight.\nThe post One in four landlords in rent arrears appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/rental-market/one-in-four-landlords-in-rent-arrears/?utm_source=rss&utm_medium=rss&utm_campaign=one-in-four-landlords-in-rent-arrears",
-      "source": "The Negotiator",
-      "published": "Wed, 09 Sep 2026 04:55:40 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/09/Bethan-Cooke.jpeg",
-      "ai_summary": "- One in four landlords are facing rent arrears, highlighting financial strain in the rental market.  \n- Despite most renters keeping up with payments, household budgets are still under pressure, according to industry expert Bethan Cooke."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/proptech/estate-agents-using-street-tools-see-24-boost-to-sales/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-using-street-tools-see-24-boost-to-sales",
-      "title": "Estate agents using Street tools see 24% sales boost",
-      "summary": "The right technology is vital to help agents boost transactions in a slower market, says Street Group\u2019s Heather Staff.\nThe post Estate agents using Street tools see 24% sales boost appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/proptech/estate-agents-using-street-tools-see-24-boost-to-sales/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-using-street-tools-see-24-boost-to-sales",
-      "source": "The Negotiator",
-      "published": "Wed, 09 Sep 2026 04:55:30 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/09/Heather-staff.png",
-      "ai_summary": "- Estate agents leveraging Street Group's tools experienced a notable 24% increase in property sales, highlighting the importance of technology in a sluggish market.  \n- Heather Staff from Street Group emphasizes that adopting the right tech solutions is crucial for agents to enhance transaction volumes."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/landlords-and-agents-warned-licensing-penalties-now-heavier/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-and-agents-warned-licensing-penalties-now-heavier",
-      "title": "Landlords and agents warned about heavier licensing penalties",
-      "summary": "Tim Thomas of Propertymark says stiffer fines and expanding licensing schemes are now in place in many locations.\nThe post Landlords and agents warned about heavier licensing penalties appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/landlords-and-agents-warned-licensing-penalties-now-heavier/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-and-agents-warned-licensing-penalties-now-heavier",
-      "source": "The Negotiator",
-      "published": "Wed, 09 Sep 2026 04:55:16 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/09/Tim-Thomas-HMOs.png",
-      "ai_summary": "- Landlords and agents face increased penalties as stricter licensing schemes roll out across various locations, according to Propertymark's Tim Thomas.  \n- The tightening regulations signal a push for greater accountability in the property rental sector."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/columns/adam-walker/blog-is-the-value-of-a-sales-agents-finally-recovering/?utm_source=rss&utm_medium=rss&utm_campaign=blog-is-the-value-of-a-sales-agents-finally-recovering",
-      "title": "BLOG: Is the value of a sales agents finally recovering?",
-      "summary": "After years of limited demand for sales-led agencies, buyers are beginning to take a more positive view of the sector, says Adam Walker.\nThe post BLOG: Is the value of a sales agents finally recovering? appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/columns/adam-walker/blog-is-the-value-of-a-sales-agents-finally-recovering/?utm_source=rss&utm_medium=rss&utm_campaign=blog-is-the-value-of-a-sales-agents-finally-recovering",
-      "source": "The Negotiator",
-      "published": "Wed, 09 Sep 2026 04:55:08 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/09/sales-agents-value-adam-walker.jpg",
-      "ai_summary": "- Sales-led agencies are experiencing a resurgence as buyer sentiment shifts positively towards the sector.  \n- After years of stagnation, the value of sales agents is finally on the rebound, according to industry expert Adam Walker."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/housing-markets-with-largest-first-time-buyer-discounts-revealed/?utm_source=rss&utm_medium=rss&utm_campaign=housing-markets-with-largest-first-time-buyer-discounts-revealed",
-      "title": "Housing markets with largest first-time buyer discounts revealed",
-      "summary": "YOPA\u2019s Verona Frankish highlights that house prices are high but first-time buyers still spend a lot less than second steppers.\nThe post Housing markets with largest first-time buyer discounts revealed appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/housing-markets-with-largest-first-time-buyer-discounts-revealed/?utm_source=rss&utm_medium=rss&utm_campaign=housing-markets-with-largest-first-time-buyer-discounts-revealed",
-      "source": "The Negotiator",
-      "published": "Wed, 09 Sep 2026 04:55:05 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/09/verona-frankish-1.png",
-      "ai_summary": "- First-time buyers are benefitting from significant discounts in housing markets, despite overall high house prices.\n- According to YOPA\u2019s Verona Frankish, first-time purchasers are spending considerably less compared to those moving to their second homes."
+      "ai_summary": "- A national landlord registration service is set to launch in December, aimed at empowering tenants.\n- Housing Minister Matthew Pennycook emphasizes that the initiative will enhance accountability in the rental market."
     }
   ]
 }
