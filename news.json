@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-10-30T03:03:27.648499",
-  "article_count": 25,
+  "last_updated": "2026-10-30T11:43:20.231157",
+  "article_count": 26,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/identity-of-private-rental-sector-ombudsman-revealed/",
+      "title": "Identity of Private Rental Sector Ombudsman revealed",
+      "summary": "The scheme will be mandatory, with penalties for landlords who do not join or do not follow Ombudsman decisions",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/10/identity-of-private-rental-sector-ombudsman-revealed/",
+      "source": "Landlord Today",
+      "published": "Fri, 30 Oct 2026 00:20:00 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/bd786f2a-4572-4d6a-bf1f-7095d3006cc9.png",
+      "ai_summary": "- The newly revealed Private Rental Sector Ombudsman will enforce a mandatory scheme that includes penalties for non-compliant landlords.  \n- Landlords must adhere to the Ombudsman's decisions or face consequences for failure to join the scheme."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/tenants-use-ai-to-churn-out-complaints-to-landlords/",
+      "title": "Tenants use AI to churn out complaints to landlords",
+      "summary": "The figures come from an exhaustive survey of tenants and landlords",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/10/tenants-use-ai-to-churn-out-complaints-to-landlords/",
+      "source": "Landlord Today",
+      "published": "Fri, 30 Oct 2026 00:18:00 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/62d9a585-cb53-46ef-b35e-29291e932191.png",
+      "ai_summary": "- Tenants are increasingly leveraging AI tools to automate complaints to landlords, highlighting a shift in communication dynamics.\n- An in-depth survey reveals this trend, reflecting growing tensions and expectations in tenant-landlord relationships across the UK."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/generation-rent-angry-over-unacceptable-budget/",
+      "title": "Generation Rent angry over \u2018unacceptable\u2019 Budget",
+      "summary": "The unhappiness surrounds Local Housing Allowances",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/10/generation-rent-angry-over-unacceptable-budget/",
+      "source": "Landlord Today",
+      "published": "Fri, 30 Oct 2026 00:16:00 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/e8962d0d-332d-458b-a3b7-e4625f7c99e6.png",
+      "ai_summary": "- Generation Rent expresses frustration over the Budget, deeming the treatment of Local Housing Allowances as \"unacceptable.\"\n- Calls for urgent reform highlight growing concerns about housing affordability and support for renters."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/five-week-deposits-just-not-enough-according-to-almost-all-landlords/",
+      "title": "Five-week deposits just not enough according to almost all landlords",
+      "summary": "The deposit cap was introduced as part of the 2019 Tenant Fees Act",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/10/five-week-deposits-just-not-enough-according-to-almost-all-landlords/",
+      "source": "Landlord Today",
+      "published": "Fri, 30 Oct 2026 00:04:00 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/ce9fd0ce-7d20-4163-a8af-cd46e3eedcce.png",
+      "ai_summary": "- Nearly all landlords agree that the five-week deposit cap, established by the 2019 Tenant Fees Act, is insufficient for protecting their properties.\n- The ongoing concerns from landlords highlight a growing debate over deposit regulations in the UK rental market."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/private-rental-database-teach-in-for-landlords/",
+      "title": "Private Rental Database teach-in for landlords",
+      "summary": "Counbcils are taking the lead in helping landlords understand the database",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/10/private-rental-database-teach-in-for-landlords/",
+      "source": "Landlord Today",
+      "published": "Fri, 30 Oct 2026 00:01:00 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/e1eb2b12-474c-42e9-8dca-d834d7310398.png",
+      "ai_summary": "- Councils are stepping up to educate landlords on the new Private Rental Database.  \n- The initiative aims to enhance landlords' understanding and compliance with rental regulations."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/government-reveals-landlord-responsibilities-for-mandatory-database/",
+      "title": "Government issues landlord responsibilities for mandatory database",
+      "summary": "The guidance was issued this morning",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/10/government-reveals-landlord-responsibilities-for-mandatory-database/",
+      "source": "Landlord Today",
+      "published": "Thu, 29 Oct 2026 10:29:30 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2434117281.jpg",
+      "ai_summary": "- The UK government has released new guidance outlining mandatory responsibilities for landlords regarding a property database.  \n- This database aims to enhance transparency and compliance in the rental sector, impacting all landlords across the country."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/rents-to-rise-directly-as-a-result-of-healeys-budget/",
       "title": "Rents to rise directly as a result of Healey\u2019s Budget",
@@ -10,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Thu, 29 Oct 2026 00:11:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/138a69ef-5f51-4cc6-974e-dd9791cbfbec.png",
-      "ai_summary": "- Healey's Budget introduces a new income tax on property revenue, directly leading to increased rents.  \n- Property owners will likely pass on the tax burden to tenants, exacerbating rental affordability issues."
+      "ai_summary": "- Rental prices are set to increase following another rise in income tax on property revenue from Healey\u2019s Budget.\n- Landlords are likely to pass on the additional tax burden to tenants, leading to higher housing costs."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/tenants-taking-full-advantage-of-rental-reforms-study/",
@@ -20,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Thu, 29 Oct 2026 00:10:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/3e2613d3-2865-443c-aafa-ad1e0072c011.png",
-      "ai_summary": "- Tenants are leveraging rental reforms and utilizing AI tools to craft complaints against landlords, highlighting a shift in their approach to tenancy issues.  \n- A new study reveals that tenants are increasingly empowered and proactive in addressing grievances in the rental market."
+      "ai_summary": "- Tenants are leveraging new rental reforms to gain more power in disputes with landlords.  \n- Innovative use of AI is enabling tenants to craft and amplify complaints, enhancing their negotiating position."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/bleak-housing-market-reality-behind-budget-headlines/",
@@ -30,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Thu, 29 Oct 2026 00:08:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1924273613.jpg",
-      "ai_summary": "- The Office for Budget Responsibility highlights a grim outlook for the UK housing market, overshadowing positive Budget announcements.\n- Rising costs and economic challenges continue to strain homebuyers, reflecting deeper issues within the property sector."
+      "ai_summary": "- The Office for Budget Responsibility highlights a grim outlook for the UK's housing market, overshadowing recent Budget announcements.  \n- Economic challenges are set to strain homebuyers and sellers, worsening the already tough property conditions."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/massive-240000-fine-should-be-a-warning-to-landlords/",
@@ -40,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Thu, 29 Oct 2026 00:07:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/c5862ed7-ec4c-44d8-90c8-40b03895f105.png",
-      "ai_summary": "- A landlord faces a hefty \u00a3240,000 fine, serving as a stark warning to others in the industry.  \n- Over 26 additional property developments in the same city are now under investigation following this ruling.  "
+      "ai_summary": "- A UK landlord faces a hefty \u00a3240,000 fine, signaling the severity of regulatory scrutiny in the property market.  \n- Additionally, 26 other developments in the same city are now under investigation, highlighting escalating concerns about compliance among landlords."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/landlords-still-quitting-because-of-renters-rights-act/",
@@ -50,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Thu, 29 Oct 2026 00:06:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/47ba7dd1-2acc-4439-9a6f-e229186bc39d.png",
-      "ai_summary": "- Landlords are increasingly exiting the market due to complications arising from the Renters Rights Act.  \n- The legislation is creating significant new challenges for property owners, prompting widespread concern in the rental sector."
+      "ai_summary": "- The Renters Rights Act has led to a wave of landlords exiting the market due to increased challenges.  \n- New regulations introduced by the Act are creating significant pressures and complications for property owners."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/huge-leap-in-landlord-losses-and-figure-may-be-under-estimate/",
@@ -60,7 +120,7 @@
       "source": "Landlord Today",
       "published": "Wed, 28 Oct 2026 00:06:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/4a1cd404-8f16-4867-9b61-26fd10e15292.png",
-      "ai_summary": "- Landlord losses are rising sharply, with concerns that HMRC figures may not fully capture the extent of the issue.  \n- Experts suggest that the reported losses could be significantly understated, raising alarm bells in the property market."
+      "ai_summary": "- Landlord losses are skyrocketing, with recent HMRC figures potentially downplaying the actual impact.  \n- Experts suggest the true extent of financial distress in the rental market could be much worse than reported."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/taxes-should-vary-between-buy-to-let-and-big-investors-agents-call/",
@@ -70,7 +130,7 @@
       "source": "Landlord Today",
       "published": "Wed, 28 Oct 2026 00:05:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/fb498fbc-e03f-42d3-802d-64d21c13016b.png",
-      "ai_summary": "- Propertymark urges Chancellor John Healey to differentiate tax rates between Buy To Let landlords and larger property investors.\n- This appeal comes as part of a last-minute push to address perceived inequalities in the taxation of the property market."
+      "ai_summary": "- Propertymark advocates for differentiated tax policies for Buy To Let landlords versus large-scale property investors.  \n- The organization appeals to Chancellor John Healey to consider these changes as a critical matter before upcoming fiscal decisions."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/vast-majority-of-landlords-fear-tax-hikes-today/",
@@ -80,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Wed, 28 Oct 2026 00:04:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_630862376.jpg",
-      "ai_summary": "- Nearly 80% of landlords anticipate tax increases in the upcoming Budget, reflecting widespread financial anxiety.  \n- The biggest concerns for buy-to-let businesses include mortgage interest rates (29%) and potential tax changes (26%)."
+      "ai_summary": "- Nearly 80% of landlords worry about impending tax hikes in today's Budget, according to a recent survey of 2,000 landlords.  \n- Mortgage interest rates and finance costs are the top concern for 29% of landlords, closely followed by tax changes at 26%, underscoring ongoing financial pressures in the buy-to-let market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/many-tenants-ignorant-about-deposit-reductions/",
@@ -90,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Wed, 28 Oct 2026 00:03:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/507505d7-596a-4bd0-91ec-246fbe798ee0.png",
-      "ai_summary": "- A significant number of tenants remain unaware of their rights to deposit reductions, highlighting a knowledge gap in the rental market.  \n- While landlords exhibit improved awareness of regulations, there is still much room for improvement in overall understanding."
+      "ai_summary": "- A significant number of tenants remain unaware of their rights regarding reductions in rental deposits.\n- While landlords show improved knowledge on the topic, gaps in understanding still persist."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/tesco-moves-into-private-landlord-insurance/",
@@ -100,7 +160,7 @@
       "source": "Landlord Today",
       "published": "Wed, 28 Oct 2026 00:02:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/fa8eebfb-9a70-45a8-9d67-56cc83437b1f.png",
-      "ai_summary": "- Tesco expands its services by entering the private landlord insurance market, diversifying its offerings.  \n- The new insurance includes policies tailored for holiday homes, catering to a growing segment of property owners.  "
+      "ai_summary": "- Tesco is expanding its services by entering the private landlord insurance market.  \n- The new offering includes coverage for holiday homes, broadening their insurance portfolio."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/council-forced-to-refund-landlords-over-tax-status/",
@@ -110,7 +170,7 @@
       "source": "Landlord Today",
       "published": "Tue, 27 Oct 2026 00:07:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2281656523.jpg",
-      "ai_summary": "- The council is compelled to refund landlords due to tax status complications.  \n- Landlords may receive retrospective payments that could go back over 30 years."
+      "ai_summary": "- Council ordered to refund landlords due to incorrect tax status, potentially impacting payments dating back over 30 years.\n- This decision may set a precedent for further refunds, affecting local government finances and landlord operations."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/happy-birthday-30-years-of-buy-to-let-celebrated/",
@@ -120,137 +180,87 @@
       "source": "Landlord Today",
       "published": "Tue, 27 Oct 2026 00:06:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/bcf76592-787b-4e60-bfde-2a2f68ed7020.png",
-      "ai_summary": "- The Buy To Let market has undergone significant transformation over the past 30 years, radically altering the private rental sector since 1996.  \n- Changes over the decades reflect evolving landlord regulations, tenant demands, and economic conditions, reshaping the landscape of rental housing in the UK."
+      "ai_summary": "- The Buy To Let market has evolved significantly over the past 30 years, transforming the private rental sector in the UK.\n- Key changes since 1996 reflect shifts in regulations, tenant expectations, and economic factors impacting landlords and renters alike."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/landlords-offered-special-off-market-sales-deals/",
-      "title": "Landlords offered special off-market sales deals",
-      "summary": "The deal has been struck with the NRLA",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/10/landlords-offered-special-off-market-sales-deals/",
-      "source": "Landlord Today",
-      "published": "Tue, 27 Oct 2026 00:04:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_2296684.jpg",
-      "ai_summary": "- Landlords can now access exclusive off-market sales deals through a new agreement with the NRLA.\n- This initiative aims to provide landlords with unique opportunities in the current property market."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/council-issues-first-section-21-fine-under-renters-rights-act/",
-      "title": "Council issues first Section 21 fine under Renters Rights Act",
-      "summary": "A council has fined its first landlord for serving an illegal Section 21 eviction notice since new laws came into force. The Renters Rights Act scrapped Section 21, meaning landlords must now have a legally valid \u2018possession ground\u2019. The landlord was fined \u00a33,600 for serving a Section 21 notice after May 1, when these notices [\u2026]",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/10/council-issues-first-section-21-fine-under-renters-rights-act/",
-      "source": "Landlord Today",
-      "published": "Mon, 26 Oct 2026 00:10:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1378699736.jpg",
-      "ai_summary": "- A council has issued its first fine under the Renters Rights Act, penalizing a landlord \u00a33,600 for an illegal Section 21 eviction notice.  \n- The new legislation, effective May 1, requires landlords to have a valid 'possession ground' instead of relying on Section 21 to evict tenants."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/foxtons-calls-time-on-london-rental-market-boom/",
-      "title": "Foxtons calls time on London rental market boom",
-      "summary": "Applicant activity and competition for properties have both eased",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/10/foxtons-calls-time-on-london-rental-market-boom/",
-      "source": "Landlord Today",
-      "published": "Mon, 26 Oct 2026 00:09:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/7afdb01d-c302-48df-ac4d-0c5e4e313e30.png",
-      "ai_summary": "- Foxtons reports a decline in applicant activity and competition in London's rental market.  \n- The boom in property rentals appears to be coming to an end, signaling a shift in market dynamics.  "
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/rent-repayment-order-slaps-22000-punishment-on-landlord/",
-      "title": "Rent Repayment Order slaps \u00a322,000 punishment on landlord",
-      "summary": "A landlord has been ordered to repay over \u00a322,000 in Housing Benefit following legal action taken by a council. Robert Edwards, who lets a number of properties in Sefton, has been instructed to repay \u00a322,477 in Housing Benefits that he was paid while the properties concerned were rented but not licensed. This ruling came as [\u2026]",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/10/rent-repayment-order-slaps-22000-punishment-on-landlord/",
-      "source": "Landlord Today",
-      "published": "Mon, 26 Oct 2026 00:04:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1313185946-1.jpg",
-      "ai_summary": "- **Landlord Fined**: Sefton landlord Robert Edwards must repay \u00a322,477 in Housing Benefits due to unlicensed rentals.  \n- **Legal Action Success**: The council's legal action highlights ongoing enforcement against rogue landlords in the UK property market."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/10/boost-tax-benefits-for-landlords-with-lodgers-plea-to-chancellor/",
-      "title": "Boost tax benefits for landlords with lodgers \u2013 plea to Chancellor",
-      "summary": "A flat-sharing service is calling on the Chancellor to follow Ireland\u2019s lead, and include updates to the Rent a Room scheme in this week\u2019s Budget. In the third quarter of 2026, lodger rooms made up 29% of total UK flatshare supply, yet these are now in decline, falling 1.4% year on year. In inner London, [\u2026]",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/10/boost-tax-benefits-for-landlords-with-lodgers-plea-to-chancellor/",
-      "source": "Landlord Today",
-      "published": "Mon, 26 Oct 2026 00:02:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_630862376.jpg",
-      "ai_summary": "- A flat-sharing service urges the Chancellor to enhance the Rent a Room scheme in the upcoming Budget, inspired by successful reforms in Ireland.  \n- Lodger rooms, which constituted 29% of the UK flatshare market in Q3 2026, are experiencing a 1.4% decline year-on-year, signaling a need for policy intervention."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/big-agents-face-714-days-to-upload-data-onto-landlord-register/?utm_source=rss&utm_medium=rss&utm_campaign=big-agents-face-714-days-to-upload-data-onto-landlord-register",
-      "title": "Big agencies face \u2018714 days\u2019 to upload data onto landlord register",
-      "summary": "An agent managing 10,000 rental properties would need 714 days to load them onto the new rental database, Shadow Housing Minister Gareth Bacon has told MPs.\nThe post Big agencies face \u2018714 days\u2019 to upload data onto landlord register appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/big-agents-face-714-days-to-upload-data-onto-landlord-register/?utm_source=rss&utm_medium=rss&utm_campaign=big-agents-face-714-days-to-upload-data-onto-landlord-register",
+      "id": "https://thenegotiator.co.uk/guest-blog/blog-age-related-affordability-doesnt-have-to-stop-a-sale/?utm_source=rss&utm_medium=rss&utm_campaign=blog-age-related-affordability-doesnt-have-to-stop-a-sale",
+      "title": "BLOG: Age-related affordability doesn\u2019t have to stop a sale",
+      "summary": "Mark Neal, Director of Homewise, explains how buyers aged 60+ can overcome affordability barriers and unlock stalled property transactions.\nThe post BLOG: Age-related affordability doesn\u2019t have to stop a sale appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/guest-blog/blog-age-related-affordability-doesnt-have-to-stop-a-sale/?utm_source=rss&utm_medium=rss&utm_campaign=blog-age-related-affordability-doesnt-have-to-stop-a-sale",
       "source": "The Negotiator",
-      "published": "Thu, 29 Oct 2026 08:00:46 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/bacon-landlord-database.jpg",
-      "ai_summary": "- Large rental agencies could take an astonishing 714 days to upload data for 10,000 properties to the new landlord register, warns Shadow Housing Minister Gareth Bacon.  \n- The lengthy process poses significant challenges for efficient data management in the property rental sector."
+      "published": "Fri, 30 Oct 2026 05:57:50 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/elderly-couple-moving-house.jpg",
+      "ai_summary": "- Homewise's Mark Neal highlights strategies for buyers aged 60+ to navigate affordability challenges, enabling smoother property transactions.  \n- The insights provided can help unlock stalled sales, making the property market more accessible for older buyers."
     },
     {
-      "id": "https://thenegotiator.co.uk/columns/redress/the-ombudsman-files-buyers-premium-refunded/?utm_source=rss&utm_medium=rss&utm_campaign=the-ombudsman-files-buyers-premium-refunded",
-      "title": "The Ombudsman Files: Buyer\u2019s Premium refunded",
-      "summary": "The Property Ombudsman orders a \u00a34,100 award after an agent fails to verify or qualify material information about a property.\nThe post The Ombudsman Files: Buyer\u2019s Premium refunded appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/columns/redress/the-ombudsman-files-buyers-premium-refunded/?utm_source=rss&utm_medium=rss&utm_campaign=the-ombudsman-files-buyers-premium-refunded",
+      "id": "https://thenegotiator.co.uk/charity/house-collective-donates-entire-sales-fee-to-charity/?utm_source=rss&utm_medium=rss&utm_campaign=house-collective-donates-entire-sales-fee-to-charity",
+      "title": "House Collective donates entire sales fee to charity",
+      "summary": "House Collective director, Jonathan Brandling-Harris, explains why the agency is donating its fee from a Primrose Hill property sale to Mary\u2019s Charity.\nThe post House Collective donates entire sales fee to charity appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/charity/house-collective-donates-entire-sales-fee-to-charity/?utm_source=rss&utm_medium=rss&utm_campaign=house-collective-donates-entire-sales-fee-to-charity",
       "source": "The Negotiator",
-      "published": "Thu, 29 Oct 2026 05:55:57 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/unmortgageable-property.jpg",
-      "ai_summary": "- The Property Ombudsman has mandated a \u00a34,100 refund to a buyer after an agent neglected to verify crucial property details.  \n- This ruling highlights the importance of agents ensuring accurate information to protect buyers in real estate transactions."
+      "published": "Fri, 30 Oct 2026 05:55:56 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/Jonathan-Brandling-Harris_Director-of-House-Collective-with-charity-reps-outside-property.jpg",
+      "ai_summary": "- House Collective pledges its entire sales fee from a Primrose Hill property sale to support Mary\u2019s Charity.\n- Director Jonathan Brandling-Harris highlights the agency's commitment to charitable giving through this significant donation."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/budget-could-push-mortgage-rates-higher-agent-warns/?utm_source=rss&utm_medium=rss&utm_campaign=budget-could-push-mortgage-rates-higher-agent-warns",
-      "title": "Budget could push mortgage rates higher, agent warns",
-      "summary": "Brendan Kay, of Parkers Properties, says the banks may decide to recover some of their losses through higher mortgages rates.\nThe post Budget could push mortgage rates higher, agent warns appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/budget-could-push-mortgage-rates-higher-agent-warns/?utm_source=rss&utm_medium=rss&utm_campaign=budget-could-push-mortgage-rates-higher-agent-warns",
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/home-loan-approvals-fall-for-third-month-in-row/?utm_source=rss&utm_medium=rss&utm_campaign=home-loan-approvals-fall-for-third-month-in-row",
+      "title": "Home loan approvals fall for third month in row",
+      "summary": "The Bank of England reports new mortgages dropped again in September, well below the six-month average.\nThe post Home loan approvals fall for third month in row appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/home-loan-approvals-fall-for-third-month-in-row/?utm_source=rss&utm_medium=rss&utm_campaign=home-loan-approvals-fall-for-third-month-in-row",
       "source": "The Negotiator",
-      "published": "Thu, 29 Oct 2026 05:55:31 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/Brendan-Kay.jpg",
-      "ai_summary": "- Brendan Kay from Parkers Properties warns that the upcoming budget may lead banks to increase mortgage rates as a means to recover losses.  \n- Homebuyers could face higher borrowing costs if banks react to economic pressures following the budget announcement."
+      "published": "Fri, 30 Oct 2026 05:55:40 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/10/bank-of-england-mortgage-lending.jpg",
+      "ai_summary": "- Home loan approvals in the UK declined for the third consecutive month in September, falling significantly below the six-month average.  \n- The Bank of England's report highlights a continuing downturn in new mortgage activity amidst economic uncertainty."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/products-services-news/lms-rolls-out-digital-mortgage-deed-signing-with-qes/?utm_source=rss&utm_medium=rss&utm_campaign=lms-rolls-out-digital-mortgage-deed-signing-with-qes",
-      "title": "LMS rolls out digital mortgage deed signing with QES",
-      "summary": "LMS Chief Relationship Officer Suzanne O\u2019Connor outlines how Qualified Electronic Signatures could speed up mortgage deed signing.\nThe post LMS rolls out digital mortgage deed signing with QES appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/products-services-news/lms-rolls-out-digital-mortgage-deed-signing-with-qes/?utm_source=rss&utm_medium=rss&utm_campaign=lms-rolls-out-digital-mortgage-deed-signing-with-qes",
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/agents-confident-but-concerned-in-first-months-of-renters-rights-act/?utm_source=rss&utm_medium=rss&utm_campaign=agents-confident-but-concerned-in-first-months-of-renters-rights-act",
+      "title": "RESEARCH: Agents confident but concerned in first months of Renters\u2019 Rights Act",
+      "summary": "Goodlord's William Reeve reports on how landlords and lettings agents have been responding to the first six months of the Renters\u2019 Rights Act.\nThe post RESEARCH: Agents confident but concerned in first months of Renters\u2019 Rights Act appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/agents-confident-but-concerned-in-first-months-of-renters-rights-act/?utm_source=rss&utm_medium=rss&utm_campaign=agents-confident-but-concerned-in-first-months-of-renters-rights-act",
       "source": "The Negotiator",
-      "published": "Thu, 29 Oct 2026 05:55:24 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/Suzanne-OConnor-Chief-Relationship-Officer-at-LMS.jpg",
-      "ai_summary": "- LMS introduces digital mortgage deed signing using Qualified Electronic Signatures (QES) to streamline the process.  \n- Chief Relationship Officer Suzanne O\u2019Connor highlights the potential for QES to accelerate mortgage transactions."
+      "published": "Fri, 30 Oct 2026 05:55:30 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/william-reeve.jpeg",
+      "ai_summary": "- Landlords and lettings agents express confidence in adapting to the new Renters' Rights Act while facing emerging challenges in its implementation.  \n- Goodlord's William Reeve highlights a mixed sentiment among industry professionals as they navigate the changes introduced by the legislation."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/autumn-budget-mansion-tax-details-and-exemptions-revealed/?utm_source=rss&utm_medium=rss&utm_campaign=autumn-budget-mansion-tax-details-and-exemptions-revealed",
-      "title": "Autumn Budget: Mansion Tax details and exemptions revealed",
-      "summary": "Chancellor John Healey kept the Mansion Tax threshold at \u00a32million in his first Autumn Budget.\nThe post Autumn Budget: Mansion Tax details and exemptions revealed appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/autumn-budget-mansion-tax-details-and-exemptions-revealed/?utm_source=rss&utm_medium=rss&utm_campaign=autumn-budget-mansion-tax-details-and-exemptions-revealed",
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/chancellor-defends-tax-hike-on-property-owners/?utm_source=rss&utm_medium=rss&utm_campaign=chancellor-defends-tax-hike-on-property-owners",
+      "title": "Chancellor defends tax hike on property owners",
+      "summary": "John Healey told the BBC he was targeting those with assets after raising a planned increase in landlord tax.\nThe post Chancellor defends tax hike on property owners appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/chancellor-defends-tax-hike-on-property-owners/?utm_source=rss&utm_medium=rss&utm_campaign=chancellor-defends-tax-hike-on-property-owners",
       "source": "The Negotiator",
-      "published": "Thu, 29 Oct 2026 05:55:22 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/john-healey-2.jpeg",
-      "ai_summary": "- Chancellor John Healey maintains the Mansion Tax threshold at \u00a32 million in his inaugural Autumn Budget.\n- Detailed exemptions for the tax were unveiled, addressing concerns among property owners."
+      "published": "Fri, 30 Oct 2026 05:55:23 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/09/John-Healey.jpg",
+      "ai_summary": "- Chancellor John Healey asserts that the new landlord tax increase is aimed at wealthy property owners with significant assets.  \n- The tax hike is part of a broader strategy to address economic disparities within the housing market."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/house-price-growth-and-property-transactions-set-to-slide-obr-claims/?utm_source=rss&utm_medium=rss&utm_campaign=house-price-growth-and-property-transactions-set-to-slide-obr-claims",
-      "title": "House price growth and property transactions set to slide, OBR claims",
-      "summary": "The Office for Budget Responsibility is expecting lower housing market activity following the Autumn Budget.\nThe post House price growth and property transactions set to slide, OBR claims appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/house-price-growth-and-property-transactions-set-to-slide-obr-claims/?utm_source=rss&utm_medium=rss&utm_campaign=house-price-growth-and-property-transactions-set-to-slide-obr-claims",
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/new-government-guidance-reveals-how-landlord-database-will-work/?utm_source=rss&utm_medium=rss&utm_campaign=new-government-guidance-reveals-how-landlord-database-will-work",
+      "title": "New Government guidance reveals how landlord database will work",
+      "summary": "The registration responsibilities and information needed from landlords and lettings agents have been clarified.\nThe post New Government guidance reveals how landlord database will work appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/new-government-guidance-reveals-how-landlord-database-will-work/?utm_source=rss&utm_medium=rss&utm_campaign=new-government-guidance-reveals-how-landlord-database-will-work",
       "source": "The Negotiator",
-      "published": "Thu, 29 Oct 2026 05:55:18 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/house-price-sobr.jpeg",
-      "ai_summary": "- The Office for Budget Responsibility predicts a decline in house price growth and property transactions following the Autumn Budget.\n- This forecast signals a downturn in housing market activity in the UK."
+      "published": "Fri, 30 Oct 2026 05:55:17 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/rental-databsse.jpeg",
+      "ai_summary": "- The UK government has clarified registration requirements and information needed from landlords and lettings agents for the upcoming landlord database.\n- This new guidance aims to streamline compliance and improve transparency in the rental sector."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/products-services-news/new-scheme-for-first-time-buyers-goes-live-in-april/?utm_source=rss&utm_medium=rss&utm_campaign=new-scheme-for-first-time-buyers-goes-live-in-april",
-      "title": "New scheme for first-time buyers goes live in April",
-      "summary": "Chancellor John Healey announced Your First Home claiming it would help 70,000 households onto the housing ladder.\nThe post New scheme for first-time buyers goes live in April appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/products-services-news/new-scheme-for-first-time-buyers-goes-live-in-april/?utm_source=rss&utm_medium=rss&utm_campaign=new-scheme-for-first-time-buyers-goes-live-in-april",
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/sbk-property-group-expands-nationwide-with-twin-acquisitions/?utm_source=rss&utm_medium=rss&utm_campaign=sbk-property-group-expands-nationwide-with-twin-acquisitions",
+      "title": "SBK Property Group expands nationwide with twin acquisitions",
+      "summary": "Midlands-based SBK Property Group strengthens its portfolio with acquisitions spanning property auctions and rural agency services.\nThe post SBK Property Group expands nationwide with twin acquisitions appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/sbk-property-group-expands-nationwide-with-twin-acquisitions/?utm_source=rss&utm_medium=rss&utm_campaign=sbk-property-group-expands-nationwide-with-twin-acquisitions",
       "source": "The Negotiator",
-      "published": "Thu, 29 Oct 2026 05:55:12 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/Your-First-Home-.png",
-      "ai_summary": "- Chancellor John Healey unveils the \"Your First Home\" scheme to assist 70,000 first-time buyers in entering the housing market.\n- The initiative is set to launch in April, aiming to boost homeownership for new buyers."
+      "published": "Fri, 30 Oct 2026 05:55:07 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/Mike-Cleary-Co-founder-and-CEO-of-SBK-Property-Group-with-partner-Dan.jpg",
+      "ai_summary": "- SBK Property Group expands its national footprint through strategic acquisitions in property auctions and rural agency services.  \n- The Midlands-based company strengthens its portfolio, enhancing its service offerings across the UK."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/rental-market/property-owners-face-new-income-tax-hikes/?utm_source=rss&utm_medium=rss&utm_campaign=property-owners-face-new-income-tax-hikes",
-      "title": "Property owners face new Income Tax hikes",
-      "summary": "Landlords will be required to pay extra 2% on rental income than planned from April, Chancellor John Healey announced.\nThe post Property owners face new Income Tax hikes appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/rental-market/property-owners-face-new-income-tax-hikes/?utm_source=rss&utm_medium=rss&utm_campaign=property-owners-face-new-income-tax-hikes",
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/taxman-proposes-new-rent-reporting-obligations-for-lettings-agents/?utm_source=rss&utm_medium=rss&utm_campaign=taxman-proposes-new-rent-reporting-obligations-for-lettings-agents",
+      "title": "Taxman proposes new rent reporting obligations for lettings agents",
+      "summary": "A Government consultation suggests lettings agents should report rental income from landlords to HMRC more frequently, but Propertymark questions the practicality.\nThe post Taxman proposes new rent reporting obligations for lettings agents appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/taxman-proposes-new-rent-reporting-obligations-for-lettings-agents/?utm_source=rss&utm_medium=rss&utm_campaign=taxman-proposes-new-rent-reporting-obligations-for-lettings-agents",
       "source": "The Negotiator",
-      "published": "Thu, 29 Oct 2026 05:55:02 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/Landlord-tax.jpg",
-      "ai_summary": "- Landlords will see a 2% increase in Income Tax on rental income starting in April, announced Chancellor John Healey.\n- The tax hike comes as part of new measures aimed at enhancing revenue for the government."
+      "published": "Fri, 30 Oct 2026 05:55:04 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/timothy-douglas.jpeg",
+      "ai_summary": "- HMRC is considering requiring lettings agents to report landlords' rental income more frequently, potentially increasing oversight on tax compliance.\n- Propertymark raises concerns over the practicality of these proposed reporting obligations, highlighting challenges for agents."
     }
   ]
 }
