@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-11-12T04:26:52.022210",
+  "last_updated": "2026-11-12T14:02:07.754877",
   "article_count": 26,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/rental-growth-expectations-highest-since-2024/",
+      "title": "Rental growth expectations highest since 2024",
+      "summary": "RICS reports mounting rent pressures as tenant demand recovers and landlord instructions decline, while higher mortgage rates weaken housing sales.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/rental-growth-expectations-highest-since-2024/",
+      "source": "Landlord Today",
+      "published": "Thu, 12 Nov 2026 00:05:00 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/1e601f95-4a2d-4968-ad70-cce8b4898ba7.png",
+      "ai_summary": "- RICS indicates rental growth expectations are soaring, driven by strong tenant demand amid declining landlord instructions.  \n- Rising mortgage rates continue to dampen housing sales, intensifying the rental market's pressures."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/eight-in-ten-landlords-report-lettings-as-profitable/",
+      "title": "Eight in ten landlords report lettings as profitable",
+      "summary": "ModaMortgages research reveals resilient buy-to-let returns, with rental yields holding firm despite rising mortgage, maintenance and regulatory costs.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/eight-in-ten-landlords-report-lettings-as-profitable/",
+      "source": "Landlord Today",
+      "published": "Thu, 12 Nov 2026 00:04:00 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/aa6b0375-da05-48ad-8550-b1c70124006e.png",
+      "ai_summary": "- **Profitability Prevails**: Eight in ten landlords report profitable lettings, showcasing strong buy-to-let performance amidst challenging economic conditions.  \n- **Stable Returns**: Despite increasing mortgage, maintenance, and regulatory costs, rental yields remain robust, according to ModaMortgages research."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/corporate-landlords-faring-well-after-rra/",
+      "title": "Corporate landlords faring well after RRA",
+      "summary": "LRG data reveals lower arrears, stronger rent increases and ambitious expansion plans among professional property investors six months into the new legislation.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/corporate-landlords-faring-well-after-rra/",
+      "source": "Landlord Today",
+      "published": "Thu, 12 Nov 2026 00:03:00 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/e0ad8e33-f176-4e7d-8ba0-d79a4487e2a0.png",
+      "ai_summary": "- Corporate landlords report reduced arrears, robust rent growth, and plans for aggressive expansion following new legislation introduced six months ago.  \n- LRG data highlights positive trends for professional property investors amidst changing regulatory landscape."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/hillingdon-where-variety-is-the-spice-of-life/",
+      "title": "Hillingdon \u2013 where variety is the spice of life",
+      "summary": "Benham and Reeves reveals where tenants can find the widest variety of homes, with flats accounting for 84.7% of London's available rental stock.",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/hillingdon-where-variety-is-the-spice-of-life/",
+      "source": "Landlord Today",
+      "published": "Thu, 12 Nov 2026 00:02:00 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/892a3f3c-beb9-4477-82b3-012324713087.png",
+      "ai_summary": "- Hillingdon boasts the highest diversity in rental properties, with flats making up a staggering 84.7% of London's rental market.\n- Benham and Reeves highlights Hillingdon as a prime destination for tenants seeking varied living options in the capital."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/what-will-shape-holiday-lets-in-2027/",
+      "title": "What will shape holiday lets in 2027?",
+      "summary": "Finest Retreats identifies four key trends set to transform the UK holiday rental market in 2027, from regulation and AI to local expertise",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/what-will-shape-holiday-lets-in-2027/",
+      "source": "Landlord Today",
+      "published": "Thu, 12 Nov 2026 00:01:00 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/7828d681-f85a-4813-bfee-97a215ab0085.png",
+      "ai_summary": "- **Regulatory Changes and AI Integration**: The UK holiday rental market will be significantly influenced by new regulations and advancements in AI technology by 2027.  \n- **Emphasis on Local Expertise**: There will be a growing focus on leveraging local knowledge and expertise to enhance the guest experience in holiday lets."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/three-quarters-of-landlords-to-raise-rents/",
       "title": "Three-quarters of landlords to raise rents",
@@ -10,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Wed, 11 Nov 2026 00:05:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/135b047a-60b4-4b89-967d-afdba4788882.png",
-      "ai_summary": "- **Rising Rents:** 73% of landlords are set to increase rents amid changing tax regulations.  \n- **Property Sale Surge:** Over half (52%) of landlords are considering selling their properties as a result of these tax changes."
+      "ai_summary": "- **Rent Hike Alert:** 73% of landlords are set to raise rents due to recent tax changes.  \n- **Market Shift:** Over half (52%) of landlords are considering selling properties as a response to new financial pressures."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/landlords-remortgaging-face-biggest-challenge/",
@@ -20,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Wed, 11 Nov 2026 00:04:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/53003d44-dd70-4e2b-8fb1-ec255cabac9f.png",
-      "ai_summary": "- Landlords are grappling with escalating borrowing costs, threatening their rental profits as mortgage renewals loom.  \n- Mercantile Trust highlights that the upcoming remortgaging period poses significant financial challenges for property investors."
+      "ai_summary": "- Landlords nearing mortgage renewals are facing significant challenges as rising borrowing costs threaten to squeeze rental profits.  \n- Mercantile Trust highlights that the increasing cost of borrowing could impact the financial viability of property investments."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/highest-and-lowest-rental-yields-revealed/",
@@ -30,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Wed, 11 Nov 2026 00:03:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/5366432e-98e5-4016-b715-e47cef0ffc9e.png",
-      "ai_summary": "- Research reveals top-performing and underperforming UK rental markets amid increasing tax pressures impacting landlord profits.\n- Investors are urged to pay attention to shifting rental yields to maximize returns in a challenging economic landscape."
+      "ai_summary": "- Rushbrook research highlights the top-performing and underperforming areas for rental yields, showcasing the impact of rising taxes on landlord profitability.  \n- Property investors are urged to navigate the changing landscape as yields fluctuate across various UK locations."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/tax-changes-prompt-landlord-rethink/",
@@ -40,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Wed, 11 Nov 2026 00:02:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/d92c7ffc-a108-4372-b049-11ecd2e07e3e.png",
-      "ai_summary": "- Rising property income taxes are putting pressure on buy-to-let profits, prompting many landlords to reevaluate their investment strategies.\n- The IMLA highlights that tax changes may drive investors to rethink their ownership structures to mitigate financial impacts."
+      "ai_summary": "- Rising property income taxes are squeezing buy-to-let profits, leading landlords to reevaluate their investment strategies.  \n- IMLA highlights the urgency for investors to reconsider ownership structures in light of the changing tax landscape."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/prs-database-entries-could-be-shared-with-hmrc/",
@@ -50,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Wed, 11 Nov 2026 00:01:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/7e89094f-c77d-42e8-88fe-648f19806c8a.png",
-      "ai_summary": "- HMRC may gain access to private rental sector records through new data-sharing agreements.  \n- Privacy safeguards will be implemented to protect sensitive information during this collaboration."
+      "ai_summary": "- HMRC may gain access to private rental sector records, as confirmed by ministers.  \n- Data-sharing will be regulated with privacy safeguards in place."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/69-of-landlords-to-self-manage-in-two-years-says-survey/",
@@ -60,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Tue, 10 Nov 2026 00:05:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/528c1586-d12a-4d39-aa97-4df308696e75.png",
-      "ai_summary": "- A recent survey indicates that 69% of landlords plan to self-manage their properties within two years, driven by rising concerns over regulations and agent fees.  \n- As property owners reassess their management strategies, the trend highlights a shift towards greater independence in handling tax reporting and compliance."
+      "ai_summary": "- A recent survey reveals that 69% of landlords plan to self-manage their properties within the next two years due to rising concerns about regulations and escalating agent fees.  \n- Property owners are reevaluating management strategies as tax reporting complexities add to their challenges, prompting a shift toward self-management.  "
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/tenants-spent-more-of-income-on-rent-in-october/",
@@ -70,7 +120,7 @@
       "source": "Landlord Today",
       "published": "Tue, 10 Nov 2026 00:04:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/484921f4-ddf2-442c-a35c-64b364905c6f.png",
-      "ai_summary": "- **Rising Rent Burden:** Tenants allocated an average of 32.7% of their income to rent in October, indicating increasing affordability pressures despite a drop in monthly rental prices.\n- **HomeLet Highlights Rental Strain:** The latest report underscores that even as rents decrease, households are still feeling the pinch on their budgets."
+      "ai_summary": "- Households are now dedicating 32.7% of their income to rent, highlighting increased affordability pressures for tenants.\n- Despite a decline in monthly rental prices, financial strain on renters remains significant according to HomeLet."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/bridging-lending-rises-as-landlords-invest/",
@@ -80,7 +130,7 @@
       "source": "Landlord Today",
       "published": "Tue, 10 Nov 2026 00:02:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/ef32ffc0-fd52-46bf-abea-c94e92e385e2.png",
-      "ai_summary": "- UK bridging loans surged to \u00a3181.8m in Q3, driven by increasing demand from landlords amid falling interest rates.  \n- Enhanced completion times are boosting property investment opportunities in the UK market."
+      "ai_summary": "- UK bridging loans surged to \u00a3181.8m in Q3 as landlords capitalized on falling interest rates and faster completion times.  \n- Increased demand for property purchases highlights a robust investment climate among landlords."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/new-inventory-and-inspection-platform-launched/",
@@ -90,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Tue, 10 Nov 2026 00:01:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/d68e6416-62d4-4032-8228-a4209d9aeedf.png",
-      "ai_summary": "- **Revolutionizing Property Management**: PropX has launched an AI-powered platform designed to simplify property inventories, tenancy checks, and deposit dispute reporting.  \n- **Efficiency Boost for Landlords**: The new solution aims to enhance the efficiency of property management, offering a modern approach to streamline essential processes in the rental market."
+      "ai_summary": "- PropX launches a cutting-edge AI-powered platform designed to simplify property inventories, tenancy checks, and deposit dispute reporting.  \n- The innovative tool aims to enhance efficiency and accuracy in the property management process."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/lobby-mps-about-landlord-taxes-campaign-launched/",
@@ -100,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Mon, 09 Nov 2026 00:06:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_630862376.jpg",
-      "ai_summary": "- The National Residential Landlords Association (NRLA) is encouraging landlords to pressure their MPs over rising taxes, particularly a new 2% increase on property-related income tax introduced in the recent Budget.  \n- NRLA is considering a legal challenge to the tax hike, emphasizing the growing financial strain on landlords across the UK."
+      "ai_summary": "- The National Residential Landlords Association (NRLA) is calling on landlords to actively lobby their MPs regarding rising taxes, including a new 2% increase on property income tax from the recent Budget.\n- NRLA is considering legal action against this tax hike, emphasizing the urgent need for landlord concerns to be heard in Parliament."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/landlords-face-tougher-epc-linked-fines-and-penalties/",
@@ -110,7 +160,7 @@
       "source": "Landlord Today",
       "published": "Mon, 09 Nov 2026 00:05:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/e2d55eab-b267-4087-8f12-2a3b657ebb90.png",
-      "ai_summary": "- New legislation introduced in Parliament will impose stricter fines and penalties on landlords linked to Energy Performance Certificates (EPC).  \n- The tighter regulations aim to enhance energy efficiency in rental properties, holding landlords accountable for compliance."
+      "ai_summary": "- New legislation proposes stricter fines and penalties for landlords failing to meet Energy Performance Certificate (EPC) requirements.  \n- The bill aims to enhance energy efficiency standards across rental properties in the UK."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/landlords-must-collect-visitor-levy-from-short-let-tenants/",
@@ -120,7 +170,7 @@
       "source": "Landlord Today",
       "published": "Mon, 09 Nov 2026 00:04:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/8cbdc304-1b56-4758-8ab4-a343095a0b92.png",
-      "ai_summary": "- A new Bill proposing that landlords collect a Visitor Levy from short-let tenants has been introduced in Parliament.  \n- This legislation aims to regulate short-term rentals and ensure contributions to local services from visitors."
+      "ai_summary": "- New legislation mandates landlords to collect a Visitor Levy from tenants in short-term rentals.  \n- The Bill has been introduced in Parliament, marking a significant change in rental regulations."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/big-fine-for-breaching-electrical-safety-requirements/",
@@ -130,137 +180,87 @@
       "source": "Landlord Today",
       "published": "Mon, 09 Nov 2026 00:00:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1378699736.jpg",
-      "ai_summary": "- A private landlord in the UK was fined \u00a312,500 for violating electrical safety regulations established in 2020.  \n- Darlington council's investigation revealed the landlord's failure to meet the required Electrical Safety Standards for rented properties."
+      "ai_summary": "- A private landlord has been slapped with a \u00a312,500 fine for violating UK electrical safety regulations, as revealed by a Darlington council investigation.  \n- The landlord breached the Electrical Safety Standards in the Private Rented Sector (England) Regulations 2020, which mandate compliance for all existing tenancies since April 2021."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/new-budget-property-management-service-for-landlords/",
-      "title": "New budget property management service for landlords",
-      "summary": "Costs start from \u00a329 per month per property",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/new-budget-property-management-service-for-landlords/",
-      "source": "Landlord Today",
-      "published": "Fri, 06 Nov 2026 00:20:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/40b58e8b-265c-4f54-b9aa-ac111225ad8c.png",
-      "ai_summary": "- A new budget property management service launches for landlords, offering plans starting at just \u00a329 per month per property.  \n- The service aims to make property management more affordable and accessible for landlords across the UK."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/council-boasts-of-landlord-fines-and-money-recovered/",
-      "title": "Council boasts of landlord fines and money recovered",
-      "summary": "\"Our approach is based on support\" claims the council",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/council-boasts-of-landlord-fines-and-money-recovered/",
-      "source": "Landlord Today",
-      "published": "Fri, 06 Nov 2026 00:18:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_622874000-1.jpg",
-      "ai_summary": "- The council reports success in enforcing penalties on landlords, highlighting fines and financial recoveries.\n- They emphasize a supportive approach in managing landlord compliance and property standards."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/council-urges-wronged-tenants-to-seek-rent-repayment-orders/",
-      "title": "Council urges \u2018wronged\u2019 tenants to seek Rent Repayment Orders",
-      "summary": "A Rent Repayment Order can mean a landlord having to return thousands of pounds",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/council-urges-wronged-tenants-to-seek-rent-repayment-orders/",
-      "source": "Landlord Today",
-      "published": "Fri, 06 Nov 2026 00:05:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/78969bf8-bf70-48be-a4d6-93e1462991b2.png",
-      "ai_summary": "- Councils are encouraging tenants who feel wronged to apply for Rent Repayment Orders, which could result in significant reimbursements from landlords.  \n- These orders can compel landlords to return substantial sums, potentially amounting to thousands of pounds."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/landlord-alert-higher-gas-risk-in-some-properties/",
-      "title": "Landlord Alert \u2013 higher gas risk in some properties",
-      "summary": "Five areas in particular have been studied",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/landlord-alert-higher-gas-risk-in-some-properties/",
-      "source": "Landlord Today",
-      "published": "Fri, 06 Nov 2026 00:03:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/e3a426cd-a4a9-4fb1-9dc3-4ebe8a822408.png",
-      "ai_summary": "- **Increased Gas Risk**: Recent studies highlight elevated gas risks in five specific areas, raising alarms for landlords regarding property safety.\n  \n- **Targeted Focus**: The findings emphasize the need for landlords to assess and address potential hazards in these locations to ensure compliance and tenant safety."
-    },
-    {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/multiple-low-cost-investment-locations-identified-by-zoopla/",
-      "title": "Multiple low-cost investment locations identified by Zoopla",
-      "summary": "The portal has analysed over 900 UK locations",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/multiple-low-cost-investment-locations-identified-by-zoopla/",
-      "source": "Landlord Today",
-      "published": "Fri, 06 Nov 2026 00:02:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_251887483.jpg",
-      "ai_summary": "- Zoopla's analysis highlights over 900 UK locations as prime opportunities for low-cost property investments.  \n- The findings suggest a growing trend in affordable housing options, attracting investors seeking value in the UK market."
-    },
-    {
-      "id": "https://thenegotiator.co.uk/news/agencies-people-news/sowerbys-acquires-birds-estate-agents-lettings-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=sowerbys-acquires-birds-estate-agents-lettings-portfolio",
-      "title": "Sowerbys acquires Birds Estate Agents\u2019 lettings portfolio",
-      "summary": "Ed Tyman, Lettings and Operations Director at Sowerbys, says the acquisition will maintain continuity for Birds\u2019 landlords and tenants.\nThe post Sowerbys acquires Birds Estate Agents\u2019 lettings portfolio appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/agencies-people-news/sowerbys-acquires-birds-estate-agents-lettings-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=sowerbys-acquires-birds-estate-agents-lettings-portfolio",
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/leasehold-charges-latest-reforms-revealed-by-prime-minister/?utm_source=rss&utm_medium=rss&utm_campaign=leasehold-charges-latest-reforms-revealed-by-prime-minister",
+      "title": "LEASEHOLD CHARGES: Latest reforms revealed by Prime Minister",
+      "summary": "Andy Burnham and housing minister Matthew Pennycook say latest changes for England will give leaseholders more rights when challenging or seeking more information about service charges.\nThe post LEASEHOLD CHARGES: Latest reforms revealed by Prime Minister appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/leasehold-charges-latest-reforms-revealed-by-prime-minister/?utm_source=rss&utm_medium=rss&utm_campaign=leasehold-charges-latest-reforms-revealed-by-prime-minister",
       "source": "The Negotiator",
-      "published": "Wed, 11 Nov 2026 05:55:58 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/Sowerbys-Hunstanton-office-from-left-to-right-Michael-Birkhead-Branch-Manager-Ellie-Archer-Alison-Whitaker-Carole-Laughton-and-Ed-Tyman-Lettings-and-Operations-Director-alongside-some-of-.jpg",
-      "ai_summary": "- Sowerbys has successfully acquired the lettings portfolio of Birds Estate Agents, ensuring seamless service for their landlords and tenants.  \n- Ed Tyman highlights that the acquisition will provide continuity and stability for existing clients during the transition."
+      "published": "Thu, 12 Nov 2026 07:04:18 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/leasehold-reform.jpg",
+      "ai_summary": "- New reforms announced by Prime Minister aimed at empowering leaseholders in England to more effectively challenge and seek transparency on service charges.  \n- Key figures like Andy Burnham and housing minister Matthew Pennycook support the changes, promising enhanced rights for leaseholders."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/products-services-news/estate-agents-admit-valuation-reports-too-time-consuming/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-admit-valuation-reports-too-time-consuming",
-      "title": "Valuation reports are too time consuming, say agents",
-      "summary": "Heather Staff of agency software Street Group says agents struggle to produce reports easily, with staff time used up.\nThe post Valuation reports are too time consuming, say agents appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/products-services-news/estate-agents-admit-valuation-reports-too-time-consuming/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-admit-valuation-reports-too-time-consuming",
+      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/home-sales-outlook-hits-three-year-low-as-rates-rise-rics/?utm_source=rss&utm_medium=rss&utm_campaign=home-sales-outlook-hits-three-year-low-as-rates-rise-rics",
+      "title": "Sales outlook hits three-year low as rates rise, says RICS",
+      "summary": "High mortgage rates look set to weigh on homebuyer demand during the long-term, warns RICS\u2019 Tarrant Parsons.\nThe post Sales outlook hits three-year low as rates rise, says RICS appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/home-sales-outlook-hits-three-year-low-as-rates-rise-rics/?utm_source=rss&utm_medium=rss&utm_campaign=home-sales-outlook-hits-three-year-low-as-rates-rise-rics",
       "source": "The Negotiator",
-      "published": "Wed, 11 Nov 2026 05:55:56 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/heatherstaff.jpeg",
-      "ai_summary": "- Agents are finding valuation reports time-consuming to produce, affecting operational efficiency.\n- Heather Staff from Street Group highlights the struggle for agencies to streamline report generation, leading to wasted staff time."
+      "published": "Thu, 12 Nov 2026 05:55:57 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/03/Tarrant-Parsons-RICS.jpg",
+      "ai_summary": "- RICS warns that rising mortgage rates are dampening homebuyer demand, leading to the lowest sales outlook in three years.  \n- Long-term effects of high rates are expected to continue impacting the property market, according to Tarrant Parsons."
     },
     {
-      "id": "https://thenegotiator.co.uk/guest-blog/blog-predictions-for-the-london-property-market/?utm_source=rss&utm_medium=rss&utm_campaign=blog-predictions-for-the-london-property-market",
-      "title": "BLOG: Predictions for the London property market in 2027",
-      "summary": "The London property market faces a year of uncertainty, says Trevor Abrahmsohn, as he assesses prospects across sales, lettings and prime values.\nThe post BLOG: Predictions for the London property market in 2027 appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/guest-blog/blog-predictions-for-the-london-property-market/?utm_source=rss&utm_medium=rss&utm_campaign=blog-predictions-for-the-london-property-market",
+      "id": "https://thenegotiator.co.uk/news/rental-market/professional-landlords-plan-to-expand-despite-renters-rights-act-fears/?utm_source=rss&utm_medium=rss&utm_campaign=professional-landlords-plan-to-expand-despite-renters-rights-act-fears",
+      "title": "Professional landlords plan to expand despite Renters\u2019 Rights Act fears",
+      "summary": "Six months since the introduction of new rental reforms, LRG\u2019s corporate landlord base remains confident about the future.\nThe post Professional landlords plan to expand despite Renters\u2019 Rights Act fears appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/professional-landlords-plan-to-expand-despite-renters-rights-act-fears/?utm_source=rss&utm_medium=rss&utm_campaign=professional-landlords-plan-to-expand-despite-renters-rights-act-fears",
       "source": "The Negotiator",
-      "published": "Wed, 11 Nov 2026 05:55:54 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/Trevor-Abrahmsohn-London-Property-Market.jpg",
-      "ai_summary": "- The London property market is anticipated to encounter significant uncertainty in 2027, according to expert Trevor Abrahmsohn.  \n- Key areas of concern include fluctuating sales, lettings, and prime property values."
+      "published": "Thu, 12 Nov 2026 05:55:57 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/Adam-Hills.jpeg",
+      "ai_summary": "- Despite concerns over the Renters' Rights Act, professional landlords are poised for expansion, reflecting confidence in their investment strategies.  \n- Six months post-reform, the corporate landlord base at LRG remains optimistic about the future of the rental market."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/rental-market/landlords-face-fresh-decisions-over-rental-returns-as-budget-widens-tax-gap/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-face-fresh-decisions-over-rental-returns-as-budget-widens-tax-gap",
-      "title": "Landlords face fresh decisions over rental returns as Budget widens tax gap",
-      "summary": "IMLA analysis examines how higher rental income taxes could influence landlords\u2019 investment decisions since the Budget.\nThe post Landlords face fresh decisions over rental returns as Budget widens tax gap appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/rental-market/landlords-face-fresh-decisions-over-rental-returns-as-budget-widens-tax-gap/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-face-fresh-decisions-over-rental-returns-as-budget-widens-tax-gap",
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/chestertons-becomes-first-estate-agency-to-join-relocation-association/?utm_source=rss&utm_medium=rss&utm_campaign=chestertons-becomes-first-estate-agency-to-join-relocation-association",
+      "title": "Chestertons becomes first estate agency to join relocation association",
+      "summary": "The Corporate Services team at Chestertons aims to build stronger links with relocation specialists and support international employees moving to London.\nThe post Chestertons becomes first estate agency to join relocation association appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/chestertons-becomes-first-estate-agency-to-join-relocation-association/?utm_source=rss&utm_medium=rss&utm_campaign=chestertons-becomes-first-estate-agency-to-join-relocation-association",
       "source": "The Negotiator",
-      "published": "Wed, 11 Nov 2026 05:55:54 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/kate-davies.jpeg",
-      "ai_summary": "- Landlords are reevaluating their investment strategies following the Budget's introduction of higher rental income taxes, which could significantly impact their returns.  \n- An IMLA analysis highlights the widening tax gap, prompting landlords to consider new financial tactics to mitigate increased tax burdens."
+      "published": "Thu, 12 Nov 2026 05:55:45 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/Corporate-Services-Team-Chestertons.jpg",
+      "ai_summary": "- Chestertons makes history as the first estate agency to join the relocation association, enhancing partnerships with relocation specialists.  \n- The initiative aims to better assist international employees relocating to London through improved services and support."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/regulation-law-news/agents-must-take-data-subject-access-requests-seriously-warning/?utm_source=rss&utm_medium=rss&utm_campaign=agents-must-take-data-subject-access-requests-seriously-warning",
-      "title": "Agents warned about Data Subject Access Requests",
-      "summary": "Paul Offley, Group Compliance Officer of The Guild of Property Professionals, says he has seen an increase in data requests from clients.\nThe post Agents warned about Data Subject Access Requests appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/regulation-law-news/agents-must-take-data-subject-access-requests-seriously-warning/?utm_source=rss&utm_medium=rss&utm_campaign=agents-must-take-data-subject-access-requests-seriously-warning",
+      "id": "https://thenegotiator.co.uk/news/regulation-law-news/scrap-mansion-tax-before-it-starts-says-wealth-boss/?utm_source=rss&utm_medium=rss&utm_campaign=scrap-mansion-tax-before-it-starts-says-wealth-boss",
+      "title": "Scrap Mansion Tax before it starts, says wealth boss",
+      "summary": "Calls are being made for the Government's new Mansion Tax to be scrapped before it even starts.\nThe post Scrap Mansion Tax before it starts, says wealth boss appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/regulation-law-news/scrap-mansion-tax-before-it-starts-says-wealth-boss/?utm_source=rss&utm_medium=rss&utm_campaign=scrap-mansion-tax-before-it-starts-says-wealth-boss",
       "source": "The Negotiator",
-      "published": "Wed, 11 Nov 2026 05:55:48 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/paul-offley-1.jpeg",
-      "ai_summary": "- Paul Offley of The Guild of Property Professionals highlights a rise in client data requests, urging agents to stay vigilant.  \n- Increased Data Subject Access Requests (DSARs) are prompting compliance reminders for property professionals, emphasizing the need for robust data handling practices."
+      "published": "Thu, 12 Nov 2026 05:55:29 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/Mansion-Tax.jpg",
+      "ai_summary": "- Wealth management leaders are urging the UK Government to abandon the proposed Mansion Tax before its implementation.\n- The call comes amid concerns that the tax could negatively impact property owners and the housing market."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/rental-market/tenants-face-tougher-rent-affordability-in-many-areas/?utm_source=rss&utm_medium=rss&utm_campaign=tenants-face-tougher-rent-affordability-in-many-areas",
-      "title": "Tenants face tougher rent affordability in many areas",
-      "summary": "London is still the region requiring the highest salary to cover rent, according to Propertymark's Kim Lidbury.\nThe post Tenants face tougher rent affordability in many areas appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/rental-market/tenants-face-tougher-rent-affordability-in-many-areas/?utm_source=rss&utm_medium=rss&utm_campaign=tenants-face-tougher-rent-affordability-in-many-areas",
+      "id": "https://thenegotiator.co.uk/news/rental-market/southern-landlords-face-up-to-22000-tax-hit-since-autumn-budget/?utm_source=rss&utm_medium=rss&utm_campaign=southern-landlords-face-up-to-22000-tax-hit-since-autumn-budget",
+      "title": "Southern landlords face up to \u00a322k tax hit",
+      "summary": "Wealth manager Rathbones is warning landlords against relaying on property rental income for their retirement.\nThe post Southern landlords face up to \u00a322k tax hit appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/southern-landlords-face-up-to-22000-tax-hit-since-autumn-budget/?utm_source=rss&utm_medium=rss&utm_campaign=southern-landlords-face-up-to-22000-tax-hit-since-autumn-budget",
       "source": "The Negotiator",
-      "published": "Wed, 11 Nov 2026 05:55:48 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/Kim-Lidbury-ARLA.jpg",
-      "ai_summary": "- Rent affordability challenges are escalating across the UK, with London demanding the highest salaries for tenants to manage costs, according to Propertymark's Kim Lidbury.\n- Many regions are experiencing increased strain on tenants as rental prices continue to rise, amplifying the struggle for affordable housing."
+      "published": "Thu, 12 Nov 2026 05:55:25 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/fay-church.jpeg",
+      "ai_summary": "- Landlords in southern England may face a substantial tax burden of up to \u00a322,000, impacting their retirement plans.  \n- Wealth manager Rathbones advises caution, urging landlords not to rely solely on rental income for financial security in retirement."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/rental-market/landlords-plan-rent-hikes-at-soonest-opportunity/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-plan-rent-hikes-at-soonest-opportunity",
-      "title": "Landlords plan rent hikes at earliest opportunity",
-      "summary": "A poll of landlords since the Autumn Budget shows landlords plan to increase rents by up to 10% when allowed.\nThe post Landlords plan rent hikes at earliest opportunity appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/rental-market/landlords-plan-rent-hikes-at-soonest-opportunity/?utm_source=rss&utm_medium=rss&utm_campaign=landlords-plan-rent-hikes-at-soonest-opportunity",
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/estate-agents-see-earnings-fall-behind-inflation-rate/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-see-earnings-fall-behind-inflation-rate",
+      "title": "Estate agents see earnings fall behind inflation rate",
+      "summary": "Agents' income has suffered in the last 10 years as average earnings rise less then inflation, says Adam Day of EXP.\nThe post Estate agents see earnings fall behind inflation rate appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/estate-agents-see-earnings-fall-behind-inflation-rate/?utm_source=rss&utm_medium=rss&utm_campaign=estate-agents-see-earnings-fall-behind-inflation-rate",
       "source": "The Negotiator",
-      "published": "Wed, 11 Nov 2026 05:55:42 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/Mark-Long.jpeg",
-      "ai_summary": "- Landlords are gearing up to raise rents by up to 10% as soon as regulations permit, following insights from the latest poll.  \n- The move comes in response to financial pressures highlighted in the recent Autumn Budget."
+      "published": "Thu, 12 Nov 2026 05:55:18 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/10/adam-day.jpg",
+      "ai_summary": "- Estate agents' earnings have lagged behind inflation over the past decade, as reported by Adam Day of EXP.  \n- The disparity in income growth poses significant challenges for the sector, highlighting the financial pressures faced by professionals in the industry."
     },
     {
-      "id": "https://thenegotiator.co.uk/news/uk-housing-market-news/britains-happiest-places-to-live-are-revealed/?utm_source=rss&utm_medium=rss&utm_campaign=britains-happiest-places-to-live-are-revealed",
-      "title": "Britain\u2019s happiest places to live are revealed",
-      "summary": "Colleen Babcock, Rightmove\u2019s property expert, reveals Richmond upon Thames is the happiest place to live in Britain.\nThe post Britain\u2019s happiest places to live are revealed appeared first on The Negotiator.",
-      "url": "https://thenegotiator.co.uk/news/uk-housing-market-news/britains-happiest-places-to-live-are-revealed/?utm_source=rss&utm_medium=rss&utm_campaign=britains-happiest-places-to-live-are-revealed",
+      "id": "https://thenegotiator.co.uk/news/products-services-news/first-time-buyers-face-big-jump-in-mortgage-costs/?utm_source=rss&utm_medium=rss&utm_campaign=first-time-buyers-face-big-jump-in-mortgage-costs",
+      "title": "First-time buyers face big jump in mortgage costs",
+      "summary": "Home loan rates for first-time buyers are much higher than 10 years ago, Verona Frankish at Yopa explains.\nThe post First-time buyers face big jump in mortgage costs appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/products-services-news/first-time-buyers-face-big-jump-in-mortgage-costs/?utm_source=rss&utm_medium=rss&utm_campaign=first-time-buyers-face-big-jump-in-mortgage-costs",
       "source": "The Negotiator",
-      "published": "Wed, 11 Nov 2026 05:55:42 +0000",
-      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/Colleen-Richmond.jpg",
-      "ai_summary": "- Richmond upon Thames tops the list as the happiest place to live in Britain, according to Rightmove's property expert, Colleen Babcock.  \n- The announcement highlights the growing significance of happiness metrics in assessing local living conditions across the UK."
+      "published": "Thu, 12 Nov 2026 05:55:18 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/01/YOPA-chief-Verona-Frankish.jpg",
+      "ai_summary": "- First-time buyers are encountering significantly higher mortgage rates compared to a decade ago, as highlighted by expert Verona Frankish from Yopa.\n- The steep rise in home loan costs is posing significant challenges for those entering the property market for the first time."
     }
   ]
 }
