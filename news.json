@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-11-18T04:46:45.362088",
-  "article_count": 17,
+  "last_updated": "2026-11-18T14:38:08.460294",
+  "article_count": 24,
   "articles": [
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/landlords-fail-to-win-rent-rises-because-of-thin-evidence-claim/",
+      "title": "Landlords fail to win rent rises \u2018because of thin evidence\u2019 \u2013 claim",
+      "summary": "Around one in 10 landlords lose out because of allegedly poor preparation",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/landlords-fail-to-win-rent-rises-because-of-thin-evidence-claim/",
+      "source": "Landlord Today",
+      "published": "Wed, 18 Nov 2026 00:06:00 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/c1310599-1004-4048-8e43-d70469fb44da.png",
+      "ai_summary": "- Only 10% of landlords manage to secure rent increases due to inadequate evidence in their claims.\n- Weak preparation leaves many landlords missing out on potential rental income."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/nrla-blasts-politicians-for-high-taxes-on-rental-sector/",
+      "title": "Higher tax means higher rents \u2013 NRLA blasts politicians",
+      "summary": "Higher taxes on landlords mean higher rents for tenants",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/nrla-blasts-politicians-for-high-taxes-on-rental-sector/",
+      "source": "Landlord Today",
+      "published": "Wed, 18 Nov 2026 00:05:00 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/9dfbc780-a1b8-4d7e-9161-a668daef386e.png",
+      "ai_summary": "- NRLA criticizes politicians for imposing higher taxes on landlords, arguing it raises rent prices for tenants.  \n- Increased financial burdens on landlords are expected to negatively impact affordability for renters across the UK."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/more-tenanted-properties-for-sale-following-budget-tax-blow/",
+      "title": "More tenanted properties for sale following Budget tax blow",
+      "summary": "Yet another tax rise for landlords was announced in last month's Budget",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/more-tenanted-properties-for-sale-following-budget-tax-blow/",
+      "source": "Landlord Today",
+      "published": "Wed, 18 Nov 2026 00:01:00 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/1301b1a4-baa1-4be6-a0f1-ff6cd6455c12.png",
+      "ai_summary": "- The recent Budget has introduced another tax increase for landlords, prompting a surge in tenanted properties put up for sale.  \n- Landlords are responding to the financial strain by offloading more rental properties, affecting the market landscape."
+    },
+    {
+      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/civil-penalties-slapped-on-hmo-owner-and-manager/",
+      "title": "Civil penalties slapped on HMO owner and manager",
+      "summary": "A council has issued civil penalties on the owner and manager of an HMO property. The offences were for running an unlicensed HMO (Housing Act 2004) and for safety failures under The Management of Houses in Multiple Occupation (England) Regulations 2006.\u00a0 A fine of \u00a31,250 was issued for each occupant, totalling \u00a32,500. The property has [\u2026]",
+      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/civil-penalties-slapped-on-hmo-owner-and-manager/",
+      "source": "Landlord Today",
+      "published": "Wed, 18 Nov 2026 00:00:00 +0000",
+      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/shutterstock_1313185946-1.jpg",
+      "ai_summary": "- A council imposed \u00a32,500 in civil penalties on an HMO owner and manager for operating an unlicensed property and failing to meet safety regulations.  \n- Each violation for the unlicensed HMO and safety issues resulted in fines of \u00a31,250 per occupant."
+    },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/renters-should-arrange-repairs-and-landlords-should-pay-up-demand/",
       "title": "Tenants should deduct repair costs from rent \u2013 activist demand",
@@ -10,7 +50,7 @@
       "source": "Landlord Today",
       "published": "Tue, 17 Nov 2026 00:05:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/be554f6f-b2b9-4306-9332-475d7a8f57cf.png",
-      "ai_summary": "- Generation Rent activists are urging tenants to deduct repair costs from their rent, highlighting issues with landlord responsibilities.\n- This demand is part of a broader campaign to improve tenant rights and living conditions in the UK."
+      "ai_summary": "- Generation Rent activists urge tenants to deduct repair costs from their rent in response to inadequate property maintenance.  \n- The call for reform reflects ongoing frustrations over tenant rights and housing conditions in the UK rental market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/green-buy-to-let-mortgage-products-launched-for-landlords/",
@@ -20,7 +60,7 @@
       "source": "Landlord Today",
       "published": "Tue, 17 Nov 2026 00:04:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/ba973d95-2fe5-400c-9469-27b8252df05a.png",
-      "ai_summary": "- New Green Buy To Let mortgage products are being introduced to enhance energy efficiency in the UK private rental sector.  \n- This initiative aims to incentivize landlords to invest in sustainable housing solutions."
+      "ai_summary": "- New green Buy To Let mortgage products introduced, aimed at enhancing energy efficiency within the private rental sector.  \n- This initiative represents a significant effort to encourage landlords to invest in eco-friendly properties."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/corporate-landlords-now-drive-buy-to-let-says-lender/",
@@ -30,7 +70,7 @@
       "source": "Landlord Today",
       "published": "Tue, 17 Nov 2026 00:03:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/f9d2aae9-9d8b-41e3-8af2-dbbc2fe9c4ed.png",
-      "ai_summary": "- Corporate landlords are increasingly dominating the Buy To Let market as individual landlords exit.  \n- The shift reflects a significant change in the property rental landscape, driven by the growing influence of large companies."
+      "ai_summary": "- Corporate landlords are rapidly taking over the Buy To Let market as individual landlords exit.  \n- This shift is transforming the landscape of property investment in the UK, according to a leading lender."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/rents-growing-more-than-income-new-figures/",
@@ -40,7 +80,7 @@
       "source": "Landlord Today",
       "published": "Tue, 17 Nov 2026 00:02:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/630f8ba8-2d8f-4821-a4a4-b2e95965d5ad.png",
-      "ai_summary": "- Rents are increasing at a faster rate than wages, highlighting a growing affordability crisis for renters across the UK.  \n- A recent analysis by a finance firm underscores the pressure this trend places on household budgets."
+      "ai_summary": "- Rents in the UK are increasing at a faster pace than incomes, highlighting a growing affordability crisis.\n- The analysis, conducted by a finance firm, underscores the financial strain on renters amid rising housing costs."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/increase-in-remortgaging-as-landlords-rethink-future-funding/",
@@ -50,7 +90,7 @@
       "source": "Landlord Today",
       "published": "Tue, 17 Nov 2026 00:01:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/2446be70-78cb-4a94-92fb-bd007aa0fe16.png",
-      "ai_summary": "- Landlords are ramping up remortgaging efforts as they reassess their financial strategies amid changing market conditions.\n- ModaMortgages reports a notable trend in landlords seeking new funding options to adapt to evolving economic challenges."
+      "ai_summary": "- Landlords are increasingly remortgaging as they reassess their future funding strategies.  \n- ModaMortgages reports a notable rise in remortgaging activity among property investors."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/buy-to-let-repossessions-rise-10/",
@@ -60,7 +100,7 @@
       "source": "Landlord Today",
       "published": "Mon, 16 Nov 2026 00:05:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/b1c44823-696d-437b-b6c3-82e212ec0c59.png",
-      "ai_summary": "- Buy-to-let repossessions in the UK have surged by 10%, highlighting increasing pressure on landlords.  \n- The data, reported by the trade body UK Finance, reflects a challenging rental market."
+      "ai_summary": "- Buy-to-let property repossessions in the UK have surged by 10%, according to UK Finance.  \n- The rise signals growing challenges for landlords in the current rental market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/flat-prices-slump-as-landlords-quit-rental-sector/",
@@ -70,7 +110,7 @@
       "source": "Landlord Today",
       "published": "Mon, 16 Nov 2026 00:03:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/c175e1ed-6a0b-48cd-8b39-85b2a351011f.png",
-      "ai_summary": "- **Flat Prices Decline**: The latest analysis from Rightmove reveals a significant drop in flat prices as landlords exit the rental market.  \n- **Rental Sector Exodus**: The departure of landlords is contributing to a shift in the UK property landscape, impacting both availability and pricing."
+      "ai_summary": "- **Rental Market Shakeup:** Rightmove reports a significant drop in flat prices as landlords exit the rental sector, reshaping the housing landscape.\n- **Impact on Tenants:** The decline in rental inventory may lead to increased competition and potential price shifts for tenants in the UK market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/landlord-dumped-tenant-belongings-in-lay-by/",
@@ -80,7 +120,7 @@
       "source": "Landlord Today",
       "published": "Mon, 16 Nov 2026 00:01:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/55ba2172-e694-460b-a214-a133444490a2.png",
-      "ai_summary": "- A landlord controversially abandoned a tenant's belongings in a lay-by, resembling a house clearance.\n- The incident highlights ongoing tensions between landlords and tenants in the UK property market."
+      "ai_summary": "- A landlord's drastic action led to a tenant's belongings being unceremoniously discarded in a lay-by, resembling a house clearance.\n- The incident raises concerns about tenant rights and the responsibilities of landlords in property management."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/courts-struggling-to-cope-as-possession-claims-rise/",
@@ -90,7 +130,7 @@
       "source": "Landlord Today",
       "published": "Fri, 13 Nov 2026 00:05:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/a6cda1aa-8062-4199-9216-f3ebb0affdf6.png",
-      "ai_summary": "- Private landlord possession claims jump 21% to 28,249, highlighting a growing housing crisis.\n- Courts face mounting pressure as underfunding hampers their ability to manage the increasing caseload."
+      "ai_summary": "- Possession claims by private landlords have surged 21%, reaching 28,249 as courts face increasing pressure.  \n- Courts are underfunded and struggling to manage the growing demand for eviction proceedings."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/landlords-and-tenants-divide-over-security/",
@@ -100,7 +140,7 @@
       "source": "Landlord Today",
       "published": "Fri, 13 Nov 2026 00:04:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/42334027-dd3d-4b36-ab07-a8ec56c45629.png",
-      "ai_summary": "- Only 39% of renters feel safer after the abolition of Section 21, highlighting a significant divide between landlords and tenants regarding security perceptions.\n- Effective communication and fair treatment are crucial for boosting tenant confidence in the rental market."
+      "ai_summary": "- Only 39% of renters feel more secure after the abolition of Section 21, highlighting ongoing concerns about tenant safety.\n- Effective communication and fair treatment between landlords and tenants are crucial factors in building confidence within the rental market."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/rising-rental-yields-convince-landlords-to-stay/",
@@ -110,7 +150,7 @@
       "source": "Landlord Today",
       "published": "Fri, 13 Nov 2026 00:03:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/3e13a8e3-c0cf-44bd-a550-700b93af1296.png",
-      "ai_summary": "- Investor confidence surges as limited housing supply and strong tenant demand drive up rental yields, according to Virelle Group.  \n- Landlords are motivated to remain in the market, capitalizing on favorable conditions for higher returns."
+      "ai_summary": "- **Investor Confidence Soars**: Virelle Group reveals rising rental yields are boosting landlord confidence amid limited housing supply and strong tenant demand.  \n- **Higher Returns Drive Retention**: As rental yields improve, landlords are opting to stay in the market rather than sell, capitalizing on favorable conditions."
     },
     {
       "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/landlords-risk-blocking-good-tenants/",
@@ -120,57 +160,87 @@
       "source": "Landlord Today",
       "published": "Fri, 13 Nov 2026 00:02:00 +0000",
       "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/30bc4abd-94f5-4903-88fd-be641c90c986.png",
-      "ai_summary": "- Flatfair cautions that stricter tenant referencing and guarantor criteria may hinder good tenants from finding suitable accommodations due to the new Renters' Rights Act.  \n- Increased vetting processes could inadvertently create barriers for reliable renters, impacting the housing market negatively."
+      "ai_summary": "- Flatfair highlights that stringent tenant referencing and guarantor requirements may hinder good tenants from finding homes under the new Renters' Rights Act.  \n- Landlords could unintentionally miss out on suitable renters due to these tougher regulations."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/rental-growth-expectations-highest-since-2024/",
-      "title": "Rental growth expectations highest since 2024",
-      "summary": "RICS reports mounting rent pressures as tenant demand recovers and landlord instructions decline, while higher mortgage rates weaken housing sales.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/rental-growth-expectations-highest-since-2024/",
-      "source": "Landlord Today",
-      "published": "Thu, 12 Nov 2026 00:05:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/1e601f95-4a2d-4968-ad70-cce8b4898ba7.png",
-      "ai_summary": "- RICS indicates record-high rental growth expectations fueled by soaring tenant demand and decreasing landlord instructions.  \n- Higher mortgage rates are dampening housing sales, exacerbating rent pressures in the UK market."
+      "id": "https://thenegotiator.co.uk/news/products-services-news/price-caps-set-to-exclude-homes-from-first-time-buyer-scheme/?utm_source=rss&utm_medium=rss&utm_campaign=price-caps-set-to-exclude-homes-from-first-time-buyer-scheme",
+      "title": "Price caps set to exclude homes from first-time buyer scheme",
+      "summary": "Rules on prices under Your First Home mean many properties will not be eligible, says Andy Morrison, of UKPD.\nThe post Price caps set to exclude homes from first-time buyer scheme appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/products-services-news/price-caps-set-to-exclude-homes-from-first-time-buyer-scheme/?utm_source=rss&utm_medium=rss&utm_campaign=price-caps-set-to-exclude-homes-from-first-time-buyer-scheme",
+      "source": "The Negotiator",
+      "published": "Wed, 18 Nov 2026 05:55:59 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/09/Andy-Morrison-UKPD.png",
+      "ai_summary": "- New price caps under the \"Your First Home\" scheme will likely disqualify numerous properties, limiting options for first-time buyers.  \n- Industry expert Andy Morrison warns that these rules could significantly hinder accessibility to affordable housing for new entrants in the market."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/eight-in-ten-landlords-report-lettings-as-profitable/",
-      "title": "Eight in ten landlords report lettings as profitable",
-      "summary": "ModaMortgages research reveals resilient buy-to-let returns, with rental yields holding firm despite rising mortgage, maintenance and regulatory costs.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/eight-in-ten-landlords-report-lettings-as-profitable/",
-      "source": "Landlord Today",
-      "published": "Thu, 12 Nov 2026 00:04:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/aa6b0375-da05-48ad-8550-b1c70124006e.png",
-      "ai_summary": "- A new ModaMortgages study shows 80% of landlords still find lettings profitable, highlighting the strength of buy-to-let returns.  \n- Despite increased costs for mortgages, maintenance, and regulations, rental yields remain stable across the market."
+      "id": "https://thenegotiator.co.uk/news/agencies-people-news/major-estate-agency-pledges-1000-work-experience-placements-for-young-people/?utm_source=rss&utm_medium=rss&utm_campaign=major-estate-agency-pledges-1000-work-experience-placements-for-young-people",
+      "title": "Major estate agency pledges 1,000 work experience placements for young people",
+      "summary": "Connells Group is aiming to do its bit to tackle youth unemployment by creating opportunities across its businesses for younger generations.\nThe post Major estate agency pledges 1,000 work experience placements for young people appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/agencies-people-news/major-estate-agency-pledges-1000-work-experience-placements-for-young-people/?utm_source=rss&utm_medium=rss&utm_campaign=major-estate-agency-pledges-1000-work-experience-placements-for-young-people",
+      "source": "The Negotiator",
+      "published": "Wed, 18 Nov 2026 05:55:57 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/Helen-Charlesworth.jpeg",
+      "ai_summary": "- Connells Group commits to providing 1,000 work experience placements to help combat youth unemployment.  \n- The initiative aims to create valuable opportunities for younger generations across its estate agency businesses."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/corporate-landlords-faring-well-after-rra/",
-      "title": "Corporate landlords faring well after RRA",
-      "summary": "LRG data reveals lower arrears, stronger rent increases and ambitious expansion plans among professional property investors six months into the new legislation.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/corporate-landlords-faring-well-after-rra/",
-      "source": "Landlord Today",
-      "published": "Thu, 12 Nov 2026 00:03:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/e0ad8e33-f176-4e7d-8ba0-d79a4487e2a0.png",
-      "ai_summary": "- Corporate landlords are thriving post-Renters Reform Act, showing reduced arrears and significant rent growth.  \n- Professional property investors are ramping up expansion plans, signaling a strong confidence in the market.  "
+      "id": "https://thenegotiator.co.uk/news/rental-market/rent-arrears-is-top-reason-why-landlords-seek-possession/?utm_source=rss&utm_medium=rss&utm_campaign=rent-arrears-is-top-reason-why-landlords-seek-possession",
+      "title": "Rent arrears is top reason why landlords seek possession",
+      "summary": "The NRLA's Ben Beadle warns that rent arrears will increase as higher tax on rental income begins to bite next year.\nThe post Rent arrears is top reason why landlords seek possession appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/rent-arrears-is-top-reason-why-landlords-seek-possession/?utm_source=rss&utm_medium=rss&utm_campaign=rent-arrears-is-top-reason-why-landlords-seek-possession",
+      "source": "The Negotiator",
+      "published": "Wed, 18 Nov 2026 05:55:42 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/Ben-Beadle.jpg",
+      "ai_summary": "- Rent arrears are the primary cause for landlords seeking possession of properties, according to NRLA's Ben Beadle.  \n- An impending increase in rental income tax is expected to exacerbate this issue, leading to more financial strain on landlords."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/hillingdon-where-variety-is-the-spice-of-life/",
-      "title": "Hillingdon \u2013 where variety is the spice of life",
-      "summary": "Benham and Reeves reveals where tenants can find the widest variety of homes, with flats accounting for 84.7% of London's available rental stock.",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/hillingdon-where-variety-is-the-spice-of-life/",
-      "source": "Landlord Today",
-      "published": "Thu, 12 Nov 2026 00:02:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/892a3f3c-beb9-4477-82b3-012324713087.png",
-      "ai_summary": "- Hillingdon offers a diverse range of rental options, highlighting the area's appeal to tenants seeking variety.\n- Flats dominate London\u2019s rental market, making up a whopping 84.7% of available stock, according to Benham and Reeves."
+      "id": "https://thenegotiator.co.uk/news/rental-market/bad-credit-linked-to-most-tenant-referencing-failures/?utm_source=rss&utm_medium=rss&utm_campaign=bad-credit-linked-to-most-tenant-referencing-failures",
+      "title": "Bad credit linked to most tenant referencing failures",
+      "summary": "Letting platfom Propoly warns credit history is playing a significant role in tenant referencing outcomes.\nThe post Bad credit linked to most tenant referencing failures appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/rental-market/bad-credit-linked-to-most-tenant-referencing-failures/?utm_source=rss&utm_medium=rss&utm_campaign=bad-credit-linked-to-most-tenant-referencing-failures",
+      "source": "The Negotiator",
+      "published": "Wed, 18 Nov 2026 05:55:39 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/07/Propoly-Sim-Sekhon.jpeg",
+      "ai_summary": "- Propoly reveals that poor credit history is a major factor in tenant referencing failures across the UK rental market.\n- The findings highlight the challenges faced by tenants with bad credit in securing rental properties."
     },
     {
-      "id": "https://www.landlordtoday.co.uk/breaking-news/2026/11/what-will-shape-holiday-lets-in-2027/",
-      "title": "What will shape holiday lets in 2027?",
-      "summary": "Finest Retreats identifies four key trends set to transform the UK holiday rental market in 2027, from regulation and AI to local expertise",
-      "url": "https://www.landlordtoday.co.uk/breaking-news/2026/11/what-will-shape-holiday-lets-in-2027/",
-      "source": "Landlord Today",
-      "published": "Thu, 12 Nov 2026 00:01:00 +0000",
-      "image": "https://www.landlordtoday.co.uk/wp-content/uploads/sites/3/7828d681-f85a-4813-bfee-97a215ab0085.png",
-      "ai_summary": "- **Regulatory Changes**: The UK holiday rental market will be significantly influenced by evolving regulations aimed at ensuring sustainability and community impact by 2027.  \n- **Tech Integration & Local Expertise**: Advancements in AI coupled with a focus on local knowledge are expected to enhance guest experiences and optimize property management in the booming holiday let sector."
+      "id": "https://thenegotiator.co.uk/news/marketing-news/onthemarket-and-large-agency-ordered-to-change-misleading-ads/?utm_source=rss&utm_medium=rss&utm_campaign=onthemarket-and-large-agency-ordered-to-change-misleading-ads",
+      "title": "OnTheMarket and large agency ordered to change misleading ads",
+      "summary": "The Advertising Standards Authority told the portal and Edward Mellor estate agents to correct shared ownership adverts.\nThe post OnTheMarket and large agency ordered to change misleading ads appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/marketing-news/onthemarket-and-large-agency-ordered-to-change-misleading-ads/?utm_source=rss&utm_medium=rss&utm_campaign=onthemarket-and-large-agency-ordered-to-change-misleading-ads",
+      "source": "The Negotiator",
+      "published": "Wed, 18 Nov 2026 05:55:32 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2025/02/Edward-Mellor.jpg",
+      "ai_summary": "- The Advertising Standards Authority has mandated OnTheMarket and Edward Mellor estate agents to amend their misleading shared ownership advertisements.  \n- This ruling aims to ensure greater transparency and accuracy in property marketing practices."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/products-services-news/boost-for-buyers-as-santander-raises-loan-to-income-ratio/?utm_source=rss&utm_medium=rss&utm_campaign=boost-for-buyers-as-santander-raises-loan-to-income-ratio",
+      "title": "Boost for first-time buyers as Santander raises loan-to-income ratio",
+      "summary": "First-time buyers can now apply to borrow up to six-times their income on a mortgage, subject to eligibility.\nThe post Boost for first-time buyers as Santander raises loan-to-income ratio appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/products-services-news/boost-for-buyers-as-santander-raises-loan-to-income-ratio/?utm_source=rss&utm_medium=rss&utm_campaign=boost-for-buyers-as-santander-raises-loan-to-income-ratio",
+      "source": "The Negotiator",
+      "published": "Wed, 18 Nov 2026 05:55:22 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/Santander-branch.jpeg",
+      "ai_summary": "- Santander increases loan-to-income ratio, allowing first-time buyers to borrow up to six times their income for mortgages.\n- This move provides significant support for first-time buyers looking to enter the UK property market."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/guest-blog/reforms-leaseholders-want-better-run-not-just-cheaper/?utm_source=rss&utm_medium=rss&utm_campaign=reforms-leaseholders-want-better-run-not-just-cheaper",
+      "title": "BLOG: Leaseholders want \u2018better-run\u2019, not just \u2018cheaper\u2019",
+      "summary": "Expert Aaron Curtis says Government's recent initiative to make life for leaseholders easier may be laudable, but judging managing agents by performance, not just cost, is just as important.\nThe post BLOG: Leaseholders want \u2018better-run\u2019, not just \u2018cheaper\u2019 appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/guest-blog/reforms-leaseholders-want-better-run-not-just-cheaper/?utm_source=rss&utm_medium=rss&utm_campaign=reforms-leaseholders-want-better-run-not-just-cheaper",
+      "source": "The Negotiator",
+      "published": "Wed, 18 Nov 2026 05:45:23 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/aaron-curtis-property-management.jpg",
+      "ai_summary": "- Leaseholders urge the government to prioritize effective management over just cost-efficiency in their initiative to improve leaseholder conditions.  \n- Expert Aaron Curtis emphasizes the importance of evaluating managing agents based on their performance to ensure better property management."
+    },
+    {
+      "id": "https://thenegotiator.co.uk/news/marketing-news/bestagent-boss-defends-use-of-estate-agency-property-listings/?utm_source=rss&utm_medium=rss&utm_campaign=bestagent-boss-defends-use-of-estate-agency-property-listings",
+      "title": "BestAgent boss defends use of estate agency property listings",
+      "summary": "Charlie Lamdin, founder of BestAgent, insists basic estate agency property details aren't anyone's copyright.\nThe post BestAgent boss defends use of estate agency property listings appeared first on The Negotiator.",
+      "url": "https://thenegotiator.co.uk/news/marketing-news/bestagent-boss-defends-use-of-estate-agency-property-listings/?utm_source=rss&utm_medium=rss&utm_campaign=bestagent-boss-defends-use-of-estate-agency-property-listings",
+      "source": "The Negotiator",
+      "published": "Tue, 17 Nov 2026 05:55:49 +0000",
+      "image": "https://thenegotiator.co.uk/wp-content/uploads/2026/11/charlie-lamdin.jpeg",
+      "ai_summary": "- BestAgent founder Charlie Lamdin argues that fundamental property listings by estate agencies do not qualify for copyright protection.  \n- Lamdin's defense aims to clarify the legality of using basic property details in the industry."
     }
   ]
 }
